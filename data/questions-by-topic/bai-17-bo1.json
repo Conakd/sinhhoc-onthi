@@ -1,0 +1,173 @@
+[
+  {
+    "type": "mc",
+    "content": "Cho biết mỗi gene quy định một tính trạng, allele trội là trội hoàn toàn, quá trinh giảm phân không xảy ra đột biến. Theo lí thuyết, phép lai nào sau đây tạo ra ở đời con có 18 loại kiểu gene và 4 loại kiểu hình?",
+    "options": [
+      "A. AaBbDd x aabbDD (8KG, 4KH)C. AaBbDd x aabbdd (8KG, 8KH)",
+      "B. AaBbdd × AabbDd (12KG, 8KH)D. AaBbDd x AaBbDD (18KG, 4KH)"
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-17",
+    "examSetId": "bai-17-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Cho biết mỗi gene quy định một tính trạng, allele trội là trội hoàn toàn, quá trình giảm phân không xảy ra đột biến. Theo lí thuyết, phép lai AaBb x aaBB cho đời con có",
+    "options": [
+      "A. 4 loại kiểu gene và 2 loại kiểu hình.",
+      "B. 4 loại kiểu gene và 4 loại kiểu hình.",
+      "C. 9 loại kiểu gene và 4 loại kiểu hình.",
+      "D. 2 loại kiểu gene và 2 loại kiểu hình."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-17",
+    "examSetId": "bai-17-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Mendel đã chứng minh sự di truyền độc lập của 2 cặp tính trạng ở đậu hà lan trong thí nghiệm của mình bằng cách dựa vào",
+    "options": [
+      "A. các loại kiểu hình mới biểu hiện ở thế hệ F2.",
+      "B. lai phân tích thế hệ lai F1 được tỷ lệ 1:1:1:1.",
+      "C. giả thuyết xuất hiện các loại giao tử của cơ thể lai F1,",
+      "D. lý thuyết xác suất của hai sự kiện độc lập."
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-17",
+    "examSetId": "bai-17-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "một loài động vật, xét 2 gene, mỗi gene gồm 2 allele (A, a và B, b) nằm trên các cặp nhiễm sắc thể thường khác nhau, biết allele A có tổng số nucleotide là 3000, allele B có tổng số nucleotide là 2000. Hình 4 là đồ thị biểu thị tổng số nucleotide của hai allele trội A và B có trong một tế bào sinh dưỡng lưỡng bội của mỗi cả thể 1, 2, 3, 4, 5, 6 (trong đó gồm bố, mẹ và 4 cá thể con). Biết rằng bộ nhiễm sắc thể của tất cả các cá thể đều bình thường, không có đột biến xảy ra",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Cả thể 3 và có thể 5 chứa đủ các allele của mỗi gene.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Cả thể 6 chứa toàn allele trội.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Cả thể 1 và cá thể 2 có kiểu gene đồng hợp tử.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Cá thể 3 và 5 là hai cả thể thuộc thế hệ bố và mẹ.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-17",
+    "examSetId": "bai-17-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Dưới đây là sơ đồ điện di về 2 gene nằm trên 2 cặp NST thường khác nhau, mỗi gene gồm 2 allele (A1 và A2 qui định hình dạng tóc xoăn hoặc thẳng; B và B2 quy định màu mắt đen hoặc nâu) của 6 người được kí hiệu là 1, 2, 3, 4, 5 và 6, trong đó gồm bố, mẹ và 4 người con.",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Người số 1 và người số 2 là bố, mẹ của 4 người còn lại.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Nếu người số 4 có kiểu hình tóc xoăn, mắt màu nâu; người số 6 có kiểu hình tóc xoăn, mắt màu đen thì người số 1 có kiểu hình tóc thẳng, mắt màu nâu; người số 5 có kiểu hình tóc xoăn, mắt màu đen.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Nếu người số 4 kết hôn với một người có kiểu hình tóc thẳng, mắt màu đen - giống với kiểu hình của bố, mẹ nhưng em trai có kiểu hình tóc thẳng, mắt màu nâu thì xác suất sinh con đầu lòng của họ có kiểu hình tóc xoăn, mắt màu đen là 2/5.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Nếu cặp bố mẹ ở gia đình này sinh thêm một người con, xác suất người con này có kiểu gene đồng hợp về cả hai gặp alele là 4/16.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-17",
+    "examSetId": "bai-17-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Hình dưới đây mô tả con đường chuyển hóa phenylalanine liên quan đến ba bệnh chuyển hóa di truyền ở người, gồm phenyl keto niệu (PKU), alcapto niệu (AKU) và bạch tạng. Đột biến lặn ở ba gene phân li độc lập mã hóa ba enzyme tương ứng (enzyme 1-3) dẫn tới tích lũy các chất không được chuyển hóa, có tính độc và gây bệnh (với PKU và AKU) hoặc không tổng hợp được melanine (với bạch tạng).",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Người có kiểu gene đồng hợp tử về cả 2 gene đột biến liên quan PKU và AKU (aabb) sẽ biểu hiện cả hai bệnh.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Ở người bị PKU có kiểu gene aabbD- hoặc aaB-D- da sẽ giống vớ người không bị PKU.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Ở người bị AKU màu da trắng hơn như người bình thường và không bị bạch tạng.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Nếu một người chỉ bị AKU kết hôn với một người bị bệnh bạch tạng đều đồng hợp tử về các gene thì xác suất sinh con bình thường về cả 3 bệnh là 50%.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-17",
+    "examSetId": "bai-17-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Hình dưới đây biểu diễn cho thí nghiệm lại một tính trạng của Mendel. Hãy cho biết mỗi nhận định dưới đây về giải thích kết quả theo quan điểm của Mendel là Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Mỗi tính trạng được kiểm soát bởi một nhân tố di truyền. Trong một cơ thể, mỗi nhân tố di truyền tồn tại thành cặp, một có nguồn gốc từ bố và một có nguồn gốc từ mẹ.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Tính trạng được biểu hiện ở F1 là tính trạng trội, tính trạng không được biểu hiện ở F1 là tính trạng lặn.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Cặp nhân tố di truyền phân li trong quá trình tạo thành giao tử nên mỗi giao tử chỉ chứa một nhân tố di truyền.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Sự thụ tinh kết hợp giao tử từ bố và giao tử từ mẹ tạo nên cặp nhân tố di truyền ở đời lai. III.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-17",
+    "examSetId": "bai-17-bo1"
+  }
+]

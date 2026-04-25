@@ -1,0 +1,268 @@
+[
+  {
+    "type": "mc",
+    "content": "Hình vẽ bên mô tả một giai đoạn trong quá trình phân bào của một tế bào. Xét 1 cặp NST có mang 2 cặp allele kí hiệu là AB/ab kí hiệu kiểu gene của tế bào ở giai đoạn như hình vẽ là",
+    "options": [
+      "A. AB/ab AB/ab",
+      "B. AB/ab",
+      "C. AB/AB",
+      "D. Ab/ab ab/ab"
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-27",
+    "examSetId": "bai-27-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Quan sát quá trình phân bào của 1 tế bào cho đến khi hết một lần phân chia, người ta ghi lại được số liệu về hàm lượng DNA trong nhân mỗi tế bào ở từng giai đoạn phân bào như bảng sau:",
+    "options": [
+      "A. Nguyên phân hoặc giảm phân 2. B. Nguyên phân hoặc giảm phân 1.",
+      "C. Giảm phân 2. D. Nguyên phân."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-27",
+    "examSetId": "bai-27-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Quan sát hình ảnh về một nhiễm sắc thể có trình tự các gene trước và sau đột biến như hình vẽ bên. Nếu dạng đột biến trên xảy ra ở cặp nhiễm sắc thể thứ 21 của người thì gây bệnh gì?",
+    "options": [
+      "A. Ung thư máu.",
+      "C. Down.",
+      "B. Tiểu đường.",
+      "D. Pheeninketo niệu."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-27",
+    "examSetId": "bai-27-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Theo dõi quá trình phân bào của một tế bào trên cơ thể của loài thực vật qua các giai đoạn, người ta xây dựng được đồ thị về sự thay đổi hàm lượng DNA trong ; nhân tế bào thể hiện trong hình bên. Tế bào trên đang thực hiện quá trình phân bào nào?",
+    "options": [
+      "A. Nguyên phân.",
+      "B. Giảm phân 1.",
+      "C. Giảm phân 2.",
+      "D. Nguyên phân và giảm phân 2."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-27",
+    "examSetId": "bai-27-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Sự tăng hay giảm số lượng của một hay vài cặp NST một cách khác thường đã làm mất cân bằng của toàn hệ gene nên các thể lệch bội thường không sống được hay giảm sức sống, giảm khả năng sinh sản tùy loài. Ở người, trong các ca thai bị sấy tự nhiên có bất thường NST thì tỉ lệ thai thể ba là 53,7%, thể một là 15,3%. Điều đó chứng tỏ đa số lệch bội gây chết từ giai đoạn sớm. Nếu sống được đến khi sinh đều mắc những bệnh hiểm nghèo như hội chứng Down (ba NST 21), hội chứng Turner (chỉ có 1 NST giới tính X ), ...Ở thực vật cũng đã gặp các lệch bội, đặc biệt ở chỉ Cà và chỉ LúA. Ví dụ ở cà độc dược đã phát hiện được lệch bội ở cả 12 cặp NST tương đồng cho các dạng quả khác nhau về hình dạng, kích thước cũng như sự phát triển của các giai đoạn. Phát biểu nào sau đây về đột biến lệch bội là sai?",
+    "options": [
+      "A. Đột biến lệch bội xảy ra ở các cặp NST thường và cặp NST giới tính.",
+      "B. Đột biển lệch bội thường gây chết và giảm sức sức sống, khả năng sinh sản tùy loài.",
+      "C. Ở cà độc dược đã phát hiện được lệch bội ở cả 12 cặp NST tương đồng.",
+      "D. Thường xảy ra ở thực vật mà không gặp ở động vật."
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-27",
+    "examSetId": "bai-27-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "người, chứng loạn dưỡng cơ Duchenne (DMD) là do đột biến gene lặn Dystrophin nằm trên nhiễm sắc thể giới tính X quy định. Gene Dystrophin dài 2400kb (gene dài nhất ở người), gồm 79 exon chịu trách nhiệm tổng hợp protein Dystrophin. Protein này có chức năng bảo vệ tế bào cơ, giữ cho màng sợi cơ được vững chắc, không bị tổn hại. Các đột biển có thể xảy ra trên gene Dystrophin là đột biến mất đoạn, đột biến điểm, chuyển đoạn, mất đoạn nhỏ và mất đoạn là đột biến hay gặp nhất. Tình trạng này phổ biến hơn ở các bé trai do cơ chế di truyền gene loạn dưỡng cơ Duchenne cho con.",
+    "options": [
+      "A. Các bé trai có những rối loạn khác ngoài DMD là kết quả của đột biến mất đoạn ở các vùng khác xung quanh vùng DMD.",
+      "B. Bệnh do đột biến gene lặn Dystrophin nằm trên nhiễm sắc thể giới tính X quy định.",
+      "C. Bệnh phổ biến hơn ở các bé trai.",
+      "D. Vùng trên nhiễm sắc thể X có khả năng chứa gene DMD là vùng 6."
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-27",
+    "examSetId": "bai-27-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Một loài có bộ nhiễm sắc thể 2n = 6 được ký hiệu AaBbDd. Một tế bào của cá thể trên đang ở kỳ giữa của nguyên phân (Hình 2). Điều gì xảy. ra nếu cônsixin làm đứt một dây tơ vô sắc (dây số 3). Bộ nhiễm sắc thể của các tế bào con được tạo ra là",
+    "options": [
+      "A. AaBBbDd và AabDd",
+      "B. AaBbDd và AaBbDd",
+      "C. AaBBDd và AabbDd",
+      "D. AaBbDd và AaBBbDd"
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-27",
+    "examSetId": "bai-27-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Dưới đây là hình vẽ minh họa cho 1 tế bào của cơ thể lưỡng bội đang thực hiện phân bào. Tế bào trên đang ở kì nào của hình thức phân bào nào?",
+    "options": [
+      "A. Kì sau nguyên phân. B. Kì sau 1 giảm phân.",
+      "C. Kì giữa của nguyên phân.D. Kì giữa của giảm phân 2."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-27",
+    "examSetId": "bai-27-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Hình dưới đây mô tả sự thay đổi hàm lượng DNA trong tế bào của một cơ thể động vật lưỡng bội ở các pha khác nhau của chu kì tế bào.",
+    "options": [
+      "A. S, G1, G2, M. B. G1, M, G2, S.",
+      "C. M, G1, G2, S. D. G1, M, G2, S."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-27",
+    "examSetId": "bai-27-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Khi quan sát quá trình phân bào của các tế bào (2n) thuộc cùng một mô sinh dưỡng ở một loài sinh vật, một học sinh vẽ lại được sơ đồ với đầy đủ các giai đoạn khác nhau của quá trình phân bào này như sau:",
+    "options": [
+      "A. (a) (d) (b) (c) (e).B. (e) (b) (d) (c) (a).",
+      "C. (a) (b) (c) (d) (e).D. (b)(a)(d) (c) (e)"
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-27",
+    "examSetId": "bai-27-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Xét một loài giả định có bộ NST 2n = 24. Hình bên mô tả NST trong nhân của các tế bào khác nhau, trong đó hình O là bộ NST của tế bào lưỡng bội bình thường, gồm 2 cặp tương đồng: một cặp có kích thước lớn, một cặp có kích thước nhỏ, các NST đều chưa nhân đôi.",
+    "options": [
+      "A. 1A, 2B, 3E, 4D B. 1B, 2A, 3E, 4D",
+      "C. 1A, 2D, 3E, 4B D. 1D, 2B, 3A, 4E"
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-27",
+    "examSetId": "bai-27-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Một loài thực vật có bộ NST 2n=40, hàm lượng DNA trong nhân của tế bào sinh dưỡng bình thường khi chưa nhân đôi là 12 picogram (pg). Bảng dưới đây cho biết hàm lượng DNA, số lượng NST, mức độ co, giãn xoắn NST của 2 tế bào bình thường và 3 tế bào bị đột biến NST:",
+    "options": [
+      "A. Tế bào 3 bị đột biến lặp đoạn.",
+      "B. Tế bào 5 bị đột biến tứ bội.",
+      "C. Tế bào 3 có thể bị đột biến đảo đoạn hoặc chuyển đoạn.",
+      "D. Tế bào 4 bị đột biến thể 3."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-27",
+    "examSetId": "bai-27-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Quan sát quá trình phân bào của một tế bào, người ta đo được hàm lượng DNA trong mỗi tế bào qua các giai đoạn được thể hiện ở biểu đồ như hình bên. Theo lý thuyết, hãy xác định mỗi nhận định dưới đây là Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Tế bào được quan sát là tế bào sinh dưỡng.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Nếu tế bào ở giai đoạn 1 có bộ NST kí hiệu là AaBb thì ở giai đoạn 2 và giai đoạn 3 có kí hiệu AB hoặc ab",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Nếu ở kì sau của quá trình phân bào này, tất cả các cặp NST không phân li thì hàm lượng DNA ở giai đoạn 3 có thể giống với giai đoạn nào trong hai giai đoạn 1.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Quá trình phân bào này là cơ sở của quá trình sinh sản ở loài sinh sản vô tính.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-27",
+    "examSetId": "bai-27-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Cho hình ảnh về một giai đoạn trong quá trình phân bào của một tế bào lưỡng bội 2n bình thường (tế bào A) trong cơ thể đực ở một loài. Biết đột biến nếu có chỉ xảy ra 1 lần. Theo lý thuyết, hãy cho biết mỗi nhận định dưới đây Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Hình bên biểu diễn cho tế bào A đang ở kì sau của quá trình phân bào nguyên phân.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Có thể đã xảy ra hiện tượng có một cặp nhiễm sắc thể không phân li trong quá trình phân bào.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Hoàn tất quá trình phân bào, từ tế bào trên hình vẽ có thể tạo ra những loại tế bào có kí hiệu AB/aB De, Ab/ab De",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Nếu tế bào ban đầu chứa đầy đủ các allele A, a; B, b; D, d; E, e thì kí hiệu kiểu gene của tế",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-27",
+    "examSetId": "bai-27-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "thị dưới đây mô tả sự biến động hàm lượng DNA của nhân trong một tế bào qua các giai đoạn của quá trình phân bào bình thường. Mỗi nhận định dưới đây Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Tế bào trên có thể ở trên đỉnh sinh trưởng của một cành cây.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Nếu ban đầu tế bào có bộ NST được kí hiệu là AaBb thì ở giai đoạn C tế bào có thể có kí hiệu AB, Ab, aB, ab",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Nếu kết thúc quá trình phân bào này nhưng hàm lượng DNA của tế bào bằng với mức 4pg thì chứng tỏ ở kì sau tất cả các cặp nhiễm sắc thể đã không phân li.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Nếu trong quá trình phân bào nào có 1 cặp nhiễm sắc thể không phân li thì đây chính là cơ sở để tạo ra đột biến dạng lệch bội.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-27",
+    "examSetId": "bai-27-bo1"
+  }
+]

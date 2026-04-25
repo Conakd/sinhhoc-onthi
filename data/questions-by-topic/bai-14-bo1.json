@@ -1,0 +1,476 @@
+[
+  {
+    "type": "mc",
+    "content": "Hình ảnh minh họa sau thuộc dạng đột biến nào?",
+    "options": [
+      "A. Tam bội.",
+      "B. Tam nhiễm.",
+      "C. Dị đa bội.",
+      "D. Đa bội chẵn."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-14",
+    "examSetId": "bai-14-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "t biến NST gồm những dạng nào sau đây?",
+    "options": [
+      "A. Đột biến lệch bội và đột biến đa bội. B. Đột biến cấu trúc NST và số lượng NST",
+      "C. Đột biến tự đa bội và dị đa bội. D. Đột biến đa bội chẵn và đa bội lẻ."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-14",
+    "examSetId": "bai-14-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Phương pháp tạo thể đa bội phù hợp nhất với loại đối tượng",
+    "options": [
+      "A. Vật nuôi, sinh sản. B. Vật nuôi lấy sữa.",
+      "C. Cây trồng lấy hạt. D. Cây trồng để thu hoạch thân, lá. ĐB đa bội: không áp dụng với động vật; ĐB lẻ không áp dụng với cây lấy hạt."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-14",
+    "examSetId": "bai-14-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Quan sát hình ảnh bên và cho biết đây là bộ NST của người mắc hội chứng",
+    "options": [
+      "A. Klinefelter.",
+      "B. Siêu nữ.",
+      "C. Down.",
+      "D. Turner."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-14",
+    "examSetId": "bai-14-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Một loài thực vật có bộ NST lưỡng bội 2n, hợp tử được hình thành trong trường hợp nào sau đây có thể phát triển thành thể một",
+    "options": [
+      "A. Giao tử (n) kết hợp với giao tử (n + 1). B. Giao tử (n) kết hợp với giao tử (n-1).",
+      "C. Giao tử (n) kết hợp với giao tử (2n). D. Giao tử (2n) kết hợp với giao tử (2n)."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-14",
+    "examSetId": "bai-14-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Một thể đột biến được gọi là thể tam bội nếu",
+    "options": [
+      "A. cơ thể không có khả năng sinh sản hữu tính, chỉ có thể sinh sản vô tính.",
+      "B. trong mỗi tế bào sinh dưỡng, NST tồn tại thành từng bộ 3 chiếc có hình dạng giống nhau.",
+      "C. trong mỗi tế bào sinh dưỡng, NST tồn tại thành từng bộ 2 chiếc có hình dạng giống nhau.",
+      "D. trong mỗi tế bào sinh dưỡng, NST tồn tại thành từng bộ 3 chiếc có hình dạng khác nhau."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-14",
+    "examSetId": "bai-14-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Phát biểu nào sau đây về đột biến lệch bội là sai?",
+    "options": [
+      "A. Đột biến lệch bội xảy ra ở các cặp NST thường và cặp NST giới tính",
+      "B. Đột biến lệch bội thường gây chết và giảm sức sức sống, khả năng sinh sản tùy loài",
+      "C. Ở cả độc được đã phát hiện được lệch bội ở cả 12 cặp NST tương đồng.",
+      "D. Thường xảy ra ở thực vật mà không gặp ở động vật. ít xảy ra với ĐV vì lệch bội thường gây chết hay giảm sức sống"
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-14",
+    "examSetId": "bai-14-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Hội chứng Turner là hội chứng xuất hiện ở",
+    "options": [
+      "A. nam giới có cặp nhiễm sắc thể giới tính là YO",
+      "B. nam giới có cặp nhiễm sắc thể giới tính là XXY",
+      "C. nữ giới có cặp nhiễm sắc thể giới tính là XO.",
+      "D. nữ giới có cặp nhiễm sắc thể giới tính là XXX."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-14",
+    "examSetId": "bai-14-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Khi nói về hậu quả của đột biến lệch bội, phát biểu sau đây đúng?",
+    "options": [
+      "A. Tỷ lệ sảy thai tự nhiên ở người có bất thường NST thì thể một cao hơn thể ba sai, thể 3 cao hơn thể 1, vì thể 1 gây thiếu gene nên thường chết",
+      "B. Người mắc hội chứng Down có 1 NST số 21.  sai, đúng là có 3 NST 21",
+      "C. Đột biến lệch bội không làm mất cân bằng hệ gene  sai, có gây mất cân bằng hệ gene",
+      "D. Ở thực vật cũng đã gặp các lệch bội, đặc biệt ở chi Cà và chi Lúa  đúng"
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-14",
+    "examSetId": "bai-14-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Sau khi quan sát bộ nhiễm sắc thể dưới tiêu bản hiển vi, một bạn học sinh mô tả về bộ nhiễm sắc thể của người theo hình ảnh dưới đây: Hãy cho biết, kết luận sau đây là Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Má phệ, cổ ngắn, lưỡi dài, si đần...",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Giới tính của người được lấy tiêu bản là nam",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Người mắc hội chứng này là dạng đột biến thể ba",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Đây là hội chứng do đột biến cấu trúc nhiễm sắc thể thường.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-14",
+    "examSetId": "bai-14-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Cho hình ảnh về một giai đoạn trong quá trình phân bào của một tế bào lưỡng bội 2n bình thường (tế bào A) trong cơ thể đực ở một loài. Biết đột biến nếu có chỉ xảy ra 1 lần. Theo lý thuyết, mỗi nhận định sau Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Tế bào A có chứa ít nhất là hai cặp gene dị hợp.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Bộ NST lưỡng bội bình thường của loài là 2n = 8.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Tế bào A tạo ra tối đa là 3 loại giao tử khác nhau về các gene đang xét",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Ở giai đoạn phân bào trong hình bên, tế bào đang có 8 chuỗi polynucleotide.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-14",
+    "examSetId": "bai-14-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Quan sát quá trình phân bào của một tế bào, người ta đo được hàm lượng DNA trong mỗi tế bào qua các giai đoạn được thể hiện ở biểu đồ như hình bên. Theo lý thuyết, hãy xác định mỗi nhận định dưới đây là Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Tế bào được quan sát là tế bào sinh dưỡng.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Nếu tế bào ở giai đoạn 1 có bộ NST kí hiệu là AaBb thì ở giai đoạn 2 và giai đoạn 3 có kí hiệu AB hoặc ab",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Nếu ở kì sau của quá trình phân bào này, tất cả các cặp NST không phân li thi hàm lượng DNA ở giai đoạn 3 có thể giống với giai đoạn nào trong hai giai đoạn 1 và 2.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Quá trình phân bào này là cơ sở của quá trình sinh sản ở loài sinh sản vô tính.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-14",
+    "examSetId": "bai-14-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Khi nói về đột biến số lượng nhiễm sắc thể, các nhận định sau đây Đúng hay sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Sự không phân li của 1 nhiễm sắc thể trong nguyên phân của tế bào soma ở một cơ thể luôn tạo ra thể ba",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Thể lệch bội có hàm lượng DNA trong nhân tế bào tăng lên gấp bội",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Sử dụng colchicine để ức chế quá trình hình thành thoi phân bào có thể gây đột biến đa bội ở thực vật",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Các thể đa bội đều không có khả năng sinh sản hữu tính",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-14",
+    "examSetId": "bai-14-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Khi nói về đột biến lệch bội, các nhận định sau đây Đúng hay sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Đột biến lệch bội cũng có thể được xảy ra trong nguyên phân ở các tế bào sinh dưỡng hình thành nên thể khảm.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Đột biến lệch bội được phát sinh do rối loạn phân bào làm cho tất cả các cặp NST tương đồng đều không phân li.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Ở tế bào sinh dục, đột biến lệch bội chỉ xảy ra ở cặp NST giới tính mà không xảy ra ở cặp NST thường.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Ở cũng một loài, tần số xảy ra đột biến lệch bội thể không thường cao hơn đột biến lệch bội dạng thể một.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-14",
+    "examSetId": "bai-14-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Bộ NST của một loài thực vật có hoa gồm 4 NST (K) hiệu I, II, III, IV). Khi khảo sát một quần thể của loài này, người ta phát hiện 2 thể đột biến (a,b). Phân tích tế bào học 2 thể đột biến đó, thu được kết quả sau",
+    "options": [],
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Thể đột biến a là thể tam bội.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Thể đột biển b là thể một.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Cơ chế hình thành thể đột biến b là trong giảm phân cặp NST số 1 nhân đôi nhưng không phân li, tạo thành 2 loại giao tử (n + 1) và (n - 1). Khi thụ tinh giao tử (n - 1) kết hợp với giao từ n tạo thành hợp tử 2n - 1, phát triển thành thể một",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Trong quá trình tổng hợp các chất hữu cơ và sản phẩm của gene ở thể đột biến a tăng so với thể lưỡng bội 2n.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-14",
+    "examSetId": "bai-14-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Khi nói về đột biến đa bội, các nhận định sau đây Đúng hay sai?",
+    "options": [],
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": false
+    },
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Hầu hết các đột biến đa bội lẻ đều không có khả năng sinh sản hữu tính (bị bất thụ).",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Thể tam bội có hàm lượng DNA ở trong nhân tế bào tăng lên gấp 3 lần so với dạng đơn bội",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Thể đột biến đa bội bị cách li sinh sản với các dạng lưỡng bội sinh ra nó.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Trong tự nhiên, thực vật và động vật đều có thể đột biến tứ bội với tỉ lệ như nhau.",
+        "isCorrect": false
+      }
+    ],
+    "topicId": "bai-14",
+    "examSetId": "bai-14-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Khi nói về đột biến đa bội, các nhận định sau đây Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": false,
+      "d": false
+    },
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Đột biến dạng tứ bội vẫn có khả năng sinh sản hữu tính bình thường.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Trong tế bào sinh dưỡng thể tứ bội, NST tồn tại thành từng nhóm bốn chiếc.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Lai Xa kèm đa bội hóa có thể tạo ra cơ thể lai dạng tự đa bội",
+        "isCorrect": false
+      },
+      {
+        "label": "d",
+        "content": "Để gây đột biến đa bội có hiệu quả, thưởng người ta xử lí tác nhân đột biến vào pha S của quá trình phân bào.",
+        "isCorrect": false
+      }
+    ],
+    "topicId": "bai-14",
+    "examSetId": "bai-14-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Khi nói về đột biến số lượng NST, các nhận định sau đây Đúng hay sai?",
+    "options": [],
+    "correctAnswer": {
+      "a": false,
+      "b": true,
+      "c": false,
+      "d": true
+    },
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Đột biến số lượng NST gồm các dạng mất đoạn, lăp đoạn, chuyển đoạn và đảo đoạn",
+        "isCorrect": false
+      },
+      {
+        "label": "b",
+        "content": "Trong tế bào sinh dưỡng thể một nhiễm có một cặp NST nào đó chỉ chứa một chiếc.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Ở những lần nguyên phân đầu tiên của hợp tử nhiều NST nhân đôi nhưng không phân li có thể sẽ tạo ra thể tự đa bội.",
+        "isCorrect": false
+      },
+      {
+        "label": "d",
+        "content": "Cơ thể 4n là kết quả của sự kết hợp giữa giao tử cái 2n và giao tử đực 2n.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-14",
+    "examSetId": "bai-14-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Khi nói về đột biến số lượng NST, các nhận định sau đây Đúng hay sai?",
+    "options": [],
+    "correctAnswer": {
+      "a": true,
+      "b": false,
+      "c": true,
+      "d": true
+    },
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Cohensin cản trở sự hình thành thoi vô sắc nên dẫn tới làm phát sinh đột biến đa bội",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Các đột biến số lượng NST đều làm tăng hàm lượng DNA ở trong nhân tế bào.",
+        "isCorrect": false
+      },
+      {
+        "label": "c",
+        "content": "Đột biến đa bội lẻ thường không có khả năng sinh sản hữu tính.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Đột biến lệch bội dạng thể một có tần số cao hơn đột biến lệch bội dạng thể không",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-14",
+    "examSetId": "bai-14-bo1"
+  }
+]

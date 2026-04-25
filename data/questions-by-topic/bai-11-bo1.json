@@ -1,0 +1,550 @@
+[
+  {
+    "type": "mc",
+    "content": "Trường hợp nào sau đây thuộc phân bào nguyên phân?",
+    "options": [
+      "A. Tế bào có bộ NST 3n tạo ra các tế bào con có bộ NST 3n.",
+      "B. Tế bào có bộ NST 2n tạo ra các tế bào con có bộ NST n.",
+      "C. Tế bào có bộ NST 4n tạo ra các tế bào con có bộ NST 2n.",
+      "D. Tế bào vi khuẩn tạo ra các tế bào vi khuẩn mới."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-11",
+    "examSetId": "bai-11-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Trong phân bào nguyên phân, nguyên nhân chủ yếu làm cho tế bào con luôn có bộ NST giống tế bào mẹ là do",
+    "options": [
+      "A. các kì diễn ra một cách tuần tự và liên tiếp nhau.",
+      "B. NST nhân đôi thành NST kép, sau đó chia cho hai tế bào con.",
+      "C. NST nhân đôi, sau đó phân chia đồng đều cho hai tế bào con.",
+      "D. ở kì sau, các NST tách nhau ra và trượt về hai cực tế bào."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-11",
+    "examSetId": "bai-11-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "i với cơ thể đơn bào, nguyên phân có ý nghĩa",
+    "options": [
+      "A. giúp cơ thể lớn lên.B. giúp cơ thể vận động.",
+      "C. giúp cơ thể sinh sản.D. giúp thực hiện chu kì tế bào."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-11",
+    "examSetId": "bai-11-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "cơ thể người trưởng thành, phân bào nguyên phân có ý nghĩa nào sau đây?",
+    "options": [
+      "A. Thay thế các tế bào đã chết và làm cho cơ thể lớn lên.",
+      "B. Giúp cơ thể tạo ra các giao tử để duy trì nòi giống.",
+      "C. Giúp cơ thể thực hiện việc tư duy và vận động.",
+      "D. Giúp cơ thể lớn lên và tạo giao tử để thực hiện sinh sản."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-11",
+    "examSetId": "bai-11-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Tế bào ban đầu có 3 cặp nhiễm sắc thể tương đồng kí hiệu là AaBbDd tham gia nguyên phân. Giả sử nhiễm sắc thể A và b không phân li thì các tế bào con có thành phần nhiễm sắc thể như thế nào?",
+    "options": [
+      "A. AaBbDd.B. aBDd.",
+      "C. AAaBbbDd và aBDdD. AAaBbbDd và aBDd hoặc AAaBDd và aBbbDd."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-11",
+    "examSetId": "bai-11-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Một tế bào thực vật có 3 cặp nhiễm sắc thể tương đồng được kí hiệu là AaBbDd. Khi tế bào ở kì giữa nguyên phân thì bộ NST được kí hiệu như thế nào?",
+    "options": [
+      "A. Aa Bb Dd.B. AAaa BBbb DDdd.",
+      "C. ABD abd.D. Aa Bb Dd hoặc ABD abd."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-11",
+    "examSetId": "bai-11-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Hình bên mô tả sự phân bào của một tế bào có bộ NST 2n = 8. Tế bào trong hình bên đang ở giai đoạn nào của quá trình phân bào?",
+    "options": [
+      "A. Kì sau của nguyên phân.B. Kì giữa của giảm phân 1.",
+      "C. Kì sau của giảm phân 1.  D. Kì sau của giảm phân 2."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-11",
+    "examSetId": "bai-11-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Hiện tượng tiếp hợp dẫn đến trao đổi chéo giữa các cromattit của cặp NST tương đồng được diễn ra vào giai đoạn",
+    "options": [
+      "A. kì đầu của giảm phân 2.B. kì sau của giảm phân 2.",
+      "C. kì đầu của giảm phân 1.D. kì sau của giảm phân 1."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-11",
+    "examSetId": "bai-11-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Trường hợp nào sau đây được gọi là giảm phân?",
+    "options": [
+      "A. Tế bào mẹ 2n tạo ra các tế bào con có bộ NST 2n.",
+      "B. Tế bào mẹ 4n tạo ra các tế bào con có bộ NST 2n.",
+      "C. Tế bào mẹ n tạo ra các tế bào con có bộ NST n.",
+      "D. Tế bào vi khuẩn tạo ra các tế bào vi khuẩn."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-11",
+    "examSetId": "bai-11-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Hình vẽ bên mô tả sự phân bào của một tế bào có bộ NST 2n = 4. Nó đang ở giai đoạn nào của quá trình phân bào?",
+    "options": [
+      "A. Kì sau của nguyên phân.",
+      "B. Kì giữa của giảm phân 1.",
+      "C. Kì sau của giảm phân 1.",
+      "D. Kì sau của giảm phân 2."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-11",
+    "examSetId": "bai-11-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Hình bên mô tả sự phân bào của một tế bào có bộ NST 2n. Kết thúc lần phân bào này, mỗi tế bào con có bộ NST như thế nào?",
+    "options": [
+      "A. 2 NST đơn.",
+      "B. 4 NST đơn.",
+      "C. 4 NST kép.",
+      "D. 8 NST đơn. TB"
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-11",
+    "examSetId": "bai-11-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Hình ảnh dưới đây mô tả diễn biến của một giai đoạn trong quá trình phân bào. Bạn hãy cho biết tế bào đang thuộc giai đoạn nào?",
+    "options": [
+      "A. Kì giữa nguyên phân.",
+      "B. Ki sau nguyên phân.",
+      "C. Kì giữa 1 giảm phân.",
+      "D. Kì sau 2 giảm phân."
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-11",
+    "examSetId": "bai-11-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Quá trình giảm phân tạo ra nhiều giao tử khác nhau. Đó là do các nhiễm sắc thể",
+    "options": [
+      "A. tự nhân đôi trước khi giảm phân.",
+      "B. phân li độc lập, tổ hợp tự do.",
+      "C. đóng tháo xoắn có tính chu kì.",
+      "D. tập trung về mặt phẳng xích đạo thành một hàng."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-11",
+    "examSetId": "bai-11-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Cho biết hình ảnh nguyên phân của tế bào rễ hành trong hình bên.",
+    "options": [
+      "A. A: Kì đầu; B: Kì giữa; C: Kì cuối; D: Kì sau.B. A: Kì cuối; B: Kì giữa; C: Kì đầu; D: Kì sau.",
+      "C. A: Kì đầu; B: Kì sau; C: Kì cuối; D: Kì giữa.D. A: Kì sau; B: Kì giữa; C: Kì cuối; D: Kì đầu."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-11",
+    "examSetId": "bai-11-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Một sinh vật lưỡng bội có kiểu gene AABb. Hai gene này nằm trên hai cặp nhiễm sắc thể khác nhau, trong một tế bào của sinh vật (được minh họa như hình vẽ). Tế bào này trải qua giai đoạn nào của chu kì tế bào (kí tự + là các cực của tế bào)?",
+    "options": [
+      "A. Giảm phân 1.",
+      "B. Có thể là nguyên phân hoặc giảm phân.",
+      "C. Nguyên phân.",
+      "D. Giảm phân II."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-11",
+    "examSetId": "bai-11-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Hoạt động nào sau đây xảy ra ở kì sau của quá trình giảm phân I?",
+    "options": [
+      "A. Mỗi NST kép trong cặp tương đồng phân li độc lập về hai cực tế bào.",
+      "B. NST co ngắn cực đại và xếp hai hàng ngang trên mặt phẳng xích đạo.",
+      "C. Mỗi NST kép tách nhau ra thành hai NST đơn, tiến về hai cực tế bào.",
+      "D. Màng tế bào co lại và hình thành hai tế bào mới có bộ NST giảm đi một nửa."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-11",
+    "examSetId": "bai-11-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Khi nói về trạng thái NST của tế bào, theo lí thuyết, các nhận định sau đây Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Ở kì giữa của nguyên phân, tất cả các NST đều ở dạng sợi mảnh và co xoắn cực đại.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Ở kì sau của giảm phân II, tất cả các nhiễm sắc thể đều ở dạng sợi mảnh.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Ở kì đầu của giảm phân 1, tất cả các NST đều ở dạng kép.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Ở kì sau của giảm phân I, tất cả các NST đều ở dạng kép.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-11",
+    "examSetId": "bai-11-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Một tế bào sinh tinh của cơ thể có kiểu gene AB/ab giảm phân bình thường, không có đột biến. Theo lí thuyết, các nhận định sau đây Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Nếu không có trao đổi chéo thì sẽ tạo ra 2 loại giao tử.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Nếu có trao đổi chéo giữa B và b thì sẽ tạo ra 4 loại giao tử với tỉ lệ tùy vào tần số hoán vị gene.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Cho dù có hoán vị hay không có hoán vị cũng luôn sinh ra giao tử AB.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Nếu có hoán vị gene thì sẽ sinh ra giao tử ab với tỉ lệ 25%.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-11",
+    "examSetId": "bai-11-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Khi nói về giảm phân, các nhận định sau đây Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Mỗi tế bào có thể tiến hành giảm phân một hoặc nhiều lần.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Giảm phân trải qua 2 lần phân bào nhưng NST chỉ nhân đôi 1 lần.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Phân bào giảm phân diễn ra ở mọi tế bào của cơ quan sinh dục.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Phân bào giảm phân không có quá trình phân chia tế bào chất.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-11",
+    "examSetId": "bai-11-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Khi nói về nguyên phân, các nhận định sau đây Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Tế bào mẹ ban đầu có 2n NST đơn nghĩa là sẽ có 4n chromatide và gồm có 2n tâm động.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Ở kì đầu tế bào có 4n NST hay 2n NST kép gồm 4n chromatide với 2n tâm động.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Ở kì sau mỗi tế bào chỉ còn lại 2n NST nhưng 4n chromatide với 2n tâm động.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Khi 2 con đã hình thành thì mỗi tế bào chỉ có 2n chromatide như tế bào mẹ ban đầu.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-11",
+    "examSetId": "bai-11-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Khi quan sát quá trình phần bảo của một tế bào sinh dưỡng ở một loài sinh vật có bộ NST lưỡng bội 2n, một học sinh vẽ lại được sơ đồ với đầy đủ các giai đoạn khác nhau như sau:",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Quá trình phân bào này mô tả cơ chế tạo thể lệch bội trong giảm phân.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Quá trình phân bào này có một cặp NST không phân li trong nguyên phân.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Bộ NST lưỡng bội của loài trên là 2n = 8.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Ở giai đoạn (1), tế bào có 8 phân tử DNA thuộc 4 cặp NST.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-11",
+    "examSetId": "bai-11-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Hình vẽ sau đây mô tả hai tế bào ở hai cơ thể lưỡng bội đang phân bào theo lý thuyết, các nhận định sau đây Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Tế bào 1 đang ở kì sau giảm phân II, tế bào 2 đang ở kì sau của nguyên phân.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Khi kết thúc quá trình phân bào ở hai tế bào trên thì từ tế bào 1 tạo ra hai tế bào đơn bội, từ tế bào 2 tạo ra hai tế bào lưỡng bội.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Tế bào 1 là tế bào sinh dưỡng, tế bào 2 là tế bào sinh dục.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Xét trên cơ sở di truyền học tế bào 2 tạo ra nguồn biến dị đa dạng và phong phú hơn tế bào 1.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-11",
+    "examSetId": "bai-11-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "gà, một tế bào của cơ thể có kiểu gene AaXBYGg giảm phân bình thường sinh ra giao tử. Các nhận định sau đây Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Luôn cho ra 4 loại giao tử.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Loại giao tử AYG luôn chiếm tỉ lệ 25%.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Luôn sinh ra giao tử mang NST Y với tỉ lệ 50%.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Nếu sinh ra giao tử mang gene aX³g thì giao tử này chiếm tỉ lệ 100%.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-11",
+    "examSetId": "bai-11-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Có 5 tế bào của ruồi giấm có kiểu gene AaBBXY tiến hành giảm phân không đột biến đã tạo ra giao tử ABX chiếm 40%. Theo lí thuyết, các nhận định sau đây Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Giao từ aBY chiếm tỉ lệ 40%.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Giao tử ABY chiếm tỉ lệ 40%.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Giao từ aBY chiếm tỉ lệ 10%.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Giao tử aBX chiếm tỉ lệ 10%.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-11",
+    "examSetId": "bai-11-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Quan sát quá trình phân bào của 3 tế bào từ khi bắt đầu phân bào cho đến hết một lần phân chia, người ta ghi lại được số liệu về hàm lượng ADN trong nhân mỗi tế bào ở các giai đoạn phân bào như bảng bên. Các nhận định sau đúng hay sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Tế bào 1 đang thực hiện quá trình nguyên phân.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Tế bào 2 đang thực hiện quá trình giảm phân 1.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Tế bào 3 đang thực hiện quá trình giảm phân nhưng ở kì sau tất cả các cặp nhiễm sắc thể không phân li.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Nếu tế bào 3 là tế bào ở đỉnh sinh trường của một cành cây, xét một cặp nhiễm sắc thể mang AB/ab cặp allele ký hiệu thì kiểu gene của tế bào ở giai đoạn 3 là AB/ab AB/ab.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-11",
+    "examSetId": "bai-11-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Hình dưới đây mô tả một gian đoạn phân bào của một tế bào nhân thực lưỡng bội. Biết rằng, 4 nhiễm sắc thể đơn trong mỗi nhóm có hình dạng, kích thước khác nhau. các nhận định sau đây Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Bộ NST của loài 2n = 4.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Hình bên biểu diễn một giai đoạn của giảm phân II.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Hình bên biểu diễn một tế bào đang ở ki sau nguyên phân.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Quá trình phân bào này xảy ra ở tế bào thực vật",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-11",
+    "examSetId": "bai-11-bo1"
+  }
+]

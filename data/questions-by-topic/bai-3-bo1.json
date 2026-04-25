@@ -1,0 +1,259 @@
+[
+  {
+    "type": "mc",
+    "content": "371682]: Dịch mã là quá trình",
+    "options": [
+      "A. tổng hợp phân tử rRNA.B. tổng hợp phân tử DNA.",
+      "C. tổng hợp phân tử mRNA.D. tổng hợp chuỗi polipeptit."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-3",
+    "examSetId": "bai-3-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "371686]: Tất cả các loài sinh vật đều có chung một bộ mã di truyền, trừ một vài ngoại lệ, điều này biểu hiện đặc điểm gì của mã di truyền?",
+    "options": [
+      "A. Mã di truyền có tính đặc hiệu.C. Mã di truyền có tính phổ biến.",
+      "B. Mã di truyền có tính thoái hóa.D. Mã di truyền luôn là mã bộ ba."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-3",
+    "examSetId": "bai-3-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "371689]: Đặc điểm nào sau đây chỉ có ở quá trình phiên mã mà không có ở quá trình nhân đôi của DNA?",
+    "options": [
+      "A. Sử dụng nucleotide làm nguyên liệu cho quá trình tổng hợp.",
+      "B. Mạch polynucleotide được tổng hợp kéo dài theo chiều từ 5' đến 3'.",
+      "C. Sử dụng cả hai mạch của DNA làm khuôn để tổng hợp mạch mới.",
+      "D. Chỉ diễn ra trên mạch gốc của từng gene riêng rẽ."
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-3",
+    "examSetId": "bai-3-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "371690]: Phân tích vật chất di truyền của một chủng gây bệnh cúm ở gà thì thấy rằng vật chất di truyền của nó là một phân tử Nucleic acid được cấu tạo bởi 4 loại đơn phân với tỷ lệ mỗi loại là 16%A, 24%U, 25%G, 35%c. Loại vật chất di truyền của chùng gây bệnh này là",
+    "options": [
+      "A. DNA mạch kép.B. DNA mạch đơn.",
+      "C. RNA mạch đơn.D. RNA mạch kép."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-3",
+    "examSetId": "bai-3-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "371691]: Khi nói về đặc điểm của mã di truyền, kết luận nào sau đây sai?",
+    "options": [
+      "A. Mã di truyền được đọc từ một điểm xác định, theo từng bộ ba theo chiều từ 3' đến 5' trên mRNA.",
+      "B. Mã di truyền có tính phổ biến, tức là tất cả các loài đều có chung một bộ mã di truyền, trừ một vài ngoại lệ.",
+      "C. Mã di truyền có tính thoái hoá, tức là nhiều bộ ba khác nhau cùng xác định một loại amino acid, trừ AUG và UGG.",
+      "D. Mã di truyền có tính đặc hiệu, tức là một bộ ba chỉ mã hoá cho một loại amino acid."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-3",
+    "examSetId": "bai-3-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "371704]: Khi nói về bộ ba AUG ở trên mRNA của sinh vật nhân thực. Các nhận định sau đây Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Trên mỗi mRNA sẽ có nhiều bộ ba AUG, việc xuất hiện các bộ ba là ngẫu nhiên nên mỗi bộ ba sẽ được xuất hiện nhiều lần trên mRNA",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Trên mỗi phân tử mRNA chỉ có một bộ ba mở đầu, bộ ba này nằm ở đầu 5' của mRNA.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Trên mỗi phân tử mRNA có nhiều bộ ba AUG.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Tất cả các bộ ba AUG ở trên mRNA đều làm nhiệm vụ mã mở đầu.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-3",
+    "examSetId": "bai-3-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "371707]: Cho biết các codon mã hóa các amino acid tương ứng như sau: 5'GGG3' - Gly; 5'CCC3' - Pro; 5'GCU3' - Ala; 5'CGA3' - Arg; 5'UCG3' - Ser; 5'AGC3' - Ser; 5'UAC3' - Tyr. Một đoạn mạch gốc của một gene ở vi khuẩn mang thông tin mã hóa cho đoạn polypeptide có 5 amino acid có trình tự các nucleotide là 3'CCC-AGC-ATG-CGA-GGG5'. Các nhận định sau đây Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Trình tự của 5 amino acid do đoạn gene này quy định tổng hợp là Gly - Ser - Tyr - Ala - Pro.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Nếu cặp G - C ở vị trí thứ 9 bị thay thế bằng cặp T - A thì chuỗi polypeptide sẽ còn lại 2 amino acid.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Nếu đột biến thêm một cặp nucleotide sau vị trí cặp nucleotide thứ 15 thì trình tự và thành phần tất cả các amino acid trong đoạn polypeptide sẽ bị thay đổi.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Nếu đột biến mất cặp G - C ở vị trí thứ nhất thì có thể sẽ làm cho trình tự và thành phần tất cả các amino acid trong đoạn polypeptide sẽ bị thay đổi.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-3",
+    "examSetId": "bai-3-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "371709]: Khi nói về hoạt động của các enzyme trong các cơ chế di truyền ở cấp phân tử. Các nhận định sau đây Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Enzyme DNA polymerase là loại enzyme có khả năng tháo xoắn và xúc tác cho quá trình nhân đôi của DNA.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Enzyme RNA polymerase trượt theo mạch mã gốc trên gene để tổng hợp nên phân tử mRNA trong quá trình phiên mã.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Enzyme lygase có chức năng lắp ráp các nucleotide tự do của môi trường vào các đoạn Okazaki.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Enzyme DNA polymerase có chức năng tổng hợp mạch mới theo chiều 3' - 5'.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-3",
+    "examSetId": "bai-3-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "371711]: Khi nói về mối quan hệ giữa gene, mRNA, chuỗi polypeptide. Các nhận định sau đây Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Gene mang thông tin quy định cấu trúc của 1 chuỗi polypeptide hoặc 1 loại phân tử RNA.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Một phân tử DNA có thể mang thông tin di truyền mã hóa cho nhiều phân tử protein khác nhau.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Trong quá trình dịch mã, sự kết cặp các nucleotide theo nguyên tắc bổ sung xảy ra ở tất cả các nucleotide trên phân tử mRNA.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Trong phiên mã, sự kết cặp các nucleotide theo nguyên tắc bổ sung xảy ra ở tất cả các nucleotide trên mạch mã gốc ở vùng mã hóa của gene.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-3",
+    "examSetId": "bai-3-bo1"
+  },
+  {
+    "type": "short",
+    "content": "371714]: Một phân từ mRNA có 1800 đơn phân và tỷ lệ A: U:G:C = 1:2:3:4 Số nucleotide loại U của mRNA này là bao nhiêu?",
+    "options": [],
+    "correctAnswer": "360",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-3",
+    "examSetId": "bai-3-bo1"
+  },
+  {
+    "type": "short",
+    "content": "371715]: Một phân tử mRNA gồm 62 bộ ba có trình tự nucleotide như sau:",
+    "options": [],
+    "correctAnswer": "",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-3",
+    "examSetId": "bai-3-bo1"
+  },
+  {
+    "type": "short",
+    "content": "371716]: Cho biết các bộ ba trên mRNA mã hóa cho các amino acid tương ứng là: 5'CUG3' - Leu; 5'GUC3' Val; 5'UCG3' - Ser; 5'GCU3' - Ala, 5'AUG3' - Met. Từ đoạn mạch gốc chứa 5 bộ ba của một gene có trình tự các đơn phân 5'TTAAGCCGAGACCAG3'. Đoạn polypeptide do đoạn mạch gốc này quy định có bao nhiêu loại aa?",
+    "options": [],
+    "correctAnswer": "4 loại",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-3",
+    "examSetId": "bai-3-bo1"
+  },
+  {
+    "type": "short",
+    "content": "371717]: Một phân tử mRNA có 1200 nucleotide, trong đó có một bộ ba mở đầu và 3 bộ ba có khả năng kết thúc dịch mã (bộ ba UAA nằm cách bộ ba mở đầu 46 bộ ba; bộ ba UGA nằm cách bộ ba mở đầu 52 bộ ba; bộ ba UAG nằm cách bộ ba mở đầu 37 bộ ba. Khi dịch mã, trên phân tử mRNA này có 10 ribosome trượt qua 1 lần thì số amino acid mà môi trường cung cấp cho quá trình dịch mã là bao nhiêu?",
+    "options": [],
+    "correctAnswer": "370",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-3",
+    "examSetId": "bai-3-bo1"
+  },
+  {
+    "type": "short",
+    "content": "371718]: Một phân từ mRNA tiến hành dịch mã để tổng hợp chuỗi polypeptide. Trong quá trình dịch mã, đã có 150 aa môi trường cung cấp và đã có 145 phân tử nước được giải phóng. Có bao nhiêu ribosome tham gia dịch mã?",
+    "options": [],
+    "correctAnswer": "5",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-3",
+    "examSetId": "bai-3-bo1"
+  },
+  {
+    "type": "short",
+    "content": "393482]: Cho biết một đoạn mạch gốc của gene A có 15 nucleotide là: 3’ACG GCA ACA TAA GGG5’ mã hóa 5 amino acid. Các codon mã hóa amino acid: 5’UGC3’, 5’UGU3’ quy định Cys; 5’CGU3’, 5’CGC3’; 5’CGA3’; 5’CGG3’ quy định Arg; 5’GGG3’, 5’GGA3’, 5’GGC3’, 5’GGU3’ quy định Gly; 5’AUU3’, 5’AUC3’, 5’AUA3’ quy định Ile; 5’CCC3’, 5’CCU3’, 5’CCA3’, S’CCG3’ quy định Pro; 5’ACG3’ quy định Thr. Nếu gene A phiên mã 5 lần, sau đó tất cả các mARN đều dịch mã và trên mỗi phân tử mARN có 15 ribosome trượt qua 1 lần thì quá trình dịch mã đã cần môi trường cung cấp bao nhiêu Cys?",
+    "options": [],
+    "correctAnswer": "150",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-3",
+    "examSetId": "bai-3-bo1"
+  }
+]

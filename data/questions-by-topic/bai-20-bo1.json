@@ -1,0 +1,430 @@
+[
+  {
+    "type": "mc",
+    "content": "nhóm động vật nào sau đây, giới đực mang cặp nhiễm sắc thể giới tính XX và giới cái mang cặp nhiễm sắc thể giới tính XY?",
+    "options": [
+      "A. Thỏ, ruồi giấm, chim sáo. B. Trâu, bò, hươu",
+      "C. Gà, chim bồ câu, bướm.D. Hổ, Chó sói, gà."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-20",
+    "examSetId": "bai-20-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "nhóm động vật nào sau đây, giới đực mang cặp nhiễm sắc thể giới tính XY và giới cái mang cặp nhiễm sắc thể giới tính XX?",
+    "options": [
+      "A. Thỏ, ruồi giấm, chim sáo. B. Trâu, bò, vịt.",
+      "C. Gà, chim bồ câu, bướm.D. Hổ, Chó sói, mèo rừng."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-20",
+    "examSetId": "bai-20-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Các vùng trên mỗi nhiễm sắc thể của cặp nhiễm sắc thể giới tính XY ở người được ký hiệu bằng các chữ số La Mã từ I đến VI trong hình bên. Trong cặp nhiễm sắc thế giới tính này, vùng tương đồng giữa nhiễm sắc thể X và nhiễm sắc thể Y gồm các vùng nào sau đây?",
+    "options": [
+      "A. I và IV; II và V. B. II và IV; III và V.",
+      "C. I và V; II và VI.D. I và IV; III và VI."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-20",
+    "examSetId": "bai-20-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "ruồi giấm, allele. A quy định mắt đỏ trội hoàn toàn so với allele a quy định mắt trắng. Biết rằng không xảy ra đột biến mới. Theo lí thuyết, phép lai: XAXa × XaY, thu được đời con có kiểu hình phân li theo tỉ lệ",
+    "options": [
+      "A. 2 ruồi cái mắt trắng : 1 ruồi đực mắt trắng : 1 ruồi đực mắt đỏ.",
+      "B. 1 ruồi cái mắt đỏ : 2 ruồi đực mắtđỏ : 1 ruồi cái mắt trắng.",
+      "C. 1 ruồi cái mắt đỏ : 1 ruồi cái mắt trắng : 1 ruồi đực mắt đỏ : 1 ruồi đực mắt trắng.",
+      "D. 2 ruồi cái mắt đỏ : 1 ruồi đực mắt đỏ : 1 ruồi đực mắt trắng."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-20",
+    "examSetId": "bai-20-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "gà, tính trạng màu lông do một cặp gene quy định, gene A quy định lông vằn trội hoàn toàn so với gene a quy định lông đen, gene nằm trên nhiễm sắc thể giới tính X, không có allele tương ứng trên Y. Cho gà trống lông vằn giao phối với gà mái lông đen (P), thu được F1 gồm 100% gà lông vằn. F1 giao phối ngẫu nhiên với nhau thu được F2. Biết không xảy ra hiện tượng đột biến. Theo lí thuyết, tỉ lệ kiểu hình về màu lông của gà mái ở F2 là",
+    "options": [
+      "A. 50% lông vằn : 50% lông đen. B. 75% lông vằn : 25% lông đen.",
+      "C. 100% lông vằn.D. 25% lông vằn : 75% lông đen."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-20",
+    "examSetId": "bai-20-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Bệnh mù màu, máu khó đông ở người di truyền",
+    "options": [
+      "A. liên kết với NST X. B. ngoài nhân.",
+      "C. độc lập với giới tính.D. liên kết với NST Y."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-20",
+    "examSetId": "bai-20-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "iều không đúng về nhiễm sắc thể giới tính ở mỗi người là: nhiễm sắc thể giỏi tỉnh",
+    "options": [
+      "A. chỉ gồm một cặp trong nhân tế bào.",
+      "B. chỉ có trong các tế bào sinh dục",
+      "C. tồn tại ở cặp tương đồng XX hoặc không tương đồng XY.",
+      "D. chứa các gene qui định giới tính và các gene qui định tính trạng khác"
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-20",
+    "examSetId": "bai-20-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "người, bệnh máu khó đông do gene h nằm trên NST X, gene H: máu đông bình thường. Bố mắc bệnh máu khó đông, mẹ bình thường, ông ngoại mắc bệnh khó đông, nhận định nào dưới đây là đúng?",
+    "options": [
+      "A. Con gái của họ không bao giờ mắc bệnhB. 100% số con trai của họ sẽ mắc bệnh",
+      "C. 50% số con trai của họ có khả năng mắc bệnh D. 100% số con gái của họ sẽ mắc bệnh"
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-20",
+    "examSetId": "bai-20-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Hiện tượng di truyền liên kết với giới tính là hiện tượng",
+    "options": [
+      "A. Gene quy định các tính trạng thường nằm trên NST Y",
+      "B. Gene quy định các tính trạng giới tính nằm trên các nhiễm sắc thể thường",
+      "C. Gene quy định các tính trạng thường nằm trên NST X",
+      "D. Gene quy định các tính trạng thường nằm trên NST giới tính"
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-20",
+    "examSetId": "bai-20-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Khi nói về NST giới tính, các nhận định sau đây Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "NST giới tính chỉ chứa gene quy định tính trạng giới tính.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Ở vùng tương đồng trên NST giới tính, các gene tồn tại thành cặp allele.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Ở châu chấu, giới cái mang cặp nhiễm sắc thể giới tính XX, giới đực mang cặp nhiễm sắc thể giới tính XO.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Ở các loài thú, số lượng gene nằm trên NST Y thường nhiều hơn số lượng gene nằm trên",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-20",
+    "examSetId": "bai-20-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Khi nói về đặc điểm của gene lặn nằm trên vùng không tương đồng của nhiễm sắc thể giới tính X. Các nhận định sau đây Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Tính trạng thường dễ biểu hiện ở giới đực",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Tỉ lệ phân li của tính trạng không giống nhau ở 2 giới.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Có hiện tượng di truyền chéo.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Gene của mẹ chỉ truyền cho con trai mà không truyền cho con gái.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-20",
+    "examSetId": "bai-20-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Khi nói về nhiễm sắc thể giới tính ở động vật, các nhận định sau đây Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Nhiễm sắc thể giới tính chỉ có ở tế bào sinh dục",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Ở gà giới cái có kiểu gene là XY, còn giới đực có kiểu gene XX.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Nhiễm sắc thể giới tính có thể bị đột biến về cấu trúc và số lượng.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Một tính trạng được gọi là di truyền liên kết giới tính khi sự di truyền của nó luôn gắn với giới tính.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-20",
+    "examSetId": "bai-20-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Khi nói về đặc điểm di truyền của gene trên nhiễm sắc thể giới tính của người. Các nhận định sau đây Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Gene trên nhiễm sắc thể giới tính X thường di truyền chéo.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Gene trên nhiễm sắc thể giới tính Y thường di truyền thẳng.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Ở giới dị giao tử, gene không tồn tại thành cặp allele.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Biểu hiện đều ở cả hai giới đực và cái.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-20",
+    "examSetId": "bai-20-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Với các tính trạng được quy định bởi gene lặn nằm trên vùng không tương đồng của nhiễm sắc thể X. Các nhận định sau đây Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Tính trạng này biểu hiện ở cả hai giới, tuy nhiên ở nữ biểu hiện nhiều hơn ở nam.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Tính trạng này biểu hiện ở hai giới, tuy nhiên trong một gia đình nếu con gái bị bệnh thì người mẹ nhất thiết phải bị bệnh.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Các cặp bố mẹ không biểu hiện tính trạng này thì con trai của họ không bao giờ mang tính trạng này.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Bố biểu hiện tính trạng này, mẹ đồng hợp trội thì 100% số con gái của họ không biểu hiện tính trạng này.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-20",
+    "examSetId": "bai-20-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Theo lí thuyết, khi nói về sự di truyền các gene ở thú, các nhận định sau đây Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Các gene trong tế bào chất luôn phân chia đều cho các tế bào con trong quá trình phân bào.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Hai cặp gene trên 2 cặp NST khác nhau phân li độc lập về các giao tử trong quá trình giảm phân.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Để xác định giới tính, người ta có thể dựa vào sự di truyền của tính trạng liên kết giới tính.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Các gene ở vùng không tương đồng trên NST Y chỉ biểu hiện kiểu hình ở giới đực",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-20",
+    "examSetId": "bai-20-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Theo lí thuyết, khi nói về sự di truyền các gene ở thú, các nhận định sau đây Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Các gene ở vùng không tương đồng trên NST X chỉ hiểu hiện kiểu hình ở giới cái.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Ở người, gene trên X không có allele trên Y tuân theo quy luật di truyền chéo.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Để xác định giới tính, người ta có thể dựa vào sự di truyền của tính trạng liên kết giới tính.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Các gene ở vùng không tương đồng trên NST Y chỉ biểu hiện kiểu hình ở giới đực",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-20",
+    "examSetId": "bai-20-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Khi nói về NST giới tính, các nhận định sau đây Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "NST giới tính có thể chứa gene quy định tính trạng thường",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Ở vùng tương đồng trên NST giới tính, các gene tồn tại thành cặp allele.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Ở các loài, trong bộ NST của cơ thể lưỡng bội có thể chỉ có 1 NST X, hoặc có 2 NST X.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Ở các loài thú, số lượng gene nằm trên NST Y thường nhiều hơn số lượng gene nằm trên NST X.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-20",
+    "examSetId": "bai-20-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Với các tỉnh trạng được quy định bởi gene lặn nằm trên vùng không tương đồng của nhiễm sắc thể X. Các nhận định sau đây Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Tính trạng này biểu hiện ở cả hai giới, tuy nhiên ở nam biểu hiện nhiều hơn ở nữ.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Tính trạng này biểu hiện ở hai giới, tuy nhiên trong một gia đình nếu con gái bị bệnh thì người mẹ nhất thiết phải bị bệnh.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Các cặp bố mẹ không biểu hiện tính trạng này thì con trai của họ cũng có thể mang tính trạng này.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Bổ biểu hiện tính trạng này, mẹ đồng hợp trội thì 100% số con của họ không biểu hiện tính trạng này.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-20",
+    "examSetId": "bai-20-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "1 loài thú, gene A quy định chân cao trội hoàn toàn so với gene a quy định chân thấp. Quá trình giảm phân không xảy ra đột biến. Phép lai cho đời con có tỉ lệ kiểu hình ở giới đực khác với tỉ lệ kiểu hình ở giới cái. Các phép lai sau đây Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "XAXA x XaY B. XAxa x XaYC. XaXa x XaYD. XAXa × XAY.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-20",
+    "examSetId": "bai-20-bo1"
+  }
+]

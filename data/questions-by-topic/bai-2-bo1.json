@@ -1,0 +1,231 @@
+[
+  {
+    "type": "mc",
+    "content": "Trong quá trình nhân đôi DNA, quá trình nào sau đây không xảy ra?",
+    "options": [
+      "A. A của môi trường liên kết với T mạch gốc. B. T của môi trường liên kết với A mạch gốc.",
+      "C. U của môi trường liên kết với A mạch gốc.D. G của môi trường liên kết với C mạch gốc."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-2",
+    "examSetId": "bai-2-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Nguyên tắc bán bảo tồn được thể hiện trong cơ chế nhân đôi DNA có nghĩa là",
+    "options": [
+      "A. Trong 2 phân tử DNA mới được hình thành, mỗi phân tử gồm có 1 mạch là của DNA ban đầu và 1 mạch mới tổng hợp.",
+      "B. Sự nhân đôi xảy ra trên 2 mạch của phân tử DNA theo 2 hướng và ngược chiều nhau.",
+      "C. Trong 2 phân tử DNA mới được hình thành, 1 phân từ giống với phân tử DNA mẹ còn phân tử kia có cấu trúc thay đổi.",
+      "D. 2 phân tử DNA mới được hình thành hoàn toàn giống nhau và giống với DNA mẹ ban đầu."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-2",
+    "examSetId": "bai-2-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Khi nói về quá trình nhân đôi DNA, phát biểu nào sau đây Sai?",
+    "options": [
+      "A. Enzyme DNA polymerase tổng hợp và kéo dài mạch mới theo chiều 3 - 5",
+      "B. Enzyme lygase (enzyme nổi) nổi các đoạn Okazaki thành mạch đơn hoàn chỉnh.",
+      "C. Quá trình nhân đôi DNA diễn ra theo nguyên tắc bổ sung và nguyên tắc bản bảo tồn.",
+      "D. Nhờ các enzyme tháo xoắn, hai mạch đơn của DNA tách nhau dần tạo nên chạc chữ Y."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-2",
+    "examSetId": "bai-2-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Enzyme DNA polymerase có vai trò gì trong quá trình tải bản DNA?",
+    "options": [
+      "A. Sử dụng đồng thời cả 2 mạch khuôn để tổng hợp DNA mới.",
+      "B. Lắp ráp nucleotide tự do theo nguyên tắc bổ sung với mỗi mạch khuôn của DNA theo chiều 5-3",
+      "C. Sử dụng một mạch khuôn để tổng hợp mạch mới theo chiều 3 - 5",
+      "D. Chỉ xúc tác tháo xoẩn DNA mà không tổng hợp mạch mới"
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-2",
+    "examSetId": "bai-2-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "iều nào dưới đây là đúng để giải thích vì sao trên mỗi chạc chữ Y chỉ có một mạch của phân tử DNA được tổng hợp liên tục còn một mạch được tổng hợp gián đoạn?",
+    "options": [
+      "A. Do 2 mạch khuôn có cấu trúc ngược chiều nhưng enzyme DNA polymerase chi xúc tác tổng hợp mạch mới theo chiều 5' 3'.",
+      "B. Sự liên kết các nucleotide trên 2 mạch diễn ra không đồng thời",
+      "C. Do giữa 2 mạch có nhiều liên kết bổ sung khác nhau.",
+      "D. Do 2 mạch khuôn có cấu trúc ngược chiều nhưng enzyme DNA polymerase chỉ xúc tác tổng hợp mạch mới theo chiều 3' 5'."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-2",
+    "examSetId": "bai-2-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Một trong những chức năng của DNA là",
+    "options": [
+      "A. Cấu tạo nên protein.B. Truyền thông tin tới ribosome.",
+      "C. Vận chuyển amino acid tới ribosome.D. Lưu trữ, truyền đạt thông tin di truyền."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-2",
+    "examSetId": "bai-2-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "oạn mạch thứ nhất của gene có trình tự các các nucleotide là 5'- TACCCAGTCATGCA-3'. Gene nhân đôi 2 lần, số nucleotide mỗi loại mà môi trường cung cấp là",
+    "options": [
+      "A. A = T = 24 G = C = 21B. A = T = 21 G = C = 21",
+      "C. A = T = 9 G = C = 15D. A = T = 12 G = C = 9"
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-2",
+    "examSetId": "bai-2-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Khi nói về quá trình nhân đôi DNA, các phát biểu sau đây Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Enzym lygase có vai trò nối các đoạn okazaki lại với nhau.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Enzym DNA polymerase có vai trò tổng hợp mạch mới và tháo xoắn phân tử DNA.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Quá trình nhân đôi DNA được thực hiện theo 2 nguyên tắc, nguyên tắc bổ sung và nguyên tắc bán bảo tồn.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Trong quá trình nhân đôi DNA, trên một chạc sao chép, một mạch được tổng hợp liên tục, một mạch được tổng hợp gián đoạn.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-2",
+    "examSetId": "bai-2-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Khi nói về quá trình tự nhân đôi của DNA, các phát biểu sau đây Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Ở sinh vật nhân thực diễn ra ở trong nhân, tại pha G2 của kỳ trung gian",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Enzyme xúc tác là RNA polymerase",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Nếu gene nhân đôi 3 lần số DNA con tạo thành là 6.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Khi một phân tử DNA tự nhân đôi 1 mạch mới được tổng hợp liên tục, một mạch được tổng hợp gián đoạn.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-2",
+    "examSetId": "bai-2-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Một nhóm các nhà khoa học thực hiện lại thí nghiệm của Meselson và Stahl (1958) để nghiên cứu mô hình nhân đôi của DNA. Họ đã nuôi vi khuẩn E.coli trong môi trường chỉ có nitrogene đồng vị nặng (N15), sau đó chuyển sang môi trường chỉ có nitrogene đồng vị nhẹ (N14), tách DNA sau mỗi thế hệ và ly tâm.",
+    "options": [],
+    "correctAnswer": {
+      "c": false
+    },
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Ba loại DNA N15 - N15, N15 - N14, N14- N14 có khối lượng khác nhau nên khi ly tâm sẽ lắng ở độ cao khác nhau tạo nên các băng tương ứng là băng A, B, C.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Khối lượng của mỗi phân tử DNA ở các băng A, B, C có độ lớn lần lượt từ cao đến thấp.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Thế hệ n là thế hệ thứ 5.",
+        "isCorrect": false
+      },
+      {
+        "label": "d",
+        "content": "Ở thế hệ thứ 2 chỉ có các phân tử DNA được cấu trúc từ 1 mạch polynucleotide N15 và 1 mạch polynucleotide N14.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-2",
+    "examSetId": "bai-2-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Một phân tử DNA của vi khuẩn được đánh dấu nguyên tử nitrogene phóng xạ (N15) ở cả hai mạch. Người ta đem vi khuẩn này nuôi trong môi trường chỉ có N14 cho nó nhân đôi 5 lần. Hãy cho biết mỗi nhận định sau đây Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Số phân tử DNA con được tạo thành sau nhân đôi là 32 phân tử.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Số phân tử DNA được cấu trúc từ 2 mạch polynucleotide được xây dựng từ N15 là 32 phân tử.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Số phân tử DNA được cấu trúc từ 1 mạch polynucleotide được xây dựng từ N15 và 1 mạch",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Ở thế hệ thứ 3, chỉ có dạng phân tử DNA được xây dựng từ N14,",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-2",
+    "examSetId": "bai-2-bo1"
+  }
+]

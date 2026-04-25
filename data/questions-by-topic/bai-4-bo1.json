@@ -1,0 +1,207 @@
+[
+  {
+    "type": "mc",
+    "content": "RNA được tổng hợp từ mạch nào của gene?",
+    "options": [
+      "A. Từ mạch có chiều 5' 3'.B. Từ cả hai mạch đơn.",
+      "D. Khi thì từ mạch 1, khi thì từ mạch 2.C. Từ mạch mang mã gốc."
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-4",
+    "examSetId": "bai-4-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "sinh vật nhân thực, quá trình nào sau đây chỉ diễn ra ở tế bảo chất?",
+    "options": [
+      "A. Tổng hợp chuỗi polypeptide.C. Nhân đôi DNA.",
+      "B. Tổng hợp phân tử RNA.D. Nhân đôi nhiễm sắc thể."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-4",
+    "examSetId": "bai-4-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Mạch khuôn của gene có đoạn 3' TATGGGCATGTA 5' thì mRNA được phiên mã từ mạch khuôn này có trình tự nucleotide là",
+    "options": [
+      "A. 3'AUACCCGUACAU5'.C. 3'ATACCCGTACAT5'.",
+      "B. 5'AUACCCGUACAU3'.D. 5'ATACCCGTACAT3'."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-4",
+    "examSetId": "bai-4-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Trên tRNA thì bộ ba đối mã (anticodon) có nhiệm vụ",
+    "options": [
+      "A. xúc tác hình thành liên kết giữa amino acid với tRNA.",
+      "B. xúc tác vận chuyển amino acid đến nơi tổng hợp protein.",
+      "C. xúc tác hình thành liên kết peptide.",
+      "D. nhận biết codon đặc hiệu trên mRNA trong quá trình tổng hợp protein."
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-4",
+    "examSetId": "bai-4-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Cho biết các cô đơn mã hóa các amino aicd tương ứng như sau: 5'GGC3' - Gly; 5'CCG3' - Pro; 5'GCC3' - Ala; 5'CGG3' - Arg; 5'UCG3' - Ser; S'AGC3' - Ser. Một đoạn mạch gốc của một gene ở vi khuẩn có trình tự các nucleotide là 5'GGC CGA CGG GCC3'. Nếu đoạn mạch gốc này mang thông tin mã hóa cho đoạn polypeptide có 4 amino acid thì trình tự của 4 amino acid đó là",
+    "options": [
+      "A. Ala-Gly-Ser - Pro.C. Pro -Gly-Ala - Ser.",
+      "B. Pro- Gly -Ser - Arg.D. Gly -Pro-Ser - Ala."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-4",
+    "examSetId": "bai-4-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Hình dưới đây mô tả sơ đồ 3 gene A, B, C cùng nằm trên một phân tử DNA ở một loài vi khuẩn. Mũi tên ở mỗi gene chỉ vị trí bắt đầu phiên mã và hướng phiên mã của gene đó.",
+    "options": [
+      "A. Gene B sử dụng mạch 2 làm khuôn để tổng hợp mRNA.",
+      "B. Gene A và gene C đều sử dụng mạch 1 làm khuôn để tổng hợp mRNA.",
+      "C. Khi DNA này nhân đôi thì gene A sẽ nhân đôi trước gene C.",
+      "D. Nếu gene B không phiên mã thì gene A cũng không phiên mã."
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-4",
+    "examSetId": "bai-4-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Khi nói về quá trình tổng hợp RNA, mỗi nhận định sau đây Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "RNA được tổng hợp dựa trên khuôn mẫu là mạch gốc của gene và diễn ra theo nguyên tắc bổ sung.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Quá trình tổng hợp RNA không cần tổng hợp đoạn mồi như quá trình tổng hợp DNA. c. Để hoàn thiện về chức năng thì sau khi được tổng hợp, RNA được cắt bỏ các đoạn intron và nối các đoạn exon lại với nhau.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Để hoàn thiện về chức năng thì sau khi được tổng hợp, RNA được cắt bỏ các đoạn intron và nối các đoạn exon lại với nhau.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Sau khi hoàn tất quá trình, phân từ RNA rời khỏi gene, rồi đi ra tế bào chất để làm khuôn tổng hợp protein.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-4",
+    "examSetId": "bai-4-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Khi nói về quá trình dịch mã ở sinh vật nhân thực, theo lí thuyết, các phát biểu sau đây Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Làm khuôn cho quá trình dịch mã là mRNA.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Quá trình dịch mã diễn ra theo nguyên tắc bổ sung, nguyên tắc bổ sung được thể hiện giữa bộ ba đối mã của tRNA với bộ ba mã hoá trên mRNA.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Các ribosome trượt theo từng bộ ba ở trên mRNA theo chiều từ 5' đến 3' từ bộ ba mở đầu cho đến khi gặp bộ ba kết thúc.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Nếu biết trình tự các nucleotide của gene thì không biết được trình tự các amino acid trong chuỗi polypeptide",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-4",
+    "examSetId": "bai-4-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Cho biết các codon mã hóa các amino acid tương ứng như sau: 5'GGG3'. Gly: 5'CCC3' - Pro; S'GCU3' - Ala: 5'CGA3' - Arg; 5'UCG3' - Ser; S'AGC3' - Ser; 5'UAC3'- Tyr. Một đoạn mạch gốc của một gene ở vi khuẩn mang thông tin mã hóa cho đoạn polypeptide có 5 amino acid có trình tự các nucleotide là 3'CCC-AGC-ATG-CGA-GGG5'. Những phát biểu sau đây, phát biểu nào Đúng, phát biểu nào Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Trình tự của 5 amino acid do đoạn gene này quy định tổng hợp là Gly - Ser - Tyr - Ala - Pro,",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Nếu cặp G - C ở vị trí thứ 9 bị thay thế bằng cặp T - A thì chuỗi polipeptide sẽ còn lại 2 amino acid.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Nếu đột biến thêm một cặp nucleotide sau vị trí cặp nucleotide thứ 15 thì trình tự và thành phần tất cả các amino acid trong đoạn polipeptide sẽ bị thay đổi.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-4",
+    "examSetId": "bai-4-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Cho các thông tin sau: Các bộ ba trên mRNA mã hóa các amino acid tương ứng sau: 5'UUG3' - Leu, 5'AUC3'- Ile, 5'ACC3' -Thr, 5'AAU3' - Asn, 5'AUG3' - Met (amino acid mở đầu), 5'GUA3' - Val, 5'UGC3' - Cys, 5'UAG 3' - Kết thúc, 5'GGC3' - Gly. Một phân tử mRNA ngắn của vi khuẩn có trình tự các nucleotide như sau: 5'AUG/ AUC/ UUG/ ACC/ AUC/ AAU/ UGC/ GGC/ UGC/ UGA3'.",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Trình tự các nucleotide trong vùng mã hóa trên mạch bổ sung của đoạn gene đã làm khuôn tổng hợp nên mRNA trên là 3'TAC TAG AAC TGG TAG TTA ACG CCG ACG ACTS'.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Số lượng amino acid trên chuỗi polypeptide là 8.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Trình tự các amino acid trên chuỗi polypeptide do đoạn mRNA trên qui định tổng hợp là",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Đoạn gene qui định tổng hợp nên mRNA trên có 74 liên kết hydrogen.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-4",
+    "examSetId": "bai-4-bo1"
+  }
+]

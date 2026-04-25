@@ -1,0 +1,262 @@
+[
+  {
+    "id": "bai-2",
+    "name": "Bài tập DNA và Tái bản DNA",
+    "icon": "🧬",
+    "order": 2,
+    "grade": "12",
+    "description": "Bài tập DNA và Tái bản DNA",
+    "examSetCount": 1,
+    "questionCount": 11
+  },
+  {
+    "id": "bai-3",
+    "name": "Truyền TTDT từ Gene đến Protein",
+    "icon": "🔬",
+    "order": 3,
+    "grade": "12",
+    "description": "Truyền TTDT từ Gene đến Protein",
+    "examSetCount": 1,
+    "questionCount": 15
+  },
+  {
+    "id": "bai-4",
+    "name": "Bài tập Gene - RNA - Protein",
+    "icon": "⚗️",
+    "order": 4,
+    "grade": "12",
+    "description": "Bài tập Gene - RNA - Protein",
+    "examSetCount": 1,
+    "questionCount": 10
+  },
+  {
+    "id": "bai-5",
+    "name": "Điều hoà biểu hiện Gene",
+    "icon": "🎛️",
+    "order": 5,
+    "grade": "12",
+    "description": "Điều hoà biểu hiện Gene",
+    "examSetCount": 1,
+    "questionCount": 14
+  },
+  {
+    "id": "bai-6",
+    "name": "Đột biến Gene",
+    "icon": "⚡",
+    "order": 6,
+    "grade": "12",
+    "description": "Đột biến Gene",
+    "examSetCount": 1,
+    "questionCount": 18
+  },
+  {
+    "id": "bai-7",
+    "name": "Bài tập Đột biến Gene",
+    "icon": "🧪",
+    "order": 7,
+    "grade": "12",
+    "description": "Bài tập Đột biến Gene",
+    "examSetCount": 1,
+    "questionCount": 17
+  },
+  {
+    "id": "bai-8",
+    "name": "Công nghệ Gene và Hệ Gene",
+    "icon": "💻",
+    "order": 8,
+    "grade": "12",
+    "description": "Công nghệ Gene và Hệ Gene",
+    "examSetCount": 1,
+    "questionCount": 22
+  },
+  {
+    "id": "bai-9",
+    "name": "Ôn tập Di truyền Phân tử",
+    "icon": "📝",
+    "order": 9,
+    "grade": "12",
+    "description": "Ôn tập Di truyền Phân tử",
+    "examSetCount": 2,
+    "questionCount": 36
+  },
+  {
+    "id": "bai-10",
+    "name": "Nhiễm sắc thể",
+    "icon": "🔭",
+    "order": 10,
+    "grade": "12",
+    "description": "Nhiễm sắc thể",
+    "examSetCount": 1,
+    "questionCount": 16
+  },
+  {
+    "id": "bai-11",
+    "name": "Nguyên phân - Giảm phân",
+    "icon": "🔄",
+    "order": 11,
+    "grade": "12",
+    "description": "Nguyên phân - Giảm phân",
+    "examSetCount": 1,
+    "questionCount": 26
+  },
+  {
+    "id": "bai-12",
+    "name": "Bài tập NST và Phân bào",
+    "icon": "🧫",
+    "order": 12,
+    "grade": "12",
+    "description": "Bài tập NST và Phân bào",
+    "examSetCount": 1,
+    "questionCount": 13
+  },
+  {
+    "id": "bai-13",
+    "name": "Đột biến cấu trúc NST",
+    "icon": "🔀",
+    "order": 13,
+    "grade": "12",
+    "description": "Đột biến cấu trúc NST",
+    "examSetCount": 1,
+    "questionCount": 25
+  },
+  {
+    "id": "bai-14",
+    "name": "Đột biến số lượng NST",
+    "icon": "📊",
+    "order": 14,
+    "grade": "12",
+    "description": "Đột biến số lượng NST",
+    "examSetCount": 1,
+    "questionCount": 19
+  },
+  {
+    "id": "bai-15",
+    "name": "Bài tập Đột biến NST",
+    "icon": "🔬",
+    "order": 15,
+    "grade": "12",
+    "description": "Bài tập Đột biến NST",
+    "examSetCount": 1,
+    "questionCount": 9
+  },
+  {
+    "id": "bai-16",
+    "name": "Quy luật Di truyền Mendel",
+    "icon": "🫘",
+    "order": 16,
+    "grade": "12",
+    "description": "Quy luật Di truyền Mendel",
+    "examSetCount": 1,
+    "questionCount": 18
+  },
+  {
+    "id": "bai-17",
+    "name": "Bài tập Di truyền Mendel",
+    "icon": "📋",
+    "order": 17,
+    "grade": "12",
+    "description": "Bài tập Di truyền Mendel",
+    "examSetCount": 1,
+    "questionCount": 7
+  },
+  {
+    "id": "bai-18",
+    "name": "Tương tác Gene",
+    "icon": "🔗",
+    "order": 18,
+    "grade": "12",
+    "description": "Tương tác Gene",
+    "examSetCount": 1,
+    "questionCount": 18
+  },
+  {
+    "id": "bai-19",
+    "name": "Bài tập Tương tác Gene",
+    "icon": "⚙️",
+    "order": 19,
+    "grade": "12",
+    "description": "Bài tập Tương tác Gene",
+    "examSetCount": 1,
+    "questionCount": 10
+  },
+  {
+    "id": "bai-20",
+    "name": "Giới tính và Di truyền LK giới tính",
+    "icon": "♀️",
+    "order": 20,
+    "grade": "12",
+    "description": "Giới tính và Di truyền LK giới tính",
+    "examSetCount": 1,
+    "questionCount": 19
+  },
+  {
+    "id": "bai-21",
+    "name": "Bài tập Di truyền LK giới tính",
+    "icon": "🧬",
+    "order": 21,
+    "grade": "12",
+    "description": "Bài tập Di truyền LK giới tính",
+    "examSetCount": 1,
+    "questionCount": 17
+  },
+  {
+    "id": "bai-22",
+    "name": "Liên kết Gene và Hoán vị Gene",
+    "icon": "🔁",
+    "order": 22,
+    "grade": "12",
+    "description": "Liên kết Gene và Hoán vị Gene",
+    "examSetCount": 1,
+    "questionCount": 14
+  },
+  {
+    "id": "bai-23",
+    "name": "Nâng cao DT LK - Hoán vị Gene",
+    "icon": "🎯",
+    "order": 23,
+    "grade": "12",
+    "description": "Nâng cao DT LK - Hoán vị Gene",
+    "examSetCount": 1,
+    "questionCount": 9
+  },
+  {
+    "id": "bai-25",
+    "name": "Mối quan hệ KG - MT - KH",
+    "icon": "🌱",
+    "order": 25,
+    "grade": "12",
+    "description": "Mối quan hệ KG - MT - KH",
+    "examSetCount": 1,
+    "questionCount": 23
+  },
+  {
+    "id": "bai-26",
+    "name": "Chọn giống bằng lai hữu tính",
+    "icon": "🌾",
+    "order": 26,
+    "grade": "12",
+    "description": "Chọn giống bằng lai hữu tính",
+    "examSetCount": 1,
+    "questionCount": 18
+  },
+  {
+    "id": "bai-27",
+    "name": "Ôn tập Di truyền NST",
+    "icon": "📚",
+    "order": 27,
+    "grade": "12",
+    "description": "Ôn tập Di truyền NST",
+    "examSetCount": 1,
+    "questionCount": 15
+  },
+  {
+    "id": "bai-28",
+    "name": "Ôn tập Quy luật Di truyền",
+    "icon": "📖",
+    "order": 28,
+    "grade": "12",
+    "description": "Ôn tập Quy luật Di truyền",
+    "examSetCount": 1,
+    "questionCount": 19
+  }
+]

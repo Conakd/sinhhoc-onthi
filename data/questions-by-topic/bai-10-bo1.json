@@ -1,0 +1,402 @@
+[
+  {
+    "type": "mc",
+    "content": "393446]: Ở sinh vật nhân thực, NST được cấu trúc bởi 2 thành phần chủ yếu là",
+    "options": [
+      "A. DNA và protein histone.B. DNA và mRNA.",
+      "C. DNA và tRNA.D. RNA và protein."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-10",
+    "examSetId": "bai-10-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "393449]: Vùng trình tự nào sau đây giúp cho NST liên kết với thoi phân bào?",
+    "options": [
+      "A. Đầu mút NST. B. Tâm động.",
+      "C. Đầu mút cánh dài.D. Trình tự khởi đầu nhân đôi DNA."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-10",
+    "examSetId": "bai-10-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "393453]: Trong các mức cấu trúc siêu hiển vi của nhiễm nhân thực, sợi cơ bản và sợi nhiễm sắc thể (sợi chất nhiễm sắc) có sắc thể điển hình ở sinh vật đường kính lần lượt là",
+    "options": [
+      "A. 30 nm và 11 nm.B. 11 nm và 300 nm.",
+      "C. 10 nm và 30 nm.D. 30 nm và 300 nm."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-10",
+    "examSetId": "bai-10-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "393458]: Ở kì nào sau đây, NST có dạng sợi đơn?",
+    "options": [
+      "A. Kì đầu của nguyên phân.B. Kì sau của giảm phân 2.",
+      "C. Kì giữa của nguyên phân.D. Kì giữa của giảm phân 1."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-10",
+    "examSetId": "bai-10-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "393460]: Ở các loài sinh sản hữu tính, bộ NST của loài được duy trì ổn định nhờ những cơ chế nào sau đây?",
+    "options": [
+      "A. Nguyên phân và thụ tinh. B. Nguyên phân, giảm phân và thụ tinh.",
+      "C. Nhân đôi DNA và dịch mã.D. Nhân đôi, phiên mã và dịch mã."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-10",
+    "examSetId": "bai-10-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "393464]: Khi nói về cấu trúc của NST, phát biểu nào sau đây đúng?",
+    "options": [
+      "A. Ở kì đầu của quá trình phân bào, NST tồn tại ở trạng thái đơn thành từng cặp gọi là cặp NST tương đồng.",
+      "B. Sợi chromatin (sợi nhiễm sắc) có đường kính 30 nm và chứa nhiều đơn vị nucleosome.",
+      "C. Ở kì sau của quá trình nguyên phân NST ở trạng trạng thái duỗi xoắn cực đại và tồn tại ở trạng thái kép.",
+      "D. Mỗi NST ở tế bào nhân thực chứa nhiều phân tử DNA, mỗi phân tử DNA chứa nhiều gene."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-10",
+    "examSetId": "bai-10-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "393466]: Khi nói về cơ chế di truyền ở cấp tế bào, các nhận định sau là Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Mỗi loài có một bộ NST đặc trưng về số lượng, hình thái và cấu trúc",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Nhiễm sắc thể ở sinh vật nhân sơ là phân tử DNA trần, dạng vòng mạch kép.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Tất cả các loài đều có bộ NST lưỡng bội (kí hiệu là 2n).",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Loài có trình độ tiến hoá càng cao thì có bộ NST với số lượng càng lớn.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-10",
+    "examSetId": "bai-10-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "393467]: Khi nói về nhiễm sắc thể ở sinh vật nhân thực, các nhận định sau là Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Thành phần của nhiễm sắc thể gồm RNA và chủ yếu là protein histone.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Mỗi nucleosome gồm một đoạn DNA có khoảng 146 cặp nucleotide quấn 1 3/4 vòng quanh  một khối cầu gồm 8 phân tử histone.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Ở các loài lưỡng bội, NST thường được tồn tại thành từng cặp tương đồng, trong đó 1 chiếc có nguồn gốc từ bố; một chiếc có nguồn gốc từ mẹ.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Thứ tự cuộn xoắn của NST là: nucleosome - Sợi cơ bản - Sợi nhiễm sắc - Vùng siêu xoắn - Chromatide.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-10",
+    "examSetId": "bai-10-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "393468]: Khi nói về tâm động của nhiễm sắc thể, các nhận định sau là Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Tâm động là trình tự nucleotide đặc biệt, mỗi nhiễm sắc thể có duy nhất một trình tự nucleotide này.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Tâm động là vị trí liên kết của nhiễm sắc thể với thoi phân bào, giúp nhiễm sắc thể có thể",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Tâm động bao giờ cũng nằm ở đầu tận cùng của nhiễm sắc thể.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Tâm động là những điểm mà tại đó DNA bắt đầu tự nhân đôi.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-10",
+    "examSetId": "bai-10-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "393469]: Khi nói về phân bào nguyên phân, các nhận định sau là Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Xảy ra tại cơ quan sinh dưỡng và vùng sinh sản của cơ quan sinh dục",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "DNA nhân đôi xảy ra ở kì trung gian dẫn đến NST nhân đôi ở kì này (Giai đoạn G1).",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "NST đóng xoắn ở kỳ trước, co xoắn tối đa ở kỳ giữa vào kì sau mỗi NST kép đều bị tách thành 2 NST đơn phân li về hai cực. Sau đó tháo xoắn ở kì cuối.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Kỳ trung gian là thời kỳ sinh trưởng của tế bào, chuẩn bị cho quá trình phân bảo tiếp theo.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-10",
+    "examSetId": "bai-10-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "393470]: Khi nói về NST ở sinh vật nhân chuẩn, các nhận định sau là Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Mỗi loài có một bộ NST đặc trưng về số lượng, hình thái và cấu trúc",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "NST được cấu tạo bởi 2 thành phần chính là: Protein histone và DNA.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Trong tế bào Soma của cơ thể lưỡng bội, NST tồn tại thành từng cặp nên được gọi là bộ 2n.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Số lượng NST nhiều hay ít là tiêu chí quan trọng phản ánh mức độ tiến hoá của loài.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-10",
+    "examSetId": "bai-10-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "393471]: Khi nói về NST, các nhận định sau là Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Sợi cơ bản có đường kính 30 nm.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Thành phần gồm DNA và rRNA.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Có chức năng lưu giữ, bảo quản và truyền đạt thông tin di truyền.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "NST của các loài sinh vật khác nhau không phải chỉ ở số lượng và hình thái mà chủ yếu ở các gene trên đó.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-10",
+    "examSetId": "bai-10-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "393472]: Khí nói về nhiễm sắc thể ở sinh vật nhân thực, các nhận định sau là Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Thành phần của nhiễm sắc thể gồm RNA và chủ yếu là protein histone.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Mỗi nucleosome gồm một đoạn DNA có khoảng 146 nucleotide quấn quanh khối cầu gồm 8 phân tử histone.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Tâm động là những điểm mà tại đó DNA bắt đầu tự nhân đôi.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Nhiễm sắc thể là vật chất di truyền ở cấp độ tế bào.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-10",
+    "examSetId": "bai-10-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "393473]: Khi nói về NST giới tính, các nhận định sau là Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Hầu hết sinh vật có một cặp NST giới tính và khác nhau ở hai giới.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Một số trường hợp con đực hoặc cái chỉ có một NST giới tính.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Trên cặp NST giới tính chứa các gene quy định giới tính và các gene quy định các tính trạng thường.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Con đực mang cặp NST giới tính XY, con cái mang cặp NST giới tính XX.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-10",
+    "examSetId": "bai-10-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "393474]: Khi nói về nhiễm sắc thể giới tính ở động vật, các nhận định sau là Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Nhiễm sắc thể giới tính chỉ có ở tế bào sinh dục",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Nhiễm sắc thể giới tính chỉ chứa các gene quy định tỉnh trạng giới tỉnh.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Hợp từ mang cập nhiễm sắc thể giới tính XY bao giờ cũng phát triển thành cơ thể đực",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Nhiễm sắc thể giới tỉnh có thể bị đột biến về cấu trúc và số lượng.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-10",
+    "examSetId": "bai-10-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "393475]: Hình ảnh dưới đây cho thấy các cấp độ cấu trúc của NST trong tế bào nhân thựC.",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Với cấu trúc có đường kính 1400 nm cho thấy NST có hiện tượng co xoắn cực đại nhằm",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Hầu hết vật chất di truyền của tế bào nhân thực tập trung trong 1 NST điển hình, được bảo vệ bởi hệ thống protein histone.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Trong mỗi thời kỳ của chu kì tế bào đều có thể quan sát được tất cả các cấu trúc xuất hiện như trong hình ảnh này.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Chỉ những vùng NST chứa các gene ít sử dụng hoặc gene bất hoạt mới được đóng xoắn, còn các gene thường xuyên sử dụng luôn ở trạng thái sợi mảnh.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-10",
+    "examSetId": "bai-10-bo1"
+  }
+]

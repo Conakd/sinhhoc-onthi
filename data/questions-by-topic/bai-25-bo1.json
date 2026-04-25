@@ -1,0 +1,422 @@
+[
+  {
+    "type": "mc",
+    "content": "Kiểu hình là kết quả của sự tương tác giữa",
+    "options": [
+      "A. kiểu gene và tế bào chất.C. kiểu gene và nhiệt độ môi trường.",
+      "B. kiểu hình và môi trường.D. kiểu gene với môi trường."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-25",
+    "examSetId": "bai-25-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Hiện tượng nào sau đây không phải là thường biến?",
+    "options": [
+      "A. Trên cây hoa giấy đỏ xuất hiện cảnh hoa trắng.",
+      "B. Cây phù dung (Hibiscus mutabilis) có hoa màu trắng vào buổi sáng, nhưng buổi chiều hoa chuyển sang màu hồng",
+      "C. Số lượng mắt đơn cấu thành mắt kép ở ruồi giấm Drosophila melanogaster thay đổi tùy thuộc nhiệt độ môi trường.",
+      "D. Những người sinh đôi cùng trứng có cùng kiểu gene, sống ở môi trường khác nhau cũng có nhiều đặc điểm khác nhau."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-25",
+    "examSetId": "bai-25-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Nhận định nào sau đây đúng khi nói về ý nghĩa của thường biến?",
+    "options": [
+      "A. sinh vật ngày càng đa dạng và phong phú.B. tạo nguồn biến dị sơ cấp cho tiến hóa",
+      "C. tạo nguồn nguyên liệu cho chọn giống.         D. sinh vật thích nghi với sự thay đổi của môi trường."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-25",
+    "examSetId": "bai-25-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Nhận định nào sau đây đúng khi nói về đặc điểm của thường biến?",
+    "options": [
+      "A. đồng loạt, xác định, không di truyền.",
+      "B. đồng loạt, không xác định, không di truyền",
+      "C. đồng loạt, xác định, một số trường hợp có thể di truyền.",
+      "D. riêng lẻ, không xác định, di truyền"
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-25",
+    "examSetId": "bai-25-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "c điểm nào dưới đây không phải là của thường biến?",
+    "options": [
+      "A. Không di truyền đượcC. Thường có hại cho sinh vật.",
+      "B. Không làm thay đổi kiểu gene.D. Biến đổi đồng loạt cả nhóm cá thể."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-25",
+    "examSetId": "bai-25-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Khi nói về quan hệ giữa kiểu gene môi trường và kiểu hình, nhận định nào sau đây không đúng?",
+    "options": [
+      "A. Kiểu hình là kết quả sự tương tác giữa kiểu gene và môi trường.",
+      "B. Bố mẹ không truyền đạt cho con những tính trạng đã hình thành sẵn mà truyền đạt một kiểu gene.",
+      "C. Kiểu hình của cơ thể chỉ phụ thuộc vào kiểu gene mà không phụ thuộc vào môi trường.",
+      "D. Kiểu gene quy định khả năng phản ứng của cơ thể trước môi trường."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-25",
+    "examSetId": "bai-25-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "c điểm nào sau đây không có ở thường biến?",
+    "options": [
+      "A. Biến đổi đồng loạt, định hướng, không di truyền.",
+      "B. Phát sinh do tác động trực tiếp của điều kiện sống.",
+      "C. Làm thay đổi kiểu hình, không thay đổi kiểu gene nên không di truyền được",
+      "D. Thường biến không giúp sinh vật thích nghi."
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-25",
+    "examSetId": "bai-25-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Vai trò của thường biến đối với tiến hoá?",
+    "options": [
+      "A. Là nguyên liệu sơ cấp của quá trình tiến hoá.",
+      "B. Là nguyên liệu thứ cấp của quá trình tiến hoá.",
+      "C. Có ý nghĩa gián tiếp đối với tiến hoá.",
+      "D. Không có ý nghĩa đối với quá trình tiến hoá."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-25",
+    "examSetId": "bai-25-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Hiện tượng nào sau đây không phải là thường biến?",
+    "options": [
+      "A. Hiện tượng co mạch máu và da tái lại ở thú khi trời rét.",
+      "B. Con tắc kè hoa nhanh chóng thay đổi màu sắc theo nền môi trường.",
+      "C. Cây rau mác trên cạn có lá hình mũi mác, khi mọc dưới nước có thêm loại lá hình bản dài.",
+      "D. Các cành cây được cắt ra từ một cây và đem trồng trong các điều kiện khác nhau phát triển thành các cây con với chiều cao khác nhau"
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-25",
+    "examSetId": "bai-25-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Hiện tượng nào sau đây không phải là thường biến?",
+    "options": [
+      "A. Người bị bạch tạng có da trắng, tóc trắng, mắt hồng.",
+      "B. Một số loài thú thay đổi màu sắc, độ dày của bộ lông theo mùa",
+      "C. Cây sồi : rung lá vào cuối mùa thu và ra lá non vào mùa xuân.",
+      "D. Số lượng hồng cầu trong máu của người tăng khi đi lên núi cao."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-25",
+    "examSetId": "bai-25-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "iều nào sau đây không đúng với mức phản ứng?",
+    "options": [
+      "A. Tập hợp các kiểu hình của cùng một kiểu gene được gọi là mức phản ứng của kiểu gene.",
+      "B. Mức phản ứng không được di truyền.",
+      "C. Tính trạng chất lượng có mức phản ứng hẹp, tính trạng số lượng có mức phản ứng rộng.",
+      "D. Mỗi gene trong một kiểu gene có mức phản ứng riêng."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-25",
+    "examSetId": "bai-25-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Giống lúa X khi trồng ở đồng bằng Bắc Bộ cho năng suất 8 tấn/ha, ở vùng Trung Bộ cho năng suất 6 tấn/ha, ở đồng bằng sông Cửu Long cho năng suất 10 tấn/ha. Nhận xét nào sau đây là đúng?",
+    "options": [
+      "A. Điều kiện khí hậu, thổ nhưỡng,.. thay đổi đã làm cho kiểu gene của giống lúa X bị thay đổi theo.",
+      "B. Năng suất thu được ở giống lúa X hoàn toàn do môi trường sống quy định.",
+      "C. Tập hợp tất cả các kiểu hình thu được về năng suất (6 tấn/ha, 8 tấn/ha, 10 tấn/ha...) được gọi là mức phản ứng của kiểu gene quy định tính trạng năng suất của giống lúa X.",
+      "D. Giống lúa X có nhiều mức phản ứng khác nhau về tính trạng năng suất,"
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-25",
+    "examSetId": "bai-25-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "ng vật, để nghiên cứu mức phản ứng của một kiểu gene nào đó cần tạo ra các cá thể",
+    "options": [
+      "A. có kiểu hình khác nhau.C. có cùng kiểu gene.",
+      "B. có kiểu gene khác nhau.D. có kiểu hình giống nhau."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-25",
+    "examSetId": "bai-25-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Tỉnh trạng số lượng không có đặc điểm nào sau đây?",
+    "options": [
+      "A. Thay đổi khi điều kiện môi trường thay đổi.B. Khó thay đổi khi điều kiện môi trường thay đổi.",
+      "C. Do nhiều gene quy định.D. Đo lường được bằng các kĩ thuật thông thường."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-25",
+    "examSetId": "bai-25-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Sự phụ thuộc của tính trạng vào kiểu gene như thế nào?",
+    "options": [
+      "A. Tỉnh trạng chất lượng phụ thuộc chủ yếu vào kiểu gene.",
+      "B. Tính trạng chất lượng ít phụ thuộc vào kiểu gene.",
+      "C. Tính trạng số lượng phụ thuộc chủ yếu vào kiểu gene.",
+      "D. Bất kì loại tính trạng nào cũng phụ thuộc chủ yếu vào kiểu gene."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-25",
+    "examSetId": "bai-25-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "cây hoa liên hình (Primula sinensis), màu sắc hoa được quy định bởi một cặp gene. Cây hoa màu đỏ thuần chủng (kiểu gene RR) trồng ở nhiệt độ 350C cho hoa màu trắng, đời sau của cây hoa màu trắng này trồng ở 200C thì lại cho hoa màu đỏ; còn cây hoa màu trắng thuần chủng (Tr) trồng ở nhiệt độ 350C hay 200C đều cho hoa màu trắng. Điều này chứng tỏ ở cây hoa liên hình",
+    "options": [
+      "A. màu hoa phụ thuộc hoàn toàn vào nhiệt độ.",
+      "B. màu hoa phụ thuộc hoàn toàn vào kiểu gene.",
+      "C. tính trạng màu hoa không chỉ do gene qui định mà còn chịu ảnh hưởng của nhiệt độ môi trường.",
+      "D. gene R qui định hoa màu đỏ đã đột biến thành gene r qui định hoa màu trắng."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-25",
+    "examSetId": "bai-25-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "c điểm của thường biến là sự biến đổi",
+    "options": [
+      "A. kiểu gene, nhưng không biến đổi kiểu hình của một nhóm cá thể theo hướng xác định.",
+      "B. kiểu gene, , dẫn đến biến đổi kiểu hình của một nhóm cá thể theo hướng xác định.",
+      "C. kiểu hình, nhưng không biến đổi kiểu gene, xảy ra riêng lẻ và có định hướng.",
+      "D. kiểu hình, nhưng không biến đổi kiểu gene của một nhóm cá thể, tương ứng với điều kiện môi trường."
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-25",
+    "examSetId": "bai-25-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Hiện tượng nào sau đây là biểu hiện của thường biến?",
+    "options": [
+      "A. Sản lượng sữa của một giống bò giữa các kì vắt sữa thay đổi theo chế độ dinh dưỡng.",
+      "B. Một bé trai có ngón tay trỏ dài hơn ngón tay giữa, tai thấp, hàm bé.",
+      "C. Lợn con mới sinh ra có vành tai bị xẻ thuỳ, chân dị dạng.",
+      "D. Một cành hoa giấy màu trắng xuất hiện trên cây hoa giấy màu đỏ."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-25",
+    "examSetId": "bai-25-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Khi nói về tương tác giữa kiểu gene với môi trường, các nhận định sau đây Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Một số tính trạng đơn gene có thể chịu ảnh hưởng của môi trường, dẫn đến kiểu gene thể biểu hiện thành các kiểu hình khác nhau ở các môi trường khác nhau.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Tương tác giữa kiểu gene và môi trường là ảnh hưởng của môi trường lên sự biểu hiện thành kiểu hình của một kiểu gene.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Kiểu gene quy định khả năng phản ứng của cơ thể trước điều kiện môi trường.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Cây phủ dung (Hibiscus mutabilis) có hoa màu trắng vào buổi sáng, nhưng buổi chiều hoa chuyển sang màu hồng là một ví dụ về ảnh hưởng của môi trường đến sự biểu hiện kiểu hình của gene.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-25",
+    "examSetId": "bai-25-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Khi nói về thường bến, các nhận định sau đây Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Thường biến là sự biến đổi về kiểu hình của cùng một kiểu gene ở các môi trường khác nhau.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Thường biến do kiểu gene qui định nên di truyền đượC.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Thường biển cho thấy sinh vật có khả năng biến đổi và thích ứng trước những thay đổi có tính ngắn hạn hoặc theo chu ki của môi trường.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Con bọ que có hình giống cái que là một ví dụ về thường biến.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-25",
+    "examSetId": "bai-25-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Khi nói về mức phản ứng của kiểu gene, mỗi nhận định dưới đây Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Sự tương tác giữa kiểu gene và môi trường sống của sinh vật được quan sát thông qua việc lập biểu đồ biểu diễn mối quan hệ giữa sự thay đổi môi trường và biến đổi kiểu hình.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Để xác định mức phản ứng về lượng mắt đơn cấu thành mắt kép ở ruồi giấm, người ta cho trứng đã thụ tinh phát triển thành cá thể trưởng thành ở các nhiệt độ khác nhau và đếm số lượng mặt đơn của ruồi giấm.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Trên cùng một loài, những tính trạng thuộc về số lượng có mức phản ứng hẹp, những tính trạng thuộc về chất lượng có mức phản ứng rộng.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Mức phản ứng cho biết ảnh hưởng của sự thay đổi môi trường đối với kiểu hình ở sinh vật.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-25",
+    "examSetId": "bai-25-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Khi nói về mức phản ứng, mỗi phát biểu dưới đây Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Tạo ra các kiểu gene khác nhau, nuôi (trồng) trong những điều kiện môi trường giống nhau.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Theo dõi và ghi nhận kiểu hình của các cá thể có cùng một kiểu gene đồng hợp khi được nuôi, trồng ở một dãy điều kiện môi trường.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Mức phản ứng là tập hợp kiểu hình của các cá thể có cùng một kiểu gene tương ứng với phạm vi biến đổi các điều kiện môi trường sống khác nhau.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Mức phản ứng do kiểu gene qui định nên di truyền được",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-25",
+    "examSetId": "bai-25-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Mỗi ví dụ sau đây Đúng hay Sai về hiện tượng thường biến?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Những người sinh đôi cùng trứng có cùng kiểu gene, sống ở môi trường khác nhau cũng có nhiều đặc điểm khác nhau.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Cây phù dung (Hibiscus mutabilis) có hoa màu trắng vào buổi sáng, nhưng buổi chiều hoa chuyển sang màu hồng.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Ở hoa cẩm tú cầu, với pH cảu đất từ 4,5 – 5 hoa có màu xanh. Ở pH là 6,5 sự hấp thụ nhôm bị giảm và hoa có màu hồng, ở pH  = 7 hoa có màu tím.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Sâu ăn rau thường có màu xanh; một số loài rắn độc thường có màu sắc khắc biệt với môi trường.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-25",
+    "examSetId": "bai-25-bo1"
+  }
+]

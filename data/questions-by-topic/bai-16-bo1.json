@@ -1,0 +1,461 @@
+[
+  {
+    "type": "mc",
+    "content": "Bản chất quy luật phân li của Mendel là",
+    "options": [
+      "A. sự phân li đồng đều của các allele về các giao tử trong quá trình giảm phân.",
+      "B. sự phân li kiểu hình ở F2 theo tỉ lệ 1 : 2 : 1.",
+      "C. sự phân li kiểu hình ở F2 theo tỉ lệ 3 : 1.",
+      "D. sự phân li kiểu hình ở F2 theo tỉ lệ 1:1:1:1."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-16",
+    "examSetId": "bai-16-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Mendel đã sử dụng biện pháp nào sau đây để kiểm tra kiểu gene của cơ thể có kiểu hình trội?",
+    "options": [
+      "A. Lai phân tích.  kiểm tra KG của cá thể mang KH trội",
+      "B. Lai thuận nghịch.  xác định vị trí của gene trên NST thường hay giới tính, gene nằm trong nhân hay TBC",
+      "C. lại cải tiến giống.  tạo giống mới",
+      "D. Lai xa  tạo cây lai khác loài"
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-16",
+    "examSetId": "bai-16-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Theo Mendel, mỗi tính trạng do",
+    "options": [
+      "A. một nhân tố di truyền quy định.B. một cặp nhân tố di truyền quy định.",
+      "C. hai nhân tố di truyền khác loại quy định.D. hai cặp nhân tố di truyền quy định."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-16",
+    "examSetId": "bai-16-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Trong trường hợp không xảy ra đột biến, nếu các cặp allele nằm trên các cặp nhiễm sắc thể tương đồng khác nhau thì chúng",
+    "options": [
+      "A. di truyền cùng nhau tạo thành nhóm gene liên kết",
+      "B. sẽ phân li độc lập trong quá trình giảm phân hình thành giao tử",
+      "C. luôn có số lượng, thành phần và trật tự các nucleotide giống nhau",
+      "D. luôn tương tác với nhau cùng quy định một tính trạng"
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-16",
+    "examSetId": "bai-16-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Cho biết mỗi gene quy định một tính trạng, allele trội là trội hoàn toàn, quá trình giảm phân không xảy ra đột biến. Theo lí thuyết, phép lai AaBb × AaBb cho đời con có",
+    "options": [
+      "A. 9 loại kiểu gene và 4 loại kiểu hình. C. 9 loại kiểu gene và 8 loại kiểu hình.",
+      "B. 4 loại kiểu gene và 6 loại kiểu hình. D. 6 loại kiểu gene và 4 loại kiểu hình."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-16",
+    "examSetId": "bai-16-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Hai trạng thái kiểu hình nào sau đây ở đậu Hà Lan thuộc cùng 1 tính trạng?",
+    "options": [
+      "A. Hoa đỏ và quả dài. B. Thân cao và quả màu vàng.",
+      "C. Quả màu lục và quả không có ngấn.D. Hạt vàng và hạt xanh."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-16",
+    "examSetId": "bai-16-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Cho biết allele A quy định thân cao trội hoàn toàn so với allele a quy định thân thấp. Phát biểu nào sau đây không đúng?",
+    "options": [
+      "A. Kiểu gene AA và aa là kiểu gene đồng hợp.",
+      "B. Kiểu gene : Aa là kiểu gene dị hợp.",
+      "C. Kiểu gene aa quy định kiểu hình thân thấp.",
+      "D. Kiểu gene AA và kiểu gene aa đều quy định kiểu hình thân cao.  sai, aa quy định thân thấp"
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-16",
+    "examSetId": "bai-16-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Trong điều kiện nào sau đây, các cặp allele di truyền phân li độc lập với nhau?",
+    "options": [
+      "A. Các cặp gene quy định các cặp tính trạng cùng nằm trên một cặp NST tương đồng.",
+      "B. Các cặp gene quy định các cặp tính trạng nằm trên các cặp NST tương đồng khác nhau.",
+      "C. Mỗi cặp gene quy định một cặp tính trạng và di truyền trội lặn hoàn toàn.",
+      "D. Các cặp tính trạng di truyền trội lặn hoàn toàn và số cá thể đem phân tích phải đủ lớn."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-16",
+    "examSetId": "bai-16-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "u Hà Lan, gene A quy định hoa đỏ trội hoàn toàn so với allele a quy định hoa trắng, không xảy ra đột biến. Theo lí thuyết, các nhận định sau đây là Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Phép lai AA x aa cho đời con có 100% hoa đỏ.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Phép lai AA x Aa cho đời con có 100% hoa đỏ.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Phép lai Aa x aa cho đời con có tỉ lệ 3 hoa đỏ : 1 hoa trắng.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Phép lai Aa x Aa cho đời con có tỉ lệ 1 hoa đỏ : 1 hoa trắng.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-16",
+    "examSetId": "bai-16-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Cho biết allele A quy định hoa đỏ trội hoàn toàn so với allele a quy định hoa trắng. Các nhận định sau đây là Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": false
+    },
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Kiểu gene AA là kiểu gene đồng hợp trội.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Kiểu gene Aa là kiểu gene dị hợp.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Kiểu gene aa là kiểu gene đồng hợp lặn.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Kiểu gene AA và kiểu gene Aa quy định kiểu hình khác nhau.",
+        "isCorrect": false
+      }
+    ],
+    "topicId": "bai-16",
+    "examSetId": "bai-16-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "1 loài thực vật, gene A quy định thân cao trội hoàn toàn so với allele a quy định thân thấp; gene B quy định hoa đỏ trội hoàn toàn so với allele b quy định hoa trắng, các gene phân li độc lập nhau, quá trình giảm phân diễn ra bình thường. Theo lí thuyết, các nhận định sau đây là Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Có 2 kiểu gene quy định kiểu hình cây thân cao, hoa trắng.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Phép lai AaBB × AaBb thu được đời con có tỉ lệ kiểu gene là 1:1:2:2:1:1",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Phép lai P: AaBb x AaBb thu được F1 có tỉ lệ kiểu hình là 3:3:1:1.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Phép lai P: AaBb × Aabb thu được F1 có kiểu hình thân cao, hoa đỏ chiếm tỉ lệ là 3/8.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-16",
+    "examSetId": "bai-16-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "1 loài thực vật, gene A quy định thân cao trội hoàn toàn so với allele a quy định thân thấp; gene B quy định hoa đỏ trội hoàn toàn so với allele b quy định hoa trắng, các gene phân li độc lập nhau, quá trình giảm phân diễn ra bình thường. Theo lí thuyết, các nhận định sau đây là Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Có 1 kiểu gene quy định kiểu hình cây thân thấp, hoa trắng.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Phép lai AaBb x Aabb thu được đời con có 8 loại kiểu gene và 4 loại kiểu hình.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Phép lai P: Aabb x aaBb thu được F1 có tỉ lệ kiểu gene khác với tỉ lệ kiểu hình.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Phép lai P: AaBb × AaBb thu được F1 có kiểu hình thân cao, hoa đỏ dị hợp về 1 cặp gene chiếm tỉ lệ là 25%.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-16",
+    "examSetId": "bai-16-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Xét cơ thể đực có kiểu gene AaBbDdee giảm phân không đột biến. Theo lí thuyết, các nhận định sau đây là Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Có 1 tế bào giảm phân thì chỉ sinh ra tối đa 2 loại giao tử.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Có 2 tế bào giảm phân thì tối đa sẽ cho 8 loại giao tử.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Giả sử có 3 tế bào giảm phân sinh ra 6 loại giao tử thì mỗi loại giao tử chiếm tỉ lệ 1/6.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Giả sử có 5 tế bào giảm phân và sinh ra 8 loại giao tử thì tỉ lệ các loại giao tử là 2:2:1:1:1:1:1:1.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-16",
+    "examSetId": "bai-16-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Cho biết mỗi tính trạng do một gene quy định và trội hoàn toàn. Cho phép lai (P): ♂AaBbddEe × ♀AaBbDdEE thu được F1. Biết không xảy ra hiện tượng đột biến. Theo lí thuyết, các nhận định sau đây là Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Ở F1, có 64 tổ hợp giao tử.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Ở Fı, có 36 loại kiểu gene và 8 loại kiểu hình.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Ở Fı, tỉ lệ phân li kiểu gene giống với tỉ lệ phân li kiểu hình.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Ở F1, có 4 dòng thuần chủng.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-16",
+    "examSetId": "bai-16-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Xét cơ thể cái có kiểu gene AaBBEe giảm phân không đột biến. Theo thuyết, các nhận định sau đây là Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": false,
+      "d": true
+    },
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Có 1 tế bào giảm phân thì chỉ sinh ra tối đa 1 loại giao tử.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Có 2 tế bào giảm phân thì tối đa sẽ cho 2 loại giao tử.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Giả sử có 4 tế bào giảm phân sinh ra 4 loại giao tử thì tỉ lệ các loại giao tử có thể là 3:3:1:1",
+        "isCorrect": false
+      },
+      {
+        "label": "d",
+        "content": "Giả sử có 3 tế bào giảm phân thì tỉ lệ các loại giao tử có thể là 2:1.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-16",
+    "examSetId": "bai-16-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Biết mỗi gene quy định 1 tính trạng, gene trội là trội hoàn toàn. Phép lai cho đời con mà mỗi kiểu hình luôn có 2 kiểu gene, các phép lai sau đây là Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {
+      "a": false,
+      "b": false,
+      "c": false,
+      "d": true
+    },
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "AaBbdd x AabbDdB. AaBbDD × AabbDd",
+        "isCorrect": false
+      },
+      {
+        "label": "b",
+        "content": "AaBbDD × AabbDd  Số KG = 3.2.2 = 12; số KH = 2.2.1 = 4",
+        "isCorrect": false
+      },
+      {
+        "label": "c",
+        "content": "AaBbDd x AabbddD. AABbdd x aaBBDd",
+        "isCorrect": false
+      },
+      {
+        "label": "d",
+        "content": "AABbdd x aaBBDd  Số KG = 1.2.2 = 4; số KH = 1.1.2 = 2",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-16",
+    "examSetId": "bai-16-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Cơ thể có kiểu gene aaBbDdEeGg giảm phân không xảy ra đột biến tạo ra các giao tử. Theo lí thuyết, các nhận định sau đây là Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {
+      "a": false,
+      "b": false,
+      "c": true,
+      "d": true
+    },
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Loại giao tử có 1 allele trội chiếm tỉ lệ 3/8.",
+        "isCorrect": false
+      },
+      {
+        "label": "b",
+        "content": "Loại giao tử có 2 allele trội chiếm tỉ lệ 1/4.",
+        "isCorrect": false
+      },
+      {
+        "label": "c",
+        "content": "Loại giao tử có 3 allele trội chiếm tỉ lệ 1/4.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Loại giao tử có 4 allele trội chiếm tỉ lệ 1/16.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-16",
+    "examSetId": "bai-16-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "một loài, xét 3 cặp gene Aa, Bb, Dd trội lặn hoàn toàn, không xảy ra đột biến. Xét phép lai AaBbDD × AaBBdd, thu được F1. Theo lý thuyết, các nhận định sau đây là Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {
+      "a": false,
+      "b": true,
+      "c": true,
+      "d": true
+    },
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "F. có 4 loại kiểu hình.",
+        "isCorrect": false
+      },
+      {
+        "label": "b",
+        "content": "Tỉ lệ phân ly kiểu gene của Fı khác tỉ lệ phân ly kiểu hình của F..",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "F. không thể thu được loại kiểu hình có 3 tính trạng lặn.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Tỉ lệ kiểu hình mang 2 tính trạng trội ở Fi chiếm 25%.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-16",
+    "examSetId": "bai-16-bo1"
+  }
+]

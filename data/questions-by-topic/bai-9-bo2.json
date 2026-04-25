@@ -1,0 +1,321 @@
+[
+  {
+    "type": "mc",
+    "content": "Theo trình tự từ đầu 3' đến 5' của mạch bổ sung, một gene cấu trúc gồm các vùng trình tự nucleotit",
+    "options": [
+      "A. vùng điều hòa, vùng mã hóa, vùng kết thúc.",
+      "B. vùng kết thúc, vùng điều hòa, vùng mã hóa.",
+      "C. vùng mã hóa, vùng điều hòa, vùng kết thúc.",
+      "D. vùng kết thúc, vùng mã hóa, vùng điều hòa."
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-9",
+    "examSetId": "bai-9-bo2"
+  },
+  {
+    "type": "mc",
+    "content": "Hình dưới đây mô tả quá trình nhân đôi DNA ở vi khuẩn E.coli. Xét trên toàn bộ phân tử DNA, phát biểu nào sau đây đúng?",
+    "options": [
+      "A. Mạch mã gốc được tổng hợp liên tục, mạch bổ sung được tổng hợp gián đoạn.  sai, vì các gene có thể đọc ngược nhau",
+      "B. Hai mạch mới được tổng hợp gián đoạn.  sai, có đoạn liên tục có đoạn gián đoạn.",
+      "C. Theo chiều tháo xoắn, trên mạch gốc 3' - 5' mạch mới được tổng hợp liên tục, trên mạch gốc 5' -3' mạch mới được tổng hợp gián đoạn.  đúng",
+      "D. Hai mạch mới được tổng hợp liên tục.  sai, còn tuỳ thuộc vào chiều của mạch"
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-9",
+    "examSetId": "bai-9-bo2"
+  },
+  {
+    "type": "mc",
+    "content": "Khi nói về hoạt động của các enzyme trong các cơ chế di truyền ở cấp phân tử, phát biểu nào sau đây là đúng?",
+    "options": [
+      "A. Enzyme DNA polymerase là loại enzyme có khả năng tháo xoắn và xúc tác cho quá trình nhân đôi của DNA.",
+      "B. Enzyme RNApolymerase là loại enzyme có khả năng tháo xoắn và tách 2 mạch của phân tử DNA.",
+      "C. Enzyme lygase có chức năng lắp ráp các nucleotide tự do của môi trường vào các đoạn Okazaki.",
+      "D. Enzyme DNApolymerase có chức năng tổng hợp nucleotide đầu tiên và mở đầu mạch mới"
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-9",
+    "examSetId": "bai-9-bo2"
+  },
+  {
+    "type": "mc",
+    "content": "Vi khuẩn E coli, khi nói về hoạt động của gene cấu trúc trong Operon Lac, kết luận nào sau đây là đúng?",
+    "options": [
+      "A. Các gene này có số lần nhân đôi bằng nhau và số lần phiên mã bằng nhau.  đúng",
+      "B. Các gene này có số lần nhân đôi bằng nhau nhưng số lần phiên mã khác nhau.",
+      "C. Các gene này có số lần nhân đôi khác nhau và số lần phiên mã khác nhau.",
+      "D. Các gene này có số lần nhân đôi khác nhau nhưng số lần phiên mã bằng nhau."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-9",
+    "examSetId": "bai-9-bo2"
+  },
+  {
+    "type": "mc",
+    "content": "Quan sát hình ảnh và cho biết nhận xét nào sau đây là không đúng?",
+    "options": [
+      "A. Gene bình thường đã bị đột biến thay thế 1 cặp nucleotide.",
+      "B. Gene đột biến không tạo ra chuỗi polypeptide tương ứng.",
+      "C. Đột biến đã xảy ra ở bộ ba mã hóa thứ 2 trên gene.",
+      "D. Dạng đột biến gene này được gọi là đột biến vô nghĩa.  vì nó tạo bb kết thúc sớm"
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-9",
+    "examSetId": "bai-9-bo2"
+  },
+  {
+    "type": "mc",
+    "content": "Quan sát hình ảnh và cho biết nhận xét nào sau đây là không đúng?",
+    "options": [
+      "A. Gene đã bị đột biến thay thế 1 cặp nucleotide C - G bằng cặp T - A.",
+      "B. Dạng đột biến gene này được gọi là đột biến sai nghĩa.",
+      "C. Đột biến đã xảy ra ở cặp nucleotide thứ 10 của gene.",
+      "D. Đột biến đã làm mã di truyền từ vị trị đột biến trở về sau bị thay đổi.  vì làm Gly bị thay bằng Ser"
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-9",
+    "examSetId": "bai-9-bo2"
+  },
+  {
+    "type": "mc",
+    "content": "c điểm nào sau đây chỉ có ở quá trình phiên mã mà không có ở quá trình nhân đôi của DNA?",
+    "options": [
+      "A. Sử dụng nucleotide làm nguyên liệu cho quá trình tổng hợp.",
+      "B. mạch polynucleotide được tổng hợp kéo dài theo chiều từ 5' đến 3'.",
+      "C. chỉ diễn ra trên mạch gốc của từng gene riêng rẽ.",
+      "D. sử dụng cả hai mạch của DNA làm khuôn để tổng hợp mạch mới."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-9",
+    "examSetId": "bai-9-bo2"
+  },
+  {
+    "type": "mc",
+    "content": "Trong bảng mã di truyền, người ta thấy rằng có 4 loại mã di truyền cùng quy định tổng hợp amino acid proline là 5'CCU3'; 5'CCA3'; 5'CCC3'; 5'CCG3'. Từ thông tin này cho thấy việc thay đổi nucleotide nào trên mỗi bộ ba thường không làm thay đổi cấu trúc của amino acid tương ứng trên chuỗi polypeptide.",
+    "options": [
+      "A. Thay đổi vị trí của tất cả các nucleotide trên một bộ ba.",
+      "B. Thay đổi nucleotide đầu tiên trong mỗi bộ ba.",
+      "C. Thay đổi nucleotide thứ 3 trong mỗi bộ ba.",
+      "D. Thay đổi nucleotide thứ hai trong mỗi bộ ba."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-9",
+    "examSetId": "bai-9-bo2"
+  },
+  {
+    "type": "mc",
+    "content": "Trong quá trình dịch mã, khi ribosome cuối cùng của polyribosome tiếp xúc với codon kết thúc trên mRNA thì sự kiện nào sau đây sẽ xảy ra ngay sau đó?",
+    "options": [
+      "A. Quá trình dịch mã của các polyribosome này kết thúc.",
+      "B. Các ribosome ngừng tổng hợp protein và tự phân huỷ. sai",
+      "C. Ribosome này tách ra khỏi mRNA nhưng các ribosome khác của poli ribosome vẫn tiếp tục dịch mã.  sai",
+      "D. Chỉ có một số ribosome ngừng dịch mã, các ribosome khác vẫn tiến hành dịch mã trên mRNA này.  sai"
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-9",
+    "examSetId": "bai-9-bo2"
+  },
+  {
+    "type": "mc",
+    "content": "Năm 1957, Franken và Conrat đã tiến hành thí nghiệm tách lõi axit nucleoic ra khỏi vỏ protein của chủng virus A và chủng virus B (cả hai chúng đều gây bệnh cho cây thuốc lá nhưng khác nhau ở những vết tổn thương mà chúng gây ra trên lá). Sau đó lấy nucleoic acid của chùng A trộn với protein của chúng B thì chúng sẽ tự lắp ráp để tạo thành virus lai. Nhiễm virus lai này vào các cây thuốc lá chưa bị bệnh thì các cây thuốc lá này bị nhiễm bệnh.",
+    "options": [
+      "A. chủng virus lai.B. chủng virus A và chủng virus B.",
+      "C. chủng virus B.D. chủng virus A"
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-9",
+    "examSetId": "bai-9-bo2"
+  },
+  {
+    "type": "mc",
+    "content": "Khi nói về gene cấu trúc, phát biểu nào sau đây sai?",
+    "options": [
+      "A. Phần lớn các gene của sinh vật nhân thực có vùng mã hóa không liên tục, xen kẽ các đoạn mã hóa Amino acid là các đoạn không mã hóa Amino acid.",
+      "B. Mỗi gene mã hóa protein điển hình gồm ba vùng trình tự nucleotide: vùng điều hoà, vùng mã hóa, vùng kết thúc.",
+      "C. Gene không phân mánh là các gene có vùng mã hóa liên tục, không chứa các đoạn không mã hóa acid (intron).",
+      "D. Vùng điều hòa nằm ở đầu 5' của mạch mã gốc của gene, mang tín hiệu khởi động và kiểm soát quá trình phiên mã."
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-9",
+    "examSetId": "bai-9-bo2"
+  },
+  {
+    "type": "mc",
+    "content": "Khi nói về cấu trúc DNA dạng sợi kép, mạch thẳng phổ biến ở sinh vật nhân thực có những ưu điểm trong tiến hoá so với cấu trúc DNA dạng sợi kép, mạch vòng phổ biến ở sinh vật nhân sơ, nhận định nào dưới đây sai?",
+    "options": [
+      "A. Đầu mút NST (phân tử DNA) dạng mạch thẳng ngắn lại một số nucleotide sau mỗi lần tái bản là cơ chế “đồng hồ phân tử\" thông tin mức độ \"già hóa\" của tế bào và thúc đẩy cơ chế “tế bào chết theo chương trình\" (apotosis), ngăn cản sự phát sinh ung thư.",
+      "B. Phân tử DNA dạng mạch thẳng cho phép hệ gene có thể mở rộng kích cỡ, nhưng vẫn biểu hiện được chức năng thông qua các bậc cấu trúc “thu nhỏ” của chất nhiễm sắc nhờ tương tác với các protein histon và các protein phi histon.",
+      "C. DNA dạng mạch thẳng tạo điều kiện thuận lợi cho cơ chế tiếp hợp và trao đổi chéo dễ xảy ra, làm tăng khả năng biến dị tổ hợp trong hình thức sinh sản hữu tỉnh ở sinh vật nhân thật.",
+      "D. Gene trên DNA của sinh vật nhân thực dễ được biểu hiện hơn gene trên DNA của sinh vật nhân sơ. sai, gene ở nhân sơ là đơn gene nên dễ biểu hiện ở nhân thực"
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-9",
+    "examSetId": "bai-9-bo2"
+  },
+  {
+    "type": "mc",
+    "content": "Nghiên cứu ba protein: Protein A, Protein B, Protein C - với vai trò tiềm năng trong sửa sai phiên mã ở các tế bào động vật có vú. Người ta thực hiện một thí nghiệm để xác định sự tương tác giữa DNA và protein dựa trên sự di chuyển (phương pháp EMSA). Dữ liệu được hiển thị bên dưới. Tất cả các phản ứng chứa đệm liên kết và đoạn DNA có đánh dấu bao gồm trình tự gắn với vị trí liên kết DNA đối với Protein, với DNA là một gene của động vật có vú. Protein được tỉnh sạch và thêm vào ở các mẫu thí nghiệm khác nhau.",
+    "options": [
+      "A. Protein A có khả năng gắn kết trực tiếp với DNA.  đúng vì ở lần 4 Pro A liên kế với DNA nên có hiện trong gel điện di",
+      "B. Ở lần số 5 (có proetin A và B) xuất hiện thêm 1 băng nằm gần cực âm hơn chứng tỏ bằng đó gồm protein A + B.  đúng",
+      "C. Phức hợp proetin A và B có thể là phức hợp hoạt hóa bằng cách tăng ái lực với RNA polymerase hoặc các yếu tố phiên mã làm tăng biểu hiện của gene. đúng",
+      "D. B là chất kích thích phiên mã nhưng B không tự gắn được vào DNA mà cần A để liên kết được với DNA.  đúng Chỉ bổ sung B nhưng ko hiện trên gel chứng tỏ B ko liên kết với DNA Chỉ bổ sung B nhưng ko hiện trên gel chứng tỏ B ko liên kết với DNA Của B +A +DNA Của B +A +DNA Của A +DNA Của A +DNA Chỉ bổ sung C nhưng ko hiện trên gel chứng tỏ C ko liên kết với DNA"
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-9",
+    "examSetId": "bai-9-bo2"
+  },
+  {
+    "type": "mc",
+    "content": "Khi nói về các đặc điểm cấu tạo hóa học của DNA cho thấy DNA ưu việt hơn RNA trong vai trò là “vật chất mang thông tin di truyền\", trong các phát biểu dưới đây, phát biểu nào sai?",
+    "options": [
+      "A. RNA có thành phần đường là ribose khác với thành phần đường của DNA là deoxyribose. Đường deoxyribose không có gốc -OH ở vị trí C2', đây là gốc hóa học phản ứng mạnh và có tính ưa nước RNA kém bền hơn DNA trong môi trường nước.",
+      "B. Thành phần bazo của RNA là uracil (U) được thay thế bằng thymine (T) trong DNA. Về cấu trúc hóa học, T khác U vì được bổ sung thêm gốc metyl (-CH3). Đây là gốc kị nước, kết hợp với cấu trúc dạng sợi kép giúp phân tử DNA bền hơn RNA.",
+      "C. DNA thường có cấu trúc dạng sợi kép (2 mạch), trong khi RNA thường có cấu trúc mạch đơn giúp các cơ chế sửa chữa DNA diễn ra dễ dàng hơn - thông tin di truyền ít có xu hướng tự biến đổi hơn.",
+      "D. RNA có khuynh hưởng lưu giữ thông tin bền vững hơn.  sai, cấu trúc mạch kép và sự có mặt của T giúp cấu trúc DNA bền vững hơn."
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-9",
+    "examSetId": "bai-9-bo2"
+  },
+  {
+    "type": "mc",
+    "content": "Khi nói về điều hòa hoạt động gene, trong các phát biểu dưới đây, phát biểu nào sai?",
+    "options": [
+      "A. Ở sinh vật nhân thực, một số gene được biểu hiện cùng lúc là do có chung promoter nén được phiên mã thành một RNA sơ cấp, sau đó hoàn thiện thành các mRNA giống nhau. sai, ở nhân thực mỗi gene có 1 promoter riêng và có một cơ chế điều hoà riêng và tổng hợp 1 mRNA khác nhau.",
+      "B. Các gene khác nhau nhưng có thể cùng được phiên mã một lần là do chúng có các trình tự điều khiển ở vùng điều hòa giống nhau nên có thể liên kết được với một tổ hợp các yếu t điều hòa phiên mã như nhau.",
+      "C. Bằng cách giải trình tự hệ gene người ta có thể biết được chính xác nhóm gene được biểu hiện theo cơ chế nào.",
+      "D. Tách chiết RNA sơ khai rồi lai với các đoạn dò đặc hiệu của từng gene. Nếu một RNA có thể lai với nhiều đoạn dò khác nhau của các gene khác nhau thì chứng tỏ chúng được điều hòa do có chung một promoter."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-9",
+    "examSetId": "bai-9-bo2"
+  },
+  {
+    "type": "tf",
+    "content": "Người ta tiến hành hai thí nghiệm để tổng hợp DNA như sau:",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Ở thí nghiệm thứ nhất, trong lần tái bản thứ nhất, RNA được bắt đầu ở đầu 5' của mỗi sợi mới tổng hợp do RNA mỗi liên kết bổ sung với đầu 3' của mỗi sợi đơn DNA khuôn mạch thẳng.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Trong lần tái bản thứ 2 ở thí nghiệm thứ nhất, RNA mồi ở đầu 5' không sử dụng làm khuôn để tổng hợp sợi mới nên kích thước DNA mới tổng hợp ngắn hơn sợi đơn DNA làm khuôn ban đầu. Vì vậy, tạo nên DNA có kích thước ngắn hơn DNA làm khuôn ban đầu.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Ở thí nghiệm 2, DNA polimerase vừa có hoạt tính kéo dài mạch (DNA) theo chiều 5'-3 và vừa có hoạt tính loại bỏ mồi theo chiều 5'-3'.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Ở thí nghiệm 2, do cấu trúc DNA mạch vòng nên DNA polymerase đang tổng hợp sợi mới sẽ gặp đầu 5' của RNA mồi (bổ sung với sợi khuôn) nên có thể loại bỏ RNA mồi và tổng hợp DNA thay thế. Vì vậy tạo DNA mạch vòng gồm các sợi mới tổng hợp và sợi làm khuôn có kích thước giống nhau.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-9",
+    "examSetId": "bai-9-bo2"
+  },
+  {
+    "type": "tf",
+    "content": "Hoạt tính của một enzyme X trong tế bào E. Coli kiểu dại được nghiên cứu khi tế bào sinh trưởng trong môi trường có hoặc không có mặt hợp chất A. Các nghiên cứu tương tự cũng được tiến hành với hai đột biến: đột biến 1 và đột biến 2 đã được phân lập. Kết quả nghiên cứu được tóm tắt trong biểu đồ hình bên. Hơn nữa, các thí nghiệm đã được thực hiện để phân tích mức độ phiên mã của gene mã hóa gene enzyme X bằng phương pháp thẩm tách Bắc (Northern hybridizations) kết quả thể hiện trong hình bên.",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Hợp chất A có tác dụng giảm lượng enzyme X sinh ra do A ức chế phiên mã tạo enzyme X dẫn đến giảm hoạt tính của enzyme X.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Khi không có mặt hợp chất A thì lượng mRNA được tạo ra do phiên mã lớn, sau đó tăng lượng A thì lượng mRNA tạo ra giảm chứng tỏ giảm phiên mã giảm dẫn tới giảm lượng mRNA kéo theo giảm sinh tổng hợp protein enzyme X.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Đột biến 1 xảy ra trong vùng mã hóa của enzyme X, không ảnh hưởng tới phiên mã.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Đột biến 2 là đột biến tại trình tự điều hòa của gene mã hóa enzyme X làm cho gene không được điều hòa biểu hiện dẫn tới lượng RNA tạo ra luôn cao cả khi có mặt A và không có A nên lượng protein enzyme X tạo ra nhiều nên hoạt tính của enzyme X luôn cao.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-9",
+    "examSetId": "bai-9-bo2"
+  },
+  {
+    "type": "tf",
+    "content": "Hình dưới đây biểu diễn một vùng các trình tự liên quan đến operon arabinose ở vi khuẩn E. coli, gồm gene araC và các vùng O2, I1, I2, pBAD (promoter của operon araBAD) và vùng mã hóa của các gene cấu trúc araBAD. Sự biểu hiện của các gene thuộc operon araBAD tăng lên khoảng 500 lần khi E. coli được nuôi trên môi trường có nguồn carbon là arabinose. Sự biểu hiện này phụ thuộc vào sản phẩm protein AraC do gene araC mã hóa. Để nghiên cứu chức năng của protein AraC, người ta tạo các dòng E. coli đột biến ở gene araC và các vùng O2, I1 và I2. Ảnh hưởng của các đột biến này đối với sự biểu hiện của araBAD được trình bày ở Bảng 1.",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Khi thiếu chất cảm ứng, mất gene araC làm tăng biểu hiện của araBAD nên protein AraC hoạt động như một chất ức chế.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Khi có chất cảm ứng, mất gene araC làm giảm biểu hiện của araBAD so với kiểu dại nên protein AraC hoạt động như một chất hoạt hóa (cần thiết cho sự biểu hiện cao của araBAD). Do đó, protein AraC hoạt động như là chất điều hòa âm tính và dương tính đối với sự biểu hiện của araBAD",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Các đột biến ảnh hưởng đến của vùng O hoặc 1 có ảnh hưởng đến hoạt động nền của araBAD nhưng không ảnh hưởng đến mức độ biểu hiện khi được cảm ứng bởi arabinose.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Do vùng Q và I cách nhau 250 bp, nên sự gắn của AraC đến hai vùng này có thể tạo ra sự cuộn gập của DNA, dẫn đến ức chế phiên mã.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-9",
+    "examSetId": "bai-9-bo2"
+  }
+]

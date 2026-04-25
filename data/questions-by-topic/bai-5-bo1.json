@@ -1,0 +1,270 @@
+[
+  {
+    "type": "mc",
+    "content": "Thực chất của quá trình điều hòa hoạt động gene là kiểm soát",
+    "options": [
+      "A. trình tự nucleotide trên gen.B. số lần nhân đôi của DNA.",
+      "C. lượng sản phẩm do gene tạo ra.D. số lượng gene trong tế bào."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-5",
+    "examSetId": "bai-5-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Trong cơ chế điều hòa hoạt động của Operon Lac ở E.coli, khi môi trường có lactose thì",
+    "options": [
+      "A. Protein ức chế không được tổng hợp.",
+      "B. sản phẩm của gene cấu trúc không được tạo ra.",
+      "C. RNApolymerase không gắn vào vùng khởi động.",
+      "D. Protein ức chế không gắn vào vùng vận hành."
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-5",
+    "examSetId": "bai-5-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Trong hoạt động của operon Lac ở vi khuẩn E. coli, điểm giống nhau khi môi trường có lactose và khi môi trường không có lactose là.",
+    "options": [
+      "A. Protein ức chế vẫn được tổng hợp.B. Protein ức chế không được tổng hợp.",
+      "C. Protein ức chế bám vào vùng vận hành.    D. Protein ức chế không bám vào vùng vận hành."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-5",
+    "examSetId": "bai-5-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Vùng khởi động (vùng P hay promotor) của Operon là",
+    "options": [
+      "A. nơi RNA polymerase bám vào và khởi động quá trình phiên mã.",
+      "B. vùng mã hóa cho Protein trực tiếp tham gia vào quá trình trao đổi chất của tế bào.",
+      "C. vùng gene mã hóa Protein ức chế.",
+      "D. trình tự nucleotide đặc biệt, nơi liên kết của protein ức chế."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-5",
+    "examSetId": "bai-5-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Trong cơ chế điều hòa hoạt động của operon Lac của vi khuẩn E. coli, giả sử gene Z nhân đôi 1 lần và phiên mã 10 lần. Theo lí thuyết, phát biểu nào sau đây đúng?",
+    "options": [
+      "A. Môi trường sống không có lactose.C. Gene điều hòa nhân đôi 2 lần.",
+      "B. Gene A phiên mã 10 lần.D. Gene Y phiên mã 20 lần."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-5",
+    "examSetId": "bai-5-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Giả sử trình tự nucleotide ở vùng vận hành (0) của operon Lac ở vi khuẩn E. coli bị thay đổi thì có thể dẫn đến hiện tượng nào sau đây?",
+    "options": [
+      "A. Đột biến ở một trong các gene Z, Y, A.",
+      "B. Thay đổi trình tự axit amin của của phân tử Protein ức chế.",
+      "C. Các gene Z, Y. A phiên mã liên tục. (do làm Pro ức chế không bám được vào O, vì vậy Operon phiêm mã liên tục)",
+      "D. Biến đổi trình tự nucleotide ở vùng khởi động (P)."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-5",
+    "examSetId": "bai-5-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Khi nói về quá trình điều hòa hoạt động của gene theo mô hình operon Lac, phát biểu nào sau đây đúng?",
+    "options": [
+      "A. Trong điều kiện không có lactose, nhóm gene cấu trúc sẽ tiến hành phiên mã.",
+      "B. Gene điều hòa và nhóm gene cấu trúc có chung một cơ chế điều hòa.",
+      "C. Gene điều hòa chỉ phiên mã khi môi trường không có lactose.",
+      "D. Nhóm gene cấu trúc chi phiên mã khi Protein ức chế không bám vào vùng vận hành O."
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-5",
+    "examSetId": "bai-5-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Khi nào thì cụm gene cấu trúc Z, Y, A trong operon Lac ở E. coli không hoạt động",
+    "options": [
+      "A. Khi trong tế bào không có lactose.B. Khi môi trường có hoặc không có lactose.",
+      "C. Khi môi trường có nhiều lactoseD. Khi trong tế bào có lactose."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-5",
+    "examSetId": "bai-5-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "operon Lac, nếu có một sai hỏng làm mất 1 đoạn DNA thì trường hợp nào sau đây sẽ làm cho tất cả các gene cấu trúc không tổng hợp được Protein?",
+    "options": [
+      "A. Mất vùng khởi động (P).B. Mất gene điều hoà.",
+      "C. Mất vùng vận hành (0).D. Mất một gene cấu trúc."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-5",
+    "examSetId": "bai-5-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Trong cơ chế điều hòa hoạt động của Operon Lac, sự kiện nào sau đây thường xuyên diễn ra?",
+    "options": [
+      "A. Một số phân tử lactose liên kết với Protein ức chế.",
+      "B. Gene điều hòa R tổng hợp Protein ức chế.",
+      "C. Các gene cấu trúc Z, Y, A phiên mã tạo ra các phân tử mRNA tương ứng.",
+      "D. RNA polymerase liên kết với vùng khởi động của operon Lạc và tiến hành phiên mã."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-5",
+    "examSetId": "bai-5-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Khi nói về hoạt động của operon Lac. Các nhận định sau đây Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Đột biến ở gene điều hòa có thể làm cho operon không được phiên mã kể cả khi có lactose.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Số lần phiên mã của các gene Z, Y, A là giống nhau tạo ra số lượng các loại mRNA của các gene Z, Y, A là như nhau.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Operon lạc hoạt động khi protein ức chế bị thay đổi cấu hình.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Khi Lactose trong tế bào bị phân giải hết thì operon sẽ bị ức chế.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-5",
+    "examSetId": "bai-5-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Quan sát hình ảnh sau:",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Hình ảnh trên mô tả sự điều hòa hoạt động của operon Lac khi môi trường không có lactose.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Khi môi trường không có lactose, protein ức chế liên kết với vùng khởi động ngăn cản quá trình phiên mã làm cho các gene cấu trúc không hoạt động.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Vùng vận hành là trình tự nucleotide đặc biệt, tại đó enzyme RNA polymerase bám vào và",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Gene điều hòa R nằm trong operon Lac khi hoạt động sẽ tổng hợp nên protein ức chế.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-5",
+    "examSetId": "bai-5-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Trên một đoạn của phân tử DNA vi khuẩn, xét 5 gene X, Y, Z, W, T được phân bố ở 5 vị trí. . Các chữ số 1, 2, 3, 4 là các điểm trên nhiễm sắc thể. Theo lí thuyết, các nhận định sau đây Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Các gene đang xét có số lần nhân đôi bằng nhau.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Nếu các gene Z, W và T cùng thuộc 1 operon thì gene X sẽ là gene điều hòa.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Nếu các gene X, Y, Z thuộc các operon khác nhau thì số lần phiên mã của các gene này thường khác nhau.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Sự khởi đầu nhân đôi nhiều khả năng xảy ra tại gene Z, từ đó 2 chạc sao chép ở rộng ra 2 hướng",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-5",
+    "examSetId": "bai-5-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Khi nói về cơ chế điều hòa hoạt động của operon Lac. Các nhận định sau đây Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Khi môi trường có lactose, một số phân tử lactose liên kết với Protein ức chế làm bất hoạt Protein ức chế.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Một đột biến xảy ra ở vùng P của gene điều hòa có thể làm cho các gene Z, Y, A mất khả năng phiên mã.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Khi môi trường có lactose thì Protein ức chế mới có hoạt tính sinh học.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Nếu đột biến làm cho gene Y không được phiên mã thì các gene Z và A cũng không được phiên mà.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-5",
+    "examSetId": "bai-5-bo1"
+  }
+]

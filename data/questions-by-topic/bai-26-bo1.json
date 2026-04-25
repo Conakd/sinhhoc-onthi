@@ -1,0 +1,436 @@
+[
+  {
+    "type": "mc",
+    "content": "Khi lai khác dòng thì con lai F1 có ưu thế lai cao nhất nhưng không dùng để nhân giống bằng phương pháp hữu tính vì",
+    "options": [
+      "A. nó mang gene lặn có hại, các gene trội không thể lấn át được",
+      "B. đời con có tỉ lệ dị hợp giảm, xuất hiện đồng hợp lặn có hại.",
+      "C. nó mang một số tính trạng xấu của bố hoặc mẹ.",
+      "D. giả thành rất cao nên nếu làm giống thì rất tốn kém."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-26",
+    "examSetId": "bai-26-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Tạo giống thuần chủng bằng phương pháp lai hữu tính chỉ áp dụng có hiệu quả đối với",
+    "options": [
+      "A. bào tử, hạt phấn.C. vật nuôi, cây trồng.",
+      "B. vật nuôi, vi sinh vật.D. cây trồng, vi sinh vật."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-26",
+    "examSetId": "bai-26-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Trong chọn giống người ta sử dụng giao phối gần hoặc tự thụ nhằm mục đích là",
+    "options": [
+      "A. tạo ưu thế lai so với thế hệ bố mę.",
+      "B. tạo dòng thuần mang các đặc tính mong muốn.",
+      "C. tổ hợp các đặc điểm quý hiếm từ các dòng bố mẹ.",
+      "D. tạo nguồn biến dị tổ hợp cho chọn giống."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-26",
+    "examSetId": "bai-26-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Trong các phương pháp tạo giống mới, phương pháp nào sau đây được sử dụng phổ biến trong tạo giống vật nuôi và cây trồng?",
+    "options": [
+      "A. Tạo giống bằng phương pháp gây đột biến. B. Tạo giống dựa vào công nghệ gene.",
+      "C. Tạo giống bằng công nghệ tế bào.D. Tạo giống bằng phương pháp lai hữu tính."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-26",
+    "examSetId": "bai-26-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Kết quả của biến dị tổ hợp do lai trong chọn giống là",
+    "options": [
+      "A. tạo ra nhiều giống vật nuôi, cây trồng cho năng suất cao.",
+      "B. tạo ra sự đa dạng về kiểu gene trong chọn giống vật nuôi, cây trồng.",
+      "C. chỉ tạo sự đa dạng về kiểu hình của vật nuôi, cây trồng trong chọn giống.",
+      "D. tạo ra nhiều giống vật nuôi, cây trồng phù hợp với điều kiện sản xuất mới."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-26",
+    "examSetId": "bai-26-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "tạo giống lai có ưu thế lai đầu tiên phải",
+    "options": [
+      "A. chọn lọc tổ hợp gene mong muốn.B. tạo dòng thuần chủng giống nhau.",
+      "C. tạo dòng thuần chủng khác nhau.D. lai thuận nghịch."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-26",
+    "examSetId": "bai-26-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Các giống cây trồng thuần chủng",
+    "options": [
+      "A. có thể được tạo ra bằng phương pháp lai khác thứ qua vài thế hệ.",
+      "B. có tất cả các cặp gene đều ở trạng thái dị hợp tử.",
+      "C. có thể được tạo ra bằng phương pháp tự thụ phấn qua nhiều đời.",
+      "D. có năng suất cao nhưng kém ổn định."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-26",
+    "examSetId": "bai-26-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Trong phương pháp tạo giống mới bằng lại hữu tính, người ta sử dụng",
+    "options": [
+      "A. Cho sinh sản vô tính bằng giảm cành.",
+      "B. Cho các cá thể có kiểu gene đồng hợp tự thụ phấn.",
+      "C. Gây đột biến bằng tác nhân vật lý, hóa học",
+      "D. Cho các cá thể có kiểu gene dị hợp lại với nhau."
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-26",
+    "examSetId": "bai-26-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Khi nói về ưu thế lai, các nhận định sau đây Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Ưu thế lai thường biểu hiện cao nhất ở F2 và sau đó giảm dần ở các đời tiếp theo.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Ưu thế lai có thể biểu hiện ở con lai của phép lai giữa hai dòng thuần chủng.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Các con lai F2 có ưu thế lai cao thường được sử dụng để làm thương phẩm.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Ưu thế lai chỉ biểu hiện ở phép lai thuận.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-26",
+    "examSetId": "bai-26-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Khi nói về dòng thuần chủng, các nhận định sau đây đúng hay sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Có thể được tạo ra bằng phương pháp tự thụ và giao phối cận huyết.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Trong trường hợp quần thể có n gene, mỗi gene gồm hai allele khác nhau nằm trên một nhiễm sắc thể phân li độc lập thì số dòng thuần có thể có trong quần thể là 2\".",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Được tạo ra nhanh nhất bằng phương pháp nuôi cấy hạt phấn.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Cùng một dòng thuần sẽ biểu hiện thành các kiểu hình giống nhau trong các môi trường khác nhau.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-26",
+    "examSetId": "bai-26-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Khi nói về ưu thế lai, các nhận định sau đây Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Khi lai giữa hai dòng thuần chủng có kiểu gene khác nhau, phép lai thuận có thể không cho ưu thế lai nhưng phép lai nghịch lại có thể cho ưu thế lai và ngược lại.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Khi lai giữa hai dòng thuần có kiểu gene khác nhau, ưu thế lai biểu hiện ở đời F1 sau đó tăng dần qua các thế hệ.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Các con lai F1 có ưu thế lai luôn giữ lại làm giống.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Khi lai giữa hai cá thể thuộc cùng một dòng thuần chủng luôn cho con lại có ưu thế lai.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-26",
+    "examSetId": "bai-26-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Các nhận định sau đây Đúng hay Sai khi nói về ưu thế lai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Ưu thế lai biểu hiện cao nhất ở cơ thể mang nhiều cặp gene dị hợp nhất.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Ưu thế lai chỉ biểu hiện ở phép lai nghịch.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Chỉ có một số tổ hợp lai giữa các cặp bố mẹ nhất định mới có ưu thế lai cao.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Phương pháp sinh sản sinh dưỡng là phương pháp phổ biến nhất duy trì ưu thế lai ở thực vật.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-26",
+    "examSetId": "bai-26-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Các nhận định sau đây Đúng hay Sai khi nói về ưu thế lai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Ưu thế lai được biểu hiện ở đời F1 và sau đó tăng dần ở các đời tiếp theo.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Ưu thế lai luôn biểu hiện ở con lại của phép lai giữa hai dòng thuần chủng.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Các con lai F1 có ưu thế lai cao thường được sử dụng làm giống vì chúng có kiểu hình giống nhau.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Trong cùng một tổ hợp lai, phép lai thuận có thể không cho ưu thế lai nhưng phép lai nghịch lại có thể cho ưu thế lai và ngược lại.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-26",
+    "examSetId": "bai-26-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "luôn tạo được cá thể thuần chủng, các phương pháp sau đây Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Cho tự thụ phấn liên tục qua nhiều thế hệ, kết hợp với chọn lọc",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Cho hai cá thể không thuần chủng của hai loài lai với nhau được F1, lưỡng bội hóa F1.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Cho hai cá thể không thuần chủng của cùng một loài lai với nhau được F1, tứ bội hóa F1 thành thể tứ bội.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Dùng colchicine tác động lên giảm phân I tạo giao tử lưỡng bội, hai giao tử lưỡng bội thụ tinh tạo ra hợp tử tứ bội.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-26",
+    "examSetId": "bai-26-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Các nhận định sau đây Đúng hay Sai về dòng thuần?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "100% cá thể đều có kiểu gene AaBbDd",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "100% cá thể đều có kiểu gene ABDE.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "100% cá thể đều có kiểu gene aabbDD.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "50% cá thể AAbbDD và 50% cá thể aaBBdd",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-26",
+    "examSetId": "bai-26-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Tự thụ phấn bắt buộc ở cây giao phấn qua nhiều thế hệ thường gây hiện tượng thoái hoá giống, các nhận định sau đây Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "thể đồng hợp giảm, thể dị hợp tăng trong đó các gene lặn có hại được biểu hiện.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "các gene tồn tại ở trạng thái đồng hợp trội nên gene lặn có hại không biểu hiện.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "thể dị hợp giảm, thể đồng hợp tăng trong đó các gene lặn có hại được biểu hiện.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "các gene tồn tại ở trạng thái dị hợp nên gene lặn có hại không biểu hiện.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-26",
+    "examSetId": "bai-26-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Trong Luật hôn nhân và gia đình có điều luật cấm kết hôn giữa những người có quan hệ huyết thống gần gũi. Cơ sở di truyền học của điều luật này là: Khi những người có quan hệ huyết thống kết hôn với nhau, các nhận định sau đây Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Quá trình giảm phân ở bố và mẹ bị rối loạn làm xuất hiện các đột biến nhiễm sắc thể.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Các gene lặn có hại có thể được biểu hiện làm cho con cháu của họ có sức sống kém.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Các gene trội có hại được biểu hiện làm cho con cháu của họ có sức sống kém.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Quá trình nguyên phân ở bố và mẹ bị rối loạn làm xuất hiện các đột biến soma",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-26",
+    "examSetId": "bai-26-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Trong chọn giống, khi nói về nhằm mục đích dùng phương pháp tự thụ phấn. bắt buộc hoặc giao phối cận huyết, các nhận định sau đây Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Tạo ra độ đồng đều giữa các cá thể về kiểu gene của giống.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Củng cố đặc tính quý của giống.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Loại bỏ 1 số gene lặn gây hại ra khỏi giống.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Tao ưu thế lai.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-26",
+    "examSetId": "bai-26-bo1"
+  }
+]

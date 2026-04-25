@@ -6,24 +6,31 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "seed": "ts-node scripts/seed.ts",
+    "seed-v2": "ts-node scripts/seed-v2.ts",
+    "clear": "ts-node scripts/clear-questions.ts"
   },
   "dependencies": {
     "@google/generative-ai": "^0.24.1",
     "firebase": "^12.12.0",
     "firebase-admin": "^10.3.0",
+    "lucide-react": "^1.8.0",
     "next": "16.2.4",
     "react": "19.2.4",
     "react-dom": "19.2.4"
   },
   "devDependencies": {
-    "@tailwindcss/postcss": "^4",
+    "@tailwindcss/postcss": "^4.2.2",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "autoprefixer": "^10.5.0",
     "eslint": "^9",
     "eslint-config-next": "16.2.4",
-    "tailwindcss": "^4",
+    "postcss": "^8.5.10",
+    "tailwindcss": "^4.2.2",
+    "ts-node": "^10.9.2",
     "typescript": "^5"
   }
 }

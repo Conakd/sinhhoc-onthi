@@ -1,0 +1,316 @@
+[
+  {
+    "type": "mc",
+    "content": "Loại đột biến nào sau đây sẽ làm cho sản phẩm của gene bị thay đổi về cấu trúc?",
+    "options": [
+      "A. Đột biến lệch bội.B. Đột biến cấu trúc NST.",
+      "C. Đột biến gene.D. Đột biến đa bội."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-6",
+    "examSetId": "bai-6-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Trong quá trình nhân đôi DNA, các nucleotide bắt cặp không theo nguyên tắc bổ sung thì sẽ dẫn đến phát sinh dạng đột biến nào sau đây?",
+    "options": [
+      "A. Thêm một cặp nucleotide.B. Mất 2 cặp nucleotide.",
+      "C. Mất một cặp nucleotide.D. Thay thế một cặp nucleotide."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-6",
+    "examSetId": "bai-6-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Những biến đổi trong cấu trúc của gene liên quan đến 1 cặp nucleotide được gọi là",
+    "options": [
+      "A. đột biến điểm.B. đột biến cấu trúc NST.",
+      "C. đột biến số lượng NST.D. thể đột biến."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-6",
+    "examSetId": "bai-6-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Loại đột biến nào sau đây làm cho gene đột biến giảm 2 liên kết hydrogen so với gene ban đầu?",
+    "options": [
+      "A. Đột biến mất 1 cặp A - T.",
+      "B. Đột biến thay thế 1 cặp G - C bằng 1 cặp A - T.",
+      "C. Đột biến thay thế 2 cặp G - C bằng 2 cặp C - G.",
+      "D. Đột biến thay thế 1 cặp A - T bằng 1 cặp G - C."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-6",
+    "examSetId": "bai-6-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Khi nói về đột biến gen, phát biểu nào sau đây sai?",
+    "options": [
+      "A. Đột biến gene tạo ra những allele mới.",
+      "B. Đột biến gene trội ở dạng dị hợp cũng được gọi là thể đột biến.",
+      "C. Đột biến gene chỉ được phát sinh khi trong môi trường có xác tác nhân đột biến.",
+      "D. DNA không nhân đôi thì vẫn có thể phát sinh đột biến gene."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-6",
+    "examSetId": "bai-6-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Trong số các dạng đột biến sau đây, dạng nào thường gây hậu quả ít nhất?",
+    "options": [
+      "A. Mất một cặp nucleotide.       B. Thêm một cặp nucleotit",
+      "C. Thay thế một cặp nucleotide. D. Đột biến mất đoạn NST."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-6",
+    "examSetId": "bai-6-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Hóa chất gây đột biến 5-BU thường gây đột biến gene dạng",
+    "options": [
+      "A. thay thế cặp G - C bằng T - A.B. thay thế cặp G - C bằng cặp C - G.",
+      "C. thay thế cặp A - T bằng T - A.D. thay thế cặp A - T bằng G - C."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-6",
+    "examSetId": "bai-6-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Một gene có chiều dài 5100 A° và có tổng số 3600 liên kết hydrogene. Gen bị đột biến điểm làm tăng 1 liên kết hydrogen nhưng chiều dài của gene không bị thay đổi. Số nucleotide mỗi loại của gene khi đã đột biến là",
+    "options": [
+      "A. A = T = 555 G = C = 645B. A = T = 899 G = C = 601",
+      "C. A = T = 901 G = C = 599D. A = T = 650 G = C = 550"
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-6",
+    "examSetId": "bai-6-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Một gene có chiều dài 2805 Aº và có tổng số 2074 liên kết hydrogen (Gene bị đột biến điểm làm giảm 3 liên kết hydrogene. Số nucleotide mỗi loại của gene khi đột biến là",
+    "options": [
+      "A. A = T = 400 G = C = 424B. A = T = 401 G = C = 423",
+      "C. A = T = 424 G = C = 400D. A = T = 403 G = C = 422"
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-6",
+    "examSetId": "bai-6-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Dạng đột biến nào sau đây không làm thay đổi thành phần nucleotide của gen",
+    "options": [
+      "A. Thay thế cặp A - T bằng cặp G - C.B. Mất một cặp nucleotide.",
+      "C. Thêm một cặp nucleotide.D. Thay thế cặp A - T bằng cặp T - A."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-6",
+    "examSetId": "bai-6-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "t biến thay thế 1 cặp nucleotide này bằng 1 cặp nucleotide khác Xảy ra tại vùng exon của gene cấu trúc nhưng không làm thay đổi trình tự xác amino acid do gene đó quy định tổng hợp. Nguyên nhân là do",
+    "options": [
+      "A. mã di truyền có tính phổ biến.B. mã di truyền là mã bộ ba.",
+      "C. mã di truyền có tính thoái hóa.D. mã di truyền có tính đặc hiệu."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-6",
+    "examSetId": "bai-6-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Gene A bị đột biến thành gene a, hai gene này có chiều dài bằng nhau nhưng gene a hơn gene A một liên kết hydro, chứng tỏ gene A đã xảy ra đột biến dạng",
+    "options": [
+      "A. thay thế cặp G - C bằng cặp A - T. B. thay thế cặp A - T bằng cặp G - C.",
+      "C. thêm 1 cặp G - C.D. mất 1 cặp A - T."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-6",
+    "examSetId": "bai-6-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Loại đột biến nào sau đây chỉ làm thay đổi cấu trúc của 1 bộ ba ở trên mRNA",
+    "options": [
+      "A. Mất 1 cặp G - C ở giữa gene.B. Thay thế cặp A - T bằng cặp G - C ở giữa gene.",
+      "C. Thêm 1 cặp A - T ở giữa gene.D. Mất 1 cặp A - T ở giữa gene."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-6",
+    "examSetId": "bai-6-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Một gene có chiều dài 3740 Aº và có tổng số 2800 liên kết hydrogene. Gene bị đột biến điểm làm tăng 2 liên kết hydrogene. Số nucleotide mỗi loại của gene khi đã đột biến là",
+    "options": [
+      "A. A = T = 501 G = C = 600B. A = T = 500 G = C = 601",
+      "C. A = T = 424 G = C = 400D. A = T = 403 G = C = 422"
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-6",
+    "examSetId": "bai-6-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Khi nói về đột biến gen, xác nhận định sau đây Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Tia UV làm cho hai nucleotide thymine trên cùng một mạch liên kết với nhau.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Guanin dạng hiếm có thể tạo nên đột biến thay thế G-C bằng A-T.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Dạng đột biến thay thế một cặp nucleotide Xảy ra phổ biến hơn dạng đột biến mất hoặc thêm một cặp nucleotide.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Cơ thể mang đột biến của gene nằm trên vùng không tương đồng của NST giới tính Y luôn di truyền allele đột biến cho 100% đời con.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-6",
+    "examSetId": "bai-6-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Trong điều kiện mỗi gene quy định một tính trạng, Xác nhận định sau đây Đúng hay Sai về đột biến gen?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Quá trình nhân đôi của DNA không theo nguyên tắc bổ sung thì luôn dẫn tới đột biến gene.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Đột biến gene trội ở dạng dị hợp cũng được gọi là thể đột biến.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Đột biến gene chỉ được phát sinh khi trong môi trường có xác tác nhân đột biến.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "DNA không nhân đôi thì không phát sinh đột biến gene.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-6",
+    "examSetId": "bai-6-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Khi nói về đột biến gene, xác nhận định sau đây Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Khi môi trường không có tác nhân gây đột biến, đột biến gene vẫn có thể xảy ra.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Đột biến gene là những đột biến chỉ liên quan tới một cặp nucleotide.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Đột biến gene có thể xảy ra ở tất cả xác loại tế bào của sinh vật.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Ở cấp phân tử, hầu hết đột biến điểm là đột biến trung tính.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-6",
+    "examSetId": "bai-6-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Gene M có 1400 cặp nucleotide và 3900 liên kết hydro. Gene M bị đột biến thêm một cặp G - C trở thành allele m. Có bao nhiêu phát biểu sau đây Đúng?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Số nucleotide loại A của gene M là 300.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Số nucleotide loại G của allele m là 1101.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Gene M có ít liên kết hydrogen hơn gene m.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Số nucleotide loại C của hai gene M và m là bằng nhau.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-6",
+    "examSetId": "bai-6-bo1"
+  }
+]

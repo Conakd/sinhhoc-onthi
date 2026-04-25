@@ -1,0 +1,555 @@
+[
+  {
+    "type": "mc",
+    "content": "Loại đột biến dẫn đến sắp xếp lại các khối gene trên và giữa các NST và có thể làm thay đổi hình dạng kích thước NST là",
+    "options": [
+      "A. đột biến gene. B. đột biến lệch bội.",
+      "C. đột biến đa bội D. đột biến cấu trúc NST."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-13",
+    "examSetId": "bai-13-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Dạng đột biến cấu trúc nhiễm sắc thể nào sau đây có thể được vận dụng để loại khỏi nhiễm sắc thể những gene không mong muốn?",
+    "options": [
+      "A. Đảo đoạn NST. B. Lặp đoạn NST.",
+      "C. Chuyển đoạn NST. 164 D. Mất đoạn NST"
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-13",
+    "examSetId": "bai-13-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Loại đột biến cấu trúc NST nào sau đây có thể làm cho một gene từ nhóm liên kết này chuyển sang nhóm liên kết khác",
+    "options": [
+      "A. Chuyển đoạn trong một NST. B. Đảo đoạn NST.",
+      "C. Lặp đoạn NST. D. Chuyển đoạn giữa hai NST."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-13",
+    "examSetId": "bai-13-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "một loài, NST số 1 có trình tự sắp xếp các gen: ABCDEGH. Sau khi bị đột biến NST này có cấu trúc AEDCBGH. Đây là dạng đột biến",
+    "options": [
+      "A. mất đoạn NST. B. lặp đoạn NST.",
+      "C. chuyên đoạn NST. D. đảo đoạn NST"
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-13",
+    "examSetId": "bai-13-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "một loài, NST số 1 có trình tự sắp xếp các gọn: ABCDEGH. Sau khi bị đột biến, NST này có trình tự các gen: ABCDEDEGH. Đây là dạng đột biến",
+    "options": [
+      "A. mất đoạn NST B. lặp đoạn NST.",
+      "C. chuyển đoạn NST D. đảo đoạn NST."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-13",
+    "examSetId": "bai-13-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "c điểm nào sau đây chỉ có ở thể dị đa bội mà không có ở thể tự đa bội",
+    "options": [
+      "A. Bộ NST tồn tại theo từng cặp tương đồng.",
+      "B. Tế bào sinh dưỡng mang bộ NST lưỡng bội của hai loài khác nhau.",
+      "C. Không có khả năng sinh sản hữu tỉnh (bị bắt thụ).",
+      "D. Hàm lượng DNA ở trong tế bào sinh dưỡng tăng lên so với dạng lưỡng bội"
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-13",
+    "examSetId": "bai-13-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Hình vẽ bên mô tả cơ chế phát sinh dạng đột biến cấu trúc nhiễm sắc thể thuộc dạng",
+    "options": [
+      "A. chuyển đoạn trên một nhiễm sắc thể.",
+      "B. đào đoạn nhiễm sắc thể có chứa tâm động",
+      "C. mất đoạn giữa nhiễm sắc thể",
+      "D. chuyển đoạn không tương hỗ giữa các nhiễm sắc thể."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-13",
+    "examSetId": "bai-13-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Hình bên mô tả một dạng đột biến cấu trúc nhiễm sắc thể, nhận định nào sau đây không đúng khi nói về dạng đột biến đó?",
+    "options": [
+      "A. Dạng đột biến này có thể gây hại cho thể đột biến.",
+      "B. Dạng đột biến này làm thay đổi số lượng gene trên nhiễm sắc thể",
+      "C. Đây là dạng đột biến đảo đoạn nhiễm sắc thể.",
+      "D. Dạng đột biến này làm thay đổi vị trí của gene trên nhiễm sắc thể."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-13",
+    "examSetId": "bai-13-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Sự trao đổi chéo không cân giữa hai chromatide khác nguồn trong cặp nhiễm sắc thể kép tương đồng xảy ra ở kì đầu của giảm phân 1 có thể làm phát sinh các loại đột biến nào sau đây?",
+    "options": [
+      "A. Mắt đoạn và đảo đoạn nhiễm sắc thể. B. Lập đoạn và chuyển đoạn nhiễm sắc thể.",
+      "C. Mất đoạn và lặp đoạn nhiễm sắc thể. D. Lặp đoạn và đảo đoạn nhiễm sắc thể."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-13",
+    "examSetId": "bai-13-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Dạng đột biến cấu trúc NST có thể gây hậu quả nghiêm trọng nhất cho thể đột biến là",
+    "options": [
+      "A. mất đoạn lớn NST. B. lặp đoạn NST.",
+      "C. chuyển đoạn nhỏ NST. D. đảo đoạn NST"
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-13",
+    "examSetId": "bai-13-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Khi nói về đột biến chuyển đoạn nhiễm sắc thể, phát biểu nào sau đây đúng?",
+    "options": [
+      "A. Chuyển đoạn nhiễm sắc thể là chỉ chuyển cho nhau các đoạn trung nói hộ của một nhiễm thể",
+      "B. Chuyển đoạn lớn ở nhiễm sắc thể thường gây chết hoặc làm mất khả năng sinh sản ở sinh vật",
+      "C. Chuyển đoạn không tương hỗ là một đoạn nhiễm sắc thể này chuyển sang nhiễm sắc thể thức và ngược lại.",
+      "D. Chuyển đoạn tương hỗ là một đoạn của nhiễm sắc thể hoặc cả một nhiễm sắc thể này sát nhập vào nhiễm sắc thể khác."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-13",
+    "examSetId": "bai-13-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Dạng đột biến nào sau đây có thể sẽ làm phát sinh các gene mới",
+    "options": [
+      "A. Đột biến đảo đoạn NST.",
+      "B. Đột biến lệch bội",
+      "C. Đột biến lặp đoạn NST  lặp đoạn sẽ tạo ra locus mới nên sẽ tạo ra gene mới.",
+      "D. Đột biến đa bội."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-13",
+    "examSetId": "bai-13-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Dạng đột biến cấu trúc nhiễm sắc thể nào sau đây có thể làm cho hai allele một gene cùng nằm trên một nhiễm sắc thể đơn?",
+    "options": [
+      "A. Chuyển đoạn trong 1 nhiễm sắc thể. B. Đảo đoạn",
+      "C. Mất đoạn. D. Lặp đoạn."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-13",
+    "examSetId": "bai-13-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Một NST có trình tự các gene là ABCDEFG.HI bị đột biến thành NST từ các gene là CDEFG.HI. Dạng đột biến này có thể được ứng dụng để",
+    "options": [
+      "A. chuyển gene từ nhóm gene liên kết này sang nhóm gene liên kết khác",
+      "B. làm tăng số lượng gene mong muốn nào sau đây đó trên NST",
+      "C. phòng trừ sâu hại bằng biện pháp di truyền.",
+      "D. loại khỏi NST những gene không mong muốn."
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-13",
+    "examSetId": "bai-13-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Sơ đồ sau mình hoạ cho các dạng đột biến cấu trúc NST nào?",
+    "options": [
+      "B. (1): chuyển đoạn chứa tâm động: (2): đảo đoạn chứa tâm động",
+      "C. (1) chuyển đoạn không chứa tâm động; (2): chuyển đoạn trong một NST.",
+      "D. (1): đảo đoạn chín tâm động; (2); đảo đoạn không chứa tâm động"
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-13",
+    "examSetId": "bai-13-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "một loài, NST số 1 có trình tự sắp xếp các gene: ABCDEGH. Sau khi bị đột biến, NST này có cấu trúc ABCDEDEGH. Theo lí thuyết, các nhận định sau đây Đúng hay sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Dạng đột biến này không làm thay đổi thành phần và số lượng gene trên NST.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Dạng đột biến này được sử dụng để chuyển gene loài này sang loài khác",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Dạng đột biến này không làm thay đổi hình thái của NST.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Dạng đột biến này có thể làm tăng hoặc giảm lượng sản phẩm của gene",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-13",
+    "examSetId": "bai-13-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Khi nói về đột biến cấu trúc NST, các nhận định sau đây Đúng hay sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Mất một đoạn NST mà đoạn bị mất không mang gene quy định tình trạng thì đột biến đó không gây hại",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Mất một đoạn NST có độ dài bằng nhau thì số lượng gone bị mắt sẽ như nhau.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Mắt một đoạn NST mà đoạn bị mất đều có 5 gene thì độ dài của đoạn bị mất sẽ bằng nhau.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Các đột biến mất đoạn NST ở các vị trí khác nhau biểu hiện kiểu hình khác nhau.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-13",
+    "examSetId": "bai-13-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Khi nói về hậu quả của đột biến NST, các nhận định sau đây Đúng hay Sai",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Tất cả các đột biến NST đều làm thay đổi kiểu hình của thể đột biến.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Đột biến chuyển đoạn thường gây chết hoặc làm giảm khả năng sinh sản.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Đột biến mất đoạn lớn thường gây chết hoặc làm giảm sức sống của thể đột biến.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Mất đoạn (đoạn mất có độ dài giống nhau) ở các vị trí khác nhau trên NST đều gây hậu quả giống nhau.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-13",
+    "examSetId": "bai-13-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Khi nói về nguyên nhân sau đây dẫn đến đột biến cấu trúc NST, các nhận định sau Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Việc tập trung của các nhiễm sắc thể trên mặt phẳng xích đạo ở kì giữa của quá trình giảm phân 1 theo nhiều cách khác nhau có thể là nguyên nhân dẫn đến đột biến cấu trúc NST",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Do NST đứt gãy, đoạn này kết hợp với một đoạn NST khác",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Sự tiếp hợp và trao đổi chéo không cân xảy ra ở kì đầu của giảm phân 1 giữa 2 chromatide khác nguồn gốc của cặp NST đồng dạng có thể dẫn đế đột biến chuyển đoạn.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Sự phân li không bình thường của NST, xảy ra ở kì sau của quá trình phân bào.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-13",
+    "examSetId": "bai-13-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Khi nói về đột biển NST, các nhận định sau đây Đúng hay sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Đột biến NST là những biến đổi về cấu trúc hoặc số lượng của NST.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Đột biến cấu trúc có 4 dạng là mất đoạn, lặp đoạn, đảo đoạn, chuyển đoạn.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Tất cả các đột biến NST đều gây chết hoặc làm cho sinh vật giảm sức sống.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Đột biến NST là nguồn nguyên liệu chủ yếu của quá trình tiến hoá.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-13",
+    "examSetId": "bai-13-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Khi nói về đột biến đảo đoạn nhiễm sắc thể, các nhận định sau đây Đúng hay Sai",
+    "options": [],
+    "correctAnswer": {
+      "a": true,
+      "b": false,
+      "c": false,
+      "d": true
+    },
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Làm thay đổi trình tự phân bố gene trên nhiễm sắc thể,",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Làm giảm hoặc tăng số lượng gene trên nhiễm sắc thể.",
+        "isCorrect": false
+      },
+      {
+        "label": "c",
+        "content": "Làm thay đổi thành phần gene trong nhóm gene liên kết",
+        "isCorrect": false
+      },
+      {
+        "label": "d",
+        "content": "Có thể làm giảm khả năng sinh sản của thể đột biển.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-13",
+    "examSetId": "bai-13-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Khi nói về đột biến lặp đoạn nhiễm sắc thể, các nhận định sau đây Đúng hay sai?",
+    "options": [],
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": false,
+      "d": true
+    },
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Đột biến lặp đoạn có thể có hại cho thể đột biến.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Đột biến lập đoạn dẫn đến lập gene, tạo điều kiện cho đột biến gene",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Đột biến lập đoạn luôn làm tăng khả năng sinh sản của thế đột biển.",
+        "isCorrect": false
+      },
+      {
+        "label": "d",
+        "content": "Đột biến lặp đoạn làm tăng chiều dài của nhiễm sắc thể.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-13",
+    "examSetId": "bai-13-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Khi nói về đột biến cấu trúc nhiễm sắc thể, các nhận định sau đây Đúng hay sai?",
+    "options": [],
+    "correctAnswer": {
+      "a": true,
+      "b": false,
+      "c": false,
+      "d": true
+    },
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Đột biến cấu trúc nhiễm sắc thể có thể xảy ra ở nhiễm sắc thể thường và nhiễm sắc thể giới tính.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Đột biến đảo đoạn làm cho gene từ nhóm liên kết này chuyển sang nhóm liên kết khác",
+        "isCorrect": false
+      },
+      {
+        "label": "c",
+        "content": "Đột biến mất đoạn không làm thay đổi số lượng gen trên nhiễm sắc thể",
+        "isCorrect": false
+      },
+      {
+        "label": "d",
+        "content": "Đột biến chuyển đoạn có thể không làm thay đổi số lượng và thành phần gene của một nhiễm sắc thể.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-13",
+    "examSetId": "bai-13-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Khi nói về đột biến nhiễm sắc thể, các nhận định sau đây Đúng hay sai?",
+    "options": [],
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": false
+    },
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Tất cả các đột biến số lượng nhiễm sắc thể đều làm thay đổi hàm lượng DNA trong nhân tế bào.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Tất cả các đột biến cấu trúc nhiễm sắc thể đều làm thay đổi cấu trúc của nhiễm sắc thể.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Tất cả các đột biến đa bội lẻ đều làm tăng hàm lượng DNA ở trong nhân tế bào",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Tất cả các đột biến đa bội chần đều làm thay đổi số lượng gene có trên một nhiễm sắc thể.",
+        "isCorrect": false
+      }
+    ],
+    "topicId": "bai-13",
+    "examSetId": "bai-13-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Quan sát hình ảnh và cho biết mỗi nhận định dưới đây Đúng hay sai?",
+    "options": [],
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": false,
+      "d": true
+    },
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Trong tế bào sinh dưỡng, nhiễm sắc thể thường tồn tại thành cặp gồm 2 chiếc đồng dạng",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Đột biến số lượng nhiễm sắc thể là hiện tượng làm tăng số lượng nhiễm sắc thể thêm một chiếc.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Đột biến cấu trúc là biến đổi làm cho nhiễm sắc thể bị ngắn hơn so với bình thường.",
+        "isCorrect": false
+      },
+      {
+        "label": "d",
+        "content": "Đột biến số lượng nhiễm sắc thể như hình b có thể là do sự kết hợp giữa giao từ bình thường với giao tử thừa 1 nhiễm sắc thể.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-13",
+    "examSetId": "bai-13-bo1"
+  }
+]

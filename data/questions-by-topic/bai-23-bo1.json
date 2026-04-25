@@ -1,0 +1,203 @@
+[
+  {
+    "type": "mc",
+    "content": "Phát biểu nào dưới đây về hiện tượng liên kết gene là sai?",
+    "options": [
+      "A. Liên kết gene là hiện tượng các gene gần nhau trên nằm trên các cặp nhiễm sắc thể khác nhau có xu hướng di truyền cùng nhau.",
+      "B. Tập hợp các gene liên kết thuộc mỗi cặp nhiễm sắc thể tương đồng tạo thành một nhóm liên kết.",
+      "C. Số nhóm liên kết tương đương với số nhiễm sắc thể khác nhau trong một bộ nhiễm sắc thể.",
+      "D. Sự di truyền các gene liên kết chi phối hiện tượng nhiều tính trạng di truyền liên kết ở sinh vật."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-23",
+    "examSetId": "bai-23-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Khi nói về hiện tượng hoán vị gene, nhận định nào dưới đây sai?",
+    "options": [
+      "A. Hoán vị gene là sự trao đổi các allele tương ứng trên hai chromatid khác nguồn của một cặp nhiễm sắc thể tương đồng.",
+      "B. Hoán vị gene tạo ra các giao tử mang tổ hợp các allele mới.",
+      "C. Hoán vị gene xảy ra ở kì đầu của giảm phân II.",
+      "D. Giao tử hoán vị là các giao tử chứa nhiễm sắc thể có tái tổ hợp."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-23",
+    "examSetId": "bai-23-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Quá trình giảm phân ở cơ thể có kiểu gene AB/ab đã xảy ra hoán vị gen. Phát biểu nào sau đây đúng?",
+    "options": [
+      "A. Tổng tỉ lệ % của 2 loại giao tử AB và aB sẽ bằng tần số hoán vị gene.",
+      "B. Tổng tỉ lệ % của 2 loại giao tử Ab và ab sẽ chiếm 50%.",
+      "C. Tổng tỉ lệ % của 2 loại giao tử AB và ab sẽ bé hơn 50%.",
+      "D. Tổng tỉ lệ % của 2 loại giao tử AB và aB sẽ nhỏ hơn tần số hoán vị gene."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-23",
+    "examSetId": "bai-23-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Một loài thực vật, cho cây thân cao, hoa đỏ (P) tự thụ phấn, thu được F1 có 4 loại kiểu hình trong đó có 1% số cây thân thấp, hoa trắng. Biết rằng mỗi gene quy định 1 tính trạng. Theo lí thuyết, phát biểu nào sau đây đúng?",
+    "options": [
+      "A. F1 có tối đa 9 loại kiểu gene.",
+      "B. F1 có 35% số cây đồng hợp tử về 1 cặp gene.",
+      "C. F1 có 24% số cây thân cao, hoa trắng.",
+      "D. Kiểu gene của P có thể là"
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-23",
+    "examSetId": "bai-23-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Cho cây thân cao, hoa đỏ tự thụ phấn, đời F1 có tỉ lệ 59% cây thân cao, hoa đỏ: 16% cây thân thấp, hoa đỏ: 16% cây thân cao, hoa trắng: 9% cây thân thấp, hoa trắng. Cho biết mỗi cặp tính trạng do một cặp gene quy định và mọi diễn biến trong quá trình sinh hạt phấn và quá trình sinh noãn diễn ra giống nhau. Quy luật di truyền chi phối phép lai trên là",
+    "options": [
+      "A. quy luật phân li độc lập. B. quy luật tương",
+      "C. quy luật liên kết gene.D. quy luật hoán vị gene."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-23",
+    "examSetId": "bai-23-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "ruồi giấm, người ta tiến hành phép lai như sau:",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Ở ruồi giấm, tính trạng thân xám, cánh dài trội hoàn toàn so với thân đen, cánh ngắn.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Trong quá trình giảm phân ở ruồi giấm đực, gene quy định màu thân và gene quy định độ dài cánh cùng phân li về một giao tử.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Ruồi giấm đực F1, chỉ tạo ra hai loại giao tử có tỉ lệ bằng nhau.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Gene quy định màu thân và gene quy định độ dài cánh cùng nằm trên một nhiễm sắc thể.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-23",
+    "examSetId": "bai-23-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Dưới đây là sơ đồ giải thích cơ sở tế bào học của hiện tượng liên kết gene. Dựa vào sơ đồ, hãy cho biết mỗi nhận định dưới đây Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Trên một nhiễm sắc thể có nhiều gene cùng tồn tại.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Các gene nằm trên cùng 1 NST phân li cùng nhau trong quá trình giảm phân tạo giao tử.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Các tính trạng do các gene trên cùng một nhiễm sắc thể di truyền liên kết với nhau.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Hiện tượng liên kết gene làm hạn chế sự xuất hiện biến dị tổ hợp.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-23",
+    "examSetId": "bai-23-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Một loài thực vật, xét 3 cặp gen: A, a, B, b, D, d; mỗi cặp gene quy định 1 tính trạng, các allele trội là trội hoàn toàn. Pháp lai P: 2 cây đều có kiểu hình trội về 3 tính trạng giao phấn với nhau, thu được F1 có tỉ lệ kiểu hình là 6: 3; 3; 2; 1; 1 và có số cây mang 1 allele trội chiếm 12,5%. Theo lí thuyết, mỗi phát biểu nào sau đây Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "F1 xuất hiện kiểu gene đồng hợp 3 cặp gene.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "F1 có 50% số cây dị hợp 1 cặp gene.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "F1 có 4 loại kiểu gene dị hợp 2 cặp gene.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "F1 có 4 loại kiểu gene quy định kiểu hình trội về 3 tính trạng.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-23",
+    "examSetId": "bai-23-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "ruồi giấm, xét 2 cặp gene Aa và Bb nằm trên NST thường, trong đó allele A quy định lông dài trội hoàn toàn so với allele a quy định lông ngắn; allele B quy định lông đen trội hoàn toàn so với allele b quy định lông trắng. Cho con đực lông dài, màu đen giao phối với con cái lông dài, màu đen (P) thu được F1 có tỉ lệ 9 con lông dài, màu đen: 3 con lông dài, màu trắng: 3 con lông ngắn, màu đen: 1 con lông ngắn, màu đen: 1 con lông ngắn, màu trắng. Biết rằng không xảy đột biến. Theo lí thuyết, mỗi phát biểu sau đây Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Cho con cái ở P lai phân tích, có thể thu được Fa có 12,5% số cá thể lông dài, màu đen.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Cho con đực ở P lai phân tích, có thể thu được Fa có 50% số cá thể lông dài, màu đen.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Đời F1 có thể có 9 loại kiểu gene.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Ở đời F1, kiểu hình lông dài, màu trắng có thể chỉ có 1 kiểu gene quy định.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-23",
+    "examSetId": "bai-23-bo1"
+  }
+]

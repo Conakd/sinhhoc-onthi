@@ -1,0 +1,451 @@
+[
+  {
+    "type": "mc",
+    "content": "Nhà khoa học Mendel đã tiến hành tạo dòng hoa đỏ thuần chủng bằng cách nào sau đây?",
+    "options": [
+      "A. Cho cây hoa đỏ lại với cây hoa trắng để thu được F1 có hoa đỏ thuần chủng.",
+      "B. Cho cây hoa đỏ lại phân tích để kiểm tra kiểu gene của cây hoa đỏ.",
+      "C. Cho cây hoa trắng lại phân tích để thu được cây hoa trắng thuần chủng,",
+      "D. Cho cây hoa đỏ tự thụ phấn liên tục qua nhiều thế hệ."
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-28",
+    "examSetId": "bai-28-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "một loài thực vật, allele A nằm trên NST thường quy định hoa đỏ trội hoàn toàn so với allele a quy định hoa trắng. Cây hoa đỏ thuần chủng giao phấn với cây hoa trắng được F1, Các cây F1 tự thụ phấn được F2. Biết không xảy ra hiện tượng đột biến, phát biểu nào sau đây là đúng về kiểu hình ở thế hệ F2?",
+    "options": [
+      "A. Kiểu hình cây hoa đỏ chiếm 100%.",
+      "B. Kiểu hình cây hoa đỏ thuần chủng chiếm tỉ lệ 75%.",
+      "C. Kiểu hình cây hoa trắng chiếm tỉ lệ 25%.",
+      "D. Trong số cây có kiểu hình hoa đỏ, cây dị hợp chiếm tỉ lệ 50%."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-28",
+    "examSetId": "bai-28-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Khi nói về liên kết gen, phát biểu nào sau đây đúng?",
+    "options": [
+      "A. Liên kết gene làm tăng sự xuất hiện biến dị tổ hợp.",
+      "B. Các cặp gene càng nằm ở vị trí gần nhau thì tần số hoán vị gene càng cao.",
+      "C. Hai cặp gene nằm trên 2 cặp nhiễm sắc thể khác nhau thì không liên kết với nhau.",
+      "D. Số nhóm gene liên kết luôn bằng số NST đơn có trong tế bào sinh dưỡng của loài."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-28",
+    "examSetId": "bai-28-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "một loài thực vật, allele A nằm trên nhiễm sắc thể thường quy định hoa đỏ trội hoàn toàn so với allele a quy định hoa trắng. Theo lí thuyết, phương pháp nào sau đây không thể xác định kiểu gene của cây hoa đỏ?",
+    "options": [
+      "A. Cho cây hoa đỏ tự thụ phấn.",
+      "B. Cho cây hoa đỏ lại với cây hoa trắng.",
+      "C. Cho cây hoa đỏ lại với cây hoa đỏ dị hợp.",
+      "D. Cho cây hoa đỏ lại với cây hoa đỏ thuần chủng."
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-28",
+    "examSetId": "bai-28-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Khi nói về sự mềm dẻo của kiểu hình, phát biểu nào sau đây đúng?",
+    "options": [
+      "A. Người bị bệnh bạch tạng kết hôn với người bình thường thì sinh con có thể bị bệnh hoặc không.",
+      "B. Người bị bệnh thiếu máu hồng cầu hình liềm thì sẽ bị viêm phổi, thấp khớp, suy thận.",
+      "C. Người bị hội chứng AIDS thì thường bị ung thư, tiêu chảy, lao, viêm phổi,",
+      "D. Loài tắc kè có thể thay đổi màu sắc giống màu của môi trường sống để ngụy trang, trón tranh kẻ thù và dễ tìm kiếm thức ăn."
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-28",
+    "examSetId": "bai-28-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "người, bệnh động kinh do 1 gene nằm trong ti thể gây ra. Một gia đình có 1 người con trai mắc bệnh động kinh, gene gây bệnh động kinh của người con trai này có nguồn gốc tử",
+    "options": [
+      "A. tỉ thể của bố. B. ti thể của bố hoặc mẹ.",
+      "C. ti thể của mẹ.D. nhân tế bào của cơ thể mẹ."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-28",
+    "examSetId": "bai-28-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Tập hợp các kiểu hình của cùng một kiểu gene tương ứng với các môi trường khác nhau là",
+    "options": [
+      "A. sự mềm dẻo kiểu hình (thường biến). C. đột biến gene khi môi trường thay đổi.",
+      "B. đột biến khi môi trường thay đổi. D. mức phản ứng của kiểu gene."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-28",
+    "examSetId": "bai-28-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Nhà khoa học Morgan đã phát hiện ra hiện tượng hoán vị gene khi thực hiện phép lai nào sau đây?",
+    "options": [
+      "A. Cho các cá thể thân xám, cánh dài F1 giao phối với nhau.",
+      "B. Cho con đực F1 lai phân tích.",
+      "C. Cho con cái F1 lai phân tích.",
+      "D. Cho F1 lai với cá thể thân xám, cánh dài đời P."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-28",
+    "examSetId": "bai-28-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Tính trạng do gene nằm ở vị trí nào sau đây quy định thường sẽ biểu hiện không đều ở 2 giới?",
+    "options": [
+      "A. Trên nhiễm sắc thể thường. B. Trong lục lạp.",
+      "C. Trên đoạn tương đồng của NST X và Y. D. Trong ti thể."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-28",
+    "examSetId": "bai-28-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "người, xét 3 cặp gene nằm trên 3 cặp nhiễm sắc thể thường, các gene này quy định các enzyme khác nhau cùng tham gia vào quá trình chuyển hóa các chất trong cơ thể theo sơ đồ sau:",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Có tối đa 6 kiểu gene khác nhau cùng quy định bệnh Y.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Một người bị bệnh X kết hôn với một người bị bệnh Z có thể sinh ra con không mắc bệnh.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Một người bị bệnh X kết hôn với một người bị bệnh Y có thể sinh một đứa con mặc cả hai bệnh X và Y.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Một cặp vợ chồng đều bình thường có thể sinh con đầu lòng mắc bệnh X và không mang allele trội.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-28",
+    "examSetId": "bai-28-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Xét một cơ thể đực có kiểu gene AB/ab De/dE MN/mn Trong quá trình giảm phân, mỗi tế bào chỉ xảy ra hoán vị gene ở tối đa 1 cặp NST và có một số tế bào bị đột biến, cặp NST MN/mn không phân li ở giảm phân I, giảm phân diễn xảy ra bình thường, các cặp NST khác phân li bình thường. Theo lí thuyết, mỗi phát biểu sau đây Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Cơ thể này sẽ tạo ra tối đa 8 loại giao tử liên kết.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Cơ thể này sẽ tạo ra tối đa 92 loại tinh trùng.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Cơ thể này có thể sẽ tạo ra tối đa 24 loại giao tử hoán vị và không đột biến.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Giả sử chỉ có 3 tế bào giảm phân thì chỉ tạo ra tối đa 12 loại giao tử.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-28",
+    "examSetId": "bai-28-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Một cơ thể động vật, cặp gene Aa nằm trên cặp nhiễm sắc thể số 1, cặp gene Bb và Dd cùng năm trên cặp NST số 2, cặp gene Ee nằm trên cặp NST số 3, cặp gene Hh, Mm và Nn cùng nằm trên cặp NST số 4. Các gene trên 1 NST liên kết với nhau trong quá trình di truyền, các gene nằm trên các cặp NST khác nhau phân li độc lập nhau. Mỗi phát biểu sau đây Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Cặp gene Bb di truyền phân li độc lập với cặp gene Dd",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Cặp gene Aa di truyền phân li độc lập với tất cả các cặp gene còn lại.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Hai cặp gene Dd và Ee liên kết với nhau trong quá trình di truyền.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Loài này có 7 cặp NST.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-28",
+    "examSetId": "bai-28-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "một loài thú, tính trạng màu lông do một gene có 4 allele nằm trên NST thường quy định, các allele trội lặn hoàn toàn. Biết không xảy ra đột biến. Thực hiện 2 phép lai, thu được kết quả như sau:",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Trong loài này, có 4 kiểu gene quy định kiểu hình lông đỏ.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Cho tất cả các cá thể lông vàng F1 của phép lai 1 lại với cá thể lông trắng thì luôn thu được đời con có 50% số cá thể lông vàng.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Đời F1 của phép lai 2 có 4 loại kiểu gene.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Cho cá thể lông vàng ở thế hệ P của phép lai 2 giao phối với cá thể lông trắng, thì có thể thu được đời con với tỉ lệ 1 vàng : 1 trắng.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-28",
+    "examSetId": "bai-28-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "gà, một tế bào của cơ thể có kiểu gene BbXDY giảm phân bình thường sinh ra giao tử. Theo lí thuyết, mỗi phát biểu sau đây Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Luôn cho ra 2 loại giao tử.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Giao tử mang Y luôn chiếm 50%.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Loại giao tử BY luôn chiếm tỉ lệ 25%.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Nếu sinh ra giao tử mang gene bXD thì giao tử này chiếm tỉ lệ 100%.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-28",
+    "examSetId": "bai-28-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "một loài thực vật lưỡng bội, tính trạng màu hoa do một gene có 4 allele quy định. Allele A, quy định hoa đỏ trội hoàn toàn so với allele A2, A3, A4; allele A2 quy định hoa vàng trội hoàn toàn so với allele A3, A4; allele A3 quy định hoa hồng trội hoàn toàn so với allele A4 quy định hoa trắng. Biết không xảy ra đột biến. Theo lí thuyết, mỗi phát biểu nào sau đây Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Cho cây hoa đỏ lại với cây hoa trắng, có thể thu được ở đời con có 100% cây hoa trắng.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Cho cây hoa đỏ lại với cây hoa hồng, có thể thu được ở đời con có 100% cây hoa vàng.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Cho cây hoa vàng lai với cây hoa hồng, có thể thu được ở đời con có 100% cây hoa đỏ.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Cho cây hoa hồng lai với cây hoa trắng, có thể thu được ở đời con có 100% cây hoa hồng.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-28",
+    "examSetId": "bai-28-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Một loài thực vật, xét 2 cặp gene phân li độc lập cùng tham gia vào quá trình chuyển hóa chất K màu trắng trong tế bào cánh hoa: gene A quy định enzyme A chuyển hóa chất K thành sắc tố đỏ; gene B quy định enzyme B chuyển hóa chất K thành sắc tố xanh. Khi trong tế bào có cả gene A và gene B thì cánh hoa có màu vàng. Các allele đột biến lặn a và b không có khả năng phiên mã. Biết rằng không xảy ra đột biến. Theo lí thuyết, mỗi phát biểu sau đây Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Cho cây dị hợp tử về 2 cặp gene tự thụ phấn thì đời con có 2 loại kiểu hình.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Cho cây hoa đỏ giao phấn với cây hoa xanh, đời con có tối đa 4 kiểu gene.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Cho hai cây hoa đỏ có kiểu gene khác nhau giao phấn với nhau, luôn thu được đời con có 100% cây hoa đỏ.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Cho cây hoa vàng giao phấn với cây hoa trắng, có thể thu được đời con có 25% số cây hoa vàng.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-28",
+    "examSetId": "bai-28-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "ruồi giấm, allele A quy định thân xám trội hoàn toàn so với allele a quy định thân đen, allele B quy định cánh dài trội hoàn toàn so với allele b quy định cánh cụt. Các gene quy định màu thân và hình dạng cánh cùng nằm trên một NST thường. Allele D nằm trên đoạn không tương đồng của NST giới tính X quy định mắt đỏ trội hoàn toàn so với allele d quy định mắt trắng. Cho ruồi cái thân xám, cánh dài, mắt đỏ giao phối với ruồi đực thân đen, cánh cụt, mắt đỏ (P), thu được F1 có 1% ruồi đực thân đen, cánh dài, mắt trắng. Biết rằng không xảy ra đột biến. Theo lí thuyết, mỗi phát biểu sau đây Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Tần số hoán vị gene là 8%.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Đời F1 có 16 kiểu gene.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "F1 có 3% ruồi thân xám, cánh cụt, mắt đỏ.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "F1 có 25% ruồi cái thân xám, cánh dài, mắt đỏ.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-28",
+    "examSetId": "bai-28-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Cho biết tính trạng màu hoa do 2 cặp gene Aa và Bb quy định; Tính trạng chiều cao cây do cặp gene Dd quy định. Cho cây thân cao, hoa đỏ (P) lai phân tích, thu được Fa có 10% cây thân cao, hoa đỏ: 40% cây thân cao, hoa trắng: 15% cây thân thấp, hoa đỏ : 35% cây thân thấp, hoa trắng. Biết không xảy ra đột biến. Theo lí thuyết, mỗi phát biểu sau đây Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Kiêu gene của P có thể là AD/ad Bb.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Đã xảy ra hoán vị gene với tần số 40%.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Đời Fa chỉ có 1 kiểu gene quy định kiểu hình thân cao, hoa trắng.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Nếu cho P tự thụ phấn thì ở đời con có 14,25% số cây thân thấp, hoa đỏ.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-28",
+    "examSetId": "bai-28-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Một loài thực vật, xét 3 cặp gene phân li độc lập, quy định cho các enzyme khác nhau cùng tham gia vào một chuỗi phản ứng hóa sinh để tạo nên sắc tố ở cánh hoa theo sơ đồ sau:",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Ở F2 có 8 kiểu gene quy định hoa đỏ và 12 kiểu gene quy định hoa trắng.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Ở F2, kiểu hình hoa vàng có ít kiểu gene quy định nhất.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Trong số cây hoa trắng ở F2, tỉ lệ cây có kiểu gene dị hợp chiếm 78,57%.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Ở F2 có tổng thể 27 kiểu gene.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-28",
+    "examSetId": "bai-28-bo1"
+  }
+]

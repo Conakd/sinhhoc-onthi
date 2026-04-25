@@ -1,0 +1,319 @@
+[
+  {
+    "type": "mc",
+    "content": "Dạng đột biến nào sau đây làm cho gene ban đầu ít hơn gene đột biến 2 liên kết hydrogen?",
+    "options": [
+      "A. Mất một cặp A - Τ.B. Thay thế cặp G - C bằng cặp A - T.",
+      "C. Thay thế cặp A - T bằng cặp G - C.D. Thêm một cặp A - T."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-7",
+    "examSetId": "bai-7-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Hậu quả của đột biến thay thế 1 cặp nucleotide gọi là đột biến đồng nghĩa xảy ra khi",
+    "options": [
+      "A. có sự thay đổi amino acid tương ứng trong chuỗi polypeptide.",
+      "B. thể đột biến được xuất hiện ở thế hệ sau.",
+      "C. thay đổi toàn bộ amino acid trong chuỗi polypeptide.",
+      "D. không làm thay đổi amino acid nào trong chuỗi polypeptide."
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-7",
+    "examSetId": "bai-7-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Nếu có một Nitrogenous base dạng hiếm tham gia vào quá trình nhân đôi của một phân tử DNA thì có thể phát sinh dạng đột biến nào sau đây?",
+    "options": [
+      "A. Thay thế một cặp nucleotide.B. Mất một cặp nucleotide.",
+      "C. Thêm một cặp nucleotide.D. Đảo một cặp nucleotide."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-7",
+    "examSetId": "bai-7-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Hình ảnh sau mô tả dạng đột biến điểm, phát biểu nào sau đây sai?",
+    "options": [
+      "A. Gene đã bị đột biến thay thế 1 cặp nucleotide C - G bằng cặp T - A.",
+      "B. Dạng đột biến gene này được gọi là đột biến sai nghĩa.",
+      "C. Đột biến đã xảy ra ở cặp nucleotide thứ 10 của gene.",
+      "D. Đột biến đã làm mã di truyền từ vị trị đột biến trở về sau bị thay đổi. TL: ĐB thuộc dạng thay thế 1 cặp nu (vị trí số 10) nên chỉ làm thay đôi tối đa 1 a.a"
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-7",
+    "examSetId": "bai-7-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Allele B ở sinh vật nhân sơ bị đột biến thay thế 1 cặp nucleotide ở giữa vùng mã hóa của gene tạo thành allele b, làm cho codon 5'UGG3' trên mRNA được phiên mã từ allele B trở thành codon 5'UGA3' trên mRNA được phiên mã từ allele b. Dự đoán nào sau đây đúng khi nói về dạng đột biến trên?",
+    "options": [
+      "A. Allele B ít hơn allele b một liên kết hydrogen.",
+      "B. Dạng đột biến này còn gọi là đột biến sai nghĩa.",
+      "C. Đột biến xảy ra có thể làm thay đổi chức năng của protein và biểu hiện ra ngay thành kiểu hình ở cơ thể sinh vật.",
+      "D. Chuỗi polypeptide do allele b quy định tổng hợp dài hơn chuỗi polypeptide do allele B quy định tổng hợp. TL: Đột biến thuộc dạng thay thế 1 cặp GC bằng 1 cặp AT nên làm giảm 1 LK H"
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-7",
+    "examSetId": "bai-7-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "5-BU (5-Brom Uraxin) là chất gây đột biến gene. Hình bên mô tả cơ chế gây đột biến của 5-BU.",
+    "options": [
+      "A. Chất 5-BU có thể làm thay đổi toàn bộ các bộ ba từ vị trí đột biến đến cuối gene.",
+      "B. Dạng đột biến này làm tăng 1 liên kết hydro. (vì làm thay thế 1 cặp A bằng 1 cặp GC)",
+      "C. Sau khi chất 5-BU bắt cặp với A thì cần 2 lần nhân đôi mới làm xuất hiện cặp G - C. ( đúng là 3 lần)",
+      "D. Chất 5-BU có thể làm biến đổi A - T thành G - C và ngược lại."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-7",
+    "examSetId": "bai-7-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Hình bên dưới mô tả cơ chế phân tử của bệnh hồng cầu hình liềm. Quan sát hình bên dưới và cho biết phát biểu nào sau đây đúng khi nói về đột biến hồng cầu hình liềm?",
+    "options": [
+      "A. Dựa vào hình trên có thể kết luận bệnh do gene trên NST giới tính quy định. (không có căn cứ, thực chất gene thuộc NST thường)",
+      "B. Đột biến trên làm thay đổi amino acid glutamic acid thành amino acid valine do tính đặc hiệu của mã di truyền.",
+      "C. Hồng cầu hình liềm có khả năng vận chuyển khí oxygene tốt hơn so với hồng cầu bình thường nhưng gây tắc mạch máu.",
+      "D. Đột biến trên không gây hậu quả nghiêm trọng vì chỉ thay thế cặp nucleotide cùng loại A - T thành T - A."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-7",
+    "examSetId": "bai-7-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Bệnh Phenylketonuria là một trong những bệnh gây rối loạn chuyển hóa các chất trong cơ thể người đã được biết rõ về cơ chế gây bệnh ở mức độ phân tử. Bệnh do đột biến gene mã hóa enzyme xúc tác cho phản ứng chuyển hóa amino acid phenylalanine thành tyrosine trong cơ thể. Do gene đột biến không tạo ra được enzyme có chức năng nên phenylalanine không được chuyển hóa thành tyrosine và amino acid này bị ứ đọng trong máu, chuyển lên não gây đầu độc tế bào thần kinh, làm bệnh nhân bị thiểu năng trí tuệ dẫn đến mất trí. Bệnh có thể được chữa trị nếu phát hiện được bệnh sớm ở trẻ em và bệnh nhân tuân thủ chế độ ăn kiêng với thức ăn chứa phenylalanine ở một lượng hợp lý. Vì phenylalanine là một loại amino acid không thay thế nên chúng ta không thể loại bỏ hoàn toàn amino acid này khỏi khẩu phần ăn. Nhận định nào sau đây về bệnh phenylketonuria là sai?",
+    "options": [
+      "A. Bệnh do ứ đọng phenylalanine trong máu gây đầu độc thần kinh.",
+      "B. Bệnh có thể được điều trị nếu được phát hiện sớm và có chế độ ăn hợp lí.",
+      "C. Bệnh do đột biến gene lặn gây ra làm mất chức năng của gene.",
+      "D. Bệnh có mức độ biểu hiện ở hai giới là khác nhau. sai, gene gây bệnh nằm trên NST thường"
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-7",
+    "examSetId": "bai-7-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Cho sơ đồ về hoạt động của operon Lac:",
+    "options": [
+      "A. Nếu đột biến xảy ra ở vùng vận hành O sẽ làm cho các gene cấu trúc không được phiên mã. sai, gene sẽ luôn phiêm mã",
+      "B. Đột biến ở gene cấu trúc lạc Z làm ảnh hưởng đến quá trình phiên mã của gene này và các gene lac Y, lac A. sai, ĐBG không ảnh hưởng đến phiên mã",
+      "C. Nếu đột biến ở gene cấu trúc lac Z làm có thể làm thay đổi cấu trúc các protein của cả ba gene. sai, chỉ làm thay đổi cấu trúc Pr do gene lac Z mã hoá",
+      "D. Đột biến xảy ra ở vùng khởi động P có thể làm thay đổi khả năng phiên mã của các gene lac Z, lac Y, lac A. đúng, ĐB vùng P làm cả 3 gene không được phiên mã."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-7",
+    "examSetId": "bai-7-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Mạch gốc của gene là 3'TAC CCC TTT AAA CGC AAC CTT ATC5' mã hóa 7 amino acid. Do đột biến điểm, chuỗi polypeptide chỉ có 5 amino acid. Đột biến đó có thể là",
+    "options": [
+      "A. Thay thế cặp T - A thành cặp A - T.B. Thay thế cập G - C thành cặp A - Т.",
+      "C. Thay thế cặp A - T bằng cặp T - A.D. Thay thế cặp A - T bằng cặp G - C. TL: ĐB tạo bb kết thúc sớm"
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-7",
+    "examSetId": "bai-7-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Cho biết trình tự nucleotide của gene bình thường và gene đột biến:",
+    "options": [
+      "A. Mất 2 cặp nucleotide.B. Thay thế 1 cặp nucleotide.",
+      "C. Thêm 1 cặp nucleotide.D. Mất 1 cặp nucleotide."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-7",
+    "examSetId": "bai-7-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Cho biết một đoạn mạch gốc của gene A có 15 nucleotide là: 3'GCA TAA GGO",
+    "options": [
+      "A. Khi đoạn gene A tiến hành tổng hợp chuỗi polypeptide thì các lượt tRNA đến tham gia dịch mã có các anticodon theo trình tự 3'GCA UAA GGG CCA AGG5'.",
+      "B. Nếu gene A bị đột biến thêm cặp G - C ngay trước cặp A - T ở vị trí thứ 12 đoạn mRN được tổng hợp từ đoạn gene nói trên chỉ thay đổi thành phần nucleotide tại codon thứ 5.",
+      "C. Gene A có thể mã hóa được đoạn polypeptide có trình tự các amino acid là Arg - Ile - Pr- Gly - Ser.",
+      "D. Nếu gene A bị đột biến thay thế cặp A - T ở vị trí số 6 thành C - G thì phức hợp amino acid - tARN khi tham gia dịch mã cho bộ ba này là Met - tRNA."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-7",
+    "examSetId": "bai-7-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Nhằm xác định các gene tham gia vào con đường sinh tổng hợp Phenylalanine ở nấm đơn bội Neurospora, người ta đã phân lập được ba chủng đột biến đơn gene cần có Phenylalanine để sinh trưởng. Các chủng đột biến này thể hiện khả năng mọc khác nhau trong các môi trường nuôi cấy có bổ sung các chất nằm trong chuỗi sinh tổng hợp Phenylalanine (Bảng 1). Biết rằng, các gene bị đột biến nằm trên các NST khác nhau. Các nhận định dưới đây Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Chủng đột biến 1 xảy ra ở phản ứng cuối cùng của chuỗi sinh tổng hợp.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Chorismate là chất đầu tiên của chuỗi sinh tổng hợp, và đột biến 2 ảnh hưởng đến chuỗi",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Chủng đột biến 3 xảy ra trước khi tạo thành phenylpyruvate và phenylalanine, nhưng ở giai đoạn sau của chuỗi sinh tổng hợp.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Thứ tự xuất hiện các chủng đột biến là chủng 3 - Chủng 2 - Chủng 1.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-7",
+    "examSetId": "bai-7-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Hình bên mô tả mối quan hệ giữa gene - RNA và tính trạng: Cho biết bộ ba UUC mã hóa cho amino acid Phe (Phenylalanine), bộ ba UAA, UAG, UGA là bộ ba kết thúc. Các phát biểu sau đây Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Mạch 2 là mạch mã gốc của đoạn gene trên.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Nếu đột biến thay thế một cặp G - C ở đoạn gene trên tại vị trí số 11 bằng một cặp T - A thì chuỗi polypeptide do gene đột biến quy định sẽ ngắn hơn so với chuỗi polypeptide bình thường.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Nếu đột biến thay thế một cặp A - T ở đoạn gene trên tại vị trí số 6 bằng một cặp G - C thì",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Phân tử DNA chứa gene nói trên rất có thể có cấu trúc dạng mạch vòng.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-7",
+    "examSetId": "bai-7-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "một loài động vật có vú, gene X mã hóa cho protein X có chức năng tổng hợp sắc tố đen, làm cho mắt, lông đều có màu đen. Trong quá trình phát triển của cá thể, nếu ở giai đoạn phôi bị nhiễm một trong các hóa chất A, B, C thì phôi sẽ phát triển thành cá thể bị bạch tạng (không có khả năng tổng hợp sắc tố đen). Để nghiên cứu tác động của các hóa chất A, B, C, người ta tiến hành xử lí các phôi bằng từng loại hóa chất riêng biệt, sau đó kiểm tra sự có mặt của gene X, của mRNA và của protein trong tế bào phôi. Kiểu hình của các cá thể con sinh ra từ những phôi này cũng được quan sát. Kết quả thu được ở Bảng 2. Phôi đối chứng không được xử lí hóa chất.",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Hóa chất B ức chế quá trình phiên mã.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Hóa chất C ức chế quá trình dịch mã.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Chất A có khả năng gây đột biến mất đoạn NST.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Nếu gene X có 500 bộ ba thì chuỗi polypeptide do gene qui định tổng hợp có 498 amino acid.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-7",
+    "examSetId": "bai-7-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Một nhà di truyền đã phân lập được 5 dòng đột biến khuyết dưỡng khác nhau ở vi khuẩn. Để sinh trường được tất cả đều cần chất G. Các hợp chất A, B, C, D, E thuộc con đường tổng hợp chất G, nhưng chưa biết thứ tự. Các đột biến (từ 1 đến 5) đã được sử dụng để xác định thứ tự và vai trò của mỗi đột biến bằng cách bổ sung các chất cần thiết cho sự sinh trưởng của chúng. Dấu (+) thể hiện dòng đột biến sinh trường được khi bổ sung chất tương ứng vào môi trường, dấu (-) thể hiện dòng đột biến không sinh trưởng. Kết quả thí nghiệm như sau:",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Thứ tự sắp xếp các chất trong con đường chuyển hóa tổng hợp chất G là E → A →C→B →D→G.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Khi đột biến nào bị chặn trước chất cần bổ sung cho sinh trưởng thì đột biến ở vị trí đó.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Trong quá trình sinh trưởng, vi khuẩn sẽ tiết các enzyme thực hiện trao đổi chất ra môi trường và biến đổi các chất thành dạng đơn giản rồi mới hấp thụ vào tế bào.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Khi nuôi trên cùng một môi trường tối thiểu thì thể đột biến kép 1, 3 sẽ tạo ra được hai chất B và C trong môi trường.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-7",
+    "examSetId": "bai-7-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Cho biết các codon mã hóa một số loại amino acid như sau:",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "a",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-7",
+    "examSetId": "bai-7-bo1"
+  }
+]

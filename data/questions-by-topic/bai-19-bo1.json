@@ -1,0 +1,197 @@
+[
+  {
+    "type": "mc",
+    "content": "Cho cây hoa đỏ tự thụ phấn, đời con có tỷ lệ 9 cây hoa đỏ : 3 cây hoa hồng : 3 cây hoa vàng : 1 cây hoa trắng. Tính trạng màu hoa di truyền theo quy luật nào sau đây?",
+    "options": [
+      "A. Tương tác át chế. B. Tương tác bổ sung.",
+      "C. Tương tác cộng gộp.D. Phân li độc lập, trội hoàn toàn."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-19",
+    "examSetId": "bai-19-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Cho cây hoa đỏ lai hoa trắng được F1 đồng loạt hoa đỏ. Cho cây hoa đỏ F1 giao phấn trở lại với cây hoa trắng ở thế hệ bố mẹ thì đời con thu được 75% cây cho hoa trắng, 25% cây cho hoa đỏ. Tính trạng di truyền theo quy luật",
+    "options": [
+      "A. trội không hoàn toàn. B. trội hoàn toàn.",
+      "C. tương tác bổ sung.D. tương tác cộng gộp."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-19",
+    "examSetId": "bai-19-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "một loài thực vật, khi lai giữa hai dạng hoa đỏ thẫm thuần chủng với dạng hoa trắng thuần chủng được F1 toàn hoa màu hồng. Khi cho F1 tự thụ phấn ở F2 thu được tỷ lệ: 1 đỏ thẫm : 4 đỏ tươi : 6 hồng : 4 đỏ nhạt : 1 trắng. Quy luật di truyền nào đã chi phối phép lai trên?",
+    "options": [
+      "A. Tương tác át chế giữa các gene không allele. B. Tương tác bổ trợ giữa các gene không allele.",
+      "C. Tương tác cộng gộp giữa các gene không allele. D. Phân li độc lập."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-19",
+    "examSetId": "bai-19-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Một loài thực vật, cho cây hoa vàng giao phấn với cây hoa vàng, thu được F1 có 100% cây hoa đỏ. Cho F1 giao phấn với nhau, thu được F2 có tỉ lệ kiểu hình: 9 cây hoa đề : 6 cây hoa vàng : 1 cây hoa trắng. Lấy ngẫu nhiên 1 cây hoa vàng F2 cho tự thụ phấn, thu được F3. Theo lí thuyết, tỉ lệ kiểu hình ở F3 có thể là",
+    "options": [
+      "A. 100% hoa đỏ.B. 75% hoa vàng.",
+      "C. 100% hoa trắng.D. 50% hoa vàng : 50% hoa trắng."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-19",
+    "examSetId": "bai-19-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "một loài thực vật, tính trạng màu hoa do 3 cặp gene Aa, Bb, Dd phân li độc lập quy định. Kiểu gene có đủ 3 gene trội A, B, D quy định hoa tím; các kiểu gene còn lại quy định hoa trắng. Cho một cây hoa tím lai phân tích, thu được Fa. Theo lí thuyết, có thể thu được tỉ lệ kiểu hình ở Fa là",
+    "options": [
+      "A. 1 cây hoa tím : 3 cây hoa trắng.B. 1 cây hoa tím : 15 cây hoa trắng.",
+      "C. 3 cây hoa tím : 5 cây hoa trắng.D. 100% cây hoa trắng."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-19",
+    "examSetId": "bai-19-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Một loài thực vật, hình dạng quả do hai cặp gene A, a và B,b cùng quy định. Phép lai P cây quả dẹt lai với cây quả dẹt thu được F1 có tỷ lệ 9 cây quả dẹt : 6 cây quả tròn: 1 cây quả dài. Cho hai cây quả tròn F1 giao phấn với nhau, thu được F2. Theo lý thuyết, tỷ lệ kiểu hình ở F2 có thể là",
+    "options": [
+      "A. 1 cây quả dẹt : 2 cây quả tròn : 1 cây quả dài.B. 1 cây quả dẹt : 1 cây quả dài.",
+      "C. 2 cây quả dẹt : 1 cây quả tròn : 1 cây quả dài,D. 1 cây quả tròn : 1 cây quả dài."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-19",
+    "examSetId": "bai-19-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "một loài thực vật, hai gene không allele tác động cộng gộp quy định chiều cao của cây, cứ mỗi gene trội làm cho cây cao hơn 5 cm. Cây thấp nhất ( sẽ có KG aabb) có chiều cao 80 cm. Các kiểu gene biểu hiện chiều cao 95 cm là  sẽ có 3 alen trội",
+    "options": [
+      "A. AABB, AaBB, AABbB. AAbb, aaBB, AaBb",
+      "C. Aabb, aaBb, aabbD. AaBB, AABb"
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-19",
+    "examSetId": "bai-19-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Quan sát hình bên và cho biết mỗi nhận định dưới đây Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {
+      "a": true,
+      "b": false,
+      "c": true,
+      "d": true
+    },
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Tính trạng màu sắc hoa trong hình do một cặp allele qui định.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Sự di truyền của gene qui định tính trạng màu sắc hoa được biểu diễn trong hình không tuân theo qui luật phân li của Mendel.",
+        "isCorrect": false
+      },
+      {
+        "label": "c",
+        "content": "Trội không hoàn toàn là hiện tượng tương tác giữa trong đó một allele không át chế hoàn toàn sự biểu hiện của allele còn lại.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Kiểu gene dị hợp biểu hiện tính trạng trung gian, không hoàn toàn giống một bên bố hoặc mẹ.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-19",
+    "examSetId": "bai-19-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Cho biết thân cao, hoa đỏ, quả to là những tính trạng trội hoàn toàn so với thân thấp, hoa trắng, quả nhỏ; Các cặp gen phân li độc lập với nhau. Cho 1 cây mang kiểu hình trội về 3 tính trạng giao phấn với 1 cây mang kiểu hình trội về 2 tính trạng, thu được F1. Theo lí thuyết, Các phát biểu sau đây đúng hay sai?",
+    "options": [],
+    "correctAnswer": {
+      "a": true,
+      "b": true
+    },
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "F1 có tối đa 8 loại kiểu hình.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "F1 có thể có tỉ lệ kiểu hình là 3:1",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Nếu F1 xuất hiện kiểu gen đồng hợp lặn về 3 cặp gen thì kiểu hình lặn về 3 tính trạng chiếm tỉ lệ 1/32.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Nếu F1chỉ có 8 kiểu gen thì kiểu hình trội về 3 tính trạng chiếm tỉ lệ 40%.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-19",
+    "examSetId": "bai-19-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "một loài thực vật, xét 2 cặp gen Aa và Bb nằm trên 2 cặp NST khác nhau. Trong đó khi có cả 2 gen trội A và B thì quy định hoa tím; chỉ có gen A thì quy định hoa đỏ; chỉ có gen B thì quy định hoa vàng; kiểu gen aabb quy định hoa trắng. Biết không xảy ra đột biến. Các nhận định dưới đây là đúng hay sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Cho 2 cây hoa tím giao phấn với nhau, thu được F, có 1 kiểu hình. Tiếp tục cho F, giao phấn ngẫu nhiên, thu được F, có 2 kiểu hình. Ở F,, số cá thể có 3 alen trội chiếm tỉ lệ 37,50%",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Cho 2 cây hoa tím giao phấn với nhau, thu được F, có 1 kiểu hình. Tiếp tục cho F, tự thụ phấn, thu được F, có 2 kiểu hình. Ở F,, số cá thể thuần chủng chiếm tỉ lệ 25%",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Cho 2 cây hoa tím giao phấn với nhau, thu được F1 có 1 kiểu hình. Tiếp tục cho F, tự thụ phấn, thu được F2 có 4 kiểu hình. Ở F, số cá thể có 3 alen trội chiếm tỉ lệ 31,25%.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Cho 2 cây giao phấn với nhau, thu được F, có 1 kiểu hình. Tiếp tục cho F1 tự thụ phấn, thu được F, có 2 kiểu hình. Có tối đa 4 sơ đồ lai phù hợp.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-19",
+    "examSetId": "bai-19-bo1"
+  }
+]

@@ -1,0 +1,203 @@
+[
+  {
+    "type": "mc",
+    "content": "người, bệnh hoặc hội chứng nào sau đây là do đột biến số lượng nhiễm sắc thể gây nên?",
+    "options": [
+      "A. Hội chứng người Turner.",
+      "B. Hội chứng AIDS.  do virus gây nên",
+      "C. Bệnh hồng cầu hình liềm. đột biến gene lặn trên NST thường",
+      "D. Bệnh bạch tạng.  đột biến gene lặn trên NST thường"
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-15",
+    "examSetId": "bai-15-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Khi nói về đột biến cấu trúc nhiễm sắc thể, phát biểu nào sau đây sai?",
+    "options": [
+      "A. Mất đoạn nhiễm sắc thể có thể làm thay đổi số lượng và thành phần gene của nhiễm sắc thể.",
+      "B. Chuyển đoạn tương hỗ không làm thay đổi số lượng và thành phần gene của nhiễm sắc thể. chuyển đoạn tương hỗ là hiện tượng 2 NST trao đổi đoạn cho nhau nên vị trí, số lượng và thành gene trên NST sẽ bị thay đổi.",
+      "C. Đột biến cấu trúc nhiễm sắc thể xảy ra ở cả nhiễm sắc thể thường và nhiễm sắc thể giới tính.",
+      "D. Chuyển đoạn có thể làm cho gene từ nhóm liên kết nảy sang nhóm liên kết khác."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-15",
+    "examSetId": "bai-15-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Khi nói về đột biến đa bội, phát biểu nào sau đây không đúng?",
+    "options": [
+      "A. Những giống cây ăn quả không hạt như nho, dưa hấu thường là tự đa bội lẻ.",
+      "B. Hiện tượng tự đa bội khá phổ biến ở động vật trong khi ở thực vật là tương đối hiếm. sai, tự đa bội phổ biến ở thực vật hơn động vật vì ở động vật đột biến thường gây chết",
+      "C. Quá trình tổng hợp các chất hữu cơ trong tế bào đa bội xảy ra mạnh mẽ hơn so với trong tế bào lưỡng bội.",
+      "D. Các thể tự đa bội lẻ (3n, 5n,...) hầu như không có khả năng sinh giao tử bình thường."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-15",
+    "examSetId": "bai-15-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Cho các đặc điểm sau:",
+    "options": [
+      "A. 1-c, 2-d, 3-b, 4-a B. 1-b, 2-d, 3-c, 4-a",
+      "C. 1-a, 2-c, 3-d, 4-bD. 1-d, 2-c, 3-b, 4-a"
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-15",
+    "examSetId": "bai-15-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Một nhiễm sắc thể ban đầu có trình tự gene là ABCD*EFGH. Sau đột biến nhiễm sắc thể có trình tự là D*EFGH. Dạng đột biến này thường gây ra hậu quả gì?",
+    "options": [
+      "A. Gây chết hoặc giảm sức sống.",
+      "B. Tăng cường hoặc giảm bớt sự biểu hiện tính trạng.",
+      "C. Làm phát sinh nhiều nòi trong một loài.",
+      "D. Tăng khả năng sinh sản của cá thể mang đột biến."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-15",
+    "examSetId": "bai-15-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Hình dưới đây mô tả bộ nhiễm sắc thể trong tế bào sinh dưỡng của một bệnh nhân bị một hội chứng do đột biến số lượng nhiễm sắc thể gây nên. Mỗi nhận định sau đây Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Hội chứng bệnh mà người đó mắc phải là hội chứng Down.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Cơ chế hình thành hội chứng Down trên là do rối loạn quá trình giảm phân ở mẹ hoặc ở bố.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Giả sử người mẹ của bệnh nhân trên có kiểu + gene aaBBXDXd (chỉ xét 3 cặp gene, cặp gene aa nằm trên cặp nhiễm sắc thể số 13; cặp gene BB nằm trên cặp nhiễm sắc thể số 21; cặp gene Dd nằm trên cặp nhiễm sắc thể XX). Biết người em gái của bệnh nhân này có kiểu hình bình thường và không phát sinh thêm đột biến mới, thì trong quá trình phát sinh giao tử, cơ thể người mẹ có thể tạo loại trứng có kiểu gene aBXD và aBX",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Nếu trong gia đình có sinh ra một người con mắc hội chứng bệnh như trên thì nguyên nhân phụ thuộc chủ yếu vào người bố.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-15",
+    "examSetId": "bai-15-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Một loài thực vật có bộ nhiễm sắc thể lưỡng bội gồm các cặp nhiễm sắc thể tương đồng khác nhau, được ký hiệu AaBbDdEeGgHh. Người ta đã phát hiện ra hai dạng thể gây biến như sau:",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Cơ chế phát sinh dạng 1 là do trong nguyên phân ở một hoặc một số tế bào sinh dưỡng nhiễm sắc thể d đã nhân đôi nhưng không phân li kết quả tạo ra một nhóm tế bào chứa 2 NST d và một nhóm tế bào không chứa NST d",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Cơ chế phát sinh dạng 2 là do hiện tượng trao đổi đoạn giữa các cromatide thuộc hai nhiễm sắc thể khác cặp tương đồng (giữa cromatide b và cromatide G) dẫn đến NST G bị đột biến mất đoạn còn NST b đột biến chuyển đoạn.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Nếu thể đột biến dạng 2 có khả năng giảm phân bình thường, các giao tử sinh ra đều sống sót thì tỉ lệ giao tử đột biến là 1/4.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Nếu thể đột biến dạng 2 có khả năng giảm phân bình thường, các giao tử sinh ra đều sống sót thì tỉ lệ giao tử đột biến là 3/4.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-15",
+    "examSetId": "bai-15-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Một bạn học sinh sau khi học quan sát hình ảnh bên đã rút ra các nhận định sau:",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Hình ảnh mô tả quá trình tự nhân đôi DNA.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Hình ảnh mô tả quá trình nguyên phân hoặc quá trình giảm phân.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Hình ảnh mô tả quá trình nguyên phân với thể tam nhiễm 2n+1 (2n= 2) hoặc thể một nhiễm 2n - 1(2n=4).",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Hình ảnh mô tả quá trình giảm phân ở kỳ giữa I với bộ NST thể lưỡng bội 2n = 6.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-15",
+    "examSetId": "bai-15-bo1"
+  },
+  {
+    "type": "tf",
+    "content": "Khi nói về đột biến nhiễm sắc thể, mỗi phát biểu sau đây Đúng hay Sai?",
+    "options": [],
+    "correctAnswer": {},
+    "explanation": "",
+    "difficulty": 2,
+    "subItems": [
+      {
+        "label": "a",
+        "content": "Thực chất của đột biến cấu trúc NST là sự thay đổi số lượng, thành phần và trật tự sắp xếp các gene trên NST.",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Trong nguyên phân của tế bào 2n, nếu hai chromatide của một NST kép không phân li thì sẽ hình thành các tế bào con đột biến dạng thể không và thể bốn.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Bệnh máu khó đông do đột biến cấu trúc nhiễm sắc thể gây ra, hội chứng Down do đột biến gene gây ra",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Đột biến đảo đoạn nhiễm sắc thể chỉ làm thay đổi vị trí của gene nên không gây hại cho thể đột biến.",
+        "isCorrect": true
+      }
+    ],
+    "topicId": "bai-15",
+    "examSetId": "bai-15-bo1"
+  }
+]
