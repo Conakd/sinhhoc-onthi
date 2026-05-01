@@ -63,7 +63,7 @@ export default function QuizEngine({ questions, onSubmit, isSubmitting }: QuizEn
           .trim();
 
       const normalizedUser = normalize(userAnswer || "");
-      const normalizedCorrect = normalize(q.correctAnswer);
+      const normalizedCorrect = normalize(typeof q.correctAnswer === 'string' ? q.correctAnswer : '');
 
       isCorrect = normalizedUser === normalizedCorrect;
       score = isCorrect ? 1 : 0;
