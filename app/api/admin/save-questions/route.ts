@@ -1,6 +1,5 @@
 import { NextResponse } from "next/server";
 import { adminDb } from "@/lib/firebaseAdmin";
-import { FieldValue } from "firebase-admin/firestore";
 
 export async function POST(request: Request) {
     try {
@@ -12,15 +11,7 @@ export async function POST(request: Request) {
         const batch = adminDb.batch();
         questions.forEach((q: any) => {
             const docRef = adminDb.collection("questions").doc();
-            batch.set(docRef, {
-                ...q,
-                topicId,
-                id: docRef.id
-            });
-        });
-        const topicRef = adminDb.collection("topics").doc(topicId);
-        batch.update(topicRef, {
-            questionCount: FieldValue.increment(questions.length)
+            batch.set(docRef, { ...q, topicId, id: docRef.id });
         });
         await batch.commit();
         return NextResponse.json({ success: true, count: questions.length });
