@@ -1,6 +1,110 @@
 [
   {
     "type": "mc",
+    "content": "Nhà khoa học nào sau đây là người đầu tiền đưa ra giả thuyết: “Nhân tố di truyền trong tế bào không hòa trộn vào nhau; Mỗi cơ thể con nhận 1 nhân tố di truyền của bố và 1 nhân tố di truyền của mẹ”",
+    "options": [
+      "A. Morgan.",
+      "B. Darwin.",
+      "C. Mendel.",
+      "D. Mono và Jacop."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-16",
+    "examSetId": "bai-16-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Trong quá trình nghiên cứu để phát hiện ra các quy luật di truyền, Mendel đã sử dụng đối tượng nào sau đây để nghiên cứu di truyền?",
+    "options": [
+      "A. Ruồi giấm.",
+      "B. Đậu Hà Lan.",
+      "C. Cây hoa phấn.",
+      "D. Cỏ thi."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-16",
+    "examSetId": "bai-16-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Cho quá trình giảm phân không xảy ra đột biến. Theo lí thuyết, phép lai Aa x aa cho đời con có tỉ lệ kiểu gene là",
+    "options": [
+      "A. 1:1.",
+      "B. 1:2:1.",
+      "C. 3:1.",
+      "D. 9:3:3:1."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-16",
+    "examSetId": "bai-16-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Biết rằng không xảy ra đột biến. Phép lai nào sau đây cho đời con có 2 loại kiểu gen?",
+    "options": [
+      "A. Aa × Aa (3)",
+      "B. Aa x AA(2)C. AA x aa(1)",
+      "D. AA × AA(1)"
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-16",
+    "examSetId": "bai-16-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Cơ thể có kiểu gene AaBbDDEe là cơ thể dị hợp về bao nhiêu cặp gene?",
+    "options": [
+      "A. 1.",
+      "B. 2.",
+      "C. 3.",
+      "D. 4."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-16",
+    "examSetId": "bai-16-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Cơ thể có kiểu gene AaBb giảm phân cho bao nhiêu loại giao tử",
+    "options": [
+      "A. 1.",
+      "B. 2.",
+      "C. 3.",
+      "D. 4."
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-16",
+    "examSetId": "bai-16-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Mỗi allele trong từng cặp gene phân li đồng đều về các giao tử trong quá trình giảm phân là nội dung của của quy luật",
+    "options": [
+      "A. hoán vị gen.",
+      "B. liên kết gen.",
+      "C. phân li.",
+      "D. phân li độc lập."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-16",
+    "examSetId": "bai-16-bo1"
+  },
+  {
+    "type": "mc",
     "content": "Bản chất quy luật phân li của Mendel là",
     "options": [
       "A. sự phân li đồng đều của các allele về các giao tử trong quá trình giảm phân.",
@@ -31,12 +135,44 @@
   },
   {
     "type": "mc",
+    "content": "Cho biết A quy định thân cao trội hoàn toàn so với a quy định thân thấp. Có bao nhiêu kiểu gene quy định kiểu hình cây thân cao?  AA và Aa",
+    "options": [
+      "A. 1.",
+      "B. 2.",
+      "C. 3.",
+      "D. 4."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-16",
+    "examSetId": "bai-16-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Có bao nhiêu cơ thể có kiểu gene sau đây là thuần chủng?",
+    "options": [
+      "A. 1.",
+      "B. 2.",
+      "C. 3.",
+      "D. 4."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-16",
+    "examSetId": "bai-16-bo1"
+  },
+  {
+    "type": "mc",
     "content": "Theo Mendel, mỗi tính trạng do",
     "options": [
-      "A. một nhân tố di truyền quy định.B. một cặp nhân tố di truyền quy định.",
-      "C. hai nhân tố di truyền khác loại quy định.D. hai cặp nhân tố di truyền quy định."
+      "A. một nhân tố di truyền quy định.",
+      "B. một cặp nhân tố di truyền quy định.",
+      "C. hai nhân tố di truyền khác loại quy định.",
+      "D. hai cặp nhân tố di truyền quy định."
     ],
-    "correctAnswer": "A",
+    "correctAnswer": "B",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-16",
@@ -61,8 +197,10 @@
     "type": "mc",
     "content": "Cho biết mỗi gene quy định một tính trạng, allele trội là trội hoàn toàn, quá trình giảm phân không xảy ra đột biến. Theo lí thuyết, phép lai AaBb × AaBb cho đời con có",
     "options": [
-      "A. 9 loại kiểu gene và 4 loại kiểu hình. C. 9 loại kiểu gene và 8 loại kiểu hình.",
-      "B. 4 loại kiểu gene và 6 loại kiểu hình. D. 6 loại kiểu gene và 4 loại kiểu hình."
+      "A. 9 loại kiểu gene và 4 loại kiểu hình.",
+      "B. 4 loại kiểu gene và 6 loại kiểu hình.",
+      "C. 9 loại kiểu gene và 8 loại kiểu hình.",
+      "D. 6 loại kiểu gene và 4 loại kiểu hình."
     ],
     "correctAnswer": "A",
     "explanation": "",
@@ -72,12 +210,29 @@
   },
   {
     "type": "mc",
+    "content": "Biết quá trình giảm phân không xảy ra đột biến. Theo lí thuyết, phép lai AaBb x aabb cho đời con có tỉ lệ phân li kiểu gene là",
+    "options": [
+      "A. 1:2:1.",
+      "B. 1:1:1:1.",
+      "C. 1: 1.",
+      "D. 3:3:1:1."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-16",
+    "examSetId": "bai-16-bo1"
+  },
+  {
+    "type": "mc",
     "content": "Hai trạng thái kiểu hình nào sau đây ở đậu Hà Lan thuộc cùng 1 tính trạng?",
     "options": [
-      "A. Hoa đỏ và quả dài. B. Thân cao và quả màu vàng.",
-      "C. Quả màu lục và quả không có ngấn.D. Hạt vàng và hạt xanh."
+      "A. Hoa đỏ và quả dài.",
+      "B. Thân cao và quả màu vàng.",
+      "C. Quả màu lục và quả không có ngấn.",
+      "D. Hạt vàng và hạt xanh."
     ],
-    "correctAnswer": "C",
+    "correctAnswer": "D",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-16",
@@ -114,10 +269,28 @@
     "examSetId": "bai-16-bo1"
   },
   {
+    "type": "mc",
+    "content": "Cho biết mỗi gene quy định một tính trạng, allele trội là trội hoàn toàn và không xảy ra đột biến. Trong một phép lai, người ta thu được đời con có kiểu hình phân li theo tỉ lệ 1: 1:1: 1. Phép lai nào sau đây phù hợp với kết quả trên?",
+    "options": [
+      "A. AaBb x aaBb",
+      "B. AaBb x aabbC. Aabb xaaBBD. AaBb AaBb"
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-16",
+    "examSetId": "bai-16-bo1"
+  },
+  {
     "type": "tf",
     "content": "u Hà Lan, gene A quy định hoa đỏ trội hoàn toàn so với allele a quy định hoa trắng, không xảy ra đột biến. Theo lí thuyết, các nhận định sau đây là Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -186,7 +359,12 @@
     "type": "tf",
     "content": "1 loài thực vật, gene A quy định thân cao trội hoàn toàn so với allele a quy định thân thấp; gene B quy định hoa đỏ trội hoàn toàn so với allele b quy định hoa trắng, các gene phân li độc lập nhau, quá trình giảm phân diễn ra bình thường. Theo lí thuyết, các nhận định sau đây là Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -218,7 +396,12 @@
     "type": "tf",
     "content": "1 loài thực vật, gene A quy định thân cao trội hoàn toàn so với allele a quy định thân thấp; gene B quy định hoa đỏ trội hoàn toàn so với allele b quy định hoa trắng, các gene phân li độc lập nhau, quá trình giảm phân diễn ra bình thường. Theo lí thuyết, các nhận định sau đây là Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -250,7 +433,12 @@
     "type": "tf",
     "content": "Xét cơ thể đực có kiểu gene AaBbDdee giảm phân không đột biến. Theo lí thuyết, các nhận định sau đây là Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -282,7 +470,12 @@
     "type": "tf",
     "content": "Cho biết mỗi tính trạng do một gene quy định và trội hoàn toàn. Cho phép lai (P): ♂AaBbddEe × ♀AaBbDdEE thu được F1. Biết không xảy ra hiện tượng đột biến. Theo lí thuyết, các nhận định sau đây là Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -366,19 +559,9 @@
         "isCorrect": false
       },
       {
-        "label": "b",
-        "content": "AaBbDD × AabbDd  Số KG = 3.2.2 = 12; số KH = 2.2.1 = 4",
-        "isCorrect": false
-      },
-      {
         "label": "c",
         "content": "AaBbDd x AabbddD. AABbdd x aaBBDd",
         "isCorrect": false
-      },
-      {
-        "label": "d",
-        "content": "AABbdd x aaBBDd  Số KG = 1.2.2 = 4; số KH = 1.1.2 = 2",
-        "isCorrect": true
       }
     ],
     "topicId": "bai-16",

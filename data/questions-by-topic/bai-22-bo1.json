@@ -3,6 +3,7 @@
     "type": "mc",
     "content": "Hiện tượng di truyền liên kết xảy ra khi",
     "options": [
+      "A. bố mẹ thuần chủng và khác nhau bởi hai cặp tính trạng tương phản.",
       "B. không có hiện tượng tương tác gene và di truyền liên kết với giới tính.",
       "C. các cặp gene quy định các cặp tính trạng cùng nằm trên một cặp NST tương đồng.",
       "D. các gene nằm trên các cặp NST đồng dạng khác nhau."
@@ -15,8 +16,84 @@
   },
   {
     "type": "mc",
+    "content": "Khi cho lại 2 cơ thể bố mẹ thuần chủng khác nhau bởi 2 cặp tính trạng tương phản, F. đồng tính biểu hiện tính trạng của một bên bố hoặc mẹ, tiếp tục cho F. lai phân tích, nếu đời lại thu được tỉ lệ 1: 1 thì hai tính trạng đó đã di truyền",
+    "options": [
+      "A. tương tác gen.",
+      "B. phân li độc lập.",
+      "C. liên kết hoàn toàn.",
+      "D. hoán vị gen."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-22",
+    "examSetId": "bai-22-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "các loài sinh vật lưỡng bội, số nhóm gene liên kết ở mỗi loài bằng số",
+    "options": [
+      "A. tính trạng của loài.",
+      "B. nhiễm sắc thể trong bộ lưỡng bội của loài.",
+      "C. nhiễm sắc thể trong bộ đơn bội của loài.",
+      "D. giao tử của loài."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-22",
+    "examSetId": "bai-22-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Khi cho lai 2 cơ thể bố mẹ thuần chủng khác nhau bởi 2 cặp tính trạng tương phản, F1 đồng tính biểu hiện tính trạng của một bên bố hoặc mẹ, tiếp tục cho F1 tự thụ phân, nếu đời lại thu được tỉ lệ 3: 1 thì hai tính trạng đó đã di truyền",
+    "options": [
+      "A. phân li độc lập.",
+      "B. liên kết gen.",
+      "C. Hoán vị gen.",
+      "D. tương tác gen."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-22",
+    "examSetId": "bai-22-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "i tượng chủ yếu được Moocgan sử dụng trong nghiên cứu di truyền để phát hiện ra quy luật di truyền liên kết gen, hoán vị gene và di truyền liên kết với giới tính là",
+    "options": [
+      "A. cà chua.",
+      "B. ruồi giấm.",
+      "C. bí ngô.",
+      "D. đậu Hà Lan."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-22",
+    "examSetId": "bai-22-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Khi lai 2 cơ thể bố mẹ thuần chủng khác nhau bởi 2 cặp tính trạng tương phản, Fi 100% tính trạng của 1 bên bố hoặc mẹ, tiếp tục cho F1 tự thụ phấn, được F2 tỉ lệ 1: 2: 1. Hai tính trạng đó đã di truyền",
+    "options": [
+      "A. phân li độc lập.",
+      "B. liên kết gen.",
+      "C. tương tác gen.",
+      "D. hoán vị gen."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-22",
+    "examSetId": "bai-22-bo1"
+  },
+  {
+    "type": "mc",
     "content": "Thế nào là nhóm gene liên kết?",
     "options": [
+      "A. Các gene cùng nằm trên một NST thì di truyền cùng nhau.",
       "B. Các gene không allele cùng nằm trên một NST phân li độc lập nhau trong quá trình phân bào.",
       "C. Các gene không allele nằm trong bộ NST phân li cùng nhau trong quá trình phân bào.",
       "D. Các gene allele nằm trong bộ NST phân li cùng nhau trong quá trình phân bào."
@@ -31,6 +108,7 @@
     "type": "mc",
     "content": "c điểm nào sau đây đúng với hiện tượng di truyền liên kết gen?",
     "options": [
+      "A. Các cặp gene quy định các cặp tính trạng nằm trên các cặp nhiễm sắc thể khác nhau.",
       "B. Làm xuất hiện các biến dị tổ hợp, rất đa dạng và phong phú.",
       "C. Luôn tạo ra các nhóm gene liên kết quý mới.",
       "D. Làm hạn chế sự xuất hiện các biến dị tổ hợp."
@@ -45,6 +123,7 @@
     "type": "mc",
     "content": "iều nào sau đây không đúng khi nói về hiện tượng di truyền liên kết kết?",
     "options": [
+      "A. Các gene nằm trên cùng 1 NST tạo thành một nhóm gene liên kết.",
       "B. Số nhóm gene liên kết ở mỗi loài thường bằng số NST trong bộ lưỡng bội(2n) của loài đó.",
       "C. Di truyền liên kết gene làm hạn chế sự xuất hiện các biến dị tổ hợp",
       "D. Số nhóm tính trạng liên kết tương ứng với số nhóm gene liên kết."
@@ -56,10 +135,150 @@
     "examSetId": "bai-22-bo1"
   },
   {
+    "type": "mc",
+    "content": "Một loài có bộ NST 2n = 10 thì có bao nhiêu nhóm gene liên kết?",
+    "options": [
+      "A. 10.",
+      "B. 20.",
+      "C. 5.",
+      "D. 15."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-22",
+    "examSetId": "bai-22-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "phát hiện ra hiện tượng liên kết gene và hoán vị gene Morgan không sử dụng phương pháp nào sau đây?",
+    "options": [
+      "A. Tự thụ phấn.",
+      "B. Lai thuận nghịch.",
+      "C. Lai phân tích.",
+      "D. Phân tích cơ thể lại."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-22",
+    "examSetId": "bai-22-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Có bao nhiêu đối tượng sau đây được moocgan nghiên cứu để tìm ra quy luật di truyền liên kết gene và hoán vị gene?",
+    "options": [
+      "A. 2.",
+      "B. 1.",
+      "C. 4.",
+      "D. 3."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-22",
+    "examSetId": "bai-22-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Nếu tần số hoán vị giữa 2 gene là 40% thì khoảng cách tương đối giữa 2 gene này trên NST là",
+    "options": [
+      "A. 15CM.",
+      "B. 10cM.",
+      "C. 40CM.",
+      "D. 20CM."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-22",
+    "examSetId": "bai-22-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "một loài thực vật, xét 1 cơ thể có 2 cặp dị hợp Aa, Bb tự thụ phấn thu được F1. Biết allele trội là trội hoàn toàn quá trình giảm phân không xảy ra đột biến, tỉ lệ kiểu hình ở đời Fi là 1 : 2 : 1. Quy luật di truyền chi phối phép lai trên là",
+    "options": [
+      "A. Quy luật phân li độc lập.",
+      "B. Quy luật phân li.",
+      "C. Quy luật liên kết gen.",
+      "D. Quy luật hoán vị gene."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-22",
+    "examSetId": "bai-22-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Xét cá thể có kiểu gen: AB/ab Dd . Khi giảm phân hình thành giao tử xảy ra hoán vị gene với tần số 20%. Theo lý thuyết, tỷ lệ các loại giao tử AbD và abd được tạo ra lần lượt là",
+    "options": [
+      "A. 40% và 10%",
+      "B. 7,5% và 17,5%.",
+      "C. 15% và 35%.",
+      "D. 5% và 20%"
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-22",
+    "examSetId": "bai-22-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Một cá thể có kiểu gene AB/ab dd  giảm phân tạo giao tử. Biết trong quá trình giảm phân không xảy ra đột biến nhưng có 50% số tế bào xảy ra hoán vị gen. Tỉ lệ các loại giao tử là",
+    "options": [
+      "A. 1:1:1:1.",
+      "B. 3:3:1:1.",
+      "C. 4:4:1:1.",
+      "D. 3:3:2:2."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-22",
+    "examSetId": "bai-22-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Cho biết mỗi gene quy định một tính trạng và gene trội là trội hoàn toàn. Cho phép lai (P)AB/ab Dd x  Ab/aB DD thu được F1. Biết không xảy ra đột biến. Theo lí thuyết đời F1 có tối đa bao nhiêu loại kiểu gene, bao nhiêu loại kiểu hình?",
+    "options": [
+      "A. 30 loại kiểu gen, 4 loại kiểu hình.",
+      "B. 14 loại kiểu gen, 8 loại kiểu hình.",
+      "C. 27 loại kiểu gen, 8 loại kiểu hình.",
+      "D. 20 loại kiểu gen, 4 loại kiểu hình"
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-22",
+    "examSetId": "bai-22-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Một loài thực vật, cho 2 cây (P) đều dị hợp tử về 2 cặp gene cùng nằm trên 1 cặp NST giao phấn với nhau, thu được F1. Cho biết các gene liên kết hoàn toàn. Theo lí thuyết, F1 có tối đa bao nhiêu loại kiểu gen?",
+    "options": [
+      "A. 3.",
+      "B. 5.",
+      "C. 4.",
+      "D. 7."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-22",
+    "examSetId": "bai-22-bo1"
+  },
+  {
     "type": "tf",
     "content": "Khi nói về quy luật hoán vị gen, các nhận định sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -91,7 +310,9 @@
     "type": "tf",
     "content": "Giả sử có 200 tế bào sinh tinh có kiểu gene Ab/aB giảm phân bình thường tạo",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "c": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -108,7 +329,12 @@
     "type": "tf",
     "content": "Khi nói về hoán vị gene, các nhận định sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -140,7 +366,10 @@
     "type": "tf",
     "content": "Một loài thực vật, cho cây thân cao, hoa đỏ (P) tự thụ phấn, thu được F1 có 4 loại kiểu hình trong đó có 1% số cây thân thấp, hoa trắng. Biết rằng mỗi gene quy định 1 tính trạng. Theo lí thuyết, các nhận định sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "c": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -162,7 +391,10 @@
     "type": "tf",
     "content": "Cơ thể mang kiêu gene AB/abDd tiến hành giảm phân bình thường tạo giao tử. Biết rằng, khoảng cách giữa 2 gene A và B là 20cM. Biết không xảy ra đột biến. Theo lí thuyết, các nhận định sau đây Đúng hay Sai về tỷ lệ giao tử ABD?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "c": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -184,7 +416,12 @@
     "type": "tf",
     "content": "ruồi giấm, gene A quy định thân xám trội hoàn toàn so với gene a quy định thân đen, gene B quy định cánh dài trội hoàn toàn so với gene b quy định cánh cụt. Cho phép lai P: ♂AB/ab x ♀AB/ab thu được F1 có tỉ lệ kiểu hình thân xám, cánh dài là 65%. Biết không xảy ra hiện tượng đột biến. Theo lí thuyết, các nhận định sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -216,7 +453,12 @@
     "type": "tf",
     "content": "Cho biết allele A quy định thân cao trội hoàn toàn so với allele a quy định thân thấp; allele B quy định hoa đỏ trội hoàn toàn so với allele b quy định hoa trắng. Cho phép lai P: ♂AB/ab x ♀AB/ab thu được F1 có tỉ lệ kiểu hình thân cao, hoa trắng là 9%. Biết không xảy",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -248,7 +490,12 @@
     "type": "tf",
     "content": "Cho biết allele A quy định thân cao trội hoàn toàn so với allele a quy định thân thấp; allele B quy định hoa đỏ trội hoàn toàn so với allele b quy định hoa trắng. Cho phép lai P: ♂Ab/aB x ♀AB/ab thu được F1 có tỉ lệ kiểu hình thân cao, hoa đỏ thuần chủng là 6%. Biết không xảy ra hiện tượng đột biến nhưng xảy ra hoán vị gene ở cả 2 giới. các nhận định sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -280,7 +527,12 @@
     "type": "tf",
     "content": "Tần số hoán vị giữa A và B là 30%. Xét 3 tế bào của cơ thể đực có kiểu gene Ab/aB tiến hành giảm phân tạo giao tử. Biết không xảy ra hiện tượng đột biến. Theo lí thuyết, các nhận định sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -312,7 +564,12 @@
     "type": "tf",
     "content": "một loài thực vật, tính trạng màu hoa do một cặp gene quy định, tính trạng dạng quả do một cặp gene khác quy định. Cho cây hoa đỏ quả tròn thuần chủng giao phấn với cây hoa vàng, quả bầu dục thuần chủng (P), thu được F1 gồm 100% cây hoa đỏ, quả tròn. Cho các cây F1 tự thụ phấn, thu được F2 gồm 4 loại kiểu hình, trong đỏ có 16% số cây hoa vàng, quả tròn. Biết rằng không xảy ra đột biến nhưng xảy ra hoán vị gene trong cả quá trình phát sinh giao từ đực và giao tử cái với tần số bàng nhau. Theo lí thuyết, các nhận định sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [

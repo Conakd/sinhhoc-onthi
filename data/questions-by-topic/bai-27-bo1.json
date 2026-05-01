@@ -16,12 +16,29 @@
   },
   {
     "type": "mc",
+    "content": "Hình bên mô tả 2 giai đoạn trong quá trình giảm phân của một tế bào ở một loài sinh sản hữu tính. Số lượng bộ NST lưỡng bội của cá thể tế bào trên là",
+    "options": [
+      "A. 4.",
+      "B. 8.",
+      "C. 6.",
+      "D. 10."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-27",
+    "examSetId": "bai-27-bo1"
+  },
+  {
+    "type": "mc",
     "content": "Quan sát quá trình phân bào của 1 tế bào cho đến khi hết một lần phân chia, người ta ghi lại được số liệu về hàm lượng DNA trong nhân mỗi tế bào ở từng giai đoạn phân bào như bảng sau:",
     "options": [
-      "A. Nguyên phân hoặc giảm phân 2. B. Nguyên phân hoặc giảm phân 1.",
-      "C. Giảm phân 2. D. Nguyên phân."
+      "A. Nguyên phân hoặc giảm phân 2.",
+      "B. Nguyên phân hoặc giảm phân 1.",
+      "C. Giảm phân 2.",
+      "D. Nguyên phân."
     ],
-    "correctAnswer": "A",
+    "correctAnswer": "B",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-27",
@@ -32,8 +49,8 @@
     "content": "Quan sát hình ảnh về một nhiễm sắc thể có trình tự các gene trước và sau đột biến như hình vẽ bên. Nếu dạng đột biến trên xảy ra ở cặp nhiễm sắc thể thứ 21 của người thì gây bệnh gì?",
     "options": [
       "A. Ung thư máu.",
-      "C. Down.",
       "B. Tiểu đường.",
+      "C. Down.",
       "D. Pheeninketo niệu."
     ],
     "correctAnswer": "A",
@@ -74,6 +91,36 @@
   },
   {
     "type": "mc",
+    "content": "Quá trình phân bào của tế bào X và tế bào Y được thực hiện như hình dưới đây:",
+    "options": [
+      "A. chỉ I.",
+      "B. I và II.",
+      "C. chỉ III.",
+      "D. II và III."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-27",
+    "examSetId": "bai-27-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Một loài thực vật có bộ nhiễm sắc thể 2n= 14, gồm 7 cặp (kí hiệu I → VII), trên mỗi cặp nhiễm sắc thể xét một cặp gene 2 allele. Biết mỗi gene quy định một tính trạng, có tính trạng trội là trội hoàn toàn. Giả sử người ta phát hiện loài này đã tạo ra 4 thể đột biến (kí hiệu A, B, C, D). Phân tích bộ NST của các dạng đột biến thu được kết quả sau:",
+    "options": [
+      "A. 3.",
+      "B. 2.",
+      "C. 1.",
+      "D. 0."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-27",
+    "examSetId": "bai-27-bo1"
+  },
+  {
+    "type": "mc",
     "content": "người, chứng loạn dưỡng cơ Duchenne (DMD) là do đột biến gene lặn Dystrophin nằm trên nhiễm sắc thể giới tính X quy định. Gene Dystrophin dài 2400kb (gene dài nhất ở người), gồm 79 exon chịu trách nhiệm tổng hợp protein Dystrophin. Protein này có chức năng bảo vệ tế bào cơ, giữ cho màng sợi cơ được vững chắc, không bị tổn hại. Các đột biển có thể xảy ra trên gene Dystrophin là đột biến mất đoạn, đột biến điểm, chuyển đoạn, mất đoạn nhỏ và mất đoạn là đột biến hay gặp nhất. Tình trạng này phổ biến hơn ở các bé trai do cơ chế di truyền gene loạn dưỡng cơ Duchenne cho con.",
     "options": [
       "A. Các bé trai có những rối loạn khác ngoài DMD là kết quả của đột biến mất đoạn ở các vùng khác xung quanh vùng DMD.",
@@ -104,10 +151,27 @@
   },
   {
     "type": "mc",
+    "content": "Khi quan sát quá trình phân bào bình thường ở một tế bào lưỡng bội 2n (tế bào A) của một loài dưới kính hiển vi, người ta bắt gặp hiện tượng được mô tả ở hình bên.",
+    "options": [
+      "A. 4.",
+      "B. 2.",
+      "C. 8.",
+      "D. 6."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-27",
+    "examSetId": "bai-27-bo1"
+  },
+  {
+    "type": "mc",
     "content": "Dưới đây là hình vẽ minh họa cho 1 tế bào của cơ thể lưỡng bội đang thực hiện phân bào. Tế bào trên đang ở kì nào của hình thức phân bào nào?",
     "options": [
-      "A. Kì sau nguyên phân. B. Kì sau 1 giảm phân.",
-      "C. Kì giữa của nguyên phân.D. Kì giữa của giảm phân 2."
+      "A. Kì sau nguyên phân.",
+      "B. Kì sau 1 giảm phân.",
+      "C. Kì giữa của nguyên phân.",
+      "D. Kì giữa của giảm phân 2."
     ],
     "correctAnswer": "A",
     "explanation": "",
@@ -119,8 +183,10 @@
     "type": "mc",
     "content": "Hình dưới đây mô tả sự thay đổi hàm lượng DNA trong tế bào của một cơ thể động vật lưỡng bội ở các pha khác nhau của chu kì tế bào.",
     "options": [
-      "A. S, G1, G2, M. B. G1, M, G2, S.",
-      "C. M, G1, G2, S. D. G1, M, G2, S."
+      "A. S, G1, G2, M.",
+      "B. G1, M, G2, S.",
+      "C. M, G1, G2, S.",
+      "D. G1, M, G2, S."
     ],
     "correctAnswer": "C",
     "explanation": "",
@@ -132,8 +198,25 @@
     "type": "mc",
     "content": "Khi quan sát quá trình phân bào của các tế bào (2n) thuộc cùng một mô sinh dưỡng ở một loài sinh vật, một học sinh vẽ lại được sơ đồ với đầy đủ các giai đoạn khác nhau của quá trình phân bào này như sau:",
     "options": [
-      "A. (a) (d) (b) (c) (e).B. (e) (b) (d) (c) (a).",
-      "C. (a) (b) (c) (d) (e).D. (b)(a)(d) (c) (e)"
+      "A. (a) (d) (b) (c) (e).",
+      "B. (e) (b) (d) (c) (a).",
+      "C. (a) (b) (c) (d) (e).",
+      "D. (b)(a)(d) (c) (e)"
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-27",
+    "examSetId": "bai-27-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "cùng một loài động vật, quan sát quá trình giảm phân ở cơ thể cái và cơ thể đực đều có kiểu gene AaBb, người ta ghi nhận được diễn biến nhiễm sắc thể được mô tả như hình bên. Biết rằng trong quá trình giảm phân của cơ thể cái, tất cả các tế bào sinh trứng đều có diễn biến nhiễm sắc thể như hình (a); trong quá trình giảm phân của cơ thể đực, các tế bào sinh tinh có diễn biến nhiễm sắc thể như hình bên:",
+    "options": [
+      "A. 1/4.",
+      "B. 1/2.",
+      "C. 1/8.",
+      "D. 1/12."
     ],
     "correctAnswer": "A",
     "explanation": "",
@@ -145,10 +228,12 @@
     "type": "mc",
     "content": "Xét một loài giả định có bộ NST 2n = 24. Hình bên mô tả NST trong nhân của các tế bào khác nhau, trong đó hình O là bộ NST của tế bào lưỡng bội bình thường, gồm 2 cặp tương đồng: một cặp có kích thước lớn, một cặp có kích thước nhỏ, các NST đều chưa nhân đôi.",
     "options": [
-      "A. 1A, 2B, 3E, 4D B. 1B, 2A, 3E, 4D",
-      "C. 1A, 2D, 3E, 4B D. 1D, 2B, 3A, 4E"
+      "A. 1A, 2B, 3E, 4D",
+      "B. 1B, 2A, 3E, 4D",
+      "C. 1A, 2D, 3E, 4B",
+      "D. 1D, 2B, 3A, 4E"
     ],
-    "correctAnswer": "A",
+    "correctAnswer": "B",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-27",
@@ -173,7 +258,12 @@
     "type": "tf",
     "content": "Quan sát quá trình phân bào của một tế bào, người ta đo được hàm lượng DNA trong mỗi tế bào qua các giai đoạn được thể hiện ở biểu đồ như hình bên. Theo lý thuyết, hãy xác định mỗi nhận định dưới đây là Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -205,7 +295,12 @@
     "type": "tf",
     "content": "Cho hình ảnh về một giai đoạn trong quá trình phân bào của một tế bào lưỡng bội 2n bình thường (tế bào A) trong cơ thể đực ở một loài. Biết đột biến nếu có chỉ xảy ra 1 lần. Theo lý thuyết, hãy cho biết mỗi nhận định dưới đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -237,7 +332,12 @@
     "type": "tf",
     "content": "thị dưới đây mô tả sự biến động hàm lượng DNA của nhân trong một tế bào qua các giai đoạn của quá trình phân bào bình thường. Mỗi nhận định dưới đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [

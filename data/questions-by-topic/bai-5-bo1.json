@@ -1,12 +1,43 @@
 [
   {
     "type": "mc",
+    "content": "Nhà khoa học nào sau đây là những người đầu tiên phát hiện ra cơ chế điều hỏa hoạt động gene ở vi khuẩn?",
+    "options": [
+      "A. Morgan.",
+      "B. F.Jacob and J.MonodC. Mendel.",
+      "D. Correns."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-5",
+    "examSetId": "bai-5-bo1"
+  },
+  {
+    "type": "mc",
     "content": "Thực chất của quá trình điều hòa hoạt động gene là kiểm soát",
     "options": [
-      "A. trình tự nucleotide trên gen.B. số lần nhân đôi của DNA.",
-      "C. lượng sản phẩm do gene tạo ra.D. số lượng gene trong tế bào."
+      "A. trình tự nucleotide trên gen.",
+      "B. số lần nhân đôi của DNA.",
+      "C. lượng sản phẩm do gene tạo ra.",
+      "D. số lượng gene trong tế bào."
     ],
-    "correctAnswer": "C",
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-5",
+    "examSetId": "bai-5-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Trong cơ chế điều hoà hoạt động operon Lac ở vi khuẩn E. coli, vùng khởi động là nơi gắn với",
+    "options": [
+      "A. RNA polymerase.",
+      "B. lactose.",
+      "C. chất cảm ứng.",
+      "D. Protein ức chế."
+    ],
+    "correctAnswer": "A",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-5",
@@ -31,8 +62,25 @@
     "type": "mc",
     "content": "Trong hoạt động của operon Lac ở vi khuẩn E. coli, điểm giống nhau khi môi trường có lactose và khi môi trường không có lactose là.",
     "options": [
-      "A. Protein ức chế vẫn được tổng hợp.B. Protein ức chế không được tổng hợp.",
-      "C. Protein ức chế bám vào vùng vận hành.    D. Protein ức chế không bám vào vùng vận hành."
+      "A. Protein ức chế vẫn được tổng hợp.",
+      "B. Protein ức chế không được tổng hợp.",
+      "C. Protein ức chế bám vào vùng vận hành.",
+      "D. Protein ức chế không bám vào vùng vận hành."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-5",
+    "examSetId": "bai-5-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Trong cơ chế điều hoà của hoạt động của operon Lac, enzyme RNA polymerase thường xuyên phiên mã ở loại gene nào sau đây?",
+    "options": [
+      "A. Gene điều hoà.",
+      "B. Gene cấu trúc Z.",
+      "C. Gene cấu trúc Y.",
+      "D. Gene cấu trúc A."
     ],
     "correctAnswer": "A",
     "explanation": "",
@@ -57,12 +105,44 @@
   },
   {
     "type": "mc",
+    "content": "Cả gene điều hòa (gene R) và operon Lac đều có thành phần nào sau đây?",
+    "options": [
+      "A. Gene cấu trúc",
+      "B. Gene cấu trúc Y.",
+      "C. Vùng khởi động.",
+      "D. Vùng vận hành."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-5",
+    "examSetId": "bai-5-bo1"
+  },
+  {
+    "type": "mc",
     "content": "Trong cơ chế điều hòa hoạt động của operon Lac của vi khuẩn E. coli, giả sử gene Z nhân đôi 1 lần và phiên mã 10 lần. Theo lí thuyết, phát biểu nào sau đây đúng?",
     "options": [
-      "A. Môi trường sống không có lactose.C. Gene điều hòa nhân đôi 2 lần.",
-      "B. Gene A phiên mã 10 lần.D. Gene Y phiên mã 20 lần."
+      "A. Môi trường sống không có lactose.",
+      "B. Gene A phiên mã 10 lần.",
+      "C. Gene điều hòa nhân đôi 2 lần.",
+      "D. Gene Y phiên mã 20 lần."
     ],
-    "correctAnswer": "B",
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-5",
+    "examSetId": "bai-5-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Thành phần nào sau đây không thuộc cấu trúc của operon Lạc?",
+    "options": [
+      "A. Gene cấu trúc Z.",
+      "B. Gene cấu trúc Y.",
+      "C. Gene điều hòa R.",
+      "D. Gene cấu trúc Z."
+    ],
+    "correctAnswer": "C",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-5",
@@ -74,10 +154,10 @@
     "options": [
       "A. Đột biến ở một trong các gene Z, Y, A.",
       "B. Thay đổi trình tự axit amin của của phân tử Protein ức chế.",
-      "C. Các gene Z, Y. A phiên mã liên tục. (do làm Pro ức chế không bám được vào O, vì vậy Operon phiêm mã liên tục)",
+      "C. Các gene Z, Y. A phiên mã liên tục.",
       "D. Biến đổi trình tự nucleotide ở vùng khởi động (P)."
     ],
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-5",
@@ -92,7 +172,22 @@
       "C. Gene điều hòa chỉ phiên mã khi môi trường không có lactose.",
       "D. Nhóm gene cấu trúc chi phiên mã khi Protein ức chế không bám vào vùng vận hành O."
     ],
-    "correctAnswer": "D",
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-5",
+    "examSetId": "bai-5-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "sinh vật nhân sơ, điều hòa hoạt động gene chủ yếu diễn ra ở giai đoạn",
+    "options": [
+      "A. sau dịch mã.",
+      "B. dịch mã.",
+      "C. phiên mã.",
+      "D. sau phiên mã."
+    ],
+    "correctAnswer": "A",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-5",
@@ -102,7 +197,8 @@
     "type": "mc",
     "content": "Khi nào thì cụm gene cấu trúc Z, Y, A trong operon Lac ở E. coli không hoạt động",
     "options": [
-      "A. Khi trong tế bào không có lactose.B. Khi môi trường có hoặc không có lactose.",
+      "A. Khi trong tế bào không có lactose.",
+      "B. Khi môi trường có hoặc không có lactose.",
       "C. Khi môi trường có nhiều lactoseD. Khi trong tế bào có lactose."
     ],
     "correctAnswer": "A",
@@ -113,10 +209,42 @@
   },
   {
     "type": "mc",
+    "content": "Khi nói về hoạt động của operon Lac, có bao nhiêu phát biểu sau đây đúng?",
+    "options": [
+      "A. 1.",
+      "B. 2.",
+      "C. 3.",
+      "D. 4."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-5",
+    "examSetId": "bai-5-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Khi nói về điều hòa hoạt động gen, có bao nhiêu phát biểu sau đây đúng?",
+    "options": [
+      "A. 1.",
+      "B. 2.",
+      "C. 3.",
+      "D. 4."
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-5",
+    "examSetId": "bai-5-bo1"
+  },
+  {
+    "type": "mc",
     "content": "operon Lac, nếu có một sai hỏng làm mất 1 đoạn DNA thì trường hợp nào sau đây sẽ làm cho tất cả các gene cấu trúc không tổng hợp được Protein?",
     "options": [
-      "A. Mất vùng khởi động (P).B. Mất gene điều hoà.",
-      "C. Mất vùng vận hành (0).D. Mất một gene cấu trúc."
+      "A. Mất vùng khởi động (P).",
+      "B. Mất gene điều hoà.",
+      "C. Mất vùng vận hành (0).",
+      "D. Mất một gene cấu trúc."
     ],
     "correctAnswer": "A",
     "explanation": "",
@@ -143,7 +271,12 @@
     "type": "tf",
     "content": "Khi nói về hoạt động của operon Lac. Các nhận định sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -175,7 +308,12 @@
     "type": "tf",
     "content": "Quan sát hình ảnh sau:",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -207,7 +345,12 @@
     "type": "tf",
     "content": "Trên một đoạn của phân tử DNA vi khuẩn, xét 5 gene X, Y, Z, W, T được phân bố ở 5 vị trí. . Các chữ số 1, 2, 3, 4 là các điểm trên nhiễm sắc thể. Theo lí thuyết, các nhận định sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -239,7 +382,12 @@
     "type": "tf",
     "content": "Khi nói về cơ chế điều hòa hoạt động của operon Lac. Các nhận định sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [

@@ -1,6 +1,51 @@
 [
   {
     "type": "mc",
+    "content": "Cho biết các công đoạn quá trình tạo giống bằng phương pháp lai hữu tính được tiến hành như sau:",
+    "options": [
+      "A. (1) (2) (3) (4).",
+      "B. (4)(1)(2)(3).",
+      "C. (2) (3) (4)(1).",
+      "D. (2)(3)(1)(4)."
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-26",
+    "examSetId": "bai-26-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Hiện tượng con lai có năng suất, phẩm chất, sức chống chịu, khả năng sinh  trưởng và phát triển vượt trội bố mẹ gọi là",
+    "options": [
+      "A. thoái hóa giống.",
+      "B. ưu thế lai.",
+      "C. bất thụ.",
+      "D. siêu trội."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-26",
+    "examSetId": "bai-26-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Cho các giống lúa có kiểu gene như sau:",
+    "options": [
+      "A. 1.",
+      "B. 4.",
+      "C. 3.",
+      "D. 2."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-26",
+    "examSetId": "bai-26-bo1"
+  },
+  {
+    "type": "mc",
     "content": "Khi lai khác dòng thì con lai F1 có ưu thế lai cao nhất nhưng không dùng để nhân giống bằng phương pháp hữu tính vì",
     "options": [
       "A. nó mang gene lặn có hại, các gene trội không thể lấn át được",
@@ -16,12 +61,118 @@
   },
   {
     "type": "mc",
-    "content": "Tạo giống thuần chủng bằng phương pháp lai hữu tính chỉ áp dụng có hiệu quả đối với",
+    "content": "Trong phương pháp tạo giống mới bằng ưu thế lai, có bao nhiêu loại biến dị sau đây không phải là nguyên liệu của quá trình tạo ưu thế lai?",
     "options": [
-      "A. bào tử, hạt phấn.C. vật nuôi, cây trồng.",
-      "B. vật nuôi, vi sinh vật.D. cây trồng, vi sinh vật."
+      "A. 2.",
+      "B. 1.",
+      "C. 3.",
+      "D. 4."
     ],
     "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-26",
+    "examSetId": "bai-26-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Thành tựu chọn giống cây trồng nổi bật nhất ở nước ta là chọn giống",
+    "options": [
+      "A. lúA.",
+      "B. cà chuA.",
+      "C. dưa hấu.",
+      "D. nho."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-26",
+    "examSetId": "bai-26-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Một trong những đặc điểm của ưu thế lai là: Ưu thế lai biểu hiện cao nhất ở đời",
+    "options": [
+      "A. F4.",
+      "B. F2.",
+      "C. F3.",
+      "D. F1."
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-26",
+    "examSetId": "bai-26-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Phép lai nào sau đây được sử dụng để tạo ra ưu thế lai?",
+    "options": [
+      "A. Lai khác dòng.",
+      "B. Lai phân tích.",
+      "C. Lai thuận nghịch.",
+      "D. Lai tế bào."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-26",
+    "examSetId": "bai-26-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Trong chọn giống, để tạo ra dòng thuần người ta tiến hành phương pháp",
+    "options": [
+      "A. tự thụ phấn.",
+      "B. lai khác dòng.",
+      "C. lai xA.",
+      "D. lai khác thứ."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-26",
+    "examSetId": "bai-26-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Theo lí thuyết, đời con F1 của phép lai nào sau đây có ưu thế lai cao cao nhất?",
+    "options": [
+      "A. AABBxAAbb",
+      "B. AABB aaBB",
+      "C. Aabb x aaBBD. AAbbxAAbb"
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-26",
+    "examSetId": "bai-26-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Tạo giống thuần chủng bằng phương pháp lai hữu tính chỉ áp dụng có hiệu quả đối với",
+    "options": [
+      "A. bào tử, hạt phấn.",
+      "B. vật nuôi, vi sinh vật.",
+      "C. vật nuôi, cây trồng.",
+      "D. cây trồng, vi sinh vật."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-26",
+    "examSetId": "bai-26-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Quá trình tạo giống mới sử dụng những loại nguyên liệu nào sau đây?",
+    "options": [
+      "A. 1.",
+      "B. 2.",
+      "C. 3.",
+      "D. 4."
+    ],
+    "correctAnswer": "C",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-26",
@@ -44,12 +195,44 @@
   },
   {
     "type": "mc",
+    "content": "Người ta dự định nuôi các hạt phấn của một số cây cùng loài sau đó gây lưỡng bội hóa nhằm tạo các dòng thuần. Để thu được nhiều dòng thuần nhất, nên chọn cây nào trong số các cây có kiểu gene sau để thực hiện?",
+    "options": [
+      "A. AAbbDdEe.",
+      "B. AaBbDDEe.",
+      "C. AaBBDDEE.",
+      "D. AaBBDdEE."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-26",
+    "examSetId": "bai-26-bo1"
+  },
+  {
+    "type": "mc",
     "content": "Trong các phương pháp tạo giống mới, phương pháp nào sau đây được sử dụng phổ biến trong tạo giống vật nuôi và cây trồng?",
     "options": [
-      "A. Tạo giống bằng phương pháp gây đột biến. B. Tạo giống dựa vào công nghệ gene.",
-      "C. Tạo giống bằng công nghệ tế bào.D. Tạo giống bằng phương pháp lai hữu tính."
+      "A. Tạo giống bằng phương pháp gây đột biến.",
+      "B. Tạo giống dựa vào công nghệ gene.",
+      "C. Tạo giống bằng công nghệ tế bào.",
+      "D. Tạo giống bằng phương pháp lai hữu tính."
     ],
-    "correctAnswer": "C",
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-26",
+    "examSetId": "bai-26-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "i với cây trồng, để duy trì và cùng cố ưu thế lai người ta có thể sử dụng các phương pháp nào sau đây?",
+    "options": [
+      "A. 2.",
+      "B. 1.",
+      "C. 3.",
+      "D. 4."
+    ],
+    "correctAnswer": "B",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-26",
@@ -74,8 +257,25 @@
     "type": "mc",
     "content": "tạo giống lai có ưu thế lai đầu tiên phải",
     "options": [
-      "A. chọn lọc tổ hợp gene mong muốn.B. tạo dòng thuần chủng giống nhau.",
-      "C. tạo dòng thuần chủng khác nhau.D. lai thuận nghịch."
+      "A. chọn lọc tổ hợp gene mong muốn.",
+      "B. tạo dòng thuần chủng giống nhau.",
+      "C. tạo dòng thuần chủng khác nhau.",
+      "D. lai thuận nghịch."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-26",
+    "examSetId": "bai-26-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Theo lí thuyết, đời con F1 của phép lai nào sau đây có ưu thế lai cao nhất?",
+    "options": [
+      "A. AABB x DDEE",
+      "B. AABB × aaBB",
+      "C. AAbbx aaBB",
+      "D. AABB x AAbb"
     ],
     "correctAnswer": "C",
     "explanation": "",
@@ -100,6 +300,21 @@
   },
   {
     "type": "mc",
+    "content": "Từ hai dòng thuần có kiểu gene AABBddee và aabbDDEE, có thể tạo ra được bao nhiêu dòng thuần mới từ hai dòng thuần này?",
+    "options": [
+      "A. 16.",
+      "B. 14.",
+      "C. 8.",
+      "D. 32."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-26",
+    "examSetId": "bai-26-bo1"
+  },
+  {
+    "type": "mc",
     "content": "Trong phương pháp tạo giống mới bằng lại hữu tính, người ta sử dụng",
     "options": [
       "A. Cho sinh sản vô tính bằng giảm cành.",
@@ -114,10 +329,45 @@
     "examSetId": "bai-26-bo1"
   },
   {
+    "type": "mc",
+    "content": "Cho các phương pháp sau đây:",
+    "options": [
+      "A. 1.",
+      "B. 3.",
+      "C. 2.",
+      "D. 4."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-26",
+    "examSetId": "bai-26-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Cho biết các thông tin của quá trình chọn tạo giống mới như sau:",
+    "options": [
+      "A. (3)(2)(1).",
+      "B. (3) (1) (2).",
+      "C. (2)(3)(1).",
+      "D. (1) (2) (3)."
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-26",
+    "examSetId": "bai-26-bo1"
+  },
+  {
     "type": "tf",
     "content": "Khi nói về ưu thế lai, các nhận định sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -149,7 +399,12 @@
     "type": "tf",
     "content": "Khi nói về dòng thuần chủng, các nhận định sau đây đúng hay sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -181,7 +436,12 @@
     "type": "tf",
     "content": "Khi nói về ưu thế lai, các nhận định sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -213,7 +473,12 @@
     "type": "tf",
     "content": "Các nhận định sau đây Đúng hay Sai khi nói về ưu thế lai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -245,7 +510,12 @@
     "type": "tf",
     "content": "Các nhận định sau đây Đúng hay Sai khi nói về ưu thế lai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -277,7 +547,12 @@
     "type": "tf",
     "content": "luôn tạo được cá thể thuần chủng, các phương pháp sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -309,7 +584,12 @@
     "type": "tf",
     "content": "Các nhận định sau đây Đúng hay Sai về dòng thuần?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -341,7 +621,12 @@
     "type": "tf",
     "content": "Tự thụ phấn bắt buộc ở cây giao phấn qua nhiều thế hệ thường gây hiện tượng thoái hoá giống, các nhận định sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -373,7 +658,12 @@
     "type": "tf",
     "content": "Trong Luật hôn nhân và gia đình có điều luật cấm kết hôn giữa những người có quan hệ huyết thống gần gũi. Cơ sở di truyền học của điều luật này là: Khi những người có quan hệ huyết thống kết hôn với nhau, các nhận định sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -405,7 +695,12 @@
     "type": "tf",
     "content": "Trong chọn giống, khi nói về nhằm mục đích dùng phương pháp tự thụ phấn. bắt buộc hoặc giao phối cận huyết, các nhận định sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [

@@ -1,12 +1,44 @@
 [
   {
     "type": "mc",
-    "content": "Tâm động là",
+    "content": "Cấu trúc hiển vi của NST được mô tả ở kỳ nào của phân chia tế bào?",
     "options": [
-      "A. điểm dính NST với sợi tơ trong thoi phân bào.B. nơi chia NST thành 2 cánh.",
-      "C. nơi có kích thước nhỏ nhất của NST.D. điểm dính NST với protein histone."
+      "A. Kỳ đầu.",
+      "B. Kỳ giữa.",
+      "C. Kỳ sau.",
+      "D. Kỳ cuối."
     ],
     "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-12",
+    "examSetId": "bai-12-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Tâm động là",
+    "options": [
+      "A. điểm dính NST với sợi tơ trong thoi phân bào.",
+      "B. nơi chia NST thành 2 cánh.",
+      "C. nơi có kích thước nhỏ nhất của NST.",
+      "D. điểm dính NST với protein histone."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-12",
+    "examSetId": "bai-12-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Một loài động vật có số nhiễm sắc thể lưỡng bội là 64 và có phân biệt giới tính. Số lượng nhiễm sắc thể của tế bào tinh trùng của động vật đực?",
+    "options": [
+      "A. 16.",
+      "B. 32.",
+      "C. 64.",
+      "D. 8."
+    ],
+    "correctAnswer": "B",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-12",
@@ -47,9 +79,24 @@
     "content": "Phát biểu nào dưới đây về hoạt động của các nhiễm sắc thể trong giảm phân là đúng?",
     "options": [
       "A. Các nhiễm sắc thể tự nhân đôi ở kì trung gian.",
-      "B. Các nhiễm sắc thể kép tương đồng tiếp hợp nhau dọc theo chiều dài của chúng ở kì đầu. sai, chỉ kì đầu 1 mới tiếp hợp",
-      "C. 2n nhiễm sắc thể kép xếp thành 1 hàng trên mặt phẳng xích đạo của thoi phân bào. 2n NST kép là ở giảm phân 1, khi đó nó xếp thành 2 hàng",
-      "D. Mỗi tế bào con có bộ 2n nhiễm sắc thể đơn. sai, đúng là n NST đơn"
+      "B. Các nhiễm sắc thể kép tương đồng tiếp hợp nhau dọc theo chiều dài của chúng ở kì đầu.",
+      "C. 2n nhiễm sắc thể kép xếp thành 1 hàng trên mặt phẳng xích đạo của thoi phân bào.",
+      "D. Mỗi tế bào con có bộ 2n nhiễm sắc thể đơn."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-12",
+    "examSetId": "bai-12-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Kì trung gian của chu kì tế bào gồm những pha nào sau đây?",
+    "options": [
+      "A. G1, S, G2.",
+      "B. G1, G2, M.",
+      "C. G1, GO, G2.",
+      "D. G1, S, G2, М."
     ],
     "correctAnswer": "A",
     "explanation": "",
@@ -74,6 +121,21 @@
   },
   {
     "type": "mc",
+    "content": "một loài người ta thấy cơ thể sản sinh ra loại giao tử có ký hiệu ABDEhX. Loài này có số nhiễm sắc thể trong bộ nhiễm sắc thể lưỡng bội (2n) là",
+    "options": [
+      "A. 4.",
+      "B. 8.",
+      "C. 12.",
+      "D. 10."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-12",
+    "examSetId": "bai-12-bo1"
+  },
+  {
+    "type": "mc",
     "content": "Cơ chế duy trì bộ NST 2n đặc trưng cho loài ếch là",
     "options": [
       "A. nguyên phân.",
@@ -89,9 +151,39 @@
   },
   {
     "type": "mc",
+    "content": "Một tế bào sinh dưỡng của một loài có kí hiệu bộ nhiễm sắc thể khi chưa tiến hành quá trình nhân đôi như sau AaBbddEe. Vậy số lượng nhiễm sắc thể có trong tế bào khi ở kì sau của nguyên phân là bao nhiêu?",
+    "options": [
+      "A. 8.",
+      "B. 16.",
+      "C. 4.",
+      "D. 10."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-12",
+    "examSetId": "bai-12-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Quan sát quá trình phân bào của 3 tế bào cho đến khi hết một lần phân chia, người ta ghi lại được số liệu về hàm lượng DNA trong nhân mỗi tế bào ở từng giai đoạn phân bảo như bảng dưới đây.",
+    "options": [
+      "A. 1.",
+      "B. 2.",
+      "C. 3.",
+      "D. 4"
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-12",
+    "examSetId": "bai-12-bo1"
+  },
+  {
+    "type": "mc",
     "content": "Hình bên minh họa 4 tế bào sinh dưỡng trên cùng một cơ thể của một loài động vật đang ở các giai đoạn liên tục khác nhau của quá trình nguyên phân.",
     "options": [
-      "A. Tế bào 1 đang ở kì giữa của nguyên phân. kì đầu",
+      "A. Tế bào 1 đang ở kì giữa của nguyên phân.",
       "B. Tế bào 4 đang ở kì cuối của nguyên phân.",
       "C. Tế bào 3 đang ở kì giữa của nguyên phân.",
       "D. Nếu tế bào sinh dưỡng bình thường của cơ thể này chưa bước vào nguyên phân có kí hiệu bộ nhiễm sắc thể là AaBbDd thì tế bào 2 có kí hiệu bộ nhiễm sắc thể ở mỗi cực tế bào là AaBbDd."
@@ -104,12 +196,27 @@
   },
   {
     "type": "mc",
+    "content": "Dưới đây là hình vẽ minh họa 4 giai đoạn trong quá trình nguyên phân xảy ra ở một tế bào sinh dưỡng của một cơ thể động vật.",
+    "options": [
+      "A. 1.",
+      "B. 2.",
+      "C. 3.",
+      "D. 4."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-12",
+    "examSetId": "bai-12-bo1"
+  },
+  {
+    "type": "mc",
     "content": "Cho hình ảnh về một giai đoạn trong quá trình phân bào của một tế bào lưỡng bội 2n bình thường (tế bào A) trong cơ thể đực ở một loài. Biết đột biến nếu có chỉ xảy ra 1 lần. Theo lý thuyết, nhận định nào sau đây đúng?",
     "options": [
-      "A. Tế bào A có chứa ít nhất là ba cặp gene dị hợp. có 2 cặp gene dị hợp là AaBb",
-      "B. Bộ NST lưỡng bội bình thường của loài là 2n = 8. 2n = 6",
-      "C. Tế bào A tạo ra tối đa là 3 loại giao tử khác nhau về các gene đang xét. đúng, 2 loại của TB đang xét và 1 loại của TB không được mô tả (là TB chỉ còn 2 gene là d và e) Dù TB có hoán vị gene nhưng cả 2 NST của cặp tương đồng có HV đều có mặt trong TB A nên ko ảnh hưởng đến số loại giao tử.",
-      "D. Ở giai đoạn phân bào trong hình bên, tế bào đang có 8 chuỗi polynucleotide. sai, có 8NST đơn, mỗi NST có 2 chuỗi poli nu  có 16 chuỗi poli nu Câu 17(khó): Thí nghiệm được thực hiện để tìm hiểu tác dụng ức chế chu kỳ tế bào của hai loại thuốc X và Y ứng dụng để điều trị ung thư trực tràng. Mẫu đối chứng được lấy từ biểu mô trực tràng của người bình thường; các mẫu thí nghiệm 1 và 2 được lấy từ biểu mô khối u của người bị ung thư trực tràng được bổ sung với một trong hai thuốc X và Y. Lượng DNA tương đối của mỗi tế bào được đo bằng kỹ thuật huỳnh quang. Hình vẽ dưới đây thể hiện tỉ lệ số tế bào trong mẫu đối chứng và các mẫu thí nghiệm với lượng DNA khác nhau. Dựa vào kết quả ở hình vẽ, hãy cho biết: Hình 6, giai đoạn C tương ứng với pha nào của chu kì TB?"
+      "A. Tế bào A có chứa ít nhất là ba cặp gene dị hợp.",
+      "B. Bộ NST lưỡng bội bình thường của loài là 2n = 8.",
+      "C. Tế bào A tạo ra tối đa là 3 loại giao tử khác nhau về các gene đang xét.",
+      "D. Ở giai đoạn phân bào trong hình bên, tế bào đang có 8 chuỗi polynucleotide."
     ],
     "correctAnswer": "C",
     "explanation": "",
@@ -121,10 +228,10 @@
     "type": "mc",
     "content": "thị bên mô tả sự biến động hàm lượng DNA của nhân trong một tế bào qua các giai đoạn của quá trình phân bào. Dựa vào đồ thị hãy cho biết nhận định nào dưới đây sai?",
     "options": [
-      "A. Tế bào có thể đang trải qua quá trình nguyên phân. đúng, vì TB con tạo ra có hàm lượng DNA giống TB mẹ",
-      "B. Giai đoạn a, b, c tương ứng với kì trung gian, kì giữa, kì cuối. sai a – pha G1, đầu kì trung gian b - hàm lượng DNA tăng gấp đôi nên có thể là từ pha S, kì đầu, kì giữa, kì sau c – kì cuối vì hàm lượng DNA giống a",
-      "C. Khi hoàn tất quá trình phân bào đã tạo ra 2 tế bào con có số lượng bộ nhiễm sắc thể giống với tế bào ban đầu. đúng với cả nguyên phân và giảm phân 1",
-      "D. Nếu kiểu gene của tế bào trong giai đoạn a là DdEe thì kiểu gene của tế bào trong giai đoạn b là DDddEEee. đúng"
+      "A. Tế bào có thể đang trải qua quá trình nguyên phân.",
+      "B. Giai đoạn a, b, c tương ứng với kì trung gian, kì giữa, kì cuối.",
+      "C. Khi hoàn tất quá trình phân bào đã tạo ra 2 tế bào con có số lượng bộ nhiễm sắc thể giống với tế bào ban đầu.",
+      "D. Nếu kiểu gene của tế bào trong giai đoạn a là DdEe thì kiểu gene của tế bào trong giai đoạn b là DDddEEee."
     ],
     "correctAnswer": "B",
     "explanation": "",
@@ -136,7 +243,12 @@
     "type": "tf",
     "content": "Những năm 1970, các nhà khoa học ở Trường Đại học Colorado đã làm thí nghiệm:",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -168,7 +280,12 @@
     "type": "tf",
     "content": "Ruồi giấm có bộ nhiễm sắc thể 2n = 8. Hình bên mô tả sự biến đổi hình thái nhiễm sắc thể trong chu kì tế bào (tương ứng với các giai đoạn I, II, III, IV, V). Xét 5 tế bào sinh dưỡng của ruồi giấm đang ở giai đoạn IB thực hiện nguyên phân một số lần với tốc độ giống nhau. Theo lý thuyết, mỗi phát biểu sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -200,7 +317,12 @@
     "type": "tf",
     "content": "Theo dõi quá trình phân bào của một tế bào trên cơ thể của loài thực vật (2n = 14) qua các giai đoạn, người ta xây dựng được đồ thị về sự thay đổi hàm lượng DNA trong nhân tế bào thể hiện ở hình bên. Trong các phát biểu dưới đây, phát biểu nào Đúng, phát biểu nào Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -223,6 +345,26 @@
         "label": "d",
         "content": "Nếu một tế bào nằm trên đỉnh sinh trưởng của cơ thể thực vật này có một cặp NST mang cặp gene AB/ab có một chiếc đã không phân li trong quá trình phân bào thì có thể tạo ra 1 tế bào có kiểu gene AB/ab ab và 1 tế bào có kiểu gene AB.",
         "isCorrect": true
+      },
+      {
+        "label": "a",
+        "content": "Dựa vào kết quả ở hình, pha S trong chu kỳ tế bào nằm trong đoạn B của hình vẽ",
+        "isCorrect": true
+      },
+      {
+        "label": "b",
+        "content": "Mẫu 1 là mẫu thí nghiệm được bổ sung thuốc X, mẫu 2 là thí nghiệm được bổ sung thuốc Y.",
+        "isCorrect": true
+      },
+      {
+        "label": "c",
+        "content": "Thuốc X ức chế pha S của chu kỳ tế bào.",
+        "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Thuốc Y giới hạn tốc độ vượt qua điểm chốt G2/M của chu kỳ tế bào.",
+        "isCorrect": true
       }
     ],
     "topicId": "bai-12",
@@ -232,7 +374,12 @@
     "type": "tf",
     "content": "Một thí nghiệm được thực hiện để tìm hiểu tác dụng ức chế chu kỳ tế bào của hai loại thuốc X và Y ứng dụng để điều trị ung thư trực tràng. Mẫu đối chứng được lấy từ biểu mô trực tràng của người bình thường; các mẫu thí nghiệm 1 và 2 được lấy từ biểu mô khối u của người bị ung thư trực tràng được bổ sung với một trong hai thuốc X và Y. Lượng DNA tương đối của mỗi tế bào được đo bằng kĩ thuật huỳnh quang. Hình dưới đây thể hiện tỉ lệ tế bào trong mẫu đối chứng và các mẫu thí nghiệm với lượng DNA khác nhau. Cho biết thuốc X ức chế hoàn toàn một pha của chu kỳ tế bào, thuốc Y chỉ giới hạn tốc độ vượt qua một điểm chốt của chu kỳ tế bào.  Dùng thuốc X chu kì TB sẽ không đẩy đủ các pha; dùng thuốc Y TB chỉ dừng lại ở 1 pha nào đó",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [

@@ -7,7 +7,7 @@
     "grade": "12",
     "description": "Bài tập DNA và Tái bản DNA",
     "examSetCount": 1,
-    "questionCount": 11
+    "questionCount": 19
   },
   {
     "id": "bai-3",
@@ -17,7 +17,7 @@
     "grade": "12",
     "description": "Truyền TTDT từ Gene đến Protein",
     "examSetCount": 1,
-    "questionCount": 15
+    "questionCount": 27
   },
   {
     "id": "bai-4",
@@ -27,7 +27,7 @@
     "grade": "12",
     "description": "Bài tập Gene - RNA - Protein",
     "examSetCount": 1,
-    "questionCount": 10
+    "questionCount": 18
   },
   {
     "id": "bai-5",
@@ -37,7 +37,7 @@
     "grade": "12",
     "description": "Điều hoà biểu hiện Gene",
     "examSetCount": 1,
-    "questionCount": 14
+    "questionCount": 22
   },
   {
     "id": "bai-6",
@@ -47,7 +47,7 @@
     "grade": "12",
     "description": "Đột biến Gene",
     "examSetCount": 1,
-    "questionCount": 18
+    "questionCount": 22
   },
   {
     "id": "bai-7",
@@ -57,7 +57,7 @@
     "grade": "12",
     "description": "Bài tập Đột biến Gene",
     "examSetCount": 1,
-    "questionCount": 17
+    "questionCount": 22
   },
   {
     "id": "bai-8",
@@ -67,7 +67,7 @@
     "grade": "12",
     "description": "Công nghệ Gene và Hệ Gene",
     "examSetCount": 1,
-    "questionCount": 22
+    "questionCount": 34
   },
   {
     "id": "bai-9",
@@ -77,7 +77,7 @@
     "grade": "12",
     "description": "Ôn tập Di truyền Phân tử",
     "examSetCount": 2,
-    "questionCount": 36
+    "questionCount": 42
   },
   {
     "id": "bai-10",
@@ -87,7 +87,7 @@
     "grade": "12",
     "description": "Nhiễm sắc thể",
     "examSetCount": 1,
-    "questionCount": 16
+    "questionCount": 32
   },
   {
     "id": "bai-11",
@@ -97,7 +97,7 @@
     "grade": "12",
     "description": "Nguyên phân - Giảm phân",
     "examSetCount": 1,
-    "questionCount": 26
+    "questionCount": 34
   },
   {
     "id": "bai-12",
@@ -107,7 +107,7 @@
     "grade": "12",
     "description": "Bài tập NST và Phân bào",
     "examSetCount": 1,
-    "questionCount": 13
+    "questionCount": 20
   },
   {
     "id": "bai-13",
@@ -117,7 +117,7 @@
     "grade": "12",
     "description": "Đột biến cấu trúc NST",
     "examSetCount": 1,
-    "questionCount": 25
+    "questionCount": 35
   },
   {
     "id": "bai-14",
@@ -127,7 +127,7 @@
     "grade": "12",
     "description": "Đột biến số lượng NST",
     "examSetCount": 1,
-    "questionCount": 19
+    "questionCount": 34
   },
   {
     "id": "bai-15",
@@ -137,7 +137,7 @@
     "grade": "12",
     "description": "Bài tập Đột biến NST",
     "examSetCount": 1,
-    "questionCount": 9
+    "questionCount": 18
   },
   {
     "id": "bai-16",
@@ -147,7 +147,7 @@
     "grade": "12",
     "description": "Quy luật Di truyền Mendel",
     "examSetCount": 1,
-    "questionCount": 18
+    "questionCount": 29
   },
   {
     "id": "bai-17",
@@ -157,7 +157,7 @@
     "grade": "12",
     "description": "Bài tập Di truyền Mendel",
     "examSetCount": 1,
-    "questionCount": 7
+    "questionCount": 18
   },
   {
     "id": "bai-18",
@@ -167,7 +167,7 @@
     "grade": "12",
     "description": "Tương tác Gene",
     "examSetCount": 1,
-    "questionCount": 18
+    "questionCount": 27
   },
   {
     "id": "bai-19",
@@ -177,7 +177,7 @@
     "grade": "12",
     "description": "Bài tập Tương tác Gene",
     "examSetCount": 1,
-    "questionCount": 10
+    "questionCount": 21
   },
   {
     "id": "bai-20",
@@ -187,7 +187,7 @@
     "grade": "12",
     "description": "Giới tính và Di truyền LK giới tính",
     "examSetCount": 1,
-    "questionCount": 19
+    "questionCount": 35
   },
   {
     "id": "bai-21",
@@ -197,7 +197,7 @@
     "grade": "12",
     "description": "Bài tập Di truyền LK giới tính",
     "examSetCount": 1,
-    "questionCount": 17
+    "questionCount": 21
   },
   {
     "id": "bai-22",
@@ -207,7 +207,7 @@
     "grade": "12",
     "description": "Liên kết Gene và Hoán vị Gene",
     "examSetCount": 1,
-    "questionCount": 14
+    "questionCount": 28
   },
   {
     "id": "bai-23",
@@ -217,7 +217,7 @@
     "grade": "12",
     "description": "Nâng cao DT LK - Hoán vị Gene",
     "examSetCount": 1,
-    "questionCount": 9
+    "questionCount": 14
   },
   {
     "id": "bai-25",
@@ -227,7 +227,7 @@
     "grade": "12",
     "description": "Mối quan hệ KG - MT - KH",
     "examSetCount": 1,
-    "questionCount": 23
+    "questionCount": 30
   },
   {
     "id": "bai-26",
@@ -237,7 +237,7 @@
     "grade": "12",
     "description": "Chọn giống bằng lai hữu tính",
     "examSetCount": 1,
-    "questionCount": 18
+    "questionCount": 34
   },
   {
     "id": "bai-27",
@@ -247,7 +247,7 @@
     "grade": "12",
     "description": "Ôn tập Di truyền NST",
     "examSetCount": 1,
-    "questionCount": 15
+    "questionCount": 20
   },
   {
     "id": "bai-28",
@@ -257,6 +257,6 @@
     "grade": "12",
     "description": "Ôn tập Quy luật Di truyền",
     "examSetCount": 1,
-    "questionCount": 19
+    "questionCount": 35
   }
 ]

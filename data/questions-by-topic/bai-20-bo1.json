@@ -3,10 +3,69 @@
     "type": "mc",
     "content": "nhóm động vật nào sau đây, giới đực mang cặp nhiễm sắc thể giới tính XX và giới cái mang cặp nhiễm sắc thể giới tính XY?",
     "options": [
-      "A. Thỏ, ruồi giấm, chim sáo. B. Trâu, bò, hươu",
-      "C. Gà, chim bồ câu, bướm.D. Hổ, Chó sói, gà."
+      "A. Thỏ, ruồi giấm, chim sáo.",
+      "B. Trâu, bò, hươu",
+      "C. Gà, chim bồ câu, bướm.",
+      "D. Hổ, Chó sói, gà."
     ],
     "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-20",
+    "examSetId": "bai-20-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "thú, xét I gene ở vùng không tương đồng trên NST giới tính X có 2 allele là D và d. Theo lí thuyết, cách viết kiểu gene nào sau đây đúng?",
+    "options": [
+      "A. XDYDB. XdY.",
+      "C. XDYdD. XdYd"
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-20",
+    "examSetId": "bai-20-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Khi gene nằm trên vùng không tương đồng của NST giới tính X. Các kiểu gene nào sau đây viết đúng?",
+    "options": [
+      "A. 1.",
+      "B. 2.",
+      "C. 3.",
+      "D. 4."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-20",
+    "examSetId": "bai-20-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Ai là người đầu tiên phát hiện ra quy luật di truyền liên kết giới tính?",
+    "options": [
+      "A. Morgan.",
+      "B. Mendel.",
+      "C. Darwin.",
+      "D. Landmark."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-20",
+    "examSetId": "bai-20-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "loài nào sau đây, giới đực có cặp nhiễm sắc thể XY?",
+    "options": [
+      "A. Dê.",
+      "B. GàC. Bồ câu.",
+      "D. Vịt."
+    ],
+    "correctAnswer": "A",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-20",
@@ -16,10 +75,41 @@
     "type": "mc",
     "content": "nhóm động vật nào sau đây, giới đực mang cặp nhiễm sắc thể giới tính XY và giới cái mang cặp nhiễm sắc thể giới tính XX?",
     "options": [
-      "A. Thỏ, ruồi giấm, chim sáo. B. Trâu, bò, vịt.",
-      "C. Gà, chim bồ câu, bướm.D. Hổ, Chó sói, mèo rừng."
+      "A. Thỏ, ruồi giấm, chim sáo.",
+      "B. Trâu, bò, vịt.",
+      "C. Gà, chim bồ câu, bướm.",
+      "D. Hổ, Chó sói, mèo rừng."
     ],
-    "correctAnswer": "C",
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-20",
+    "examSetId": "bai-20-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "ruồi giấm, thực hiện phép lai P: XMXM x XmY, tạo ra F. Theo lý thuyết, f, có tối đa bao nhiêu loại kiểu gen?",
+    "options": [
+      "A. 2.",
+      "B. 4.",
+      "C. 1.",
+      "D. 3."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-20",
+    "examSetId": "bai-20-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "người, allele A nằm trên nhiễm sắc thể X quy định mắt nhìn màu bình thường là trội hoàn toàn so với allele a quy định bệnh mù màu. Kiểu gen nào sau đây là người nam nhìn màu bình thường?",
+    "options": [
+      "A. XAXaB. XaY.",
+      "C. XaXa",
+      "D. XAY."
+    ],
+    "correctAnswer": "D",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-20",
@@ -29,10 +119,72 @@
     "type": "mc",
     "content": "Các vùng trên mỗi nhiễm sắc thể của cặp nhiễm sắc thể giới tính XY ở người được ký hiệu bằng các chữ số La Mã từ I đến VI trong hình bên. Trong cặp nhiễm sắc thế giới tính này, vùng tương đồng giữa nhiễm sắc thể X và nhiễm sắc thể Y gồm các vùng nào sau đây?",
     "options": [
-      "A. I và IV; II và V. B. II và IV; III và V.",
-      "C. I và V; II và VI.D. I và IV; III và VI."
+      "A. I và IV; II và V.",
+      "B. II và IV; III và V.",
+      "C. I và V; II và VI.",
+      "D. I và IV; III và VI."
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-20",
+    "examSetId": "bai-20-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "người, allele A nằm trên nhiễm sắc thể X quy định máu đông bình thường là trội hoàn toàn so với allele a quy định bệnh máu khó đông. Biết không xảy ra đột biến. Theo lí thuyết, cặp bố mę nào sau đây sẽ sinh con trai luôn bị bệnh máu khó đông?",
+    "options": [
+      "A. XAXa × XAY.",
+      "B. XAXA x XaY.",
+      "C. XaXa x XAY.",
+      "D. XAXa x XaY."
     ],
     "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-20",
+    "examSetId": "bai-20-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "ruồi giấm, allele A quy định mắt đỏ trội hoàn toàn so với allele a quy định mắt trắng. Theo lí thuyết, phép lai nào sau đây cho đời con có tỉ lệ 1 ruồi cái mắt đỏ : 1 ruồi cái mắt trắng : 1 ruồi đực mắt đỏ : 1 ruồi đực mắt trắng?",
+    "options": [
+      "A. XaXa x XAY.",
+      "B. XAXa x XaY.",
+      "C. XAXA x XaY.",
+      "D. X X x XAY."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-20",
+    "examSetId": "bai-20-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "người, allele A nằm trên NST X quy định máu đông bình thường là trội hoàn toàn so với allele a quy định bệnh máu khó đông. Kiểu gene của người nam bị máu khó đông và người nữ bình thường có kí hiệu là",
+    "options": [
+      "A. XaXa, XAY.",
+      "B. XaY, XAY.",
+      "C. XAXa, XAY.",
+      "D. XaY, XAXa"
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-20",
+    "examSetId": "bai-20-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "người, allele A nằm trên nhiễm sắc thể X quy định nhìn màu bình thường là trội hoàn toàn so với allele a quy định bệnh mù màu. Biết không xảy ra đột biến. Theo lí thuyết, cặp bố mẹ nào sau đây sẽ sinh con trai luôn bị bệnh mù màu?",
+    "options": [
+      "A. XAXa x XAY.",
+      "B. XAXA x XaY.",
+      "C. XaXa x XAY.",
+      "D. XAXa × XaY."
+    ],
+    "correctAnswer": "D",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-20",
@@ -55,10 +207,71 @@
   },
   {
     "type": "mc",
+    "content": "ruồi giấm, allele A quy định mắt đỏ trội hoàn toàn so với allele a quy định mắt trắng. Theo lí thuyết, phép lai nào sau đây cho đời con có tỉ lệ 1 ruồi cái mắt đỏ : 1 ruồi đực mắt đỏ",
+    "options": [
+      "A. Xa Xa x XAY.",
+      "B. XAXa x XaY.",
+      "C. XAXA x XaY.",
+      "D. XA Xa x XAY."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-20",
+    "examSetId": "bai-20-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Khi gene nằm trên vùng không tương đồng của NST giới tính X. Các kiểu gene nào sau đây viết đúng?",
+    "options": [
+      "A. 1.",
+      "B. 2.",
+      "C. 3.",
+      "D. 4."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-20",
+    "examSetId": "bai-20-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "người, allele A nằm trên NST X quy định máu đông bình thường là trội hoàn toàn so với allele a quy định bệnh máu khó đông. Kiểu gene của người nữ bình thường nhưng không mang allele gây bệnh là",
+    "options": [
+      "A. XAXaB. XAY.",
+      "C. XAXA.",
+      "D. XaY."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-20",
+    "examSetId": "bai-20-bo1"
+  },
+  {
+    "type": "mc",
     "content": "gà, tính trạng màu lông do một cặp gene quy định, gene A quy định lông vằn trội hoàn toàn so với gene a quy định lông đen, gene nằm trên nhiễm sắc thể giới tính X, không có allele tương ứng trên Y. Cho gà trống lông vằn giao phối với gà mái lông đen (P), thu được F1 gồm 100% gà lông vằn. F1 giao phối ngẫu nhiên với nhau thu được F2. Biết không xảy ra hiện tượng đột biến. Theo lí thuyết, tỉ lệ kiểu hình về màu lông của gà mái ở F2 là",
     "options": [
-      "A. 50% lông vằn : 50% lông đen. B. 75% lông vằn : 25% lông đen.",
-      "C. 100% lông vằn.D. 25% lông vằn : 75% lông đen."
+      "A. 50% lông vằn : 50% lông đen.",
+      "B. 75% lông vằn : 25% lông đen.",
+      "C. 100% lông vằn.",
+      "D. 25% lông vằn : 75% lông đen."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-20",
+    "examSetId": "bai-20-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "người, gene B quy định mắt nhìn màu bình thường là trội hoàn toàn so với alleleb gây bệnh mù màu đỏ - xanh lục, gene này nằm trên nhiễm sắc thể giới tính X, không có allele tương ứng trên Y. Một cặp vợ chồng sinh được một con gái bị mù màu và một con trai mắt nhìn màu bình thường. Biết rằng không có đột biến mới xảy ra, kiểu gene của cặp vợ chồng này là",
+    "options": [
+      "A. XBXb x XbY.",
+      "B. XBXB X XbY.",
+      "C. XbXb x XBY.",
+      "D. XBXb x XBY."
     ],
     "correctAnswer": "A",
     "explanation": "",
@@ -70,8 +283,25 @@
     "type": "mc",
     "content": "Bệnh mù màu, máu khó đông ở người di truyền",
     "options": [
-      "A. liên kết với NST X. B. ngoài nhân.",
-      "C. độc lập với giới tính.D. liên kết với NST Y."
+      "A. liên kết với NST X.",
+      "B. ngoài nhân.",
+      "C. độc lập với giới tính.",
+      "D. liên kết với NST Y."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-20",
+    "examSetId": "bai-20-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "người, bệnh mù màu do đột biến lặn nằm trên nhiễm sắc thể giới tính X gây nên (Xm), gene trội M tương ứng quy định mắt bình thường. Một cặp vợ chồng sinh được một con trai bình thường và một con gái mù màu. Kiểu gene của cặp vợ chồng này là",
+    "options": [
+      "A. XMXm x XmY.",
+      "B. XMXM X X MY.",
+      "C. XMXm x XMY.",
+      "D. XMXM X XmY."
     ],
     "correctAnswer": "A",
     "explanation": "",
@@ -99,9 +329,24 @@
     "content": "người, bệnh máu khó đông do gene h nằm trên NST X, gene H: máu đông bình thường. Bố mắc bệnh máu khó đông, mẹ bình thường, ông ngoại mắc bệnh khó đông, nhận định nào dưới đây là đúng?",
     "options": [
       "A. Con gái của họ không bao giờ mắc bệnhB. 100% số con trai của họ sẽ mắc bệnh",
-      "C. 50% số con trai của họ có khả năng mắc bệnh D. 100% số con gái của họ sẽ mắc bệnh"
+      "C. 50% số con trai của họ có khả năng mắc bệnh",
+      "D. 100% số con gái của họ sẽ mắc bệnh"
     ],
     "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-20",
+    "examSetId": "bai-20-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "người, bệnh mù màu (đỏ và lục) là do đột biến lặn nằm trên nhiễm sắc thể giới tính X gây nên (Xm). Nếu mẹ bình thường, bố bị mù màu thì con trai bị mù màu của họ đã nhận Xm từ",
+    "options": [
+      "A. bốB. bà nội.",
+      "C. ông nội.",
+      "D. mẹ."
+    ],
+    "correctAnswer": "D",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-20",
@@ -126,7 +371,12 @@
     "type": "tf",
     "content": "Khi nói về NST giới tính, các nhận định sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -158,7 +408,12 @@
     "type": "tf",
     "content": "Khi nói về đặc điểm của gene lặn nằm trên vùng không tương đồng của nhiễm sắc thể giới tính X. Các nhận định sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -190,7 +445,12 @@
     "type": "tf",
     "content": "Khi nói về nhiễm sắc thể giới tính ở động vật, các nhận định sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -222,7 +482,12 @@
     "type": "tf",
     "content": "Khi nói về đặc điểm di truyền của gene trên nhiễm sắc thể giới tính của người. Các nhận định sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -254,7 +519,12 @@
     "type": "tf",
     "content": "Với các tính trạng được quy định bởi gene lặn nằm trên vùng không tương đồng của nhiễm sắc thể X. Các nhận định sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -286,7 +556,12 @@
     "type": "tf",
     "content": "Theo lí thuyết, khi nói về sự di truyền các gene ở thú, các nhận định sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -318,7 +593,12 @@
     "type": "tf",
     "content": "Theo lí thuyết, khi nói về sự di truyền các gene ở thú, các nhận định sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -350,7 +630,12 @@
     "type": "tf",
     "content": "Khi nói về NST giới tính, các nhận định sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -382,7 +667,12 @@
     "type": "tf",
     "content": "Với các tỉnh trạng được quy định bởi gene lặn nằm trên vùng không tương đồng của nhiễm sắc thể X. Các nhận định sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -414,7 +704,9 @@
     "type": "tf",
     "content": "1 loài thú, gene A quy định chân cao trội hoàn toàn so với gene a quy định chân thấp. Quá trình giảm phân không xảy ra đột biến. Phép lai cho đời con có tỉ lệ kiểu hình ở giới đực khác với tỉ lệ kiểu hình ở giới cái. Các phép lai sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [

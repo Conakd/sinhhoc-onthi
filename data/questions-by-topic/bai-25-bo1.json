@@ -1,12 +1,42 @@
 [
   {
     "type": "mc",
+    "content": "Cùng một kiểu gene nhưng trong điều kiện môi trường khác nhau có thể cho ra những kiểu hình khác nhau được gọi là",
+    "options": [
+      "A. đột biến.",
+      "B. biến dị tổ hợp.",
+      "C. thường biếnD. biến dị."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-25",
+    "examSetId": "bai-25-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Cây phù dung (Hibiscus mutabilis) có hoa màu trắng vào buổi sáng, nhưng buổi chiều hoa chuyển sang màu hồng là biểu hiện của hiện tượng",
+    "options": [
+      "A. đột biến gene.",
+      "B. biến dị tổ hợp.",
+      "C. thường biếnD. đột biến nhiễm sắc thể."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-25",
+    "examSetId": "bai-25-bo1"
+  },
+  {
+    "type": "mc",
     "content": "Kiểu hình là kết quả của sự tương tác giữa",
     "options": [
-      "A. kiểu gene và tế bào chất.C. kiểu gene và nhiệt độ môi trường.",
-      "B. kiểu hình và môi trường.D. kiểu gene với môi trường."
+      "A. kiểu gene và tế bào chất.",
+      "B. kiểu hình và môi trường.",
+      "C. kiểu gene và nhiệt độ môi trường.",
+      "D. kiểu gene với môi trường."
     ],
-    "correctAnswer": "B",
+    "correctAnswer": "D",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-25",
@@ -31,10 +61,12 @@
     "type": "mc",
     "content": "Nhận định nào sau đây đúng khi nói về ý nghĩa của thường biến?",
     "options": [
-      "A. sinh vật ngày càng đa dạng và phong phú.B. tạo nguồn biến dị sơ cấp cho tiến hóa",
-      "C. tạo nguồn nguyên liệu cho chọn giống.         D. sinh vật thích nghi với sự thay đổi của môi trường."
+      "A. sinh vật ngày càng đa dạng và phong phú.",
+      "B. tạo nguồn biến dị sơ cấp cho tiến hóa",
+      "C. tạo nguồn nguyên liệu cho chọn giống.",
+      "D. sinh vật thích nghi với sự thay đổi của môi trường."
     ],
-    "correctAnswer": "C",
+    "correctAnswer": "D",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-25",
@@ -60,9 +92,10 @@
     "content": "c điểm nào dưới đây không phải là của thường biến?",
     "options": [
       "A. Không di truyền đượcC. Thường có hại cho sinh vật.",
-      "B. Không làm thay đổi kiểu gene.D. Biến đổi đồng loạt cả nhóm cá thể."
+      "B. Không làm thay đổi kiểu gene.",
+      "D. Biến đổi đồng loạt cả nhóm cá thể."
     ],
-    "correctAnswer": "A",
+    "correctAnswer": "C",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-25",
@@ -78,6 +111,21 @@
       "D. Kiểu gene quy định khả năng phản ứng của cơ thể trước môi trường."
     ],
     "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-25",
+    "examSetId": "bai-25-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Yếu tố nào dưới đây được di truyền nguyên vẹn từ bố hoặc mẹ sang",
+    "options": [
+      "A. Allele.",
+      "B. kiểu hình.",
+      "C. Kiểu gene.",
+      "D. Tính trạng."
+    ],
+    "correctAnswer": "A",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-25",
@@ -175,12 +223,59 @@
   },
   {
     "type": "mc",
+    "content": "Ruồi giấm có kiểu gene đột biển đồng hợp làm cánh bị tiêu biến (cánh cụt), tuy nhiên nếu ấu trùng được nuôi trong điều kiện nhiệt độ dưới 29 °C thì có cánh cụt, trong khi ấu trùng có cùng kiểu gene được nuôi trong môi trường có nhiệt độ 31 °C lại có cánh phát triển dài gần như bình thường. Đây là biểu hiện của",
+    "options": [
+      "A. đột biến.",
+      "B. biến dị tổ hợp.",
+      "C. thường biến",
+      "D. mức phản ứng."
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-25",
+    "examSetId": "bai-25-bo1"
+  },
+  {
+    "type": "mc",
     "content": "ng vật, để nghiên cứu mức phản ứng của một kiểu gene nào đó cần tạo ra các cá thể",
     "options": [
-      "A. có kiểu hình khác nhau.C. có cùng kiểu gene.",
-      "B. có kiểu gene khác nhau.D. có kiểu hình giống nhau."
+      "A. có kiểu hình khác nhau.",
+      "B. có kiểu gene khác nhau.",
+      "C. có cùng kiểu gene.",
+      "D. có kiểu hình giống nhau."
     ],
-    "correctAnswer": "A",
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-25",
+    "examSetId": "bai-25-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Yếu tố “giống” trong sản xuất nông nghiệp tương đương với yếu tố nào sau đây?",
+    "options": [
+      "A. Môi trường.",
+      "B. Kiểu gene.",
+      "C. Kiểu hình.",
+      "D. Năng suất."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-25",
+    "examSetId": "bai-25-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Giới hạn năng suất của giống được quy định bởi",
+    "options": [
+      "A. chế độ dinh dưỡng.",
+      "B. điều kiện thời tiết.",
+      "C. kiểu gene.",
+      "D. kỹ thuật canh tác"
+    ],
+    "correctAnswer": "C",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-25",
@@ -190,10 +285,12 @@
     "type": "mc",
     "content": "Tỉnh trạng số lượng không có đặc điểm nào sau đây?",
     "options": [
-      "A. Thay đổi khi điều kiện môi trường thay đổi.B. Khó thay đổi khi điều kiện môi trường thay đổi.",
-      "C. Do nhiều gene quy định.D. Đo lường được bằng các kĩ thuật thông thường."
+      "A. Thay đổi khi điều kiện môi trường thay đổi.",
+      "B. Khó thay đổi khi điều kiện môi trường thay đổi.",
+      "C. Do nhiều gene quy định.",
+      "D. Đo lường được bằng các kĩ thuật thông thường."
     ],
-    "correctAnswer": "A",
+    "correctAnswer": "B",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-25",
@@ -224,6 +321,21 @@
       "D. gene R qui định hoa màu đỏ đã đột biến thành gene r qui định hoa màu trắng."
     ],
     "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-25",
+    "examSetId": "bai-25-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Cho các bước sau:",
+    "options": [
+      "A. (1) - (2) - (3).",
+      "B. (1)- (3)- (2).",
+      "C. (3)",
+      "D. (2)"
+    ],
+    "correctAnswer": "B",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-25",
@@ -263,7 +375,12 @@
     "type": "tf",
     "content": "Khi nói về tương tác giữa kiểu gene với môi trường, các nhận định sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -295,7 +412,12 @@
     "type": "tf",
     "content": "Khi nói về thường bến, các nhận định sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -327,7 +449,12 @@
     "type": "tf",
     "content": "Khi nói về mức phản ứng của kiểu gene, mỗi nhận định dưới đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -359,7 +486,12 @@
     "type": "tf",
     "content": "Khi nói về mức phản ứng, mỗi phát biểu dưới đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -391,7 +523,12 @@
     "type": "tf",
     "content": "Mỗi ví dụ sau đây Đúng hay Sai về hiện tượng thường biến?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [

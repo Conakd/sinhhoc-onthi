@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
 """
-Parse toàn bộ file Word Sinh Học → JSON - Version 2 (fixed option parsing & TF subItems)
-Chạy: python3 parse-all.py
+Parse file Word Sinh Học → JSON - Version 4 (fix split options & TF correct answer)
 """
-import zipfile, re, json, os
+import zipfile, re, json, os, shutil
 
 DOCX_DIR = './docx-files'
 DATA_DIR = './data'
@@ -43,98 +42,137 @@ TOPIC_MAP = [
 ]
 
 def para_full_text(xml_para):
-    """Lấy full text của paragraph, giữ nguyên spaces"""
     texts = re.findall(r'<w:t[^>]*>([^<]*)</w:t>', xml_para)
-    return ''.join(texts).strip()
+    return ''.join(texts)
 
-def has_color(xml_para):
-    """Kiểm tra đoạn văn có chứa định dạng màu không"""
-    return bool(re.search(r'<w:color\b', xml_para))
+def para_has_color(xml_para):
+    """Tìm chữ cái A/B/C/D có màu = đáp án đúng"""
+    runs = re.findall(r'(<w:r[ >].*?</w:r>)', xml_para, re.DOTALL)
+    for r in runs:
+        if 'w:color' in r:
+            t = ''.join(re.findall(r'<w:t[^>]*>([^<]*)</w:t>', r))
+            m = re.match(r'^\s*([A-D])[.\s]', t.strip())
+            if m:
+                return m.group(1)
+    return None
+
+def split_options_text(text):
+    """
+    Tách options từ 1 dòng text có thể chứa nhiều options.
+    Xử lý cả 2 dạng:
+    - "A. content    B. content" (có space)
+    - "A. content.B. content" (không có space, chỉ dấu chấm)
+    """
+    # Thêm space trước các pattern [A-D]. để chuẩn hóa
+    # Dạng: "...content.B." → "...content. B."
+    text = re.sub(r'([a-zà-ỹA-ZÀ-Ỹ0-9\)])\.([A-D])\.', r'\1. \2.', text)
+    # Dạng: "...content B." (space + letter + dot) → chỉ khi bắt đầu bằng chữ hoa có nghĩa
+    
+    # Bây giờ split theo pattern: khoảng trắng + [A-D].
+    parts = re.split(r'\s+(?=[A-D]\.\s)', text.strip())
+    
+    results = []
+    for part in parts:
+        part = part.strip()
+        m = re.match(r'^([A-D])\.\s*(.+)', part)
+        if m:
+            letter = m.group(1)
+            content = m.group(2).strip()
+            # Loại bỏ giải thích sau mũi tên
+            content = re.split(r'[🡪→]|\s+->\s+', content)[0].strip()
+            if content:
+                results.append((letter, content))
+    return results
 
 def parse_paragraphs(xml):
-    """Tách XML thành danh sách paragraphs"""
     raw = re.split(r'(?=<w:p[ >])', xml)
     result = []
     for p in raw:
-        text = para_full_text(p)
-        colored = has_color(p)
+        text = para_full_text(p).strip()
         if text:
+            colored = para_has_color(p)
             result.append({'text': text, 'colored': colored, 'xml': p})
     return result
 
 def find_answer_start(paras):
-    """Tìm vị trí bắt đầu phần đáp án (lần 2 của Câu 1)"""
     positions = [i for i, p in enumerate(paras)
                  if re.match(r'Câu\s*1[:\s.]', p['text'], re.I) and len(p['text']) > 15]
     if len(positions) >= 2:
         return positions[1]
     return len(paras) // 2
 
-def get_tf_subitems_from_first_half(paras, start_idx, q_num):
-    """
-    Quay ngược lại phần Đề bài (từ đầu đến start_idx) 
-    Tìm câu hỏi TF để lấy text nội dung 4 ý a, b, c, d
-    """
-    content_dict = {}
-    for i in range(start_idx):
-        text = paras[i]['text']
-        # Dùng (?!\d) để 'Câu 1' không match nhầm với 'Câu 10'
-        if re.match(rf'Câu\s*{q_num}(?!\d)', text, re.I):
-            k = i + 1
-            while k < start_idx:
-                t2 = paras[k]['text']
-                if re.match(r'Câu\s*\d+', t2, re.I) or re.search(r'PHẦN', t2, re.I):
+def find_question_start(paras):
+    positions = [i for i, p in enumerate(paras)
+                 if re.match(r'Câu\s*1[:\s.]', p['text'], re.I) and len(p['text']) > 15]
+    return positions[0] if positions else 0
+
+def parse_tf_subitems_from_question(question_paras, q_num):
+    """Tìm các ý a/b/c/d của câu TF từ phần câu hỏi (nửa đầu file)"""
+    sub_items = []
+    for i, p in enumerate(question_paras):
+        cau_m = re.match(r'Câu\s*(\d+)', p['text'], re.I)
+        if cau_m and int(cau_m.group(1)) == q_num:
+            j = i + 1
+            while j < len(question_paras) and j < i + 15:
+                t2 = question_paras[j]['text']
+                if re.match(r'Câu\s*\d+[:\s.]', t2, re.I):
                     break
-                
-                # Bắt ý a) b) c) d)
-                sm = re.match(r'^([a-d])[.\)]\s*(.*)', t2, re.I)
+                sm = re.match(r'^([A-Da-d])[.\)]\s*(.+)', t2)
                 if sm:
                     letter = sm.group(1).lower()
                     content = sm.group(2).strip()
-                    content_dict[letter] = content
-                k += 1
+                    sub_items.append({'label': letter, 'content': content, 'isCorrect': True})
+                j += 1
             break
-    return content_dict
+    return sub_items
 
-def parse_mc_options(paras, start_idx):
+def parse_tf_correct_from_answer(answer_paras, q_idx):
     """
-    Parse options cho câu MC - Xử lý chuẩn xác chỉ bắt dòng A., B., C., D.
+    Đọc đúng/sai của TF từ phần đáp án.
+    Trả về: (sub_items_from_answer, correct_ans_dict)
     """
-    options = []
-    correct = None
-    j = start_idx
+    sub_items = []
+    correct_ans = {}
+    j = q_idx + 1
 
-    while j < len(paras) and j < start_idx + 12:
-        text = paras[j]['text']
-        colored = paras[j]['colored']
-
-        # Dừng nếu gặp câu mới hoặc phần mới
-        if j > start_idx and re.match(r'Câu\s*\d+[:\s.]', text, re.I):
+    while j < len(answer_paras) and j < q_idx + 30:
+        t2 = answer_paras[j]['text']
+        if re.match(r'Câu\s*\d+[:\s.]', t2, re.I) and j > q_idx + 1:
             break
-        if re.search(r'ĐÚNG.{0,5}SAI|TRẢ LỜI NGẮN|PHẦN II|PHẦN III', text, re.I):
+        if re.search(r'TRẢ LỜI NGẮN|PHẦN III', t2, re.I):
             break
 
-        # Chỉ bắt option khi bắt đầu BẰNG "^A. " (Có khoảng trắng sau dấu chấm)
-        single = re.match(r'^([A-D])\.\s+(.+)$', text)
-        if single:
-            letter = single.group(1)
-            content = single.group(2).strip()
-            # Loại bỏ phần giải thích sau mũi tên nếu có
-            content = re.split(r'🡪|→|\s+->\s+', content)[0].strip()
-            options.append(f"{letter}. {content}")
+        # Dạng: "a. content Đúng" hoặc "a. Đúng" hoặc "a) Sai"
+        sm = re.match(r'^([A-Da-d])[.\)]\s*(.*)', t2)
+        if sm:
+            letter = sm.group(1).lower()
+            content = sm.group(2).strip()
             
-            # Nếu dòng này chứa định dạng màu -> Chính là đáp án đúng
-            if colored and not correct:
-                correct = letter
-        else:
-            # Dòng tiếp nối không có A/B/C/D ở đầu -> Nối vào option trước đó
-            if options and not re.match(r'^[A-D]\.', text):
-                options[-1] = options[-1] + ' ' + text
-
+            # Tìm đúng/sai
+            is_true = None
+            if re.search(r'\bĐúng\b', content):
+                is_true = True
+            elif re.search(r'\bSai\b', content):
+                is_true = False
+            elif re.search(r'\bđúng\b', content, re.I):
+                is_true = True
+            elif re.search(r'\bsai\b', content, re.I):
+                is_true = False
+            
+            # Làm sạch content
+            clean = re.sub(r'\s*(Đúng|Sai|đúng|sai)\s*[.:]?.*$', '', content).strip()
+            clean = re.split(r'[🡪→]', clean)[0].strip()
+            
+            if clean:
+                sub_items.append({
+                    'label': letter,
+                    'content': clean,
+                    'isCorrect': bool(is_true) if is_true is not None else True
+                })
+                correct_ans[letter] = bool(is_true) if is_true is not None else True
         j += 1
 
-    return options, correct, j
-
+    return sub_items, correct_ans, j
 
 def parse_docx(docx_path, topic_id, exam_set_id):
     try:
@@ -142,12 +180,15 @@ def parse_docx(docx_path, topic_id, exam_set_id):
             with z.open('word/document.xml') as f:
                 xml = f.read().decode('utf-8')
     except Exception as e:
-        print(f'   ❌ Lỗi đọc file: {e}')
+        print(f'   ❌ Lỗi: {e}')
         return []
 
     paras = parse_paragraphs(xml)
-    start = find_answer_start(paras)
-    answer_paras = paras[start:]
+    ans_start = find_answer_start(paras)
+    q_start = find_question_start(paras)
+
+    question_paras = paras[q_start:ans_start]
+    answer_paras = paras[ans_start:]
 
     questions = []
     section = 'mc'
@@ -155,93 +196,99 @@ def parse_docx(docx_path, topic_id, exam_set_id):
 
     while i < len(answer_paras):
         text = answer_paras[i]['text']
+        colored = answer_paras[i]['colored']
 
         # Nhận diện section
-        if re.search(r'ĐÚNG.{0,5}SAI|II\.\s*CÂU', text, re.I) and not re.match(r'Câu\s*\d+', text, re.I):
+        if re.search(r'ĐÚNG.{0,5}SAI|II\.\s*C[ÂA]U', text, re.I) and not re.match(r'Câu\s*\d+', text, re.I):
             section = 'tf'; i += 1; continue
-        if re.search(r'TRẢ LỜI NGẮN|III\.\s*CÂU', text, re.I) and not re.match(r'Câu\s*\d+', text, re.I):
+        if re.search(r'TRẢ LỜI NGẮN|III\.\s*C[ÂA]U', text, re.I) and not re.match(r'Câu\s*\d+', text, re.I):
             section = 'short'; i += 1; continue
 
-        # Nhận diện câu hỏi
         cau_m = re.match(r'Câu\s*(\d+)[^a-zA-Z\d]*\s*(.*)', text, re.I)
         if not cau_m:
             i += 1; continue
-        
-        q_num = cau_m.group(1)
+
+        q_num = int(cau_m.group(1))
         q_text = cau_m.group(2).strip()
-        if not q_text:
+        if not q_text or len(q_text) < 3:
             i += 1; continue
 
         # === TRẮC NGHIỆM MC ===
         if section == 'mc':
-            options, correct, next_i = parse_mc_options(answer_paras, i + 1)
+            options_dict = {}
+            correct = colored
+            j = i + 1
 
-            # Chỉ lưu nếu có đủ options
-            if len(options) >= 2:
+            while j < len(answer_paras) and j < i + 15:
+                t2 = answer_paras[j]['text']
+                c2 = answer_paras[j]['colored']
+
+                if re.match(r'Câu\s*\d+[:\s.]', t2, re.I) and j > i + 1: break
+                if re.search(r'ĐÚNG.{0,5}SAI|TRẢ LỜI|PHẦN II|PHẦN III', t2, re.I): break
+
+                if c2 and not correct:
+                    correct = c2
+
+                opts = split_options_text(t2)
+                for letter, content in opts:
+                    if letter not in options_dict:
+                        options_dict[letter] = content
+                j += 1
+
+            options_list = []
+            for letter in ['A', 'B', 'C', 'D']:
+                if letter in options_dict:
+                    options_list.append(f"{letter}. {options_dict[letter]}")
+
+            if len(options_list) >= 2:
                 questions.append({
                     'type': 'mc',
                     'content': q_text,
-                    'options': options[:4],
+                    'options': options_list,
                     'correctAnswer': correct or 'A',
                     'explanation': '',
                     'difficulty': 2,
                     'topicId': topic_id,
                     'examSetId': exam_set_id
                 })
-            i = next_i
+            i = j
 
         # === ĐÚNG SAI TF ===
         elif section == 'tf':
-            # 1. Lấy nội dung text từ nửa đầu văn bản (Phần đề)
-            content_dict = get_tf_subitems_from_first_half(paras, start, q_num)
-            
-            sub_items = []
-            correct_ans = {}
-            j = i + 1
+            # Đọc đúng/sai từ phần đáp án
+            sub_items, correct_ans, j = parse_tf_correct_from_answer(answer_paras, i)
 
-            # 2. Quét đáp án đúng/sai ở đoạn sau
-            while j < len(answer_paras) and j < i + 30:
-                t2 = answer_paras[j]['text']
-                if re.match(r'Câu\s*\d+[:\s.]', t2, re.I) and j > i + 1:
-                    break
-                if re.search(r'TRẢ LỜI NGẮN|PHẦN III', t2, re.I):
-                    break
-
-                sm = re.match(r'^([a-d])[.\)]\s*(.*)', t2, re.I)
-                if sm:
-                    letter = sm.group(1).lower()
-                    ans_text = sm.group(2).strip()
-                    
-                    # Bắt true/false
-                    is_true = None
-                    if re.search(r'\bđúng\b', ans_text, re.I): is_true = True
-                    elif re.search(r'\bsai\b', ans_text, re.I): is_true = False
-                    
-                    if is_true is not None:
-                        correct_ans[letter] = is_true
-                        
-                    # Fallback (nếu phần đầu vì lý do nào đó không tìm thấy text)
-                    clean_ans = re.sub(r'\s*(đúng|sai)\s*[.:]?.*$', '', ans_text, flags=re.I)
-                    clean_ans = re.split(r'🡪|→', clean_ans)[0].strip()
-                    if letter not in content_dict and clean_ans:
-                        content_dict[letter] = clean_ans
-                j += 1
-
-            # 3. Gộp thành mảng subItems hoàn chỉnh
-            for letter in ['a', 'b', 'c', 'd']:
-                if letter in content_dict or letter in correct_ans:
-                    sub_items.append({
-                        'label': letter,
-                        'content': content_dict.get(letter, ''),
-                        'isCorrect': correct_ans.get(letter, True)
-                    })
+            # Nếu tìm được sub_items từ phần đáp án → dùng luôn
+            # Nếu không → lấy content từ phần câu hỏi
+            if not sub_items:
+                sub_items = parse_tf_subitems_from_question(question_paras, q_num)
+            else:
+                # Nếu content trong sub_items quá ngắn → thay bằng content từ phần câu hỏi
+                q_subs = parse_tf_subitems_from_question(question_paras, q_num)
+                if q_subs:
+                    # Merge: giữ isCorrect từ answer_paras, lấy content từ question_paras
+                    label_map = {s['label']: s for s in sub_items}
+                    merged = []
+                    for qs in q_subs:
+                        lbl = qs['label']
+                        if lbl in label_map:
+                            merged.append({
+                                'label': lbl,
+                                'content': qs['content'],
+                                'isCorrect': label_map[lbl]['isCorrect']
+                            })
+                            if lbl not in correct_ans:
+                                correct_ans[lbl] = label_map[lbl]['isCorrect']
+                        else:
+                            merged.append(qs)
+                    sub_items = merged
 
             if sub_items:
                 questions.append({
                     'type': 'tf',
                     'content': q_text,
                     'options': [],
-                    'correctAnswer': correct_ans,
+                    'correctAnswer': correct_ans if correct_ans else {s['label']: s['isCorrect'] for s in sub_items},
                     'explanation': '',
                     'difficulty': 2,
                     'subItems': sub_items,
@@ -254,16 +301,15 @@ def parse_docx(docx_path, topic_id, exam_set_id):
         elif section == 'short':
             answer = ''
             j = i + 1
-            while j < len(answer_paras) and j < i + 6:
+            while j < len(answer_paras) and j < i + 8:
                 t2 = answer_paras[j]['text']
-                if re.match(r'Câu\s*\d+[:\s.]', t2, re.I) and j > i + 1:
-                    break
+                if re.match(r'Câu\s*\d+[:\s.]', t2, re.I) and j > i + 1: break
                 da = re.search(r'(?:Điền đáp án|ĐÁP ÁN)[:\s\*]*(.+)', t2, re.I)
                 if da:
-                    answer = re.split(r'🡪|→', re.sub(r'\*+', '', da.group(1)))[0].strip()
+                    answer = re.split(r'[🡪→]', re.sub(r'\*+', '', da.group(1)))[0].strip()
                 star_m = re.search(r'\*{2,}\s*(.+)', t2)
                 if star_m and not answer:
-                    answer = re.split(r'🡪|→', star_m.group(1))[0].strip()
+                    answer = re.split(r'[🡪→]', star_m.group(1))[0].strip()
                 j += 1
 
             questions.append({
@@ -284,10 +330,8 @@ def parse_docx(docx_path, topic_id, exam_set_id):
 
 
 def main():
-    print(f'🚀 Parse {len(TOPIC_MAP)} files (xóa cache cũ)...\n')
+    print(f'🚀 Parse {len(TOPIC_MAP)} files...\n')
 
-    # Xóa cache cũ để parse lại sạch
-    import shutil
     if os.path.exists(OUT_DIR):
         shutil.rmtree(OUT_DIR)
     os.makedirs(OUT_DIR, exist_ok=True)
@@ -301,7 +345,6 @@ def main():
         tid = item['topicId']
         eset = item['examSet']
         exam_set_id = f"{tid}-bo{eset}"
-        out_file = os.path.join(OUT_DIR, f"{exam_set_id}.json")
 
         if not os.path.exists(fpath):
             print(f'⚠️  [{idx+1}/{len(TOPIC_MAP)}] Không tìm thấy: {item["file"]}')
@@ -315,6 +358,7 @@ def main():
         sh = sum(1 for q in questions if q['type'] == 'short')
         print(f'   ✅ {len(questions)} câu: MC={mc} TF={tf} Short={sh}')
 
+        out_file = os.path.join(OUT_DIR, f"{exam_set_id}.json")
         with open(out_file, 'w', encoding='utf-8') as f:
             json.dump(questions, f, ensure_ascii=False, indent=2)
 
@@ -339,10 +383,9 @@ def main():
     mc_t = sum(1 for q in all_questions if q['type'] == 'mc')
     tf_t = sum(1 for q in all_questions if q['type'] == 'tf')
     sh_t = sum(1 for q in all_questions if q['type'] == 'short')
-
     print(f'\n🎉 XONG! {len(all_topics)} chủ đề, {len(all_exam_sets)} bộ đề, {len(all_questions)} câu')
     print(f'   MC={mc_t} TF={tf_t} Short={sh_t}')
-    print(f'➡️  Chạy tiếp: npm run seed-v2')
+    print(f'➡️  npm run clear && npm run seed-v2')
 
 if __name__ == '__main__':
     main()

@@ -1,6 +1,36 @@
 [
   {
     "type": "mc",
+    "content": "một loài thực vật bộ nhiễm sắc thể lưỡng bội 2n = 24, các nhiễm sắc thể đứng thành từng cặp trong nhân tế bào, người ta đếm được khoảng 18000 gen. Tính trung bình thì trên mỗi NST có bao nhiêu gene?",
+    "options": [
+      "A. 1500.",
+      "B. 2000.",
+      "C. 750.",
+      "D. 500."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-23",
+    "examSetId": "bai-23-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Cơ thể đực ở một loài có bộ NST 2n (có n cặp NST) khi giảm phân không có đột biến đã tạo ra tối đa 512 loại giao tử, biết rằng trong quá trình giảm phân có xảy ra trao đổi chéo tại một điểm ở 3 cặp NST tương đồng, các cặp NST còn lại không có trao đổi chéo, nếu trao đổi chéo tại 1 điểm ở 1 cặp NST tương đồng sẽ sinh ra tối đa 4 loại giao tử, nếu không có trao đổi chéo chỉ sinh ra 2 loại giao tử. Bộ NST lưỡng bội của loài là",
+    "options": [
+      "A. 2n = 6.",
+      "B. 2n = 10.",
+      "C. 2n = 12.",
+      "D. 2n = 18."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-23",
+    "examSetId": "bai-23-bo1"
+  },
+  {
+    "type": "mc",
     "content": "Phát biểu nào dưới đây về hiện tượng liên kết gene là sai?",
     "options": [
       "A. Liên kết gene là hiện tượng các gene gần nhau trên nằm trên các cặp nhiễm sắc thể khác nhau có xu hướng di truyền cùng nhau.",
@@ -61,12 +91,56 @@
   },
   {
     "type": "mc",
+    "content": "Quan sát quá trình giảm phân tạo tỉnh trùng của 1000 tế bào có kiểu gene người ta thấy ở 120 tế bào có sự tiếp hợp và trao đổi chéo giữa 2 cromatit khác nguồn gốc trong cặp NST tương đồng dẫn tới hoán vị gene. Tính theo lý thuyết, tần số hoán vị gene là bao nhiêu?",
+    "options": [
+      "A. 12%.B. 6%.",
+      "C. 40%.D. 24%."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-23",
+    "examSetId": "bai-23-bo1"
+  },
+  {
+    "type": "mc",
     "content": "Cho cây thân cao, hoa đỏ tự thụ phấn, đời F1 có tỉ lệ 59% cây thân cao, hoa đỏ: 16% cây thân thấp, hoa đỏ: 16% cây thân cao, hoa trắng: 9% cây thân thấp, hoa trắng. Cho biết mỗi cặp tính trạng do một cặp gene quy định và mọi diễn biến trong quá trình sinh hạt phấn và quá trình sinh noãn diễn ra giống nhau. Quy luật di truyền chi phối phép lai trên là",
     "options": [
-      "A. quy luật phân li độc lập. B. quy luật tương",
-      "C. quy luật liên kết gene.D. quy luật hoán vị gene."
+      "A. quy luật phân li độc lập.",
+      "B. quy luật tương",
+      "C. quy luật liên kết gene.",
+      "D. quy luật hoán vị gene."
     ],
-    "correctAnswer": "C",
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-23",
+    "examSetId": "bai-23-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Cho biết mỗi gene quy định một tính trạng, allele trội là trội hoàn toàn. Cho phép lai",
+    "options": [
+      "A. 3:3:7:7.",
+      "B. 4:4:1:1.",
+      "C. 2:2:1:1.",
+      "D. 3:3:2:2."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-23",
+    "examSetId": "bai-23-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "ruồi giấm, xét hai cặp gene nằm trên cùng một cặp nhiễm sắc thể thường. Cho hai cá thể ruồi giấm dị hợp về cả 2 cặp gene giao phối với nhau thu được F1. Trong tổng số cá thể thu được ở F1, số cá thể có kiểu gene đồng hợp tử lặn về cả hai cặp gene chiếm tỉ lệ bằng 4%. Biết rằng không xảy ra đột biến, theo lí thuyết, ở F1 số cá thể có kiểu gene dị hợp tử về hai cặp gene chiếm tỉ lệ",
+    "options": [
+      "A. 26%.B. 4%.",
+      "C. 2%.",
+      "D. 8%."
+    ],
+    "correctAnswer": "A",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-23",
@@ -76,7 +150,12 @@
     "type": "tf",
     "content": "ruồi giấm, người ta tiến hành phép lai như sau:",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -108,7 +187,12 @@
     "type": "tf",
     "content": "Dưới đây là sơ đồ giải thích cơ sở tế bào học của hiện tượng liên kết gene. Dựa vào sơ đồ, hãy cho biết mỗi nhận định dưới đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -140,7 +224,12 @@
     "type": "tf",
     "content": "Một loài thực vật, xét 3 cặp gen: A, a, B, b, D, d; mỗi cặp gene quy định 1 tính trạng, các allele trội là trội hoàn toàn. Pháp lai P: 2 cây đều có kiểu hình trội về 3 tính trạng giao phấn với nhau, thu được F1 có tỉ lệ kiểu hình là 6: 3; 3; 2; 1; 1 và có số cây mang 1 allele trội chiếm 12,5%. Theo lí thuyết, mỗi phát biểu nào sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -172,7 +261,12 @@
     "type": "tf",
     "content": "ruồi giấm, xét 2 cặp gene Aa và Bb nằm trên NST thường, trong đó allele A quy định lông dài trội hoàn toàn so với allele a quy định lông ngắn; allele B quy định lông đen trội hoàn toàn so với allele b quy định lông trắng. Cho con đực lông dài, màu đen giao phối với con cái lông dài, màu đen (P) thu được F1 có tỉ lệ 9 con lông dài, màu đen: 3 con lông dài, màu trắng: 3 con lông ngắn, màu đen: 1 con lông ngắn, màu đen: 1 con lông ngắn, màu trắng. Biết rằng không xảy đột biến. Theo lí thuyết, mỗi phát biểu sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [

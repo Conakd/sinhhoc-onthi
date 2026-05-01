@@ -1,6 +1,21 @@
 [
   {
     "type": "mc",
+    "content": "trong các cộng gộp, tính trọng do ít nhất bao nhiêu cặp gene quy định?",
+    "options": [
+      "A. 4.",
+      "B. 3.",
+      "C. 1.",
+      "D. 2."
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-28",
+    "examSetId": "bai-28-bo1"
+  },
+  {
+    "type": "mc",
     "content": "Nhà khoa học Mendel đã tiến hành tạo dòng hoa đỏ thuần chủng bằng cách nào sau đây?",
     "options": [
       "A. Cho cây hoa đỏ lại với cây hoa trắng để thu được F1 có hoa đỏ thuần chủng.",
@@ -16,12 +31,192 @@
   },
   {
     "type": "mc",
+    "content": "Khi nói về các nhà khoa học Sinh học, có bao nhiêu phát biểu sau đây đúng?",
+    "options": [
+      "A. 1.",
+      "B. 2.",
+      "C. 3.",
+      "D. 4."
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-28",
+    "examSetId": "bai-28-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Khi nói về sự di truyền của gen, có bao nhiêu phát biểu sau đây đúng?",
+    "options": [
+      "A. 1.",
+      "B. 2.",
+      "C. 3.",
+      "D. 4."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-28",
+    "examSetId": "bai-28-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "1 loài động thú, gene A quy định chân cao trội hoàn toàn so với gene a quy định chân thấp. Quá trình giảm phân không xảy ra đột biến. Có bao nhiêu phép lại sau đây cho đời con có tỉ lệ kiểu hình ở giới đực khác với tỉ lệ kiểu hình ở giới cái?",
+    "options": [
+      "A. 1.",
+      "B. 2.",
+      "C. 3.",
+      "D. 4."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-28",
+    "examSetId": "bai-28-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Có bao nhiêu phát biểu sau đây đúng?",
+    "options": [
+      "A. 1.",
+      "B. 2.",
+      "C. 3.",
+      "D. 4."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-28",
+    "examSetId": "bai-28-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Khi nói về nhiễm sắc thể giới tính, có bao nhiêu phát biểu sau đây là đúng?",
+    "options": [
+      "A. 1.",
+      "B. 2.",
+      "C. 3.",
+      "D. 4."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-28",
+    "examSetId": "bai-28-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Khi nói về các quy luật di truyền, có bao nhiêu quy luật sau đây không tuân theo học thuyết di truyền của Mendel?",
+    "options": [
+      "A. 1.",
+      "B. 2.",
+      "C. 3.",
+      "D. 4."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-28",
+    "examSetId": "bai-28-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Khi nghiên cứu về tính trạng khối lượng hạt của 4 giống lúa (đơn vị tính: g/1000 hạt), người ta thu được như sau:",
+    "options": [
+      "A. Giống số 1.",
+      "B. Giống số 2.",
+      "C. Giống số 3.",
+      "D. Giống số 4."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-28",
+    "examSetId": "bai-28-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Muốn phân biệt hai tính trạng nào đó là do hai gene liên kết hoàn toàn quy định hay chỉ do tác động đa hiệu của một gene người ta cần tiến hành phương pháp nào sau đây?",
+    "options": [
+      "A. Gây đột biến. gene.",
+      "B. Cho lai thuận nghịch.",
+      "C. Lai phân tích.",
+      "D. Cho tự thụ phấn."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-28",
+    "examSetId": "bai-28-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "1 loài động thú, gene A quy định lông vàng trội hoàn toàn so với gene a quy định lông đen, B quy định chân cao trội hoàn toàn so với b quy định chân thấp. Quá trình giảm phân không xảy ra đột biến. Có bao nhiêu phép lai sau đây cho đời con có tỉ lệ kiểu hình là 100% con cái chân cao, 50% đực chân cao : 50% đực chân thấp?",
+    "options": [
+      "A. 2.",
+      "B. 1.",
+      "C. 3.",
+      "D. 4."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-28",
+    "examSetId": "bai-28-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Khi nói về di truyền của gene lặn trên nhiễm sắc thể X không có allele trên Y, có bao nhiêu phát biểu sau đây là sai",
+    "options": [
+      "A. 1.",
+      "B. 2.",
+      "C. 3.",
+      "D. 4."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-28",
+    "examSetId": "bai-28-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "396400); Khi nói về mức phản ứng, có bao nhiêu phát biểu sau đây đúng?",
+    "options": [
+      "A. 1.",
+      "B. 3.",
+      "C. 2.",
+      "D. 4."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-28",
+    "examSetId": "bai-28-bo1"
+  },
+  {
+    "type": "mc",
     "content": "một loài thực vật, allele A nằm trên NST thường quy định hoa đỏ trội hoàn toàn so với allele a quy định hoa trắng. Cây hoa đỏ thuần chủng giao phấn với cây hoa trắng được F1, Các cây F1 tự thụ phấn được F2. Biết không xảy ra hiện tượng đột biến, phát biểu nào sau đây là đúng về kiểu hình ở thế hệ F2?",
     "options": [
       "A. Kiểu hình cây hoa đỏ chiếm 100%.",
       "B. Kiểu hình cây hoa đỏ thuần chủng chiếm tỉ lệ 75%.",
       "C. Kiểu hình cây hoa trắng chiếm tỉ lệ 25%.",
       "D. Trong số cây có kiểu hình hoa đỏ, cây dị hợp chiếm tỉ lệ 50%."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-28",
+    "examSetId": "bai-28-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Khi nói về các gene ngoài nhân ở sinh vật nhân thực, có bao nhiêu phát biểu sau đây đúng?",
+    "options": [
+      "A. 1.",
+      "B. 3.",
+      "C. 2.",
+      "D. 4."
     ],
     "correctAnswer": "C",
     "explanation": "",
@@ -61,6 +256,21 @@
   },
   {
     "type": "mc",
+    "content": "người, xét 1 gene nằm ở vùng không tương đồng trên NST giới tính X có 2 allele là A và a Theo lí thuyết, có bao nhiêu kiểu gene sau đây viết đúng?",
+    "options": [
+      "A. 1.",
+      "B. 2.",
+      "C. 3.",
+      "D. 4."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-28",
+    "examSetId": "bai-28-bo1"
+  },
+  {
+    "type": "mc",
     "content": "Khi nói về sự mềm dẻo của kiểu hình, phát biểu nào sau đây đúng?",
     "options": [
       "A. Người bị bệnh bạch tạng kết hôn với người bình thường thì sinh con có thể bị bệnh hoặc không.",
@@ -78,8 +288,10 @@
     "type": "mc",
     "content": "người, bệnh động kinh do 1 gene nằm trong ti thể gây ra. Một gia đình có 1 người con trai mắc bệnh động kinh, gene gây bệnh động kinh của người con trai này có nguồn gốc tử",
     "options": [
-      "A. tỉ thể của bố. B. ti thể của bố hoặc mẹ.",
-      "C. ti thể của mẹ.D. nhân tế bào của cơ thể mẹ."
+      "A. tỉ thể của bố.",
+      "B. ti thể của bố hoặc mẹ.",
+      "C. ti thể của mẹ.",
+      "D. nhân tế bào của cơ thể mẹ."
     ],
     "correctAnswer": "C",
     "explanation": "",
@@ -91,10 +303,27 @@
     "type": "mc",
     "content": "Tập hợp các kiểu hình của cùng một kiểu gene tương ứng với các môi trường khác nhau là",
     "options": [
-      "A. sự mềm dẻo kiểu hình (thường biến). C. đột biến gene khi môi trường thay đổi.",
-      "B. đột biến khi môi trường thay đổi. D. mức phản ứng của kiểu gene."
+      "A. sự mềm dẻo kiểu hình (thường biến).",
+      "B. đột biến khi môi trường thay đổi.",
+      "C. đột biến gene khi môi trường thay đổi.",
+      "D. mức phản ứng của kiểu gene."
     ],
-    "correctAnswer": "B",
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-28",
+    "examSetId": "bai-28-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Cho biết A quy định hoa đỏ trội hoàn toàn so với a quy định hoa trắng, không",
+    "options": [
+      "A. 1.",
+      "B. 2.",
+      "C. 3.",
+      "D. 4."
+    ],
+    "correctAnswer": "A",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-28",
@@ -119,10 +348,27 @@
     "type": "mc",
     "content": "Tính trạng do gene nằm ở vị trí nào sau đây quy định thường sẽ biểu hiện không đều ở 2 giới?",
     "options": [
-      "A. Trên nhiễm sắc thể thường. B. Trong lục lạp.",
-      "C. Trên đoạn tương đồng của NST X và Y. D. Trong ti thể."
+      "A. Trên nhiễm sắc thể thường.",
+      "B. Trong lục lạp.",
+      "C. Trên đoạn tương đồng của NST X và Y.",
+      "D. Trong ti thể."
     ],
     "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-28",
+    "examSetId": "bai-28-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Một gene ở một loài gà chỉ được di truyền từ mẹ cho con. Theo lí thuyết, có bao nhiêu phát biểu sau đây đúng?",
+    "options": [
+      "A. 1.",
+      "B. 2.",
+      "C. 3.",
+      "D. 4."
+    ],
+    "correctAnswer": "B",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-28",
@@ -132,7 +378,12 @@
     "type": "tf",
     "content": "người, xét 3 cặp gene nằm trên 3 cặp nhiễm sắc thể thường, các gene này quy định các enzyme khác nhau cùng tham gia vào quá trình chuyển hóa các chất trong cơ thể theo sơ đồ sau:",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -164,7 +415,12 @@
     "type": "tf",
     "content": "Xét một cơ thể đực có kiểu gene AB/ab De/dE MN/mn Trong quá trình giảm phân, mỗi tế bào chỉ xảy ra hoán vị gene ở tối đa 1 cặp NST và có một số tế bào bị đột biến, cặp NST MN/mn không phân li ở giảm phân I, giảm phân diễn xảy ra bình thường, các cặp NST khác phân li bình thường. Theo lí thuyết, mỗi phát biểu sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -196,7 +452,12 @@
     "type": "tf",
     "content": "Một cơ thể động vật, cặp gene Aa nằm trên cặp nhiễm sắc thể số 1, cặp gene Bb và Dd cùng năm trên cặp NST số 2, cặp gene Ee nằm trên cặp NST số 3, cặp gene Hh, Mm và Nn cùng nằm trên cặp NST số 4. Các gene trên 1 NST liên kết với nhau trong quá trình di truyền, các gene nằm trên các cặp NST khác nhau phân li độc lập nhau. Mỗi phát biểu sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -228,7 +489,12 @@
     "type": "tf",
     "content": "một loài thú, tính trạng màu lông do một gene có 4 allele nằm trên NST thường quy định, các allele trội lặn hoàn toàn. Biết không xảy ra đột biến. Thực hiện 2 phép lai, thu được kết quả như sau:",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -260,7 +526,12 @@
     "type": "tf",
     "content": "gà, một tế bào của cơ thể có kiểu gene BbXDY giảm phân bình thường sinh ra giao tử. Theo lí thuyết, mỗi phát biểu sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -292,7 +563,12 @@
     "type": "tf",
     "content": "một loài thực vật lưỡng bội, tính trạng màu hoa do một gene có 4 allele quy định. Allele A, quy định hoa đỏ trội hoàn toàn so với allele A2, A3, A4; allele A2 quy định hoa vàng trội hoàn toàn so với allele A3, A4; allele A3 quy định hoa hồng trội hoàn toàn so với allele A4 quy định hoa trắng. Biết không xảy ra đột biến. Theo lí thuyết, mỗi phát biểu nào sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -324,7 +600,12 @@
     "type": "tf",
     "content": "Một loài thực vật, xét 2 cặp gene phân li độc lập cùng tham gia vào quá trình chuyển hóa chất K màu trắng trong tế bào cánh hoa: gene A quy định enzyme A chuyển hóa chất K thành sắc tố đỏ; gene B quy định enzyme B chuyển hóa chất K thành sắc tố xanh. Khi trong tế bào có cả gene A và gene B thì cánh hoa có màu vàng. Các allele đột biến lặn a và b không có khả năng phiên mã. Biết rằng không xảy ra đột biến. Theo lí thuyết, mỗi phát biểu sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -356,7 +637,12 @@
     "type": "tf",
     "content": "ruồi giấm, allele A quy định thân xám trội hoàn toàn so với allele a quy định thân đen, allele B quy định cánh dài trội hoàn toàn so với allele b quy định cánh cụt. Các gene quy định màu thân và hình dạng cánh cùng nằm trên một NST thường. Allele D nằm trên đoạn không tương đồng của NST giới tính X quy định mắt đỏ trội hoàn toàn so với allele d quy định mắt trắng. Cho ruồi cái thân xám, cánh dài, mắt đỏ giao phối với ruồi đực thân đen, cánh cụt, mắt đỏ (P), thu được F1 có 1% ruồi đực thân đen, cánh dài, mắt trắng. Biết rằng không xảy ra đột biến. Theo lí thuyết, mỗi phát biểu sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -388,7 +674,12 @@
     "type": "tf",
     "content": "Cho biết tính trạng màu hoa do 2 cặp gene Aa và Bb quy định; Tính trạng chiều cao cây do cặp gene Dd quy định. Cho cây thân cao, hoa đỏ (P) lai phân tích, thu được Fa có 10% cây thân cao, hoa đỏ: 40% cây thân cao, hoa trắng: 15% cây thân thấp, hoa đỏ : 35% cây thân thấp, hoa trắng. Biết không xảy ra đột biến. Theo lí thuyết, mỗi phát biểu sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -420,7 +711,12 @@
     "type": "tf",
     "content": "Một loài thực vật, xét 3 cặp gene phân li độc lập, quy định cho các enzyme khác nhau cùng tham gia vào một chuỗi phản ứng hóa sinh để tạo nên sắc tố ở cánh hoa theo sơ đồ sau:",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [

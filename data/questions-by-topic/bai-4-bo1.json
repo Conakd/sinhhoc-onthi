@@ -1,10 +1,12 @@
 [
   {
     "type": "mc",
-    "content": "RNA được tổng hợp từ mạch nào của gene?",
+    "content": "Enzyme nào sau đây tham gia vào quá trình tổng hợp RNA?",
     "options": [
-      "A. Từ mạch có chiều 5' 3'.B. Từ cả hai mạch đơn.",
-      "D. Khi thì từ mạch 1, khi thì từ mạch 2.C. Từ mạch mang mã gốc."
+      "A. Restrictase.",
+      "B. Lygase.",
+      "C. DNA polymerase.",
+      "D. RNA polymerase"
     ],
     "correctAnswer": "D",
     "explanation": "",
@@ -14,12 +16,58 @@
   },
   {
     "type": "mc",
+    "content": "RNA được tổng hợp từ mạch nào của gene?",
+    "options": [
+      "A. Từ mạch có chiều 5' 3'.B. Từ cả hai mạch đơn.",
+      "C. Từ mạch mang mã gốc.",
+      "D. Khi thì từ mạch 1, khi thì từ mạch 2."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-4",
+    "examSetId": "bai-4-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Phân tử nào sau đây trực tiếp làm khuôn cho quá trình dịch mã?",
+    "options": [
+      "A. DNA.",
+      "B. tRNA.",
+      "C. mRNA.",
+      "D. rRNA."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-4",
+    "examSetId": "bai-4-bo1"
+  },
+  {
+    "type": "mc",
     "content": "sinh vật nhân thực, quá trình nào sau đây chỉ diễn ra ở tế bảo chất?",
     "options": [
-      "A. Tổng hợp chuỗi polypeptide.C. Nhân đôi DNA.",
-      "B. Tổng hợp phân tử RNA.D. Nhân đôi nhiễm sắc thể."
+      "A. Tổng hợp chuỗi polypeptide.",
+      "B. Tổng hợp phân tử RNA.",
+      "C. Nhân đôi DNA.",
+      "D. Nhân đôi nhiễm sắc thể."
     ],
     "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-4",
+    "examSetId": "bai-4-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "sinh vật nhân thực, codon 5'AUG3' mã hóa loại amino acid nào sau đây?",
+    "options": [
+      "A. Valine.",
+      "B. methionine.",
+      "C. Glycine.",
+      "D. Lysine."
+    ],
+    "correctAnswer": "B",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-4",
@@ -33,6 +81,21 @@
       "B. 5'AUACCCGUACAU3'.D. 5'ATACCCGTACAT3'."
     ],
     "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-4",
+    "examSetId": "bai-4-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Thành phần nào sau đây không tham gia trực tiếp vào quá trình dịch mã?",
+    "options": [
+      "A. DNA.",
+      "B. mRNA.",
+      "C. tRNA.",
+      "D. Ribosome."
+    ],
+    "correctAnswer": "A",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-4",
@@ -57,8 +120,69 @@
     "type": "mc",
     "content": "Cho biết các cô đơn mã hóa các amino aicd tương ứng như sau: 5'GGC3' - Gly; 5'CCG3' - Pro; 5'GCC3' - Ala; 5'CGG3' - Arg; 5'UCG3' - Ser; S'AGC3' - Ser. Một đoạn mạch gốc của một gene ở vi khuẩn có trình tự các nucleotide là 5'GGC CGA CGG GCC3'. Nếu đoạn mạch gốc này mang thông tin mã hóa cho đoạn polypeptide có 4 amino acid thì trình tự của 4 amino acid đó là",
     "options": [
-      "A. Ala-Gly-Ser - Pro.C. Pro -Gly-Ala - Ser.",
-      "B. Pro- Gly -Ser - Arg.D. Gly -Pro-Ser - Ala."
+      "A. Ala-Gly-Ser - Pro.",
+      "B. Pro- Gly -Ser - Arg.",
+      "C. Pro -Gly-Ala - Ser.",
+      "D. Gly -Pro-Ser - Ala."
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-4",
+    "examSetId": "bai-4-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Một gene ở sinh vật nhân sơ có tỉ lệ các nucleotide trên mạch 1 là: A: T:G :C=3:2:1:4. Phân tử mRNA được phiên mã từ gene này có C - A = 150 và U = 2G. Theo lí thuyết, số nucleotide loại A của mRNA này là bao nhiêu?",
+    "options": [
+      "A. 450.",
+      "B. 300.",
+      "C. 900.",
+      "D. 600."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-4",
+    "examSetId": "bai-4-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Giả sử có 3 loại nucleotide A, U, G thì phân tử mRNA có tối đa bao nhiêu loại mã di truyền mã hóa amino acid?",
+    "options": [
+      "A. 8.",
+      "B. 27.",
+      "C. 24.",
+      "D. 64."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-4",
+    "examSetId": "bai-4-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Một phân tử mRNA có 1800 nucleotide, trong đó tỷ lệ A:U:G:C=1:3: 2:4. Số nucleotide loại A của mRNA này là",
+    "options": [
+      "A. 720.",
+      "B. 540.",
+      "C. 360.",
+      "D. 180."
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-4",
+    "examSetId": "bai-4-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Một phân tử mRNA có 1200 nucleotide nhưng tính từ bộ ba mở đầu đến bộ ba kết thúc thì có tổng số 303 nucleotide. Phân tử mRNA này dịch mã có 6 ribosome trượt qua 1 lần đã cần môi trường cung cấp bao nhiêu amino acid.",
+    "options": [
+      "B. 606.",
+      "C. 600.",
+      "D. 1818."
     ],
     "correctAnswer": "B",
     "explanation": "",
@@ -85,7 +209,12 @@
     "type": "tf",
     "content": "Khi nói về quá trình tổng hợp RNA, mỗi nhận định sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -97,11 +226,6 @@
       {
         "label": "b",
         "content": "Quá trình tổng hợp RNA không cần tổng hợp đoạn mồi như quá trình tổng hợp DNA. c. Để hoàn thiện về chức năng thì sau khi được tổng hợp, RNA được cắt bỏ các đoạn intron và nối các đoạn exon lại với nhau.",
-        "isCorrect": true
-      },
-      {
-        "label": "c",
-        "content": "Để hoàn thiện về chức năng thì sau khi được tổng hợp, RNA được cắt bỏ các đoạn intron và nối các đoạn exon lại với nhau.",
         "isCorrect": true
       },
       {
@@ -117,7 +241,12 @@
     "type": "tf",
     "content": "Khi nói về quá trình dịch mã ở sinh vật nhân thực, theo lí thuyết, các phát biểu sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -149,7 +278,11 @@
     "type": "tf",
     "content": "Cho biết các codon mã hóa các amino acid tương ứng như sau: 5'GGG3'. Gly: 5'CCC3' - Pro; S'GCU3' - Ala: 5'CGA3' - Arg; 5'UCG3' - Ser; S'AGC3' - Ser; 5'UAC3'- Tyr. Một đoạn mạch gốc của một gene ở vi khuẩn mang thông tin mã hóa cho đoạn polypeptide có 5 amino acid có trình tự các nucleotide là 3'CCC-AGC-ATG-CGA-GGG5'. Những phát biểu sau đây, phát biểu nào Đúng, phát biểu nào Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -167,6 +300,11 @@
         "label": "c",
         "content": "Nếu đột biến thêm một cặp nucleotide sau vị trí cặp nucleotide thứ 15 thì trình tự và thành phần tất cả các amino acid trong đoạn polipeptide sẽ bị thay đổi.",
         "isCorrect": true
+      },
+      {
+        "label": "d",
+        "content": "Nếu đột biến mất cặp G-C ở vị trí thứ nhất thì có thể sẽ làm cho trình tự và thành phần tất cả các amino acid trong đoạn polipeptide sẽ bị thay đổi.",
+        "isCorrect": true
       }
     ],
     "topicId": "bai-4",
@@ -176,7 +314,11 @@
     "type": "tf",
     "content": "Cho các thông tin sau: Các bộ ba trên mRNA mã hóa các amino acid tương ứng sau: 5'UUG3' - Leu, 5'AUC3'- Ile, 5'ACC3' -Thr, 5'AAU3' - Asn, 5'AUG3' - Met (amino acid mở đầu), 5'GUA3' - Val, 5'UGC3' - Cys, 5'UAG 3' - Kết thúc, 5'GGC3' - Gly. Một phân tử mRNA ngắn của vi khuẩn có trình tự các nucleotide như sau: 5'AUG/ AUC/ UUG/ ACC/ AUC/ AAU/ UGC/ GGC/ UGC/ UGA3'.",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [

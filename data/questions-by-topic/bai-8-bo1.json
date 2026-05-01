@@ -18,10 +18,12 @@
     "type": "mc",
     "content": "Trong chọn giống, người ta có thể sử dụng phương pháp nào sau đây để tạo ra cây con mang đặc điểm của hai loài khác nhau?",
     "options": [
-      "A. Nhân bàn vô tính.B. Cấy truyền phôi.",
-      "C. Nuôi cấy hạt phấn kết hợp với lưỡng bội hóa.D. Dung hợp tế bào trần của hai loài."
+      "A. Nhân bàn vô tính.",
+      "B. Cấy truyền phôi.",
+      "C. Nuôi cấy hạt phấn kết hợp với lưỡng bội hóa.",
+      "D. Dung hợp tế bào trần của hai loài."
     ],
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-8",
@@ -31,21 +33,10 @@
     "type": "mc",
     "content": "Cây pomato - cây lai giữa khoai tây và cà chua được tạo ra bằng phương pháp.",
     "options": [
-      "A. cấy truyền phôi.C. dung hợp tế bào trần.",
-      "B. nuôi cấy tế bào thực vật invitro tạo mô sẹo.D. nuôi cấy hạt phấn."
-    ],
-    "correctAnswer": "A",
-    "explanation": "",
-    "difficulty": 2,
-    "topicId": "bai-8",
-    "examSetId": "bai-8-bo1"
-  },
-  {
-    "type": "mc",
-    "content": "Trong chọn giống, người ta ra cây con có kiểu gene đồng hợp tử về tất cả có thể sử dụng phương pháp nào sau đây để tạo các gen?",
-    "options": [
-      "A. Nhân bản vô tính.B. Dung hợp tế bào trần của hai loài.",
-      "C. Cấy truyển phôi.D. Nuôi cấy hạt phấn kết hợp với lưỡng bội hóa."
+      "A. cấy truyền phôi.",
+      "B. nuôi cấy tế bào thực vật invitro tạo mô sẹo.",
+      "C. dung hợp tế bào trần.",
+      "D. nuôi cấy hạt phấn."
     ],
     "correctAnswer": "C",
     "explanation": "",
@@ -55,12 +46,29 @@
   },
   {
     "type": "mc",
+    "content": "Trong chọn giống, người ta ra cây con có kiểu gene đồng hợp tử về tất cả có thể sử dụng phương pháp nào sau đây để tạo các gen?",
+    "options": [
+      "A. Nhân bản vô tính.",
+      "B. Dung hợp tế bào trần của hai loài.",
+      "C. Cấy truyển phôi.",
+      "D. Nuôi cấy hạt phấn kết hợp với lưỡng bội hóa."
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-8",
+    "examSetId": "bai-8-bo1"
+  },
+  {
+    "type": "mc",
     "content": "Tạo giống cây trồng bằng công nghệ tế bào không gồm phương pháp",
     "options": [
-      "A. nuôi cấy hạt phấn, lai xoma.B. cấy truyền phôi.",
-      "C. chọn dòng tế bào Xoma có biến dị.D. nuôi cấy tế bào thực vật Invitro tạo mô sẹo. Vì đây là tế bào động vật đề hỏi là cây trồng"
+      "A. nuôi cấy hạt phấn, lai xoma.",
+      "B. cấy truyền phôi.",
+      "C. chọn dòng tế bào Xoma có biến dị.",
+      "D. nuôi cấy tế bào thực vật Invitro tạo mô sẹo."
     ],
-    "correctAnswer": "A",
+    "correctAnswer": "B",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-8",
@@ -70,12 +78,57 @@
     "type": "mc",
     "content": "c điểm không phải của cá thể tạo ra do nhân bản vô tính là",
     "options": [
-      "A. mang các đặc điểm giống hệt cá thể mẹ đã mang thai và sinh ra nó. con sinh ra có đặc điểm giống cá thể mẹ cho nhân",
+      "A. mang các đặc điểm giống hệt cá thể mẹ đã mang thai và sinh ra nó.",
       "B. thường có tuổi thọ ngắn hơn so với các cá thể cùng loài sinh ra bằng phương pháp tự nhiên.",
       "C. được sinh ra từ một tế bào Xoma, không cần có sự tham gia của nhân tế bào sinh dục.",
       "D. có kiểu gene giống hệt cá thể cho nhân."
     ],
     "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-8",
+    "examSetId": "bai-8-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Cừu Doly được tạo nên từ nhân bản vô tính mang đặc điểm giống với",
+    "options": [
+      "A. cừu cho nhân.",
+      "B. cừu cho trứng.",
+      "C. cửu cho nhân và cho trứng.",
+      "D. cửu mẹ."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-8",
+    "examSetId": "bai-8-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Trong các phương pháp tạo giống sau đây, có bao nhiêu phương pháp có thể tạo ra giống mới mang nguồn gene của hai loài sinh vật khác nhau?",
+    "options": [
+      "A. 1.",
+      "B. 2.",
+      "C. 4.",
+      "D. 3."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-8",
+    "examSetId": "bai-8-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Từ một phôi cừu có kiểu gene AABB, bằng phương pháp cấy truyền phôi có thể tạo ra cừu non có kiểu gen",
+    "options": [
+      "A. aabb.",
+      "B. AABB.",
+      "C. Aabb.",
+      "D. AaBb."
+    ],
+    "correctAnswer": "B",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-8",
@@ -98,10 +151,57 @@
   },
   {
     "type": "mc",
+    "content": "Nuôi cấy các hạt phấn có kiểu gene AB trong ống nghiệm tạo nên các mô đơn bội, sau đó gây lưỡng bội hóa có thể tạo được các cây có kiểu gen",
+    "options": [
+      "A. AAbb.",
+      "B. AABB.",
+      "C. aabb.",
+      "D. aaBB."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-8",
+    "examSetId": "bai-8-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Từ cây có kiểu gene AaBbdd, bằng phương pháp nuôi cấy hạt phấn trong ống nghiệm không thể tạo ra dòng cây đơn bội có kiểu gene nào sau đây?",
+    "options": [
+      "A. ABD.",
+      "B. ABd.",
+      "C. Abd.",
+      "D. abd."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-8",
+    "examSetId": "bai-8-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Nuôi cấy hạt phấn của cây có kiểu gene sau AaBB thành mô đơn bội, sau đó xử lý bằng colchicin để tạo cây lưỡng bội. Các cây này sẽ có kiểu gen:",
+    "options": [
+      "A. AaBB, aaBb.",
+      "B. AAbb, aaBB.",
+      "C. AB, AB.",
+      "D. AABB, aaBB."
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-8",
+    "examSetId": "bai-8-bo1"
+  },
+  {
+    "type": "mc",
     "content": "Phương pháp nào sau đây có thể tạo ra được nhiều con vật có kiểu gene giống nhau từ một phôi ban đầu?",
     "options": [
-      "A. Lai tế bào sinh dưỡng.B. Nhân bản vô tính.",
-      "C. Cấy truyền phôi.D. Gây đột biến nhân tạo."
+      "A. Lai tế bào sinh dưỡng.",
+      "B. Nhân bản vô tính.",
+      "C. Cấy truyền phôi.",
+      "D. Gây đột biến nhân tạo."
     ],
     "correctAnswer": "C",
     "explanation": "",
@@ -111,10 +211,40 @@
   },
   {
     "type": "mc",
+    "content": "bò, người ta tiến hành cho bò đực có kiểu gene AAbb giao phối với bò cái có kiểu gene aaBB được 1 hợp tử. Sau đó cho hợp tử phát triển thành phôi rồi tách phôi thành 10 phần đem cấy vào tử cung của 10 con cái (bò nhận phôi) có kiểu gene aabb. Cả 10 phôi này phát triển bình thường, trở thành 10 bê con. Các con bê này có kiểu gene là",
+    "options": [
+      "A. AaBb.",
+      "B. AAbb.",
+      "C. aaBB.",
+      "D. aabb."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-8",
+    "examSetId": "bai-8-bo1"
+  },
+  {
+    "type": "mc",
     "content": "Người ta tiến hành cấy truyền một phôi cừu có kiểu gene AAbb thành 10 phôi và nuôi cấy phát triển thành 10 cá thể. Cả 10 cá thể này",
     "options": [
-      "A. có khả năng giao phối với nhau để sinh con.B. có mức phản ứng giống nhau.",
-      "C. có giới tính có thể giống hoặc khác nhau.D. có kiểu hình hoàn toàn khác nhau."
+      "A. có khả năng giao phối với nhau để sinh con.",
+      "B. có mức phản ứng giống nhau.",
+      "C. có giới tính có thể giống hoặc khác nhau.",
+      "D. có kiểu hình hoàn toàn khác nhau."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-8",
+    "examSetId": "bai-8-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Cho các bước lai tế bào sinh dưỡng trong công nghệ tế bào thực vật.",
+    "options": [
+      "A. 1-II-III.В. ІШІП І.С. ІІІII.",
+      "D. III – I- II."
     ],
     "correctAnswer": "A",
     "explanation": "",
@@ -126,8 +256,55 @@
     "type": "mc",
     "content": "Quy trình tạo ra những tế bào hoặc sinh vật có gene bị biến đổi hoặc có thêm gene mới, từ đó tạo ra các cơ thể với những đặc điểm mới được gọi là",
     "options": [
-      "A. công nghệ tế bào. C. công nghệ gene.",
-      "B. công nghệ sinh học. D. công nghệ vi sinh vật."
+      "A. công nghệ tế bào.",
+      "B. công nghệ sinh học.",
+      "C. công nghệ gene.",
+      "D. công nghệ vi sinh vật."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-8",
+    "examSetId": "bai-8-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Trong kĩ thuật chuyển gene, loại enzyme nào sau đây tham gia vào quá trình tạo DNA tái tổ hợp?",
+    "options": [
+      "A. Restrictase.",
+      "B. Cellulase.",
+      "C. Nitrogenase.",
+      "D. Pepsin."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-8",
+    "examSetId": "bai-8-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Chuột nhắt mang hormone sinh trưởng của chuột cống là thành tựu của",
+    "options": [
+      "A. Nhân bản vô tính.",
+      "B. cấy truyền phôi.",
+      "C. Công nghệ gene.",
+      "D. gây đột biến."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-8",
+    "examSetId": "bai-8-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Trong kĩ thuật chuyển gene, enzyme dùng để nổi gene cần chuyển và thể truyền là",
+    "options": [
+      "A. restrictase.",
+      "B. DNA polymerase.",
+      "C. RNA polymerase.",
+      "D. lygase."
     ],
     "correctAnswer": "A",
     "explanation": "",
@@ -152,12 +329,28 @@
   },
   {
     "type": "mc",
+    "content": "Trong công nghệ gene, để đưa gene tổng hợp insulin của người vào vi khuẩn E. coli, người ta đã sử dụng thể truyền là",
+    "options": [
+      "A. tế bào thực vật.",
+      "B. tế bào động vật.",
+      "C. nấm.",
+      "D. plasmid."
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-8",
+    "examSetId": "bai-8-bo1"
+  },
+  {
+    "type": "mc",
     "content": "Giống lúa “gạo vàng” có khả năng tổng hợp ẞ - caroten (tiền chất tạo ra vitamin A) trong hạt được tạo ra nhờ ứng dụng",
     "options": [
       "A. phương pháp cấy truyền phôiB. công nghệ gene.",
-      "C. phương pháp lai xa và đa bội hóa.D. phương pháp nhân bản vô tính."
+      "C. phương pháp lai xa và đa bội hóa.",
+      "D. phương pháp nhân bản vô tính."
     ],
-    "correctAnswer": "A",
+    "correctAnswer": "B",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-8",
@@ -167,7 +360,12 @@
     "type": "tf",
     "content": "Khi nói về vai trò của thể truyền plasmid trong kỹ thuật chuyển gene vào tế bào vi khuẩn, các nhận định sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -199,7 +397,12 @@
     "type": "tf",
     "content": "Khi nói về công nghệ tế bào thực vật, các nhận định sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -231,7 +434,12 @@
     "type": "tf",
     "content": "Tiến hành chia cắt một phôi cừu có kiểu gene AAbb thành 40 phôi và cấy vào 40 con cừu mẹ, sau một thời gian sinh ra 40 cá thể cừu con. Các nhận định sau đây Đúng hay Sai về 40 cá thể cừu con?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -263,7 +471,12 @@
     "type": "tf",
     "content": "Trong kĩ thuật chuyển gen, các nhận định sau đây Đúng hay Sai khi nói về đặc điểm thể truyền plasmid?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -295,7 +508,12 @@
     "type": "tf",
     "content": "Khi nói về DNA tái tổ hợp, các nhận định sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -327,7 +545,12 @@
     "type": "tf",
     "content": "Khi nói về công nghệ gen, các nhận định sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -359,7 +582,12 @@
     "type": "tf",
     "content": "Khi nói về nuôi cấy mô và tế bào thực vật, các nhận định sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -391,7 +619,12 @@
     "type": "tf",
     "content": "Phương pháp giúp tạo ra được giống mới. Các nhận định sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [

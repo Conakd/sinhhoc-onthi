@@ -3,10 +3,42 @@
     "type": "mc",
     "content": "Trường hợp hai cặp gene không allele nằm trên hai cặp nhiễm sắc thể tương đồng cùng tác động đến sự hình thành một tính trạng được gọi là hiện tượng",
     "options": [
-      "A. tương tác bổ trợ. B. tương tác bổ sung.",
-      "C. tương tác cộng gộp.D. tương tác gene."
+      "A. tương tác bổ trợ.",
+      "B. tương tác bổ sung.",
+      "C. tương tác cộng gộp.",
+      "D. tương tác gene."
     ],
-    "correctAnswer": "C",
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-18",
+    "examSetId": "bai-18-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Trường hợp mỗi gene cùng loại (trội hoặc lặn của các gene không allele) đều góp phần như nhau vào sự biểu hiện tính trạng là tương tác",
+    "options": [
+      "A. cộng gộp.",
+      "B. trội không hoàn toàn.",
+      "C. bổ trợ.",
+      "D. đồng trội."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-18",
+    "examSetId": "bai-18-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "một loài thực vật, allele A quy định hoa đỏ và quả to, allele a quy định hoa trắng và quả nhỏ. Quy luật di truyền nào đang chi phối?",
+    "options": [
+      "A. Gene đa hiệu.",
+      "B. Liên kết giới tính.",
+      "C. Trội hoàn toàn.",
+      "D. Tương tác bổ sung."
+    ],
+    "correctAnswer": "A",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-18",
@@ -16,8 +48,10 @@
     "type": "mc",
     "content": "Khi một gene đa hiệu bị đột biến sẽ dẫn tới sự biến đổi (Gene đa hiệu – 1 gene quy định nhiều tính trạng)",
     "options": [
-      "A. ở một trong số tính trạng mà nó chi phối. C. ở toàn bộ kiểu hình của cơ thể.",
-      "B. ở một loạt các tính trạng do nó chi phối. D. ở một tính trạng."
+      "A. ở một trong số tính trạng mà nó chi phối.",
+      "B. ở một loạt các tính trạng do nó chi phối.",
+      "C. ở toàn bộ kiểu hình của cơ thể.",
+      "D. ở một tính trạng."
     ],
     "correctAnswer": "B",
     "explanation": "",
@@ -29,8 +63,40 @@
     "type": "mc",
     "content": "một loài thực vật, cho hai cây thuần chủng đều có hoa màu trắng lại với nhau được 100% cây màu đỏ. Cho F1 lai với nhau, thu được F2 phân li theo tỉ lệ 43,75% cây hoa trắng : 56,25% cây hoa đỏ. Màu sắc hoa di truyền theo quy luật nào?                                           = 7 : 9",
     "options": [
-      "A. Tương tác cộng gộp. C. Liên kết gene.",
-      "B. Trội không hoàn toàn. D. Tương tác bổ sung."
+      "A. Tương tác cộng gộp.",
+      "B. Trội không hoàn toàn.",
+      "C. Liên kết gene.",
+      "D. Tương tác bổ sung."
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-18",
+    "examSetId": "bai-18-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "một loài thực vật, khi trong kiểu gene có cả gene A và gene B thì hoa có màu đỏ (A-B-). Nếu trong kiểu gene chỉ có A quy định hoa màu vàng (A-bb), chỉ có B thì hoa có màu hồng (aaB-). Nếu không có gene A và B thì hoa có màu trắng (aabb). Hai cặp gene Aa và Bb nằm trên 2 cặp NST khác nhau. Biết không xảy ra hiện tượng đột biến. Theo lí thuyết, tỉ lệ kiểu hình của phép lai AaBb x AaBb là",
+    "options": [
+      "A. 1:3:3: 1.",
+      "B. 9:6:1.",
+      "C. 9:3:3:1.",
+      "D. 9:7."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-18",
+    "examSetId": "bai-18-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "một loài thực vật, khi trong kiểu gene có cả gene A và gene B thì hoa có màu đỏ. Nếu trong kiểu gene chỉ có A hoặc chỉ có B thì hoa có màu vàng. Nếu không có gene A và B thì hoa có màu trắng. Hai cặp gene Aa và Bb nằm trên 2 cặp NST khác nhau. Biết không xảy ra hiện tượng đột biến. Theo lí thuyết, tỉ lệ kiểu hình của phép lai Aabb x aaBb là",
+    "options": [
+      "A. 9:3:3: 1.",
+      "B. 1:2:1.",
+      "C. 3:4: 1.",
+      "D. 9:7."
     ],
     "correctAnswer": "B",
     "explanation": "",
@@ -40,12 +106,59 @@
   },
   {
     "type": "mc",
-    "content": "Cho cây hoa đỏ tự thụ phấn, đời con có tỷ lệ 9 cây hoa đỏ: 3 cây hoa hồng: 3 cây hoa vàng: 1 cây hoa trắng. Cặp tính trạng này di truyền theo quy luật",
+    "content": "một loài thực vật, khi trong kiểu gene có cả gene A và gene B thì hoa có màu đỏ. Các kiểu gene khác quy định hoa màu trắng. Hai cặp gene Aa và Bb nằm trên 2 cặp NST khác nhau. Biết không xảy ra hiện tượng đột biến. Theo lí thuyết, tỉ lệ kiểu hình của phép lai AaBb x aabb là",
     "options": [
-      "A. tương tác át chế. B. tương tác bổ sung.",
-      "C. tương tác cộng gộp.D. phân li độc lập, trội hoàn toàn."
+      "A. 9:3:3: 1.",
+      "B. 9:6:1.",
+      "C. 3:4:1.",
+      "D. 1:3."
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-18",
+    "examSetId": "bai-18-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "một loài thực vật, khi trong kiểu gene có cả gene A và gene B thì hoa có màu đỏ, các kiểu gene khác quy định hoa trắng. Hai cặp gene Aa và Bb nằm trên 2 cặp NST khác nhau. Biết không xảy ra hiện tượng đột biến. Theo lí thuyết, tỉ lệ kiểu hình của phép lai AaBb x Aabb là",
+    "options": [
+      "A. 9:3:3: 1.",
+      "B. 9:6:1.",
+      "C. 3:4:1.",
+      "D. 3:5."
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-18",
+    "examSetId": "bai-18-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "một loài thực vật, khi trong kiểu gene có cả gene A và gene B thì hoa có màu đỏ. Nếu trong kiểu gene  chỉ có A hoặc chỉ có B thì hoa có màu vàng. Nếu không có A và B thì hoa có màu trắng. Hai cặp gene Aa và Bb nằm trên 2 cặp NST khác nhau. Có bao nhiêu kiểu gene sau đây quy định kiểu hình hoa vàng?",
+    "options": [
+      "A. 4.",
+      "B. 3.",
+      "C. 6.",
+      "D. 7."
     ],
     "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-18",
+    "examSetId": "bai-18-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Cho cây hoa đỏ tự thụ phấn, đời con có tỷ lệ 9 cây hoa đỏ: 3 cây hoa hồng: 3 cây hoa vàng: 1 cây hoa trắng. Cặp tính trạng này di truyền theo quy luật",
+    "options": [
+      "A. tương tác át chế.",
+      "B. tương tác bổ sung.",
+      "C. tương tác cộng gộp.",
+      "D. phân li độc lập, trội hoàn toàn."
+    ],
+    "correctAnswer": "B",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-18",
@@ -68,10 +181,27 @@
   },
   {
     "type": "mc",
+    "content": "Cho cây hoa vàng giao phấn với cây hoa vàng, thu được F1 có 100% hoa đỏ, Cho F1 giao phấn ngẫu nhiên, thu được F2 gồm có 56,25% cây cho hoa đỏ; 37,5% cây cho hoa vàng; 6,25% cây cho hoa trắng. Cho F1 lai phân tích, tỉ lệ kiểu hình đời con là.",
+    "options": [
+      "A. 1:1:1:1.",
+      "B. 1:2:1.",
+      "C. 3:1.",
+      "D. 1:1."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-18",
+    "examSetId": "bai-18-bo1"
+  },
+  {
+    "type": "mc",
     "content": "Cho phép lai Ptc: hoa đỏ × hoa trắng, F1 100% hoa đỏ. Cho F1 tự thụ phấn, F2 thu được 2 loại kiểu hình với tỉ lệ 9/16 hoa đỏ: 7/16 hoa trắng. Quy luật di truyền nào chi phối phép lai trên?",
     "options": [
-      "A. Tương tác bổ sung. C. Trội lặn không hoàn toàn.",
-      "B. Tương tác cộng gộp. D. Trội lặn hoàn toàn."
+      "A. Tương tác bổ sung.",
+      "B. Tương tác cộng gộp.",
+      "C. Trội lặn không hoàn toàn.",
+      "D. Trội lặn hoàn toàn."
     ],
     "correctAnswer": "A",
     "explanation": "",
@@ -83,8 +213,10 @@
     "type": "mc",
     "content": "Trong 1 phép lai giữa Pt/c hoa đỏ × hoa trắng, F1 cho 100% hoa hồng, F1 tự thụ cho F2 :1 hoa đỏ : 2 hoa hồng : 1 hoa trắng. Quy luật di truyền nào chi phối phép lai trên?",
     "options": [
-      "A. Tương tác bổ sung.  B. Tương tác cộng gộp.",
-      "C. Trội lặn không hoàn toàn. D. Trội lặn hoàn toàn."
+      "A. Tương tác bổ sung.",
+      "B. Tương tác cộng gộp.",
+      "C. Trội lặn không hoàn toàn.",
+      "D. Trội lặn hoàn toàn."
     ],
     "correctAnswer": "C",
     "explanation": "",
@@ -108,10 +240,30 @@
     "examSetId": "bai-18-bo1"
   },
   {
+    "type": "mc",
+    "content": "Gene qui định nhóm máu có 3 allele IA, IB, IO trong đó. Trong đó, allele IA, IB là trội hoàn toàn so với allele IO nhưng không trội so với nhau (2 allele IA và IB đồng trội so với IO). Trên cơ sở đó, người ta xác định được người có nhóm máu B sẽ có kiểu gene là",
+    "options": [
+      "A. IAIO.",
+      "B. IBIO",
+      "C. IAIB.",
+      "D. IOIO"
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-18",
+    "examSetId": "bai-18-bo1"
+  },
+  {
     "type": "tf",
     "content": "Cho giao phấn hai cây hoa trắng thuần chủng (P) với nhau thu được F1 toàn cây hoa đỏ. Cho F1 tự thụ phấn, thu được F2 có tỉ lệ 9 cây hoa đỏ và 7 cây hoa trắng. Biết rằng không xảy ra đột biến. Theo lí thuyết, các nhận định sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -143,7 +295,12 @@
     "type": "tf",
     "content": "Khi nói về tương tác gene, các nhận định sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -160,11 +317,6 @@
       {
         "label": "c",
         "content": "Tương tác bổ sung chỉ xảy ra giữa 2 gene không allele còn từ 3 gene trở lên không có tương tác này. d. Màu da của con người do ít nhất 3 gene tương tác cộng gộp, càng có nhiều gene trội càng đen.",
-        "isCorrect": true
-      },
-      {
-        "label": "d",
-        "content": "Màu da của con người do ít nhất 3 gene tương tác cộng gộp, càng có nhiều gene trội càng đen.",
         "isCorrect": true
       }
     ],
@@ -286,7 +438,12 @@
     "type": "tf",
     "content": "Cho cây hoa vàng giao phấn với cây hoa vàng, thu được F1 có 100% hoa đỏ. Cho F1 giao phấn ngẫu nhiên, thu được F2 gồm có 56,25% cây cho hoa đỏ; 37,5% cây cho hoa vàng; 6,25% cây cho hoa trắng. Lấy 1 cây hoa đỏ F2 cho tự thụ phấn thu được F3. Các nhận định sau đây Đúng hay Sai về tỉ lệ kiểu hình ở F3?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -318,7 +475,12 @@
     "type": "tf",
     "content": "Cho một cây hoa đỏ giao phấn với 2 cây của cùng loài đó, kết quả thu được như sau:",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -350,7 +512,12 @@
     "type": "tf",
     "content": "1 loài thực vật, cho cây hoa trắng giao phấn với cây hoa trắng, thu được F1 có 100% cây hoa đỏ. F1 lai phân tích, thu được Fa có tỉ lệ kiểu hình: 1 cây hoa đỏ : 7 cây hoa trắng. Biết không xảy ra đột biến. Theo lí thuyết, các nhận định sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -422,7 +589,8 @@
     "correctAnswer": {
       "a": true,
       "b": true,
-      "c": true
+      "c": true,
+      "d": true
     },
     "explanation": "",
     "difficulty": 2,

@@ -3,10 +3,27 @@
     "type": "mc",
     "content": "Loại đột biến nào sau đây sẽ làm cho sản phẩm của gene bị thay đổi về cấu trúc?",
     "options": [
-      "A. Đột biến lệch bội.B. Đột biến cấu trúc NST.",
-      "C. Đột biến gene.D. Đột biến đa bội."
+      "A. Đột biến lệch bội.",
+      "B. Đột biến cấu trúc NST.",
+      "C. Đột biến gene.",
+      "D. Đột biến đa bội."
     ],
-    "correctAnswer": "C",
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-6",
+    "examSetId": "bai-6-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Khi đột biến gene đã phát sinh thì nó sẽ được nhân lên thông qua quá trình nào sau đây?",
+    "options": [
+      "A. Nhân đôi DNA.",
+      "B. Phiên mã.",
+      "C. Dịch mã.",
+      "D. Điều hòa hoạt động gene."
+    ],
+    "correctAnswer": "A",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-6",
@@ -16,10 +33,12 @@
     "type": "mc",
     "content": "Trong quá trình nhân đôi DNA, các nucleotide bắt cặp không theo nguyên tắc bổ sung thì sẽ dẫn đến phát sinh dạng đột biến nào sau đây?",
     "options": [
-      "A. Thêm một cặp nucleotide.B. Mất 2 cặp nucleotide.",
-      "C. Mất một cặp nucleotide.D. Thay thế một cặp nucleotide."
+      "A. Thêm một cặp nucleotide.",
+      "B. Mất 2 cặp nucleotide.",
+      "C. Mất một cặp nucleotide.",
+      "D. Thay thế một cặp nucleotide."
     ],
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-6",
@@ -29,8 +48,10 @@
     "type": "mc",
     "content": "Những biến đổi trong cấu trúc của gene liên quan đến 1 cặp nucleotide được gọi là",
     "options": [
-      "A. đột biến điểm.B. đột biến cấu trúc NST.",
-      "C. đột biến số lượng NST.D. thể đột biến."
+      "A. đột biến điểm.",
+      "B. đột biến cấu trúc NST.",
+      "C. đột biến số lượng NST.",
+      "D. thể đột biến."
     ],
     "correctAnswer": "A",
     "explanation": "",
@@ -55,6 +76,21 @@
   },
   {
     "type": "mc",
+    "content": "Cho biết A quy định hoa đỏ; allele đột biến a quy định hoa trắng; B quy định hạt vàng; allele đột biến b quy định hạt Xanh. Nếu A trội hoàn toàn so với a; allele B trội hoàn toàn so với b thì cơ thể có kiểu gene nào sau đây là thể đột biến?",
+    "options": [
+      "A. AaBb.",
+      "B. AABB.",
+      "C. AAbb.",
+      "D. AaBB."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-6",
+    "examSetId": "bai-6-bo1"
+  },
+  {
+    "type": "mc",
     "content": "Khi nói về đột biến gen, phát biểu nào sau đây sai?",
     "options": [
       "A. Đột biến gene tạo ra những allele mới.",
@@ -72,10 +108,12 @@
     "type": "mc",
     "content": "Trong số các dạng đột biến sau đây, dạng nào thường gây hậu quả ít nhất?",
     "options": [
-      "A. Mất một cặp nucleotide.       B. Thêm một cặp nucleotit",
-      "C. Thay thế một cặp nucleotide. D. Đột biến mất đoạn NST."
+      "A. Mất một cặp nucleotide.",
+      "B. Thêm một cặp nucleotit",
+      "C. Thay thế một cặp nucleotide.",
+      "D. Đột biến mất đoạn NST."
     ],
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-6",
@@ -85,10 +123,12 @@
     "type": "mc",
     "content": "Hóa chất gây đột biến 5-BU thường gây đột biến gene dạng",
     "options": [
-      "A. thay thế cặp G - C bằng T - A.B. thay thế cặp G - C bằng cặp C - G.",
-      "C. thay thế cặp A - T bằng T - A.D. thay thế cặp A - T bằng G - C."
+      "A. thay thế cặp G - C bằng T -",
+      "B. thay thế cặp G - C bằng cặp C - G.",
+      "C. thay thế cặp A - T bằng T -",
+      "D. thay thế cặp A - T bằng G - C."
     ],
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-6",
@@ -114,7 +154,7 @@
       "A. A = T = 400 G = C = 424B. A = T = 401 G = C = 423",
       "C. A = T = 424 G = C = 400D. A = T = 403 G = C = 422"
     ],
-    "correctAnswer": "A",
+    "correctAnswer": "B",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-6",
@@ -124,10 +164,12 @@
     "type": "mc",
     "content": "Dạng đột biến nào sau đây không làm thay đổi thành phần nucleotide của gen",
     "options": [
-      "A. Thay thế cặp A - T bằng cặp G - C.B. Mất một cặp nucleotide.",
-      "C. Thêm một cặp nucleotide.D. Thay thế cặp A - T bằng cặp T - A."
+      "A. Thay thế cặp A - T bằng cặp G -",
+      "B. Mất một cặp nucleotide.",
+      "C. Thêm một cặp nucleotide.",
+      "D. Thay thế cặp A - T bằng cặp T - A."
     ],
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-6",
@@ -137,8 +179,10 @@
     "type": "mc",
     "content": "t biến thay thế 1 cặp nucleotide này bằng 1 cặp nucleotide khác Xảy ra tại vùng exon của gene cấu trúc nhưng không làm thay đổi trình tự xác amino acid do gene đó quy định tổng hợp. Nguyên nhân là do",
     "options": [
-      "A. mã di truyền có tính phổ biến.B. mã di truyền là mã bộ ba.",
-      "C. mã di truyền có tính thoái hóa.D. mã di truyền có tính đặc hiệu."
+      "A. mã di truyền có tính phổ biến.",
+      "B. mã di truyền là mã bộ ba.",
+      "C. mã di truyền có tính thoái hóa.",
+      "D. mã di truyền có tính đặc hiệu."
     ],
     "correctAnswer": "C",
     "explanation": "",
@@ -150,8 +194,10 @@
     "type": "mc",
     "content": "Gene A bị đột biến thành gene a, hai gene này có chiều dài bằng nhau nhưng gene a hơn gene A một liên kết hydro, chứng tỏ gene A đã xảy ra đột biến dạng",
     "options": [
-      "A. thay thế cặp G - C bằng cặp A - T. B. thay thế cặp A - T bằng cặp G - C.",
-      "C. thêm 1 cặp G - C.D. mất 1 cặp A - T."
+      "A. thay thế cặp G - C bằng cặp A - T.",
+      "B. thay thế cặp A - T bằng cặp G - C.",
+      "C. thêm 1 cặp G -",
+      "D. mất 1 cặp A - T."
     ],
     "correctAnswer": "A",
     "explanation": "",
@@ -163,10 +209,42 @@
     "type": "mc",
     "content": "Loại đột biến nào sau đây chỉ làm thay đổi cấu trúc của 1 bộ ba ở trên mRNA",
     "options": [
-      "A. Mất 1 cặp G - C ở giữa gene.B. Thay thế cặp A - T bằng cặp G - C ở giữa gene.",
-      "C. Thêm 1 cặp A - T ở giữa gene.D. Mất 1 cặp A - T ở giữa gene."
+      "A. Mất 1 cặp G - C ở giữa gene.",
+      "B. Thay thế cặp A - T bằng cặp G - C ở giữa gene.",
+      "C. Thêm 1 cặp A - T ở giữa gene.",
+      "D. Mất 1 cặp A - T ở giữa gene."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-6",
+    "examSetId": "bai-6-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Tần số đột biến gene phụ thuộc vào những nhân tố nào sau đây?",
+    "options": [
+      "A. 1.",
+      "B. 2.",
+      "C. 3.",
+      "D. 4"
     ],
     "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-6",
+    "examSetId": "bai-6-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Khi nói về đột biến gen, có bao nhiêu phát biểu đúng?",
+    "options": [
+      "A. 1.",
+      "B. 2.",
+      "C. 3.",
+      "D. 4"
+    ],
+    "correctAnswer": "C",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-6",
@@ -189,7 +267,12 @@
     "type": "tf",
     "content": "Khi nói về đột biến gen, xác nhận định sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -221,7 +304,12 @@
     "type": "tf",
     "content": "Trong điều kiện mỗi gene quy định một tính trạng, Xác nhận định sau đây Đúng hay Sai về đột biến gen?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -253,7 +341,12 @@
     "type": "tf",
     "content": "Khi nói về đột biến gene, xác nhận định sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -285,7 +378,12 @@
     "type": "tf",
     "content": "Gene M có 1400 cặp nucleotide và 3900 liên kết hydro. Gene M bị đột biến thêm một cặp G - C trở thành allele m. Có bao nhiêu phát biểu sau đây Đúng?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [

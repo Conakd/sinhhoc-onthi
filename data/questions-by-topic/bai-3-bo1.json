@@ -1,10 +1,55 @@
 [
   {
     "type": "mc",
+    "content": "371680]: Trong quá trình phiên mã, nucleotide loại U của gene liên kết bổ sung với loại nucleotide nào ở môi trường nội bảo?",
+    "options": [
+      "A. G.",
+      "D. T."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-3",
+    "examSetId": "bai-3-bo1"
+  },
+  {
+    "type": "mc",
     "content": "371682]: Dịch mã là quá trình",
     "options": [
-      "A. tổng hợp phân tử rRNA.B. tổng hợp phân tử DNA.",
-      "C. tổng hợp phân tử mRNA.D. tổng hợp chuỗi polipeptit."
+      "A. tổng hợp phân tử rRNA.",
+      "B. tổng hợp phân tử DNA.",
+      "C. tổng hợp phân tử mRNA.",
+      "D. tổng hợp chuỗi polipeptit."
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-3",
+    "examSetId": "bai-3-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "371683]: Phân tử nào sau đây trực tiếp làm khuôn tổng hợp chuỗi polipeptide:",
+    "options": [
+      "A. rRNA.",
+      "B. DNA.",
+      "C. tRNA.",
+      "D. mRNA."
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-3",
+    "examSetId": "bai-3-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "371684): Làm khuôn mẫu cho quá trình phiên mã là nhiệm vụ của",
+    "options": [
+      "A. mạch mã hoá.",
+      "B. mRNA.",
+      "C. mạch mã gốc.",
+      "D. tRNA."
     ],
     "correctAnswer": "C",
     "explanation": "",
@@ -16,8 +61,25 @@
     "type": "mc",
     "content": "371686]: Tất cả các loài sinh vật đều có chung một bộ mã di truyền, trừ một vài ngoại lệ, điều này biểu hiện đặc điểm gì của mã di truyền?",
     "options": [
-      "A. Mã di truyền có tính đặc hiệu.C. Mã di truyền có tính phổ biến.",
-      "B. Mã di truyền có tính thoái hóa.D. Mã di truyền luôn là mã bộ ba."
+      "A. Mã di truyền có tính đặc hiệu.",
+      "B. Mã di truyền có tính thoái hóa.",
+      "C. Mã di truyền có tính phổ biến.",
+      "D. Mã di truyền luôn là mã bộ ba."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-3",
+    "examSetId": "bai-3-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "371687]: Các loại nucleotide nào sau đây không là đơn phân cấu tạo nên phân từ RNA?",
+    "options": [
+      "A. 1.",
+      "B. 5.",
+      "C. 3.",
+      "D. 2."
     ],
     "correctAnswer": "A",
     "explanation": "",
@@ -44,8 +106,25 @@
     "type": "mc",
     "content": "371690]: Phân tích vật chất di truyền của một chủng gây bệnh cúm ở gà thì thấy rằng vật chất di truyền của nó là một phân tử Nucleic acid được cấu tạo bởi 4 loại đơn phân với tỷ lệ mỗi loại là 16%A, 24%U, 25%G, 35%c. Loại vật chất di truyền của chùng gây bệnh này là",
     "options": [
-      "A. DNA mạch kép.B. DNA mạch đơn.",
-      "C. RNA mạch đơn.D. RNA mạch kép."
+      "A. DNA mạch kép.",
+      "B. DNA mạch đơn.",
+      "C. RNA mạch đơn.",
+      "D. RNA mạch kép."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-3",
+    "examSetId": "bai-3-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "187827]: Có bao nhiêu đặc điểm sau đây là điểm khác biệt giữa cấu tạo của DNA với cấu tạo của tARN?",
+    "options": [
+      "A. 1.",
+      "B. 2.",
+      "C. 3.",
+      "D. 4."
     ],
     "correctAnswer": "C",
     "explanation": "",
@@ -69,10 +148,118 @@
     "examSetId": "bai-3-bo1"
   },
   {
+    "type": "mc",
+    "content": "371694]: Khi nói về cơ chế di truyền ở sinh vật nhân sơ, xét các bước sau đây:",
+    "options": [
+      "B. I. IV.III. IIС. ІІ. ІІІ.1. IV.",
+      "D. III. I. IV. II."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-3",
+    "examSetId": "bai-3-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "371695]: Khi nói về quá trình phiên mã, có bao nhiêu phát biểu sau đây sai?",
+    "options": [
+      "A. 1.",
+      "B. 3.",
+      "C. 4.",
+      "D. 2."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-3",
+    "examSetId": "bai-3-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "371696): Có bao nhiêu phát biểu sau đây sai?",
+    "options": [
+      "A. 3.",
+      "B. 2.",
+      "C. 4.",
+      "D. 1."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-3",
+    "examSetId": "bai-3-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "371698]: Có bao nhiêu triplet sau đây quy định codon mã hóa amino acid?",
+    "options": [
+      "A. 2.",
+      "B. 3.",
+      "C. 4.",
+      "D. 5."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-3",
+    "examSetId": "bai-3-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "371699]: Khi nói về cơ chế di truyền và biến dị ở cấp độ phân tử, có bao nhiêu phát biểu nào sau đây sai?",
+    "options": [
+      "A. 2.",
+      "B. 3.",
+      "C. 1.",
+      "D. 4."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-3",
+    "examSetId": "bai-3-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "371702]: Trong các phát biểu sau, có bao nhiêu phát biểu đúng?",
+    "options": [
+      "A. 2.",
+      "B. 4.",
+      "C. 1.",
+      "D. 3."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-3",
+    "examSetId": "bai-3-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "371703]: Khi nói về Nucleic acid của sinh vật nhân thực, có bao nhiêu phát biểu sau",
+    "options": [
+      "A. 2.",
+      "B. 4.",
+      "C. 3.",
+      "D. 5."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-3",
+    "examSetId": "bai-3-bo1"
+  },
+  {
     "type": "tf",
     "content": "371704]: Khi nói về bộ ba AUG ở trên mRNA của sinh vật nhân thực. Các nhận định sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -104,7 +291,12 @@
     "type": "tf",
     "content": "371707]: Cho biết các codon mã hóa các amino acid tương ứng như sau: 5'GGG3' - Gly; 5'CCC3' - Pro; 5'GCU3' - Ala; 5'CGA3' - Arg; 5'UCG3' - Ser; 5'AGC3' - Ser; 5'UAC3' - Tyr. Một đoạn mạch gốc của một gene ở vi khuẩn mang thông tin mã hóa cho đoạn polypeptide có 5 amino acid có trình tự các nucleotide là 3'CCC-AGC-ATG-CGA-GGG5'. Các nhận định sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -125,7 +317,7 @@
       },
       {
         "label": "d",
-        "content": "Nếu đột biến mất cặp G - C ở vị trí thứ nhất thì có thể sẽ làm cho trình tự và thành phần tất cả các amino acid trong đoạn polypeptide sẽ bị thay đổi.",
+        "content": "Nếu đột biến mất cặp G - C ở vị trí thứ nhất thì có thể sẽ làm cho trình tự và thành phần tất",
         "isCorrect": true
       }
     ],
@@ -136,7 +328,12 @@
     "type": "tf",
     "content": "371709]: Khi nói về hoạt động của các enzyme trong các cơ chế di truyền ở cấp phân tử. Các nhận định sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -168,7 +365,12 @@
     "type": "tf",
     "content": "371711]: Khi nói về mối quan hệ giữa gene, mRNA, chuỗi polypeptide. Các nhận định sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [

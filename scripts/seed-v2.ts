@@ -74,6 +74,7 @@ async function seedAll() {
         correctAnswer: q.correctAnswer,
         explanation: q.explanation || '',
         difficulty: q.difficulty || 2,
+	subItems: q.subItems || [],
         imageUrl: q.imageUrl || null,
         createdAt: new Date().toISOString()
       })
@@ -111,3 +112,4 @@ async function seedAll() {
 }
 
 seedAll().catch(console.error)
+

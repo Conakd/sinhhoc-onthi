@@ -3,8 +3,10 @@
     "type": "mc",
     "content": "NST giới tỉnh là loại NST vừa mang gene quy định giới tính vừa mang gene quy định tính trạng thường. Theo cơ chế tế bào học, tùy theo từng loài sinh vật, cặp NST giới tỉnh ở mỗi giỏi tỉnh khác nhau. Hãy ghép các loài ở cột A với cặp NST giới tính cho phủ hợp.",
     "options": [
-      "A. I-a; II-c; III - b; IV - d B. I-a; II - c; III - d; IV - b",
-      "C. I-c; II-a; III-d; IV - b D. I-b; II-a; III - d; IV - c"
+      "A. I-a; II-c; III - b; IV - d",
+      "B. I-a; II - c; III - d; IV - b",
+      "C. I-c; II-a; III-d; IV - b",
+      "D. I-b; II-a; III - d; IV - c"
     ],
     "correctAnswer": "A",
     "explanation": "",
@@ -31,8 +33,10 @@
     "type": "mc",
     "content": "Trong quá trình nuôi tằm lấy tơ, người nông dân nhận thấy tằm đực cho năng suất cao hơn tằm cái nên người ta giữ lại các trứng nở ra tằm đựC. Gene quy định màu vỏ trứng nằm trên nhiễm sắc thể giới tính X, không có allele trên Y, trong đó allele A quy định trúng có màu sẫm, a quy định trứng có màu sáng. Cặp lai nào dưới đây để trứng màu sẫm luôn nở tằm đực, còn trứng màu sáng luôn nở tằm cái?",
     "options": [
-      "A. ♂XaXa x ♀XAY. B. ♀XAXA x ♂XaY.",
-      "C. ♀ XAXa x ♂ XaY.D. ♀XAXa x ♂XAY."
+      "A. ♂XaXa x ♀XAY.",
+      "B. ♀XAXA x ♂XaY.",
+      "C. ♀ XAXa x ♂ XaY.",
+      "D. ♀XAXa x ♂XAY."
     ],
     "correctAnswer": "A",
     "explanation": "",
@@ -44,10 +48,26 @@
     "type": "mc",
     "content": "1 giống gà, tính trạng lông sọc vằn là trội so với tính trạng lông trắng. Các gene quy định màu lông nằm trên NST X không có allele tương ứng trên Y. Tại 1 trại gà, khi lai gà mái trắng với gà trống sọc vằn thu được đời con toàn bộ lông sọc vằn ở cả gà mái và gà trống. Sau đó, người ta lại những cá thể thu được từ phép lai trên với nhau, Theo lý thuyết, tỉ lệ kiểu hình thu được ở đời con là",
     "options": [
-      "A. toàn bộ con mái có lông sọc. B. các con trống không phân tính.",
-      "C. 50% số con mái có lông trắng. D. 50% gà có lông sọc"
+      "A. toàn bộ con mái có lông sọc.",
+      "B. các con trống không phân tính.",
+      "C. 50% số con mái có lông trắng.",
+      "D. 50% gà có lông sọc"
     ],
     "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-21",
+    "examSetId": "bai-21-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Tỉnh trạng màu kén ở tằm do 1 cặp allele Bb quy định. Đem lai giữa cặp bố mẹ đều thuần chủng tằm kén trắng với tằm kén vàng thu được F1 toàn tằm kén trắng, F2 xuất hiện 26 tằm cái kén trắng, 51 tằm đực kén trắng, 24 tằm cái kén vàng. Kiểu gene của thế hệ bố mẹ là",
+    "options": [
+      "A. ♀ XbY x ♂XBXB",
+      "B. ♀XBXB x ♂XbY.",
+      "C. ♀XBY x ♂XBXbD. ♀XBXb x ♂XBY."
+    ],
+    "correctAnswer": "A",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-21",
@@ -130,10 +150,40 @@
   },
   {
     "type": "mc",
+    "content": "người có hiện tượng “những bệnh, tật do gene lặn qui định, di truyền liên kết trên vùng không tương đồng của NST giới tính thì trong quần thể người, tỉ lệ nam giới mắc bệnh cao hơn nữ giới”. Để giải thích cho hiện tượng này, có bao nhiêu nhận định dưới đây đúng?",
+    "options": [
+      "A. 1.",
+      "B. 2.",
+      "C. 3.",
+      "D. 4."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-21",
+    "examSetId": "bai-21-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "một loài động vật, A quy định mắt đỏ trội hoàn toàn so với a quy định mắt trắng; B quy định thân đen trội hoàn toàn so với b quy định thân xám. Tiến hành phép lai P: ♀XABXab × ♂XABY, thu được F1. Biết không xảy ra đột biến và không có hoán vị gene. Theo lí thuyết, ở F1 lấy ngẫu nhiên 1 cá thể đực mắt trắng, thân đen, xác suất thu được cá thể thuần chủng là",
+    "options": [
+      "A. 12,5%.",
+      "B. 20%.C. 40%.D. 25%."
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-21",
+    "examSetId": "bai-21-bo1"
+  },
+  {
+    "type": "mc",
     "content": "gà, tính trạng màu lông do một cặp gene quy định, gene A quy định lông vằn trội hoàn toàn so với gene a quy định lông đen, gene nằm trên nhiễm sắc thể giới tính X, không có allele tương ứng trên Y. Cho gà trống lông vằn giao phối với gà mái lông đen (P), thu được F1 gồm 100% gà lông vằn. F1 giao phối ngẫu nhiên với nhau thu được F2. Biết không xảy ra hiện tượng đột biến. Theo lí thuyết, tỉ lệ kiểu hình về màu lông của gà mái ở F2 là",
     "options": [
-      "A. 50% lông vằn : 50% lông đen. B. 75% lông vằn : 25% lông đen.",
-      "C. 100% lông vằn.D. 25% lông vằn : 75% lông đen."
+      "A. 50% lông vằn : 50% lông đen.",
+      "B. 75% lông vằn : 25% lông đen.",
+      "C. 100% lông vằn.",
+      "D. 25% lông vằn : 75% lông đen."
     ],
     "correctAnswer": "A",
     "explanation": "",
@@ -145,8 +195,10 @@
     "type": "mc",
     "content": "nhóm động vật nào sau đây, giới đực mang cặp nhiễm sắc thể giới tính XX và giới cái mang cặp nhiễm sắc thể giới tính XY?",
     "options": [
-      "A. Thỏ, ruồi giấm, chim sáo. B. Trâu, bò, hươu.",
-      "C. Gà, chim bồ câu, bướm.D. Hổ, chó sói, châu chấu."
+      "A. Thỏ, ruồi giấm, chim sáo.",
+      "B. Trâu, bò, hươu.",
+      "C. Gà, chim bồ câu, bướm.",
+      "D. Hổ, chó sói, châu chấu."
     ],
     "correctAnswer": "C",
     "explanation": "",
@@ -171,6 +223,21 @@
   },
   {
     "type": "mc",
+    "content": "1 loài động thủ, gene A quy định chân cao trội hoàn toàn so với gene a quy định chân thấp. Quá trình giảm phân không xảy ra đột biến. Có bao nhiêu phép lai sau đây cho đời con có tỉ lệ kiểu hình ở giới đực không giống với tỉ lệ kiểu hình ở giới cái?",
+    "options": [
+      "A. 1.",
+      "B. 2.",
+      "C. 3.",
+      "D. 4."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-21",
+    "examSetId": "bai-21-bo1"
+  },
+  {
+    "type": "mc",
     "content": "người, bệnh máu khó đông và bệnh mù màu đỏ - xanh lục do hai gene lặn (a, b) nằm trên nhiễm sắc thể X, không có allele tương ứng trên Y quy định. Một phụ nữ bị bệnh mù màu đỏ - xanh lục và không bị bệnh máu khó đông lấy chồng bị bệnh máu khó đông và không bị bệnh mù màu đỏ - xanh lụC. Phát biểu nào sau đây là đúng về những đứa con của cặp vợ chồng trên?",
     "options": [
       "A. Tất cả con trai của họ đều mắc bệnh mù màu đỏ - xanh lục",
@@ -188,7 +255,12 @@
     "type": "tf",
     "content": "xác định sự di truyền của của gene quy định tính trạng, các nhà khoa học đã tiến hành các thí nghiệm sau:",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -220,7 +292,12 @@
     "type": "tf",
     "content": "Cho các con ruồi giấm cái thuần chủng thân màu vàng lai với các con ruồi đực thuần chủng thân xám, người ta thu được hàng nghìn cá thể con, trong đó tất cả các con ruồi cái F1 đều có thân màu xám còn các con đực F1 hầu hết có thân màu vàng, ngoại trừ có 2 con ruồi đực F1 có thân màu xám. Cho 2 ruồi đực thân xám F1 lai với 2 ruồi cái thân vàng thu được F2 như sau:",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -252,7 +329,12 @@
     "type": "tf",
     "content": "một loài động vật, cho P thuần chủng chân cao, lông trắng lại với chân thấp lông đỏ thu được F1 có tỉ lệ: 1 đực chân cao, lông đỏ : 1 cái chân thấp lông đỏ. Cho F1 lại với nhau thu được F2:",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -284,7 +366,12 @@
     "type": "tf",
     "content": "một loài thú, khi cho lai giữa hai cá thể (thế hệ I), sinh ra 2 cá thể con (thế hệ II), trong quá trình nuôi đã có thêm một cá thể thú con khác lạc vào chuồng của bốn con thú này. Để xác định mối quan hệ huyết thống của các con thú, người ta tiến hành kiểm tra sự có mặt ( ) các alen của 2 gene A và B liên kết hoàn toàn trên vùng không tương đồng của nhiễm sắc thể giới tính X ở từng cá thể, kết quả phân tích được thể hiện ở hình 3. Biết rằng, gene A có 2 alen là A1, A2; gene B có 3 alen là B1, B2, B3 không có đột biến xảy rA. Theo lý thuyết, hãy cho biết mỗi phát biểu dưới đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [

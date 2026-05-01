@@ -3,10 +3,72 @@
     "type": "mc",
     "content": "Loại đột biến dẫn đến sắp xếp lại các khối gene trên và giữa các NST và có thể làm thay đổi hình dạng kích thước NST là",
     "options": [
-      "A. đột biến gene. B. đột biến lệch bội.",
-      "C. đột biến đa bội D. đột biến cấu trúc NST."
+      "A. đột biến gene.",
+      "B. đột biến lệch bội.",
+      "C. đột biến đa bội",
+      "D. đột biến cấu trúc NST."
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-13",
+    "examSetId": "bai-13-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Loại đột biến nào sau đây không phải là đột biến cấu trúc nhiễm sắc thể?",
+    "options": [
+      "A. Đào đoạn.",
+      "B. Lặp đoạn.",
+      "C. Chuyển đoạn.",
+      "D. Đột biến điểm"
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-13",
+    "examSetId": "bai-13-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Loại đột biến nào sau đây làm giảm độ dài của nhiễm sắc thể?",
+    "options": [
+      "A. Đảo đoạn.",
+      "B. Lặp đoạn.",
+      "C. Mất đoạn.",
+      "D. Thêm một cặp nucleotide."
     ],
     "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-13",
+    "examSetId": "bai-13-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Loại đột biến nào sau đây làm tăng độ dài của nhiễm sắc thể?",
+    "options": [
+      "A. Đảo đoạn.",
+      "B. Lặp đoạn.",
+      "C. Mất đoạn",
+      "D. Thêm một cặp nucleotide.."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-13",
+    "examSetId": "bai-13-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Loại đột biến nào sau đây không làm thay đổi số lượng gene của nhiễm sắc thể?",
+    "options": [
+      "A. Đảo đoạn.",
+      "B. Lặp đoạn.",
+      "C. Mất đoạn",
+      "D. Chuyển đoạn không tương hỗ."
+    ],
+    "correctAnswer": "A",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-13",
@@ -16,10 +78,12 @@
     "type": "mc",
     "content": "Dạng đột biến cấu trúc nhiễm sắc thể nào sau đây có thể được vận dụng để loại khỏi nhiễm sắc thể những gene không mong muốn?",
     "options": [
-      "A. Đảo đoạn NST. B. Lặp đoạn NST.",
-      "C. Chuyển đoạn NST. 164 D. Mất đoạn NST"
+      "A. Đảo đoạn NST.",
+      "B. Lặp đoạn NST.",
+      "C. Chuyển đoạn NST. 164",
+      "D. Mất đoạn NST"
     ],
-    "correctAnswer": "C",
+    "correctAnswer": "D",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-13",
@@ -29,10 +93,12 @@
     "type": "mc",
     "content": "Loại đột biến cấu trúc NST nào sau đây có thể làm cho một gene từ nhóm liên kết này chuyển sang nhóm liên kết khác",
     "options": [
-      "A. Chuyển đoạn trong một NST. B. Đảo đoạn NST.",
-      "C. Lặp đoạn NST. D. Chuyển đoạn giữa hai NST."
+      "A. Chuyển đoạn trong một NST.",
+      "B. Đảo đoạn NST.",
+      "C. Lặp đoạn NST.",
+      "D. Chuyển đoạn giữa hai NST."
     ],
-    "correctAnswer": "C",
+    "correctAnswer": "D",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-13",
@@ -42,10 +108,12 @@
     "type": "mc",
     "content": "một loài, NST số 1 có trình tự sắp xếp các gen: ABCDEGH. Sau khi bị đột biến NST này có cấu trúc AEDCBGH. Đây là dạng đột biến",
     "options": [
-      "A. mất đoạn NST. B. lặp đoạn NST.",
-      "C. chuyên đoạn NST. D. đảo đoạn NST"
+      "A. mất đoạn NST.",
+      "B. lặp đoạn NST.",
+      "C. chuyên đoạn NST.",
+      "D. đảo đoạn NST"
     ],
-    "correctAnswer": "C",
+    "correctAnswer": "D",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-13",
@@ -55,10 +123,12 @@
     "type": "mc",
     "content": "một loài, NST số 1 có trình tự sắp xếp các gọn: ABCDEGH. Sau khi bị đột biến, NST này có trình tự các gen: ABCDEDEGH. Đây là dạng đột biến",
     "options": [
-      "A. mất đoạn NST B. lặp đoạn NST.",
-      "C. chuyển đoạn NST D. đảo đoạn NST."
+      "A. mất đoạn NST",
+      "B. lặp đoạn NST.",
+      "C. chuyển đoạn NST",
+      "D. đảo đoạn NST."
     ],
-    "correctAnswer": "A",
+    "correctAnswer": "B",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-13",
@@ -96,6 +166,20 @@
   },
   {
     "type": "mc",
+    "content": "một loài động vật, người ta đã phát hiện 4 nói có trình tự các gene trên nhiễm sắc thể số 1 như sau:",
+    "options": [
+      "A. 1-3-4-2",
+      "B. 1-4-2-3",
+      "C. 1-3-2-4D. 1-2-4-3."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-13",
+    "examSetId": "bai-13-bo1"
+  },
+  {
+    "type": "mc",
     "content": "Hình bên mô tả một dạng đột biến cấu trúc nhiễm sắc thể, nhận định nào sau đây không đúng khi nói về dạng đột biến đó?",
     "options": [
       "A. Dạng đột biến này có thể gây hại cho thể đột biến.",
@@ -111,12 +195,40 @@
   },
   {
     "type": "mc",
+    "content": "Cô bao nhiêu đặc điểm trong các đặc điểm sau chỉ có ở thể đột biến đảo đoạn NST mà không có ở thể đột biến chuyển đoạn tương hỗ",
+    "options": [
+      "A. 3. B.2 C.4.",
+      "D. 1."
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-13",
+    "examSetId": "bai-13-bo1"
+  },
+  {
+    "type": "mc",
     "content": "Sự trao đổi chéo không cân giữa hai chromatide khác nguồn trong cặp nhiễm sắc thể kép tương đồng xảy ra ở kì đầu của giảm phân 1 có thể làm phát sinh các loại đột biến nào sau đây?",
     "options": [
-      "A. Mắt đoạn và đảo đoạn nhiễm sắc thể. B. Lập đoạn và chuyển đoạn nhiễm sắc thể.",
-      "C. Mất đoạn và lặp đoạn nhiễm sắc thể. D. Lặp đoạn và đảo đoạn nhiễm sắc thể."
+      "A. Mắt đoạn và đảo đoạn nhiễm sắc thể.",
+      "B. Lập đoạn và chuyển đoạn nhiễm sắc thể.",
+      "C. Mất đoạn và lặp đoạn nhiễm sắc thể.",
+      "D. Lặp đoạn và đảo đoạn nhiễm sắc thể."
     ],
-    "correctAnswer": "C",
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-13",
+    "examSetId": "bai-13-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Có mấy loại đột biến sau đây làm thay đổi cấu trúc của NST?",
+    "options": [
+      "A. 1. B.2. C.3.",
+      "D. 4."
+    ],
+    "correctAnswer": "A",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-13",
@@ -126,10 +238,27 @@
     "type": "mc",
     "content": "Dạng đột biến cấu trúc NST có thể gây hậu quả nghiêm trọng nhất cho thể đột biến là",
     "options": [
-      "A. mất đoạn lớn NST. B. lặp đoạn NST.",
-      "C. chuyển đoạn nhỏ NST. D. đảo đoạn NST"
+      "A. mất đoạn lớn NST.",
+      "B. lặp đoạn NST.",
+      "C. chuyển đoạn nhỏ NST.",
+      "D. đảo đoạn NST"
     ],
     "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-13",
+    "examSetId": "bai-13-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Vào kì đầu của giảm phân 1, nếu xảy ra sự tiếp hợp và trao đổi chéo giữa hai chromatide thuộc hai nhiễm sắc thể không tương đồng sẽ dẫn tới loại đột biến",
+    "options": [
+      "A. mất đoạn",
+      "B. chuyển đoạn.",
+      "C. đảo đoạn.",
+      "D. lặp đoạn."
+    ],
+    "correctAnswer": "B",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-13",
@@ -169,10 +298,12 @@
     "type": "mc",
     "content": "Dạng đột biến cấu trúc nhiễm sắc thể nào sau đây có thể làm cho hai allele một gene cùng nằm trên một nhiễm sắc thể đơn?",
     "options": [
-      "A. Chuyển đoạn trong 1 nhiễm sắc thể. B. Đảo đoạn",
-      "C. Mất đoạn. D. Lặp đoạn."
+      "A. Chuyển đoạn trong 1 nhiễm sắc thể.",
+      "B. Đảo đoạn",
+      "C. Mất đoạn.",
+      "D. Lặp đoạn."
     ],
-    "correctAnswer": "C",
+    "correctAnswer": "D",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-13",
@@ -187,7 +318,7 @@
       "C. phòng trừ sâu hại bằng biện pháp di truyền.",
       "D. loại khỏi NST những gene không mong muốn."
     ],
-    "correctAnswer": "D",
+    "correctAnswer": "A",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-13",
@@ -208,10 +339,43 @@
     "examSetId": "bai-13-bo1"
   },
   {
+    "type": "mc",
+    "content": "một loài, NST số 1 có trình tự sắp xếp các gen: ABCDEGH. Sau khi bị đột, NST này có cấu trúc ABCDEDEGH. Theo lí thuyết, có hao nhiều phát biểu sau đây đúng?",
+    "options": [
+      "A. 2",
+      "B. 1. C3.",
+      "D. 4."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-13",
+    "examSetId": "bai-13-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Những dạng đột biến nào sau đây chỉ làm thay đổi trình tự sắp xếp của các gene trên nhiễm sắc thể",
+    "options": [
+      "A. 1B. 2",
+      "C. 3.",
+      "D. 4."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-13",
+    "examSetId": "bai-13-bo1"
+  },
+  {
     "type": "tf",
     "content": "một loài, NST số 1 có trình tự sắp xếp các gene: ABCDEGH. Sau khi bị đột biến, NST này có cấu trúc ABCDEDEGH. Theo lí thuyết, các nhận định sau đây Đúng hay sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -243,7 +407,12 @@
     "type": "tf",
     "content": "Khi nói về đột biến cấu trúc NST, các nhận định sau đây Đúng hay sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -275,7 +444,12 @@
     "type": "tf",
     "content": "Khi nói về hậu quả của đột biến NST, các nhận định sau đây Đúng hay Sai",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -307,7 +481,12 @@
     "type": "tf",
     "content": "Khi nói về nguyên nhân sau đây dẫn đến đột biến cấu trúc NST, các nhận định sau Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -339,7 +518,12 @@
     "type": "tf",
     "content": "Khi nói về đột biển NST, các nhận định sau đây Đúng hay sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [

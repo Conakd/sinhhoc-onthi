@@ -1,10 +1,53 @@
 [
   {
     "type": "mc",
+    "content": "một loài thực vật, cho biết quá trình giảm phân không xảy ra đột biến. Theo lí thuyết, phép lai AaBB × Aabb cho đời con có tỉ lệ kiểu gene là",
+    "options": [
+      "A. 1: 1.",
+      "B. 1:2:1.",
+      "C. 3: 1.",
+      "D. 3:3:1:1."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-17",
+    "examSetId": "bai-17-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Cho biết mỗi gene quy định một tính trạng, allele trội là trội hoàn toàn. Phép lai AaBbDdEE × aabbDDee cho đời con có tối đa bao nhiêu loại kiểu hình?",
+    "options": [
+      "A. 16.",
+      "B. 2.",
+      "C. 8.",
+      "D. 4."
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-17",
+    "examSetId": "bai-17-bo1"
+  },
+  {
+    "type": "mc",
     "content": "Cho biết mỗi gene quy định một tính trạng, allele trội là trội hoàn toàn, quá trinh giảm phân không xảy ra đột biến. Theo lí thuyết, phép lai nào sau đây tạo ra ở đời con có 18 loại kiểu gene và 4 loại kiểu hình?",
     "options": [
       "A. AaBbDd x aabbDD (8KG, 4KH)C. AaBbDd x aabbdd (8KG, 8KH)",
       "B. AaBbdd × AabbDd (12KG, 8KH)D. AaBbDd x AaBbDD (18KG, 4KH)"
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-17",
+    "examSetId": "bai-17-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Cho biết allele A quy định thân cao trội hoàn toàn so với allele a quy định thần thấp, allele B quy định hoa đỏ trội hoàn toàn so với allele b quy định hoa trắng. Phép lai nào sau đây là phép lai khác dòng?",
+    "options": [
+      "A. AAbbx AaBB",
+      "B. Aabb x aaBBC. AaBb x aabbD. AaBb x AaBb"
     ],
     "correctAnswer": "B",
     "explanation": "",
@@ -29,6 +72,79 @@
   },
   {
     "type": "mc",
+    "content": "u Hà Lan, allele A quy định hạt vàng, allele a quy định hạt xanh; allele B quy định hạt trơn, allele b quy định hạt nhăn. Hai cặp gene này phân li độc lập với nhau. Phép lai nào sau đây sẽ không làm xuất hiện kiểu hình xanh, nhăn ở thế hệ sau?",
+    "options": [
+      "A. Aabb x aaBb",
+      "B. aabb × AaBB",
+      "C. AaBb x AabbD. AaBb x AaBb"
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-17",
+    "examSetId": "bai-17-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Theo Mendel, allele quy định thân cao và allele quy định kiểu hình nào sau đây sẽ phân ly đồng đều về các giao tử trong quá trình giảm phân?",
+    "options": [
+      "A. Chín sớm.",
+      "B. Thân thấp.",
+      "C. Hoa trắng.",
+      "D. Hạt vàng."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-17",
+    "examSetId": "bai-17-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Nhà khoa học nào sau đây là người đầu tiền đưa ra giả thuyết: “Nhân tố di truyền trong tế bào không hòa trộn vào nhau; Mỗi cơ thể con nhận 1 nhân tố di truyền của bố và 1 nhân tố di truyền của mẹ”",
+    "options": [
+      "A. Morgan.",
+      "B. Darwin.",
+      "C. Mendel.",
+      "D. Mono và Jacop."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-17",
+    "examSetId": "bai-17-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "một loài thực vật biết rằng: A- quy định thân cao, aa quy định thân thấp; BB quy định hoa đỏ, Bb quy định hoa hồng, bb quy định hoa trắng. Hai tính trạng chiều cao thân vào màu hoa di truyền độc lập với nhau. Con lai có tỉ lệ kiểu hình 75% thân cao, hoa hồng : 25% thân thấp, hoa hồng được tạo ra từ phép lai nào sau đây?",
+    "options": [
+      "A. AaBb x AaBb",
+      "B. AABb x aaBbC. AaBB x Aabb",
+      "D. AABB x aabb"
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-17",
+    "examSetId": "bai-17-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "một loài thực vật, màu sắc hoa được chi phối bởi 2 cặp gene phân li độc lập Mỗi gene quy định 1 tính trạng, trội lặn hoàn toàn. Đem lai giữa cây dị hợp và cây đồng hợp lặn hai cặp gene thu được đời con. Trong số các tỉ lệ kiểu hình sau đây, về mặt lí thuyết xuất hiện tỉ lệ kiểu hình nào?",
+    "options": [
+      "A. 1:1:1:1.",
+      "B. 1:2:1.",
+      "C. 1:3.",
+      "D. 100%"
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-17",
+    "examSetId": "bai-17-bo1"
+  },
+  {
+    "type": "mc",
     "content": "Mendel đã chứng minh sự di truyền độc lập của 2 cặp tính trạng ở đậu hà lan trong thí nghiệm của mình bằng cách dựa vào",
     "options": [
       "A. các loại kiểu hình mới biểu hiện ở thế hệ F2.",
@@ -43,10 +159,60 @@
     "examSetId": "bai-17-bo1"
   },
   {
+    "type": "mc",
+    "content": "Cho biết mỗi tính trạng do một gene quy định và trội hoàn toàn. Cho phép lai (P): ♂AaBbddEe × ♀AaBbDdEE thu được F1. Biết không xảy ra hiện tượng đột biến. Theo lí thuyết, ở F1, có bao nhiêu dòng thuần chủng? = 2.2.1.1 = 4",
+    "options": [
+      "A. 2.",
+      "B. 4.",
+      "C. 3.",
+      "D. 1."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-17",
+    "examSetId": "bai-17-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "1 loài hoa giấy, gene A quy định thân cao trội hoàn toàn so với allele a quy định thân thấp; BB quy định hoa đỏ, Bb quy định hoa hồng, bb quy định hoa trắng. Các gene phân li độc lập nhau, quá trình giảm phân diễn ra bình thường. Theo lí thuyết, có bao nhiêu phát biểu sau đây là đúng?",
+    "options": [
+      "A. 1.",
+      "B. 2.",
+      "C. 3.",
+      "D. 4."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-17",
+    "examSetId": "bai-17-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Một loài thực vật, allele A quy định thân cao trội hoàn toàn so với allele a quy định thân thấp, allele B quy định hoa đỏ trội hoàn toàn so với allele b quy định hoa trắng, 2 cặp gene phân li độc lập. Phép lai P: Cây thân cao, hoa đỏ × Cây thân cao, hoa đỏ, thu được F1 chỉ có 1 kiểu hình. Cho F1 giao phấn ngẫu nhiên, thu được F2 có 4 loại kiểu hình. Theo lý thuyết, số cây có 2 allele trội ở F2 chiếm tỉ lệ",
+    "options": [
+      "A. 27/128.",
+      "B. 3/8.",
+      "C. 11/32.",
+      "D. 1/4."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-17",
+    "examSetId": "bai-17-bo1"
+  },
+  {
     "type": "tf",
     "content": "một loài động vật, xét 2 gene, mỗi gene gồm 2 allele (A, a và B, b) nằm trên các cặp nhiễm sắc thể thường khác nhau, biết allele A có tổng số nucleotide là 3000, allele B có tổng số nucleotide là 2000. Hình 4 là đồ thị biểu thị tổng số nucleotide của hai allele trội A và B có trong một tế bào sinh dưỡng lưỡng bội của mỗi cả thể 1, 2, 3, 4, 5, 6 (trong đó gồm bố, mẹ và 4 cá thể con). Biết rằng bộ nhiễm sắc thể của tất cả các cá thể đều bình thường, không có đột biến xảy ra",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -78,7 +244,10 @@
     "type": "tf",
     "content": "Dưới đây là sơ đồ điện di về 2 gene nằm trên 2 cặp NST thường khác nhau, mỗi gene gồm 2 allele (A1 và A2 qui định hình dạng tóc xoăn hoặc thẳng; B và B2 quy định màu mắt đen hoặc nâu) của 6 người được kí hiệu là 1, 2, 3, 4, 5 và 6, trong đó gồm bố, mẹ và 4 người con.",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -110,7 +279,12 @@
     "type": "tf",
     "content": "Hình dưới đây mô tả con đường chuyển hóa phenylalanine liên quan đến ba bệnh chuyển hóa di truyền ở người, gồm phenyl keto niệu (PKU), alcapto niệu (AKU) và bạch tạng. Đột biến lặn ở ba gene phân li độc lập mã hóa ba enzyme tương ứng (enzyme 1-3) dẫn tới tích lũy các chất không được chuyển hóa, có tính độc và gây bệnh (với PKU và AKU) hoặc không tổng hợp được melanine (với bạch tạng).",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -142,7 +316,12 @@
     "type": "tf",
     "content": "Hình dưới đây biểu diễn cho thí nghiệm lại một tính trạng của Mendel. Hãy cho biết mỗi nhận định dưới đây về giải thích kết quả theo quan điểm của Mendel là Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [

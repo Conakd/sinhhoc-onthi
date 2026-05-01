@@ -23,7 +23,7 @@
       "C. NST nhân đôi, sau đó phân chia đồng đều cho hai tế bào con.",
       "D. ở kì sau, các NST tách nhau ra và trượt về hai cực tế bào."
     ],
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-11",
@@ -33,10 +33,12 @@
     "type": "mc",
     "content": "i với cơ thể đơn bào, nguyên phân có ý nghĩa",
     "options": [
-      "A. giúp cơ thể lớn lên.B. giúp cơ thể vận động.",
-      "C. giúp cơ thể sinh sản.D. giúp thực hiện chu kì tế bào."
+      "A. giúp cơ thể lớn lên.",
+      "B. giúp cơ thể vận động.",
+      "C. giúp cơ thể sinh sản.",
+      "D. giúp thực hiện chu kì tế bào."
     ],
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-11",
@@ -61,10 +63,11 @@
     "type": "mc",
     "content": "Tế bào ban đầu có 3 cặp nhiễm sắc thể tương đồng kí hiệu là AaBbDd tham gia nguyên phân. Giả sử nhiễm sắc thể A và b không phân li thì các tế bào con có thành phần nhiễm sắc thể như thế nào?",
     "options": [
-      "A. AaBbDd.B. aBDd.",
+      "A. AaBbDd.",
+      "B. aBDd.",
       "C. AAaBbbDd và aBDdD. AAaBbbDd và aBDd hoặc AAaBDd và aBbbDd."
     ],
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-11",
@@ -74,8 +77,10 @@
     "type": "mc",
     "content": "Một tế bào thực vật có 3 cặp nhiễm sắc thể tương đồng được kí hiệu là AaBbDd. Khi tế bào ở kì giữa nguyên phân thì bộ NST được kí hiệu như thế nào?",
     "options": [
-      "A. Aa Bb Dd.B. AAaa BBbb DDdd.",
-      "C. ABD abd.D. Aa Bb Dd hoặc ABD abd."
+      "A. Aa Bb Dd.",
+      "B. AAaa BBbb DDdd.",
+      "C. ABD abd.",
+      "D. Aa Bb Dd hoặc ABD abd."
     ],
     "correctAnswer": "A",
     "explanation": "",
@@ -87,10 +92,12 @@
     "type": "mc",
     "content": "Hình bên mô tả sự phân bào của một tế bào có bộ NST 2n = 8. Tế bào trong hình bên đang ở giai đoạn nào của quá trình phân bào?",
     "options": [
-      "A. Kì sau của nguyên phân.B. Kì giữa của giảm phân 1.",
-      "C. Kì sau của giảm phân 1.  D. Kì sau của giảm phân 2."
+      "A. Kì sau của nguyên phân.",
+      "B. Kì giữa của giảm phân 1.",
+      "C. Kì sau của giảm phân 1.",
+      "D. Kì sau của giảm phân 2."
     ],
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-11",
@@ -100,10 +107,27 @@
     "type": "mc",
     "content": "Hiện tượng tiếp hợp dẫn đến trao đổi chéo giữa các cromattit của cặp NST tương đồng được diễn ra vào giai đoạn",
     "options": [
-      "A. kì đầu của giảm phân 2.B. kì sau của giảm phân 2.",
-      "C. kì đầu của giảm phân 1.D. kì sau của giảm phân 1."
+      "A. kì đầu của giảm phân 2.",
+      "B. kì sau của giảm phân 2.",
+      "C. kì đầu của giảm phân 1.",
+      "D. kì sau của giảm phân 1."
     ],
-    "correctAnswer": "C",
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-11",
+    "examSetId": "bai-11-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Một tế bào sinh dục chín của một cơ thể động vật có kiểu gene AaBb giảm phân tạo tinh trùng. Một trong các tinh trùng được tạo ra từ tế bào này có kiểu gene là AB. Kiểu gene của 3 tinh trùng còn lại là",
+    "options": [
+      "A. AB, ab và ab.",
+      "B. Ab, Ab và aB.",
+      "C. Ab, aB và ab.",
+      "D. Ab."
+    ],
+    "correctAnswer": "A",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-11",
@@ -118,7 +142,7 @@
       "C. Tế bào mẹ n tạo ra các tế bào con có bộ NST n.",
       "D. Tế bào vi khuẩn tạo ra các tế bào vi khuẩn."
     ],
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-11",
@@ -141,14 +165,59 @@
   },
   {
     "type": "mc",
+    "content": "Một tế bào sinh tinh thuộc cơ thể có kiểu gene AB/ab - giảm phân tạo 2 loại tinh trùng; trong đó có 1 loại tinh trùng là AB. Loại tinh trùng còn lại là",
+    "options": [
+      "A. một trong 3 loại Ab, aB, ab.",
+      "B. Ab.",
+      "C. aB.",
+      "D. ab."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-11",
+    "examSetId": "bai-11-bo1"
+  },
+  {
+    "type": "mc",
     "content": "Hình bên mô tả sự phân bào của một tế bào có bộ NST 2n. Kết thúc lần phân bào này, mỗi tế bào con có bộ NST như thế nào?",
     "options": [
       "A. 2 NST đơn.",
       "B. 4 NST đơn.",
       "C. 4 NST kép.",
-      "D. 8 NST đơn. TB"
+      "D. 8 NST đơn."
     ],
-    "correctAnswer": "B",
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-11",
+    "examSetId": "bai-11-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Một tế bào thực vật có 3 cặp nhiễm sắc thể tương đồng được kí hiệu là AaBbDd thực hiện giảm phân. Khi tế bào ở kì sau II, bộ NST có thể là",
+    "options": [
+      "A. Aa Bb Dd.",
+      "B. AABBDD aabbdd.",
+      "C. ABD abd.",
+      "D. AbD AbD."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-11",
+    "examSetId": "bai-11-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Hình ảnh mô tả chính xác nhất quá trình nào dưới đây?",
+    "options": [
+      "A. Nguyên phân.",
+      "B. Giảm phân.",
+      "C. Trao đổi chéo.",
+      "D. Đột biến."
+    ],
+    "correctAnswer": "C",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-11",
@@ -163,7 +232,7 @@
       "C. Kì giữa 1 giảm phân.",
       "D. Kì sau 2 giảm phân."
     ],
-    "correctAnswer": "D",
+    "correctAnswer": "A",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-11",
@@ -178,7 +247,22 @@
       "C. đóng tháo xoắn có tính chu kì.",
       "D. tập trung về mặt phẳng xích đạo thành một hàng."
     ],
-    "correctAnswer": "B",
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-11",
+    "examSetId": "bai-11-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Hãy sắp xếp các hình bên theo đúng trình tự các giai đoạn trong chu kì tế bào.",
+    "options": [
+      "A. 5, 3, 1, 2, 4.",
+      "B. 3, 1, 4, 2, 5.",
+      "C. 4, 1, 2, 5, 3.",
+      "D. 2, 3, 1, 5, 4,"
+    ],
+    "correctAnswer": "D",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-11",
@@ -188,8 +272,53 @@
     "type": "mc",
     "content": "Cho biết hình ảnh nguyên phân của tế bào rễ hành trong hình bên.",
     "options": [
-      "A. A: Kì đầu; B: Kì giữa; C: Kì cuối; D: Kì sau.B. A: Kì cuối; B: Kì giữa; C: Kì đầu; D: Kì sau.",
-      "C. A: Kì đầu; B: Kì sau; C: Kì cuối; D: Kì giữa.D. A: Kì sau; B: Kì giữa; C: Kì cuối; D: Kì đầu."
+      "A. A: Kì đầu; B: Kì giữa; C: Kì cuối; D: Kì sau.",
+      "B. A: Kì cuối; B: Kì giữa; C: Kì đầu; D: Kì sau.",
+      "C. A: Kì đầu; B: Kì sau; C: Kì cuối; D: Kì giữa.",
+      "D. A: Kì sau; B: Kì giữa; C: Kì cuối; D: Kì đầu."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-11",
+    "examSetId": "bai-11-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Chuỗi trình tự dưới đây mô tả chu kì tế bào nhân thực (G: pha tăng trưởng, S: pha nhân đôi DNA, M: nguyên phân). Những trình tự nào phản ánh chính các chu kì tế bào nhân thực?",
+    "options": [
+      "A. G1-S-G2-Go-M.",
+      "B. Go-G1-S-G2-M.",
+      "C. G1-Go-G2-S-M.",
+      "D. G1-G0-S -G2 -M."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-11",
+    "examSetId": "bai-11-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Cho biểu đồ về sự thay đổi hàm lượng DNA trong tế bào dưới đây. Hãy cho biết pha nhân đôi DNA (pha S) là số mấy?",
+    "options": [
+      "A. 1.",
+      "B. II.С. III.",
+      "D. IV."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-11",
+    "examSetId": "bai-11-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Biểu đồ nào dưới đây cho thấy sự thay đổi tương đối số lượng DNA ti thể (1) và DNA nhân (2) của một tế bào nhân thực trải qua một chu kì tế bào?",
+    "options": [
+      "A. (1): A; (2): C.Β. (1): Α; (2): Β.",
+      "C. (1): B; (2):",
+      "D. (1): C; (2): Ε."
     ],
     "correctAnswer": "A",
     "explanation": "",
@@ -231,7 +360,12 @@
     "type": "tf",
     "content": "Khi nói về trạng thái NST của tế bào, theo lí thuyết, các nhận định sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -263,7 +397,12 @@
     "type": "tf",
     "content": "Một tế bào sinh tinh của cơ thể có kiểu gene AB/ab giảm phân bình thường, không có đột biến. Theo lí thuyết, các nhận định sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -295,7 +434,12 @@
     "type": "tf",
     "content": "Khi nói về giảm phân, các nhận định sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -327,7 +471,12 @@
     "type": "tf",
     "content": "Khi nói về nguyên phân, các nhận định sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -359,7 +508,12 @@
     "type": "tf",
     "content": "Khi quan sát quá trình phần bảo của một tế bào sinh dưỡng ở một loài sinh vật có bộ NST lưỡng bội 2n, một học sinh vẽ lại được sơ đồ với đầy đủ các giai đoạn khác nhau như sau:",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -391,7 +545,12 @@
     "type": "tf",
     "content": "Hình vẽ sau đây mô tả hai tế bào ở hai cơ thể lưỡng bội đang phân bào theo lý thuyết, các nhận định sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -423,7 +582,12 @@
     "type": "tf",
     "content": "gà, một tế bào của cơ thể có kiểu gene AaXBYGg giảm phân bình thường sinh ra giao tử. Các nhận định sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -455,7 +619,12 @@
     "type": "tf",
     "content": "Có 5 tế bào của ruồi giấm có kiểu gene AaBBXY tiến hành giảm phân không đột biến đã tạo ra giao tử ABX chiếm 40%. Theo lí thuyết, các nhận định sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -487,7 +656,12 @@
     "type": "tf",
     "content": "Quan sát quá trình phân bào của 3 tế bào từ khi bắt đầu phân bào cho đến hết một lần phân chia, người ta ghi lại được số liệu về hàm lượng ADN trong nhân mỗi tế bào ở các giai đoạn phân bào như bảng bên. Các nhận định sau đúng hay sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -519,7 +693,12 @@
     "type": "tf",
     "content": "Hình dưới đây mô tả một gian đoạn phân bào của một tế bào nhân thực lưỡng bội. Biết rằng, 4 nhiễm sắc thể đơn trong mỗi nhóm có hình dạng, kích thước khác nhau. các nhận định sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [

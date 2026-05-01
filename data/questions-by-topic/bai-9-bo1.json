@@ -106,6 +106,21 @@
   },
   {
     "type": "mc",
+    "content": "Hình ảnh dưới đây mô tả giai đoạn nào của quá trình tổng hợp chuỗi polypeptide ở sinh vật nhân sơ?",
+    "options": [
+      "A. Hoạt hóa amino acid.",
+      "B. Mở đầu.",
+      "C. Kéo dài.",
+      "D. Kết thúc."
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-9",
+    "examSetId": "bai-9-bo1"
+  },
+  {
+    "type": "mc",
     "content": "Trong bảng mã di truyền, người ta thấy rằng có 4 loại mã di truyền cùng quy định tổng hợp amino acid proline là 5'CCU3'; 5'CCA3'; 5'CCC3'; 5'CCG3'. Từ thông tin này cho thấy việc thay đổi nucleotide nào trên mỗi bộ ba thường không làm thay đổi cấu trúc của amino acid tương ứng trên chuỗi polypeptide.",
     "options": [
       "A. Thay đổi vị trí của tất cả các nucleotide trên một bộ ba.",
@@ -121,10 +136,25 @@
   },
   {
     "type": "mc",
+    "content": "sinh vật nhân thực, nguyên tắc bổ sung giữa G - C, A - U và ngược lại được thể hiện trong cấu trúc phân tử và quá trình nào sau đây?",
+    "options": [
+      "A. (3) và (4).",
+      "B. (1) và (2).",
+      "C. (2) và (4).",
+      "D. (1) và (3)."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-9",
+    "examSetId": "bai-9-bo1"
+  },
+  {
+    "type": "mc",
     "content": "Trong quá trình dịch mã, khi ribosome cuối cùng của polyribosome tiếp xúc với codon kết thúc trên mRNA thì sự kiện nào sau đây sẽ xảy ra ngay sau đó?",
     "options": [
       "A. Quá trình dịch mã của các polyribosome này kết thúc.",
-      "B. Các ribosome ngừng tổng hợp protein và tự phân huỷ. sai",
+      "B. Các ribosome ngừng tổng hợp protein và tự phân huỷ.",
       "C. Ribosome này tách ra khỏi mRNA nhưng các ribosome khác của poli ribosome vẫn tiếp tục dịch mã.  sai",
       "D. Chỉ có một số ribosome ngừng dịch mã, các ribosome khác vẫn tiến hành dịch mã trên mRNA này.  sai"
     ],
@@ -138,8 +168,25 @@
     "type": "mc",
     "content": "Năm 1957, Franken và Conrat đã tiến hành thí nghiệm tách lõi axit nucleoic ra khỏi vỏ protein của chủng virus A và chủng virus B (cả hai chúng đều gây bệnh cho cây thuốc lá nhưng khác nhau ở những vết tổn thương mà chúng gây ra trên lá). Sau đó lấy nucleoic acid của chùng A trộn với protein của chúng B thì chúng sẽ tự lắp ráp để tạo thành virus lai. Nhiễm virus lai này vào các cây thuốc lá chưa bị bệnh thì các cây thuốc lá này bị nhiễm bệnh.",
     "options": [
-      "A. chủng virus lai.B. chủng virus A và chủng virus B.",
-      "C. chủng virus B.D. chủng virus A"
+      "A. chủng virus lai.",
+      "B. chủng virus A và chủng virus B.",
+      "C. chủng virus",
+      "D. chủng virus A"
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-9",
+    "examSetId": "bai-9-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Bảng dưới đây cho biết trình tự nucleotide trên một đoạn ở mạch gốc của vùng mã hóa trên gene quy định protein ở sinh vật nhân sơ và các allele được tạo ra từ gene này do đột biến điểm:",
+    "options": [
+      "A. 1.",
+      "B. 2.",
+      "C. 3.",
+      "D. 4."
     ],
     "correctAnswer": "C",
     "explanation": "",
@@ -169,7 +216,7 @@
       "A. Đầu mút NST (phân tử DNA) dạng mạch thẳng ngắn lại một số nucleotide sau mỗi lần tái bản là cơ chế “đồng hồ phân tử\" thông tin mức độ \"già hóa\" của tế bào và thúc đẩy cơ chế “tế bào chết theo chương trình\" (apotosis), ngăn cản sự phát sinh ung thư.",
       "B. Phân tử DNA dạng mạch thẳng cho phép hệ gene có thể mở rộng kích cỡ, nhưng vẫn biểu hiện được chức năng thông qua các bậc cấu trúc “thu nhỏ” của chất nhiễm sắc nhờ tương tác với các protein histon và các protein phi histon.",
       "C. DNA dạng mạch thẳng tạo điều kiện thuận lợi cho cơ chế tiếp hợp và trao đổi chéo dễ xảy ra, làm tăng khả năng biến dị tổ hợp trong hình thức sinh sản hữu tỉnh ở sinh vật nhân thật.",
-      "D. Gene trên DNA của sinh vật nhân thực dễ được biểu hiện hơn gene trên DNA của sinh vật nhân sơ. sai, gene ở nhân sơ là đơn gene nên dễ biểu hiện ở nhân thực"
+      "D. Gene trên DNA của sinh vật nhân thực dễ được biểu hiện hơn gene trên DNA của sinh vật nhân sơ."
     ],
     "correctAnswer": "D",
     "explanation": "",
@@ -182,11 +229,11 @@
     "content": "Nghiên cứu ba protein: Protein A, Protein B, Protein C - với vai trò tiềm năng trong sửa sai phiên mã ở các tế bào động vật có vú. Người ta thực hiện một thí nghiệm để xác định sự tương tác giữa DNA và protein dựa trên sự di chuyển (phương pháp EMSA). Dữ liệu được hiển thị bên dưới. Tất cả các phản ứng chứa đệm liên kết và đoạn DNA có đánh dấu bao gồm trình tự gắn với vị trí liên kết DNA đối với Protein, với DNA là một gene của động vật có vú. Protein được tỉnh sạch và thêm vào ở các mẫu thí nghiệm khác nhau.",
     "options": [
       "A. Protein A có khả năng gắn kết trực tiếp với DNA.  đúng vì ở lần 4 Pro A liên kế với DNA nên có hiện trong gel điện di",
-      "B. Ở lần số 5 (có proetin A và B) xuất hiện thêm 1 băng nằm gần cực âm hơn chứng tỏ bằng đó gồm protein A + B.  đúng",
+      "B. Ở lần số 5 (có proetin A và B) xuất hiện thêm 1 băng nằm gần cực âm hơn chứng tỏ bằng đó gồm protein A +",
       "C. Phức hợp proetin A và B có thể là phức hợp hoạt hóa bằng cách tăng ái lực với RNA polymerase hoặc các yếu tố phiên mã làm tăng biểu hiện của gene. đúng",
-      "D. B là chất kích thích phiên mã nhưng B không tự gắn được vào DNA mà cần A để liên kết được với DNA.  đúng Chỉ bổ sung B nhưng ko hiện trên gel chứng tỏ B ko liên kết với DNA Chỉ bổ sung B nhưng ko hiện trên gel chứng tỏ B ko liên kết với DNA Của B +A +DNA Của B +A +DNA Của A +DNA Của A +DNA Chỉ bổ sung C nhưng ko hiện trên gel chứng tỏ C ko liên kết với DNA"
+      "D. B là chất kích thích phiên mã nhưng B không tự gắn được vào DNA mà cần A để liên kết được với DNA.  đúng"
     ],
-    "correctAnswer": "A",
+    "correctAnswer": "B",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-9",
@@ -196,12 +243,12 @@
     "type": "mc",
     "content": "Khi nói về các đặc điểm cấu tạo hóa học của DNA cho thấy DNA ưu việt hơn RNA trong vai trò là “vật chất mang thông tin di truyền\", trong các phát biểu dưới đây, phát biểu nào sai?",
     "options": [
-      "A. RNA có thành phần đường là ribose khác với thành phần đường của DNA là deoxyribose. Đường deoxyribose không có gốc -OH ở vị trí C2', đây là gốc hóa học phản ứng mạnh và có tính ưa nước RNA kém bền hơn DNA trong môi trường nước.",
+      "A. RNA có thành phần đường là ribose khác với thành phần đường của DNA là deoxyribose.",
       "B. Thành phần bazo của RNA là uracil (U) được thay thế bằng thymine (T) trong DNA. Về cấu trúc hóa học, T khác U vì được bổ sung thêm gốc metyl (-CH3). Đây là gốc kị nước, kết hợp với cấu trúc dạng sợi kép giúp phân tử DNA bền hơn RNA.",
       "C. DNA thường có cấu trúc dạng sợi kép (2 mạch), trong khi RNA thường có cấu trúc mạch đơn giúp các cơ chế sửa chữa DNA diễn ra dễ dàng hơn - thông tin di truyền ít có xu hướng tự biến đổi hơn.",
       "D. RNA có khuynh hưởng lưu giữ thông tin bền vững hơn.  sai, cấu trúc mạch kép và sự có mặt của T giúp cấu trúc DNA bền vững hơn."
     ],
-    "correctAnswer": "D",
+    "correctAnswer": "A",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-9",
@@ -211,7 +258,7 @@
     "type": "mc",
     "content": "Khi nói về điều hòa hoạt động gene, trong các phát biểu dưới đây, phát biểu nào sai?",
     "options": [
-      "A. Ở sinh vật nhân thực, một số gene được biểu hiện cùng lúc là do có chung promoter nén được phiên mã thành một RNA sơ cấp, sau đó hoàn thiện thành các mRNA giống nhau. sai, ở nhân thực mỗi gene có 1 promoter riêng và có một cơ chế điều hoà riêng và tổng hợp 1 mRNA khác nhau.",
+      "A. Ở sinh vật nhân thực, một số gene được biểu hiện cùng lúc là do có chung promoter nén được phiên mã thành một RNA sơ cấp, sau đó hoàn thiện thành các mRNA giống nhau.",
       "B. Các gene khác nhau nhưng có thể cùng được phiên mã một lần là do chúng có các trình tự điều khiển ở vùng điều hòa giống nhau nên có thể liên kết được với một tổ hợp các yếu t điều hòa phiên mã như nhau.",
       "C. Bằng cách giải trình tự hệ gene người ta có thể biết được chính xác nhóm gene được biểu hiện theo cơ chế nào.",
       "D. Tách chiết RNA sơ khai rồi lai với các đoạn dò đặc hiệu của từng gene. Nếu một RNA có thể lai với nhiều đoạn dò khác nhau của các gene khác nhau thì chứng tỏ chúng được điều hòa do có chung một promoter."
@@ -226,7 +273,12 @@
     "type": "tf",
     "content": "Người ta tiến hành hai thí nghiệm để tổng hợp DNA như sau:",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -258,7 +310,12 @@
     "type": "tf",
     "content": "Hoạt tính của một enzyme X trong tế bào E. Coli kiểu dại được nghiên cứu khi tế bào sinh trưởng trong môi trường có hoặc không có mặt hợp chất A. Các nghiên cứu tương tự cũng được tiến hành với hai đột biến: đột biến 1 và đột biến 2 đã được phân lập. Kết quả nghiên cứu được tóm tắt trong biểu đồ hình bên. Hơn nữa, các thí nghiệm đã được thực hiện để phân tích mức độ phiên mã của gene mã hóa gene enzyme X bằng phương pháp thẩm tách Bắc (Northern hybridizations) kết quả thể hiện trong hình bên.",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -290,7 +347,12 @@
     "type": "tf",
     "content": "Hình dưới đây biểu diễn một vùng các trình tự liên quan đến operon arabinose ở vi khuẩn E. coli, gồm gene araC và các vùng O2, I1, I2, pBAD (promoter của operon araBAD) và vùng mã hóa của các gene cấu trúc araBAD. Sự biểu hiện của các gene thuộc operon araBAD tăng lên khoảng 500 lần khi E. coli được nuôi trên môi trường có nguồn carbon là arabinose. Sự biểu hiện này phụ thuộc vào sản phẩm protein AraC do gene araC mã hóa. Để nghiên cứu chức năng của protein AraC, người ta tạo các dòng E. coli đột biến ở gene araC và các vùng O2, I1 và I2. Ảnh hưởng của các đột biến này đối với sự biểu hiện của araBAD được trình bày ở Bảng 1.",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [

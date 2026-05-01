@@ -1,10 +1,27 @@
 [
   {
     "type": "mc",
+    "content": "Quá trình nào sau đây không diễn ra theo nguyên tắc bổ sung thì sẽ phát sinh đột biến gene?",
+    "options": [
+      "A. Nhân đôi DNA.",
+      "B. Dịch mã.",
+      "C. Phiên mã.",
+      "D. Điều hòa hoạt động gene."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-7",
+    "examSetId": "bai-7-bo1"
+  },
+  {
+    "type": "mc",
     "content": "Dạng đột biến nào sau đây làm cho gene ban đầu ít hơn gene đột biến 2 liên kết hydrogen?",
     "options": [
-      "A. Mất một cặp A - Τ.B. Thay thế cặp G - C bằng cặp A - T.",
-      "C. Thay thế cặp A - T bằng cặp G - C.D. Thêm một cặp A - T."
+      "A. Mất một cặp A - Τ.",
+      "B. Thay thế cặp G - C bằng cặp A - T.",
+      "C. Thay thế cặp A - T bằng cặp G -",
+      "D. Thêm một cặp A - T."
     ],
     "correctAnswer": "A",
     "explanation": "",
@@ -31,10 +48,27 @@
     "type": "mc",
     "content": "Nếu có một Nitrogenous base dạng hiếm tham gia vào quá trình nhân đôi của một phân tử DNA thì có thể phát sinh dạng đột biến nào sau đây?",
     "options": [
-      "A. Thay thế một cặp nucleotide.B. Mất một cặp nucleotide.",
-      "C. Thêm một cặp nucleotide.D. Đảo một cặp nucleotide."
+      "A. Thay thế một cặp nucleotide.",
+      "B. Mất một cặp nucleotide.",
+      "C. Thêm một cặp nucleotide.",
+      "D. Đảo một cặp nucleotide."
     ],
     "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-7",
+    "examSetId": "bai-7-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Dạng đột biến thay thế cặp nucleotide do trong cấu trúc DNA có Nitrogenous base dạng hiếm có thể xảy ra thông qua ít nhất mấy lần nhân đôi?",
+    "options": [
+      "A. 1 lần.",
+      "B. 2 lần.",
+      "C. 3 lần.",
+      "D. 4 lần."
+    ],
+    "correctAnswer": "B",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-7",
@@ -47,7 +81,7 @@
       "A. Gene đã bị đột biến thay thế 1 cặp nucleotide C - G bằng cặp T - A.",
       "B. Dạng đột biến gene này được gọi là đột biến sai nghĩa.",
       "C. Đột biến đã xảy ra ở cặp nucleotide thứ 10 của gene.",
-      "D. Đột biến đã làm mã di truyền từ vị trị đột biến trở về sau bị thay đổi. TL: ĐB thuộc dạng thay thế 1 cặp nu (vị trí số 10) nên chỉ làm thay đôi tối đa 1 a.a"
+      "D. Đột biến đã làm mã di truyền từ vị trị đột biến trở về sau bị thay đổi."
     ],
     "correctAnswer": "D",
     "explanation": "",
@@ -62,7 +96,7 @@
       "A. Allele B ít hơn allele b một liên kết hydrogen.",
       "B. Dạng đột biến này còn gọi là đột biến sai nghĩa.",
       "C. Đột biến xảy ra có thể làm thay đổi chức năng của protein và biểu hiện ra ngay thành kiểu hình ở cơ thể sinh vật.",
-      "D. Chuỗi polypeptide do allele b quy định tổng hợp dài hơn chuỗi polypeptide do allele B quy định tổng hợp. TL: Đột biến thuộc dạng thay thế 1 cặp GC bằng 1 cặp AT nên làm giảm 1 LK H"
+      "D. Chuỗi polypeptide do allele b quy định tổng hợp dài hơn chuỗi polypeptide do allele B quy định tổng hợp."
     ],
     "correctAnswer": "A",
     "explanation": "",
@@ -76,7 +110,7 @@
     "options": [
       "A. Chất 5-BU có thể làm thay đổi toàn bộ các bộ ba từ vị trí đột biến đến cuối gene.",
       "B. Dạng đột biến này làm tăng 1 liên kết hydro. (vì làm thay thế 1 cặp A bằng 1 cặp GC)",
-      "C. Sau khi chất 5-BU bắt cặp với A thì cần 2 lần nhân đôi mới làm xuất hiện cặp G - C. ( đúng là 3 lần)",
+      "C. Sau khi chất 5-BU bắt cặp với A thì cần 2 lần nhân đôi mới làm xuất hiện cặp G -",
       "D. Chất 5-BU có thể làm biến đổi A - T thành G - C và ngược lại."
     ],
     "correctAnswer": "B",
@@ -94,7 +128,7 @@
       "C. Hồng cầu hình liềm có khả năng vận chuyển khí oxygene tốt hơn so với hồng cầu bình thường nhưng gây tắc mạch máu.",
       "D. Đột biến trên không gây hậu quả nghiêm trọng vì chỉ thay thế cặp nucleotide cùng loại A - T thành T - A."
     ],
-    "correctAnswer": "A",
+    "correctAnswer": "B",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-7",
@@ -107,7 +141,7 @@
       "A. Bệnh do ứ đọng phenylalanine trong máu gây đầu độc thần kinh.",
       "B. Bệnh có thể được điều trị nếu được phát hiện sớm và có chế độ ăn hợp lí.",
       "C. Bệnh do đột biến gene lặn gây ra làm mất chức năng của gene.",
-      "D. Bệnh có mức độ biểu hiện ở hai giới là khác nhau. sai, gene gây bệnh nằm trên NST thường"
+      "D. Bệnh có mức độ biểu hiện ở hai giới là khác nhau."
     ],
     "correctAnswer": "D",
     "explanation": "",
@@ -119,12 +153,42 @@
     "type": "mc",
     "content": "Cho sơ đồ về hoạt động của operon Lac:",
     "options": [
-      "A. Nếu đột biến xảy ra ở vùng vận hành O sẽ làm cho các gene cấu trúc không được phiên mã. sai, gene sẽ luôn phiêm mã",
-      "B. Đột biến ở gene cấu trúc lạc Z làm ảnh hưởng đến quá trình phiên mã của gene này và các gene lac Y, lac A. sai, ĐBG không ảnh hưởng đến phiên mã",
-      "C. Nếu đột biến ở gene cấu trúc lac Z làm có thể làm thay đổi cấu trúc các protein của cả ba gene. sai, chỉ làm thay đổi cấu trúc Pr do gene lac Z mã hoá",
-      "D. Đột biến xảy ra ở vùng khởi động P có thể làm thay đổi khả năng phiên mã của các gene lac Z, lac Y, lac A. đúng, ĐB vùng P làm cả 3 gene không được phiên mã."
+      "A. Nếu đột biến xảy ra ở vùng vận hành O sẽ làm cho các gene cấu trúc không được phiên mã.",
+      "B. Đột biến ở gene cấu trúc lạc Z làm ảnh hưởng đến quá trình phiên mã của gene này và các gene lac Y, lac A.",
+      "C. Nếu đột biến ở gene cấu trúc lac Z làm có thể làm thay đổi cấu trúc các protein của cả ba gene.",
+      "D. Đột biến xảy ra ở vùng khởi động P có thể làm thay đổi khả năng phiên mã của các gene lac Z, lac Y, lac A."
     ],
-    "correctAnswer": "A",
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-7",
+    "examSetId": "bai-7-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "một loài thực vật, allele A quy định hoa đỏ, allele a quy định hoa trắng. Mức độ đậm nhạt của màu hoa phụ thuộc vào lượng sản phẩm của gene A, nếu càng nhiều sản phẩm thì hoa cảng đỏ. Người ta quan sát thấy trên các cây khác nhau trong cùng một khu vườn có nhiều màu hoa khác nhau, có cây cho hoa màu trắng, có cây hoa đỏ nhạt, có cây hoa đỏ đậm hơn. Cho rằng sự biểu hiện của gene qui định màu hoa không chịu ảnh hưởng của môi trường. Theo lí thuyết, bao nhiêu phát biểu sau đây đúng?",
+    "options": [
+      "A. 1.",
+      "B. 2.",
+      "C. 3.",
+      "D. 4."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-7",
+    "examSetId": "bai-7-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Xét một chủng vi khuẩn E. Coli kiểu dại (bình thường) và ba chủng đột biến. Người ta phân tích mức độ hoạt động của operon Lac thông qua lượng mRNA của các gene cấu trúc được tạo ra trong trường hợp không có lactose và có lactose, số liệu được mô tả trong bảng dưới đây.",
+    "options": [
+      "A. 1.",
+      "B. 2.",
+      "C. 3.",
+      "D. 4."
+    ],
+    "correctAnswer": "D",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-7",
@@ -134,10 +198,27 @@
     "type": "mc",
     "content": "Mạch gốc của gene là 3'TAC CCC TTT AAA CGC AAC CTT ATC5' mã hóa 7 amino acid. Do đột biến điểm, chuỗi polypeptide chỉ có 5 amino acid. Đột biến đó có thể là",
     "options": [
-      "A. Thay thế cặp T - A thành cặp A - T.B. Thay thế cập G - C thành cặp A - Т.",
-      "C. Thay thế cặp A - T bằng cặp T - A.D. Thay thế cặp A - T bằng cặp G - C. TL: ĐB tạo bb kết thúc sớm"
+      "A. Thay thế cặp T - A thành cặp A - T.",
+      "B. Thay thế cập G - C thành cặp A - Т.",
+      "C. Thay thế cặp A - T bằng cặp T -",
+      "D. Thay thế cặp A - T bằng cặp G - C."
     ],
-    "correctAnswer": "C",
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-7",
+    "examSetId": "bai-7-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Một chủng E.coli kiểu dại bị đột biến điểm 3 lần đã tạo ra ba chúng E.coli đột biến 1, 2, 3. Cho bảng sau khi phân tích cấu trúc phân tử của 1 đoạn mRNA cho các chủng đột biến và gene này mã hóa như sau:",
+    "options": [
+      "A. 3.",
+      "B. 1.",
+      "C. 4.",
+      "D. 2."
+    ],
+    "correctAnswer": "A",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-7",
@@ -147,10 +228,12 @@
     "type": "mc",
     "content": "Cho biết trình tự nucleotide của gene bình thường và gene đột biến:",
     "options": [
-      "A. Mất 2 cặp nucleotide.B. Thay thế 1 cặp nucleotide.",
-      "C. Thêm 1 cặp nucleotide.D. Mất 1 cặp nucleotide."
+      "A. Mất 2 cặp nucleotide.",
+      "B. Thay thế 1 cặp nucleotide.",
+      "C. Thêm 1 cặp nucleotide.",
+      "D. Mất 1 cặp nucleotide."
     ],
-    "correctAnswer": "A",
+    "correctAnswer": "B",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-7",
@@ -175,7 +258,12 @@
     "type": "tf",
     "content": "Nhằm xác định các gene tham gia vào con đường sinh tổng hợp Phenylalanine ở nấm đơn bội Neurospora, người ta đã phân lập được ba chủng đột biến đơn gene cần có Phenylalanine để sinh trưởng. Các chủng đột biến này thể hiện khả năng mọc khác nhau trong các môi trường nuôi cấy có bổ sung các chất nằm trong chuỗi sinh tổng hợp Phenylalanine (Bảng 1). Biết rằng, các gene bị đột biến nằm trên các NST khác nhau. Các nhận định dưới đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -207,7 +295,12 @@
     "type": "tf",
     "content": "Hình bên mô tả mối quan hệ giữa gene - RNA và tính trạng: Cho biết bộ ba UUC mã hóa cho amino acid Phe (Phenylalanine), bộ ba UAA, UAG, UGA là bộ ba kết thúc. Các phát biểu sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -239,7 +332,12 @@
     "type": "tf",
     "content": "một loài động vật có vú, gene X mã hóa cho protein X có chức năng tổng hợp sắc tố đen, làm cho mắt, lông đều có màu đen. Trong quá trình phát triển của cá thể, nếu ở giai đoạn phôi bị nhiễm một trong các hóa chất A, B, C thì phôi sẽ phát triển thành cá thể bị bạch tạng (không có khả năng tổng hợp sắc tố đen). Để nghiên cứu tác động của các hóa chất A, B, C, người ta tiến hành xử lí các phôi bằng từng loại hóa chất riêng biệt, sau đó kiểm tra sự có mặt của gene X, của mRNA và của protein trong tế bào phôi. Kiểu hình của các cá thể con sinh ra từ những phôi này cũng được quan sát. Kết quả thu được ở Bảng 2. Phôi đối chứng không được xử lí hóa chất.",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -271,7 +369,12 @@
     "type": "tf",
     "content": "Một nhà di truyền đã phân lập được 5 dòng đột biến khuyết dưỡng khác nhau ở vi khuẩn. Để sinh trường được tất cả đều cần chất G. Các hợp chất A, B, C, D, E thuộc con đường tổng hợp chất G, nhưng chưa biết thứ tự. Các đột biến (từ 1 đến 5) đã được sử dụng để xác định thứ tự và vai trò của mỗi đột biến bằng cách bổ sung các chất cần thiết cho sự sinh trưởng của chúng. Dấu (+) thể hiện dòng đột biến sinh trường được khi bổ sung chất tương ứng vào môi trường, dấu (-) thể hiện dòng đột biến không sinh trưởng. Kết quả thí nghiệm như sau:",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -303,7 +406,9 @@
     "type": "tf",
     "content": "Cho biết các codon mã hóa một số loại amino acid như sau:",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [

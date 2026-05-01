@@ -1,6 +1,50 @@
 [
   {
     "type": "mc",
+    "content": "Một loài thực vật có bộ NST lưỡng bội 2n. Thể ba thuộc loài này có bộ NST là",
+    "options": [
+      "A. 2n-1.",
+      "B. 3n",
+      "C. 2n + 1",
+      "D. 4n."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-14",
+    "examSetId": "bai-14-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "sinh vật lưỡng bội, thể đột biến nào sau đây mang bộ nhiễm sắc thể 2n – 1?",
+    "options": [
+      "A. Thể tam bội.",
+      "B. Thể ba",
+      "C. Thế tứ bội.",
+      "D. Thể một."
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-14",
+    "examSetId": "bai-14-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Cơ thể sinh vật có bộ NST nào sau đây là thể đa bội?",
+    "options": [
+      "A. 2n + 1",
+      "B. 2n.",
+      "C. 2n – 1D. 4n"
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-14",
+    "examSetId": "bai-14-bo1"
+  },
+  {
+    "type": "mc",
     "content": "Hình ảnh minh họa sau thuộc dạng đột biến nào?",
     "options": [
       "A. Tam bội.",
@@ -18,8 +62,40 @@
     "type": "mc",
     "content": "t biến NST gồm những dạng nào sau đây?",
     "options": [
-      "A. Đột biến lệch bội và đột biến đa bội. B. Đột biến cấu trúc NST và số lượng NST",
-      "C. Đột biến tự đa bội và dị đa bội. D. Đột biến đa bội chẵn và đa bội lẻ."
+      "A. Đột biến lệch bội và đột biến đa bội.",
+      "B. Đột biến cấu trúc NST và số lượng NST",
+      "C. Đột biến tự đa bội và dị đa bội.",
+      "D. Đột biến đa bội chẵn và đa bội lẻ."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-14",
+    "examSetId": "bai-14-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Sử dụng colchicin để gây đột biến đa bội hoá thì phải tác động vào pha nào của chu kì tế bào?",
+    "options": [
+      "A. Pha S",
+      "B. Pha G.",
+      "C. Pha G2.",
+      "D. Pha M."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-14",
+    "examSetId": "bai-14-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Người đàn ông bị hội chứng Down có bộ NST kì hiệu",
+    "options": [
+      "A. 45 + XY",
+      "B. 45 + XX",
+      "C. 0.44 + XX",
+      "D. 44 + XY"
     ],
     "correctAnswer": "A",
     "explanation": "",
@@ -29,12 +105,72 @@
   },
   {
     "type": "mc",
-    "content": "Phương pháp tạo thể đa bội phù hợp nhất với loại đối tượng",
+    "content": "Hội chứng nào dưới đây là thế một?",
     "options": [
-      "A. Vật nuôi, sinh sản. B. Vật nuôi lấy sữa.",
-      "C. Cây trồng lấy hạt. D. Cây trồng để thu hoạch thân, lá. ĐB đa bội: không áp dụng với động vật; ĐB lẻ không áp dụng với cây lấy hạt."
+      "A. Turner (XO)B. Klinefelter.(XXY)",
+      "C. Siêu nữ.(XXX)",
+      "D. Down (2n = 47)"
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-14",
+    "examSetId": "bai-14-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Cho hai cây lưỡng bội có kiểu gene AA và aa lai với nhau được F1. Trong lần nguyên phân đầu tiên của hợp tử F1 đã xảy ra đột biến tứ bội hoá. Kiểu gene của các cơ thể đa bội này là",
+    "options": [
+      "A. AAAA.  В. AAAа.",
+      "C. AAaa.",
+      "D. aaaa"
     ],
     "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-14",
+    "examSetId": "bai-14-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Một loài thực vật có 3 cặp nhiễm sắc thể được kí hiệu là Aa, Bb và DD. Trong các cơ thể có bộ nhiễm sắc thể sau đây, có bao nhiêu thể đa bội?",
+    "options": [
+      "A. 3.",
+      "B. 2.",
+      "C. 1.",
+      "D. 4."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-14",
+    "examSetId": "bai-14-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Phương pháp gây đột biến tạo thể đa bội lẻ thường không được áp dụng với các giống cây trồng thu hoạch chủ yếu từ",
+    "options": [
+      "A. rễ củ.",
+      "B. thân.",
+      "C. hạt.",
+      "D. lá"
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-14",
+    "examSetId": "bai-14-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Phương pháp tạo thể đa bội phù hợp nhất với loại đối tượng",
+    "options": [
+      "A. Vật nuôi, sinh sản.",
+      "B. Vật nuôi lấy sữa.",
+      "C. Cây trồng lấy hạt.",
+      "D. Cây trồng để thu hoạch thân, lá."
+    ],
+    "correctAnswer": "D",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-14",
@@ -59,10 +195,42 @@
     "type": "mc",
     "content": "Một loài thực vật có bộ NST lưỡng bội 2n, hợp tử được hình thành trong trường hợp nào sau đây có thể phát triển thành thể một",
     "options": [
-      "A. Giao tử (n) kết hợp với giao tử (n + 1). B. Giao tử (n) kết hợp với giao tử (n-1).",
-      "C. Giao tử (n) kết hợp với giao tử (2n). D. Giao tử (2n) kết hợp với giao tử (2n)."
+      "A. Giao tử (n) kết hợp với giao tử (n + 1).",
+      "B. Giao tử (n) kết hợp với giao tử (n-1).",
+      "C. Giao tử (n) kết hợp với giao tử (2n).",
+      "D. Giao tử (2n) kết hợp với giao tử (2n)."
     ],
-    "correctAnswer": "A",
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-14",
+    "examSetId": "bai-14-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Ruồi giấm có bộ NST 2n  = 8. Bằng phương pháp tế bào học, người ta xác định được 1 cá thể thuộc loài này có bộ NST gồm 9 chiếc, trong đó có 1 cặp gồm 3 chiếc. Cá thể này thuộc thể đột biến nào?",
+    "options": [
+      "A. Thể một",
+      "B. Thể tứ bội",
+      "C. Thể ba",
+      "D. Thế tam bội"
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-14",
+    "examSetId": "bai-14-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Tiến hành đa bội hóa các tế bào sinh dưỡng của một loài thực vật có bộ NST lưỡng bội (2n). Theo lí thuyết, có thể thu được những loại tế bào chứa bộ NST là",
+    "options": [
+      "A. 6n, 8n.",
+      "B. 4n, 8n.",
+      "C. 4n, 6n.",
+      "D. 3n, 40."
+    ],
+    "correctAnswer": "B",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-14",
@@ -85,12 +253,56 @@
   },
   {
     "type": "mc",
+    "content": "thể đột biến nào sau đây, số lượng NST có trong mỗi tế bào sinh dưỡng là một số chẵn",
+    "options": [
+      "B. Lệch bội dạng thể ba (lẻ)",
+      "C. Thể song nhị bội",
+      "D. Thể tam bội. (lẻ hoặc chẵn)"
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-14",
+    "examSetId": "bai-14-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Một loài có 3 cặp nhiễm sắc thể được kí hiệu là  Aa, Bb, Dd. Cơ thể có bộ nhiễm sắc thể nào sau đây là thế một?",
+    "options": [
+      "A. AaBbDd",
+      "B. AaBbDddd",
+      "C. AaBbbDd",
+      "D. ABbDd"
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-14",
+    "examSetId": "bai-14-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Dùng colchicin xử lí hợp tử có kiểu gene AaBb, sau đó cho phát triển thành cây 4n hoàn chỉnh. Theo lí thuyết, thể tứ bội thu được có kiểu gene",
+    "options": [
+      "A. AAAaBBbB.",
+      "B. AAaaBbbB.",
+      "C. AAaaBBbb",
+      "D. AaaaBBbb"
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-14",
+    "examSetId": "bai-14-bo1"
+  },
+  {
+    "type": "mc",
     "content": "Phát biểu nào sau đây về đột biến lệch bội là sai?",
     "options": [
       "A. Đột biến lệch bội xảy ra ở các cặp NST thường và cặp NST giới tính",
       "B. Đột biến lệch bội thường gây chết và giảm sức sức sống, khả năng sinh sản tùy loài",
       "C. Ở cả độc được đã phát hiện được lệch bội ở cả 12 cặp NST tương đồng.",
-      "D. Thường xảy ra ở thực vật mà không gặp ở động vật. ít xảy ra với ĐV vì lệch bội thường gây chết hay giảm sức sống"
+      "D. Thường xảy ra ở thực vật mà không gặp ở động vật."
     ],
     "correctAnswer": "D",
     "explanation": "",
@@ -117,12 +329,26 @@
     "type": "mc",
     "content": "Khi nói về hậu quả của đột biến lệch bội, phát biểu sau đây đúng?",
     "options": [
-      "A. Tỷ lệ sảy thai tự nhiên ở người có bất thường NST thì thể một cao hơn thể ba sai, thể 3 cao hơn thể 1, vì thể 1 gây thiếu gene nên thường chết",
+      "A. Tỷ lệ sảy thai tự nhiên ở người có bất thường NST thì thể một cao hơn thể ba",
       "B. Người mắc hội chứng Down có 1 NST số 21.  sai, đúng là có 3 NST 21",
       "C. Đột biến lệch bội không làm mất cân bằng hệ gene  sai, có gây mất cân bằng hệ gene",
       "D. Ở thực vật cũng đã gặp các lệch bội, đặc biệt ở chi Cà và chi Lúa  đúng"
     ],
-    "correctAnswer": "B",
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-14",
+    "examSetId": "bai-14-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Khi nói về đột biến lệch bội, có bao nhiêu phát biểu sau đây đúng?",
+    "options": [
+      "A. 1.",
+      "B. 2",
+      "C. 3D. 4."
+    ],
+    "correctAnswer": "C",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-14",
@@ -132,7 +358,12 @@
     "type": "tf",
     "content": "Sau khi quan sát bộ nhiễm sắc thể dưới tiêu bản hiển vi, một bạn học sinh mô tả về bộ nhiễm sắc thể của người theo hình ảnh dưới đây: Hãy cho biết, kết luận sau đây là Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -164,7 +395,12 @@
     "type": "tf",
     "content": "Cho hình ảnh về một giai đoạn trong quá trình phân bào của một tế bào lưỡng bội 2n bình thường (tế bào A) trong cơ thể đực ở một loài. Biết đột biến nếu có chỉ xảy ra 1 lần. Theo lý thuyết, mỗi nhận định sau Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -196,7 +432,12 @@
     "type": "tf",
     "content": "Quan sát quá trình phân bào của một tế bào, người ta đo được hàm lượng DNA trong mỗi tế bào qua các giai đoạn được thể hiện ở biểu đồ như hình bên. Theo lý thuyết, hãy xác định mỗi nhận định dưới đây là Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -228,7 +469,12 @@
     "type": "tf",
     "content": "Khi nói về đột biến số lượng nhiễm sắc thể, các nhận định sau đây Đúng hay sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -260,7 +506,12 @@
     "type": "tf",
     "content": "Khi nói về đột biến lệch bội, các nhận định sau đây Đúng hay sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [

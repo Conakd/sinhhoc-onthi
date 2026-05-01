@@ -19,7 +19,7 @@
     "content": "Khi nói về đột biến cấu trúc nhiễm sắc thể, phát biểu nào sau đây sai?",
     "options": [
       "A. Mất đoạn nhiễm sắc thể có thể làm thay đổi số lượng và thành phần gene của nhiễm sắc thể.",
-      "B. Chuyển đoạn tương hỗ không làm thay đổi số lượng và thành phần gene của nhiễm sắc thể. chuyển đoạn tương hỗ là hiện tượng 2 NST trao đổi đoạn cho nhau nên vị trí, số lượng và thành gene trên NST sẽ bị thay đổi.",
+      "B. Chuyển đoạn tương hỗ không làm thay đổi số lượng và thành phần gene của nhiễm sắc thể.",
       "C. Đột biến cấu trúc nhiễm sắc thể xảy ra ở cả nhiễm sắc thể thường và nhiễm sắc thể giới tính.",
       "D. Chuyển đoạn có thể làm cho gene từ nhóm liên kết nảy sang nhóm liên kết khác."
     ],
@@ -34,7 +34,7 @@
     "content": "Khi nói về đột biến đa bội, phát biểu nào sau đây không đúng?",
     "options": [
       "A. Những giống cây ăn quả không hạt như nho, dưa hấu thường là tự đa bội lẻ.",
-      "B. Hiện tượng tự đa bội khá phổ biến ở động vật trong khi ở thực vật là tương đối hiếm. sai, tự đa bội phổ biến ở thực vật hơn động vật vì ở động vật đột biến thường gây chết",
+      "B. Hiện tượng tự đa bội khá phổ biến ở động vật trong khi ở thực vật là tương đối hiếm.",
       "C. Quá trình tổng hợp các chất hữu cơ trong tế bào đa bội xảy ra mạnh mẽ hơn so với trong tế bào lưỡng bội.",
       "D. Các thể tự đa bội lẻ (3n, 5n,...) hầu như không có khả năng sinh giao tử bình thường."
     ],
@@ -46,12 +46,88 @@
   },
   {
     "type": "mc",
+    "content": "Bộ NST lưỡng bội bình thường của một loài có 12 NST, trong tế bào cá thể chỉ có 1 NST ở cặp thứ 4, có thể đó là thể đột biến dạng",
+    "options": [
+      "A. thể một.",
+      "B. Bộ tam bội.",
+      "C. đa bội lẻ.",
+      "D. dị đa bội."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-15",
+    "examSetId": "bai-15-bo1"
+  },
+  {
+    "type": "mc",
     "content": "Cho các đặc điểm sau:",
     "options": [
-      "A. 1-c, 2-d, 3-b, 4-a B. 1-b, 2-d, 3-c, 4-a",
+      "A. 1-c, 2-d, 3-b, 4-a",
+      "B. 1-b, 2-d, 3-c, 4-a",
       "C. 1-a, 2-c, 3-d, 4-bD. 1-d, 2-c, 3-b, 4-a"
     ],
     "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-15",
+    "examSetId": "bai-15-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Khi nói về đột biến số lượng nhiễm sắc thể có các phát biểu sau:",
+    "options": [
+      "A. 2.",
+      "B. 4.",
+      "C. 3.",
+      "D. 1."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-15",
+    "examSetId": "bai-15-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Loại cá thể tứ bội có kiểu gene BBbb được xuất hiện do sự chi phối của cơ chế nào sau đây?",
+    "options": [
+      "A. 2.",
+      "B. 3.",
+      "C. 4.",
+      "D. 1."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-15",
+    "examSetId": "bai-15-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Quan sát quá trình phân bào của một tế bào sinh tinh (Y) và một tế bào sinh trứng(X) ở một loài động vật (2n = 4) dưới kính hiển vi với độ phóng đại như nhau, người ta ghi nhận một số sự kiện xảy ra ở hai tế bào này như sau:",
+    "options": [
+      "A. 1.",
+      "B. 2.",
+      "C. 3.",
+      "D. 4."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-15",
+    "examSetId": "bai-15-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Hình về sau mô tả dạng đột biến cấu trúc nhiễm sắc thể nào?",
+    "options": [
+      "A. Đảo đoạn.",
+      "B. Lặp đoạn.",
+      "C. Chuyển đoạn.",
+      "D. Mất đoạn."
+    ],
+    "correctAnswer": "A",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-15",
@@ -73,10 +149,74 @@
     "examSetId": "bai-15-bo1"
   },
   {
+    "type": "mc",
+    "content": "Có bao nhiêu đặc điểm trong các đặc điểm sau chỉ có ở thể đột biến đảo đoạn NST mà không có ở thể đột biến chuyển đoạn tương hỗ?",
+    "options": [
+      "A. 3.",
+      "B. 2.",
+      "C. 4.",
+      "D. 1."
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-15",
+    "examSetId": "bai-15-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Cho các bệnh, tật và hội chứng di truyền sau đây ở người:",
+    "options": [
+      "A. 2.",
+      "B. 1.",
+      "C. 3.",
+      "D. 4."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-15",
+    "examSetId": "bai-15-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Hình bên dưới mô tả một cơ chế gây nên bệnh một loại bệnh nguy hiểm ở người. Quan sát hình và cho biết phát biểu nào bên dưới có bao nhiêu phát biểu là chưa chính xác?",
+    "options": [
+      "A. 4.",
+      "B. 3.",
+      "C. 1.",
+      "D. 2."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-15",
+    "examSetId": "bai-15-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Khi xét đến các dạng đột biến cấu trúc nhiễm sắc thể (NST) thì có bao nhiêu nhận định sau đây là đúng?",
+    "options": [
+      "A. 1.",
+      "B. 2.",
+      "C. 3D. 4"
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-15",
+    "examSetId": "bai-15-bo1"
+  },
+  {
     "type": "tf",
     "content": "Hình dưới đây mô tả bộ nhiễm sắc thể trong tế bào sinh dưỡng của một bệnh nhân bị một hội chứng do đột biến số lượng nhiễm sắc thể gây nên. Mỗi nhận định sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -108,7 +248,12 @@
     "type": "tf",
     "content": "Một loài thực vật có bộ nhiễm sắc thể lưỡng bội gồm các cặp nhiễm sắc thể tương đồng khác nhau, được ký hiệu AaBbDdEeGgHh. Người ta đã phát hiện ra hai dạng thể gây biến như sau:",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -140,7 +285,12 @@
     "type": "tf",
     "content": "Một bạn học sinh sau khi học quan sát hình ảnh bên đã rút ra các nhận định sau:",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -172,7 +322,12 @@
     "type": "tf",
     "content": "Khi nói về đột biến nhiễm sắc thể, mỗi phát biểu sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [

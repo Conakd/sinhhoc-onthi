@@ -1,10 +1,40 @@
 [
   {
     "type": "mc",
+    "content": "cấp độ phân tử, thông tin di truyền được truyền từ tế bào mẹ sang tế bào con nhờ cơ chế",
+    "options": [
+      "A. Giảm phân và thụ tinh",
+      "B. Nhân đôi DNA",
+      "C. Piên mã",
+      "D. Dịch mã"
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-2",
+    "examSetId": "bai-2-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Một mạch đơn của phân tử DNA có trình tự các nucleotide như sau: ....ATGCATGGCCGC.... Trong quá trình nhân đôi DNA mới được hình thành từ đoạn mạch này sẽ có trình tự",
+    "options": [
+      "A. ...TACGTACCGGCG...                        B....TAGGTTCCGGCG...",
+      "C. ...TACGTAAAGGCG... D.... TACGTATTTGGCG..."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-2",
+    "examSetId": "bai-2-bo1"
+  },
+  {
+    "type": "mc",
     "content": "Trong quá trình nhân đôi DNA, quá trình nào sau đây không xảy ra?",
     "options": [
-      "A. A của môi trường liên kết với T mạch gốc. B. T của môi trường liên kết với A mạch gốc.",
-      "C. U của môi trường liên kết với A mạch gốc.D. G của môi trường liên kết với C mạch gốc."
+      "A. A của môi trường liên kết với T mạch gốc.",
+      "B. T của môi trường liên kết với A mạch gốc.",
+      "C. U của môi trường liên kết với A mạch gốc.",
+      "D. G của môi trường liên kết với C mạch gốc."
     ],
     "correctAnswer": "C",
     "explanation": "",
@@ -59,6 +89,21 @@
   },
   {
     "type": "mc",
+    "content": "Quá trình tự nhân đôi của DNA có các đặc điểm:",
+    "options": [
+      "A. 2.",
+      "B. 3.",
+      "C. 1.",
+      "D. 4."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-2",
+    "examSetId": "bai-2-bo1"
+  },
+  {
+    "type": "mc",
     "content": "iều nào dưới đây là đúng để giải thích vì sao trên mỗi chạc chữ Y chỉ có một mạch của phân tử DNA được tổng hợp liên tục còn một mạch được tổng hợp gián đoạn?",
     "options": [
       "A. Do 2 mạch khuôn có cấu trúc ngược chiều nhưng enzyme DNA polymerase chi xúc tác tổng hợp mạch mới theo chiều 5' 3'.",
@@ -76,10 +121,72 @@
     "type": "mc",
     "content": "Một trong những chức năng của DNA là",
     "options": [
-      "A. Cấu tạo nên protein.B. Truyền thông tin tới ribosome.",
-      "C. Vận chuyển amino acid tới ribosome.D. Lưu trữ, truyền đạt thông tin di truyền."
+      "A. Cấu tạo nên protein.",
+      "B. Truyền thông tin tới ribosome.",
+      "C. Vận chuyển amino acid tới ribosome.",
+      "D. Lưu trữ, truyền đạt thông tin di truyền."
     ],
-    "correctAnswer": "C",
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-2",
+    "examSetId": "bai-2-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Enzyme nào sau đây có vai trò nối các đoạn Okazaki quá trình nhân đôi DNA?",
+    "options": [
+      "A. Restrictase.",
+      "B. Lygase.",
+      "C. DNA polymerase.",
+      "D. RNA polymerase."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-2",
+    "examSetId": "bai-2-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Một gene có tổng số 2100 nucleotide và số nucleotide loại A chiếm 20% tổng số nucleotide của gen. Gene nhân đôi 3 lần. Số nucleotide loại G mà môi trường cung cấp là bao nhiêu?",
+    "options": [
+      "A. 4410.",
+      "B. 630.",
+      "C. 2940.",
+      "D. 420."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-2",
+    "examSetId": "bai-2-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Một phân tử DNA vi khuẩn có chiều dài 4080A° và có A = 2G Phân tử DNA này nhân đôi liên tiếp 5 lần. Số nucleotide loại G mà môi trường cung cấp cho quá trình nhân đôi là",
+    "options": [
+      "A. 12800.",
+      "B. 12400.",
+      "C. 24800.",
+      "D. 24400."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-2",
+    "examSetId": "bai-2-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Có 2 phân tử DNA ở vi khuẩn E.coli chỉ chứa N15 phóng xạ. Nếu chuyển E.coli này sang môi trường chỉ có N14 con có bao nhiêu phân tử DNA có cả N14 thì sau 3 lần nhân đôi, trong số các phân tử DNA con có bao nhiêu phân tử DNA có cả N14 và N15.",
+    "options": [
+      "A. 2.",
+      "B. 4.",
+      "C. 6.",
+      "D. 8."
+    ],
+    "correctAnswer": "B",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-2",
@@ -92,6 +199,21 @@
       "A. A = T = 24 G = C = 21B. A = T = 21 G = C = 21",
       "C. A = T = 9 G = C = 15D. A = T = 12 G = C = 9"
     ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-2",
+    "examSetId": "bai-2-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "Một gene nhân đôi 5 lần đã cần môi trường cung cấp 31000 nucleotide loại A và 24800 nucleotide loại G. Theo lí thuyết, gene có bao nhiêu nucleotide loại A?",
+    "options": [
+      "A. 1000.",
+      "B. 2100.",
+      "C. 600.",
+      "D. 900."
+    ],
     "correctAnswer": "A",
     "explanation": "",
     "difficulty": 2,
@@ -102,7 +224,12 @@
     "type": "tf",
     "content": "Khi nói về quá trình nhân đôi DNA, các phát biểu sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -134,7 +261,12 @@
     "type": "tf",
     "content": "Khi nói về quá trình tự nhân đôi của DNA, các phát biểu sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -167,7 +299,9 @@
     "content": "Một nhóm các nhà khoa học thực hiện lại thí nghiệm của Meselson và Stahl (1958) để nghiên cứu mô hình nhân đôi của DNA. Họ đã nuôi vi khuẩn E.coli trong môi trường chỉ có nitrogene đồng vị nặng (N15), sau đó chuyển sang môi trường chỉ có nitrogene đồng vị nhẹ (N14), tách DNA sau mỗi thế hệ và ly tâm.",
     "options": [],
     "correctAnswer": {
-      "c": false
+      "a": true,
+      "b": true,
+      "d": true
     },
     "explanation": "",
     "difficulty": 2,
@@ -185,7 +319,7 @@
       {
         "label": "c",
         "content": "Thế hệ n là thế hệ thứ 5.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "label": "d",
@@ -200,7 +334,12 @@
     "type": "tf",
     "content": "Một phân tử DNA của vi khuẩn được đánh dấu nguyên tử nitrogene phóng xạ (N15) ở cả hai mạch. Người ta đem vi khuẩn này nuôi trong môi trường chỉ có N14 cho nó nhân đôi 5 lần. Hãy cho biết mỗi nhận định sau đây Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [

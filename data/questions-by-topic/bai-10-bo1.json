@@ -1,12 +1,59 @@
 [
   {
     "type": "mc",
-    "content": "393446]: Ở sinh vật nhân thực, NST được cấu trúc bởi 2 thành phần chủ yếu là",
+    "content": "393445]: Ở sinh vật nhân thực, đơn vị cấu trúc cơ bản của NST là",
     "options": [
-      "A. DNA và protein histone.B. DNA và mRNA.",
-      "C. DNA và tRNA.D. RNA và protein."
+      "A. nucleosome.",
+      "B. nucleotide.",
+      "C. amino aciD.",
+      "D. protein histone."
     ],
     "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-10",
+    "examSetId": "bai-10-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "393446]: Ở sinh vật nhân thực, NST được cấu trúc bởi 2 thành phần chủ yếu là",
+    "options": [
+      "A. DNA và protein histone.",
+      "B. DNA và mRNA.",
+      "C. DNA và tRNA.",
+      "D. RNA và protein."
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-10",
+    "examSetId": "bai-10-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "393447]: Trong chu kì tế bào, NST được quan sát rõ nhất ở kì nào sau đây?",
+    "options": [
+      "A. Kì đầu.",
+      "B. Kì giữA.",
+      "C. Kì sau.",
+      "D. Kì cuối."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-10",
+    "examSetId": "bai-10-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "393448]: NST nằm ở những vị trí nào trong tế bào?",
+    "options": [
+      "A. 3.",
+      "B. 2.",
+      "C. 1.",
+      "D. 4"
+    ],
+    "correctAnswer": "B",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-10",
@@ -16,8 +63,25 @@
     "type": "mc",
     "content": "393449]: Vùng trình tự nào sau đây giúp cho NST liên kết với thoi phân bào?",
     "options": [
-      "A. Đầu mút NST. B. Tâm động.",
-      "C. Đầu mút cánh dài.D. Trình tự khởi đầu nhân đôi DNA."
+      "A. Đầu mút NST.",
+      "B. Tâm động.",
+      "C. Đầu mút cánh dài.",
+      "D. Trình tự khởi đầu nhân đôi DNA."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-10",
+    "examSetId": "bai-10-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "393450]: Trình tự nucleotide trong DNA có tác dụng bảo vệ và làm các NST không dính vào nhau nằm ở",
+    "options": [
+      "A. hai đầu mút NST.",
+      "B. co thứ cấp.",
+      "C. tâm động.",
+      "D. điểm khởi sự nhân đôi."
     ],
     "correctAnswer": "A",
     "explanation": "",
@@ -27,10 +91,27 @@
   },
   {
     "type": "mc",
-    "content": "393453]: Trong các mức cấu trúc siêu hiển vi của nhiễm nhân thực, sợi cơ bản và sợi nhiễm sắc thể (sợi chất nhiễm sắc) có sắc thể điển hình ở sinh vật đường kính lần lượt là",
+    "content": "393451]: Trong cấu trúc nhiễm sắc thể của sinh vật nhân thực, đơn vị cấu trúc gồm một đoạn DNA chứa 146 cặp nucleotide quẩn quanh 8 phân tử protein histone được gọi là",
     "options": [
-      "A. 30 nm và 11 nm.B. 11 nm và 300 nm.",
-      "C. 10 nm và 30 nm.D. 30 nm và 300 nm."
+      "A. sợi cơ bản.",
+      "B. sợi nhiễm sắC.",
+      "C. chromatide.",
+      "D. nucleosome."
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-10",
+    "examSetId": "bai-10-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "393452]: Mức xoắn 3 trong cấu trúc siêu hiển vi của nhiễm sắc thể ở sinh vật nhân thực gọi là",
+    "options": [
+      "A. nucleosome.",
+      "B. Sợi nhiễm sắC.",
+      "C. Sợi siêu xoắn.",
+      "D. Sợi cơ bản."
     ],
     "correctAnswer": "C",
     "explanation": "",
@@ -40,10 +121,87 @@
   },
   {
     "type": "mc",
+    "content": "393453]: Trong các mức cấu trúc siêu hiển vi của nhiễm nhân thực, sợi cơ bản và sợi nhiễm sắc thể (sợi chất nhiễm sắc) có sắc thể điển hình ở sinh vật đường kính lần lượt là",
+    "options": [
+      "A. 30 nm và 11 nm.",
+      "B. 11 nm và 300 nm.",
+      "C. 10 nm và 30 nm.",
+      "D. 30 nm và 300 nm."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-10",
+    "examSetId": "bai-10-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "393455]: Một tế bào sinh dục lưỡng bội của loài 2n = 12 khi thực hiện nguyên phân thì số NST ở mỗi tế bào ở kì sau là bao nhiêu?",
+    "options": [
+      "A. 12 NST kép.",
+      "B. 6 NST đơn.",
+      "C. 24 NST đơn.",
+      "D. 24 NST kép."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-10",
+    "examSetId": "bai-10-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "393456]: Một tế bào sinh dục lưỡng bội 2n = 16 khi thực hiện giảm phân số NST ở mỗi tế bào ở kì sau lần giảm phân II là bao nhiêu?",
+    "options": [
+      "A. 8 NST kép.",
+      "B. 8 NST đơn.",
+      "C. 4 NST kép.",
+      "D. 16 NST đơn."
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-10",
+    "examSetId": "bai-10-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "393457]: Một tế bào có kiểu gene AabB. Ở kì đầu của nguyên phân thì kí hiệu bộ NST của tế bào là",
+    "options": [
+      "A. AABB.",
+      "B. AabB.",
+      "C. AAaaBBbB.",
+      "D. AAaabbbB."
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-10",
+    "examSetId": "bai-10-bo1"
+  },
+  {
+    "type": "mc",
     "content": "393458]: Ở kì nào sau đây, NST có dạng sợi đơn?",
     "options": [
-      "A. Kì đầu của nguyên phân.B. Kì sau của giảm phân 2.",
-      "C. Kì giữa của nguyên phân.D. Kì giữa của giảm phân 1."
+      "A. Kì đầu của nguyên phân.",
+      "B. Kì sau của giảm phân 2.",
+      "C. Kì giữa của nguyên phân.",
+      "D. Kì giữa của giảm phân 1."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-10",
+    "examSetId": "bai-10-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "393459]: Ở các loài sinh sản vô tính, bộ NST của loài được duy trì ổn định nhờ các cơ chế nào sau đây?",
+    "options": [
+      "A. 1.",
+      "B. 2.",
+      "C. 3.",
+      "D. 4"
     ],
     "correctAnswer": "A",
     "explanation": "",
@@ -55,10 +213,86 @@
     "type": "mc",
     "content": "393460]: Ở các loài sinh sản hữu tính, bộ NST của loài được duy trì ổn định nhờ những cơ chế nào sau đây?",
     "options": [
-      "A. Nguyên phân và thụ tinh. B. Nguyên phân, giảm phân và thụ tinh.",
-      "C. Nhân đôi DNA và dịch mã.D. Nhân đôi, phiên mã và dịch mã."
+      "A. Nguyên phân và thụ tinh.",
+      "B. Nguyên phân, giảm phân và thụ tinh.",
+      "C. Nhân đôi DNA và dịch mã.",
+      "D. Nhân đôi, phiên mã và dịch mã."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-10",
+    "examSetId": "bai-10-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "192120]: Ở ngô có bộ nhiễm sắc thể 2n = 20. Cho biết quá trình phân bào không xảy ra đột biến. Trong các giai đoạn sau đây của quá trình phân bào, có bao nhiêu giai đoạn mà trong mỗi tế bào có 20 nhiễm sắc thể đơn?",
+    "options": [
+      "A. 1.",
+      "B. 2.",
+      "C. 3.",
+      "D. 4."
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-10",
+    "examSetId": "bai-10-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "192123]: Ở các loài sinh sản hữu tính, bộ NST của loài được duy trì ổn định nhờ bao nhiêu cơ chế sau đây?",
+    "options": [
+      "A. 4.",
+      "B. 2.",
+      "C. 3.",
+      "D. 1."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-10",
+    "examSetId": "bai-10-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "192124]: Ở xác loài sinh vô tính, bộ NST của loài được duy trì ổn định nhờ những cơ chế nào sau đây?",
+    "options": [
+      "A. 1.",
+      "B. 2.",
+      "C. 3.",
+      "D. 4."
     ],
     "correctAnswer": "A",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-10",
+    "examSetId": "bai-10-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "192125]: Thứ tự các pha trong một chu kì tế bào là",
+    "options": [
+      "A. S- G2 - M",
+      "C. G- S- G2",
+      "D. G2- M- G- S."
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-10",
+    "examSetId": "bai-10-bo1"
+  },
+  {
+    "type": "mc",
+    "content": "393463]: Trong các cơ chế di truyền sau đây, có bao nhiêu cơ chế xảy ra với 1 NST thường?",
+    "options": [
+      "A. 1.",
+      "B. 2.",
+      "C. 3.",
+      "D. 4."
+    ],
+    "correctAnswer": "C",
     "explanation": "",
     "difficulty": 2,
     "topicId": "bai-10",
@@ -80,10 +314,30 @@
     "examSetId": "bai-10-bo1"
   },
   {
+    "type": "mc",
+    "content": "393465]: Khi nói về NST ở sinh vật nhân thực, có bao nhiêu phát biểu sau đây đúng?",
+    "options": [
+      "A. 1.",
+      "B. 2.",
+      "C. 3.",
+      "D. 4."
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "difficulty": 2,
+    "topicId": "bai-10",
+    "examSetId": "bai-10-bo1"
+  },
+  {
     "type": "tf",
     "content": "393466]: Khi nói về cơ chế di truyền ở cấp tế bào, các nhận định sau là Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -115,7 +369,12 @@
     "type": "tf",
     "content": "393467]: Khi nói về nhiễm sắc thể ở sinh vật nhân thực, các nhận định sau là Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -126,7 +385,7 @@
       },
       {
         "label": "b",
-        "content": "Mỗi nucleosome gồm một đoạn DNA có khoảng 146 cặp nucleotide quấn 1 3/4 vòng quanh  một khối cầu gồm 8 phân tử histone.",
+        "content": "Mỗi nucleosome gồm một đoạn DNA có khoảng 146 cặp nucleotide quấn 1 vòng quanh 4",
         "isCorrect": true
       },
       {
@@ -136,7 +395,7 @@
       },
       {
         "label": "d",
-        "content": "Thứ tự cuộn xoắn của NST là: nucleosome - Sợi cơ bản - Sợi nhiễm sắc - Vùng siêu xoắn - Chromatide.",
+        "content": "Thứ tự cuộn Xoắn của NST là: nucleosome - Sợi cơ bản - Sợi nhiễm sắc - Vùng siêu xoắn - Chromatide.",
         "isCorrect": true
       }
     ],
@@ -147,7 +406,12 @@
     "type": "tf",
     "content": "393468]: Khi nói về tâm động của nhiễm sắc thể, các nhận định sau là Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -179,7 +443,12 @@
     "type": "tf",
     "content": "393469]: Khi nói về phân bào nguyên phân, các nhận định sau là Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -211,7 +480,12 @@
     "type": "tf",
     "content": "393470]: Khi nói về NST ở sinh vật nhân chuẩn, các nhận định sau là Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -227,7 +501,7 @@
       },
       {
         "label": "c",
-        "content": "Trong tế bào Soma của cơ thể lưỡng bội, NST tồn tại thành từng cặp nên được gọi là bộ 2n.",
+        "content": "Trong tế bào Soma của cơ thể lưỡng bội, NST tồn tại thành từng cập nên được gọi là bộ 2n.",
         "isCorrect": true
       },
       {
@@ -243,7 +517,12 @@
     "type": "tf",
     "content": "393471]: Khi nói về NST, các nhận định sau là Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -275,7 +554,12 @@
     "type": "tf",
     "content": "393472]: Khí nói về nhiễm sắc thể ở sinh vật nhân thực, các nhận định sau là Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -286,7 +570,7 @@
       },
       {
         "label": "b",
-        "content": "Mỗi nucleosome gồm một đoạn DNA có khoảng 146 nucleotide quấn quanh khối cầu gồm 8 phân tử histone.",
+        "content": "Mỗi nucleosome gồm một đoạn DNA có khoảng 146 nucleotide quẩn quanh khối cầu gồm",
         "isCorrect": true
       },
       {
@@ -307,7 +591,12 @@
     "type": "tf",
     "content": "393473]: Khi nói về NST giới tính, các nhận định sau là Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -339,7 +628,12 @@
     "type": "tf",
     "content": "393474]: Khi nói về nhiễm sắc thể giới tính ở động vật, các nhận định sau là Đúng hay Sai?",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
@@ -371,7 +665,12 @@
     "type": "tf",
     "content": "393475]: Hình ảnh dưới đây cho thấy các cấp độ cấu trúc của NST trong tế bào nhân thựC.",
     "options": [],
-    "correctAnswer": {},
+    "correctAnswer": {
+      "a": true,
+      "b": true,
+      "c": true,
+      "d": true
+    },
     "explanation": "",
     "difficulty": 2,
     "subItems": [
