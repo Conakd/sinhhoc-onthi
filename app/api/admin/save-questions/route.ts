@@ -25,7 +25,7 @@ export async function POST(request: Request) {
         // 2. Cập nhật tổng số câu hỏi trong collection "topics"
         const topicRef = adminDb.collection("topics").doc(topicId);
         batch.update(topicRef, {
-            questionCount: adminDb.FieldValue.increment(questions.length)
+            questionCount: FieldValue.increment(questions.length)
         });
 
         // Thực thi batch write
